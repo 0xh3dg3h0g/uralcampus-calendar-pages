@@ -93,7 +93,18 @@ export function calendarName(sourceTypeLabel, sourceName) {
   return `${sourceTypeLabel}: ${sourceName}`;
 }
 
-export function catalogEntry({ institution, institutionName, sourceType, sourceTypeLabel, source, path, eventCount, status, error }) {
+export function catalogEntry({
+  institution,
+  institutionName,
+  sourceType,
+  sourceTypeLabel,
+  source,
+  path,
+  eventCount,
+  archiveEventCount = 0,
+  status,
+  error,
+}) {
   return {
     institution,
     institutionName,
@@ -104,6 +115,7 @@ export function catalogEntry({ institution, institutionName, sourceType, sourceT
     path,
     archivePath: `${path}.old`,
     eventCount,
+    archiveEventCount,
     status,
     error,
   };

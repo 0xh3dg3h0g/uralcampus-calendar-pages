@@ -149,11 +149,13 @@ async function processSource({ institution, sourceType, source, options, range, 
       source,
       path: relativePath,
       eventCount: events.length,
+      archiveEventCount: archivedEvents.length,
       status: "ok",
     });
   } catch (error) {
     totals.errors++;
     const previousEvents = parseIcsEvents(previousCurrentText ?? "");
+    const previousArchiveEvents = parseIcsEvents(previousArchiveText ?? "");
     console.error(`[error] ${institution.id}/${sourceType.id}/${source.name}: ${error.message}`);
     return catalogEntry({
       institution: institution.id,
@@ -163,6 +165,7 @@ async function processSource({ institution, sourceType, source, options, range, 
       source,
       path: relativePath,
       eventCount: previousEvents.length,
+      archiveEventCount: previousArchiveEvents.length,
       status: previousCurrentText ? "stale" : "error",
       error: error.message,
     });

@@ -111,6 +111,7 @@ function selectEntry(entry) {
   refs.google.href = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(url)}`;
   refs.outlook.href = `https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(url)}`;
   refs.archive.href = archiveUrl;
+  refs.archive.classList.toggle("hidden", !entry.archiveEventCount);
 }
 
 function bindEvents() {
