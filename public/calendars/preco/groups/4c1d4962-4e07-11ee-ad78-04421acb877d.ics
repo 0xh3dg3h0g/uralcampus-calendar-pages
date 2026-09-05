@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: Б-264\, Б-264А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:58ca07e331c23d025d1efcba6a08e064@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 1 пара\nДополнитель
+ но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:58ca07e331c23d025d1efcba6
+ a08e064\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:d7867cc65d6776707bad823e43b4d20f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Основы банковского дела (Аудиторные
+  занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 2 пара\nДополнитель
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:d7867cc65d6776707bad823
+ e43b4d20f\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

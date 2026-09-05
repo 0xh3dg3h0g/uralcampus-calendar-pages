@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Тютин Александр А
+ ндреевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:165395431a9c40852145cc015a0d2072@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 1 пара\nДополнительно: 132к\nURALCAMPUS_SYNC
+ _ID:165395431a9c40852145cc015a0d2072\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:fa93a10323860619f5e5d780f9277cb5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 2 пара\nДополнительно: 139к\nURALCAMPUS_SYNC
+ _ID:fa93a10323860619f5e5d780f9277cb5\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c12acc2971f57dc837f430e3bb5b41cc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 3 пара\nДополнительно: 135к\nURALCAMPUS_SYNC
+ _ID:c12acc2971f57dc837f430e3bb5b41cc\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:2b3bd3935263788cfcb63dec257f73df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 4 пара\nДополнительно: СД-352к\nURALCAMPUS
+ _SYNC_ID:2b3bd3935263788cfcb63dec257f73df\nURALCAMPUS_SOURCE:preco:teache
+ r:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:8bdd41453a8af011414c1ed74a514303@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 5 пара\nДополнительно: П-240к\nURALCAMPUS_S
+ YNC_ID:8bdd41453a8af011414c1ed74a514303\nURALCAMPUS_SOURCE:preco:teacher:
+ 0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:9cdc4d7ffa569bf88058995b7d553ba9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 6 пара\nДополнительно: ОЛ-350к\nURALCAMPUS
+ _SYNC_ID:9cdc4d7ffa569bf88058995b7d553ba9\nURALCAMPUS_SOURCE:preco:teache
+ r:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:121f514a3d300331ee040c1e737e80ed@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 2 пара\nДополнительно: 131к\nURALCAMPUS_SYNC
+ _ID:121f514a3d300331ee040c1e737e80ed\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2be0baef26f4b890fbb483a585d083@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 3 пара\nДополнительно: П-341к\, П-341Ак\
+ nURALCAMPUS_SYNC_ID:aa2be0baef26f4b890fbb483a585d083\nURALCAMPUS_SOURCE:p
+ reco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:34f6b7a35d49b82bb0a6f56256cff5f9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 4 пара\nДополнительно: Ф-332к\, Ф-332Ак\
+ nURALCAMPUS_SYNC_ID:34f6b7a35d49b82bb0a6f56256cff5f9\nURALCAMPUS_SOURCE:p
+ reco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bd28f902c07797592bad8b637e85de49@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 2 пара\nДополнительно: П-340к\nURALCAMPUS_S
+ YNC_ID:bd28f902c07797592bad8b637e85de49\nURALCAMPUS_SOURCE:preco:teacher:
+ 0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a48ba14aa3d936818d20800038300b79@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 3 пара\nДополнительно: СД-252к\nURALCAMPUS
+ _SYNC_ID:a48ba14aa3d936818d20800038300b79\nURALCAMPUS_SOURCE:preco:teache
+ r:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:15e99eb8eb5ea6385e485c2536eb79f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 4 пара\nДополнительно: Ю-239к\, Ю-239Ак\
+ nURALCAMPUS_SYNC_ID:15e99eb8eb5ea6385e485c2536eb79f4\nURALCAMPUS_SOURCE:p
+ reco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:d1db2baf621c44e6be72b6909038ac26@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 5 пара\nДополнительно: 130к\nURALCAMPUS_SYNC
+ _ID:d1db2baf621c44e6be72b6909038ac26\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c23ece15944ece2e6ebbabbfa86179b3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 6 пара\nДополнительно: 133к\nURALCAMPUS_SYNC
+ _ID:c23ece15944ece2e6ebbabbfa86179b3\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:503339b4a4932c04b94952e33d8262fe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 2 пара\nДополнительно: 137к\nURALCAMPUS_SYNC
+ _ID:503339b4a4932c04b94952e33d8262fe\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:412e7e3ff466ebba0faa8d18e0bb6db1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 3 пара\nДополнительно: Э-230к\, Э-230Ак\
+ nURALCAMPUS_SYNC_ID:412e7e3ff466ebba0faa8d18e0bb6db1\nURALCAMPUS_SOURCE:p
+ reco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ea7d8af9a6c4fcbb5a311dc7d7ec9177@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 4 пара\nДополнительно: 134к\nURALCAMPUS_SYNC
+ _ID:ea7d8af9a6c4fcbb5a311dc7d7ec9177\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:fcfdb75d5f4e268fa5d737aa0d2601f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 4 пара\nДополнительно: 138к\nURALCAMPUS_SYNC
+ _ID:fcfdb75d5f4e268fa5d737aa0d2601f4\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:246975051ecb20879a5d58cf0e86fc6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 5 пара\nДополнительно: 136к\nURALCAMPUS_SYNC
+ _ID:246975051ecb20879a5d58cf0e86fc6e\nURALCAMPUS_SOURCE:preco:teacher:047
+ 2e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:f6bf373f0e2781386ebc0a6da324bac5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 6 пара\nДополнительно: Ю-238к\, Ю-238Ак\
+ nURALCAMPUS_SYNC_ID:f6bf373f0e2781386ebc0a6da324bac5\nURALCAMPUS_SOURCE:p
+ reco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:72dfa24f8f486ca1415f76a01dc406c3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 1 пара\nДополнительно: СД-253к\, СД-253
+ Ак\nURALCAMPUS_SYNC_ID:72dfa24f8f486ca1415f76a01dc406c3\nURALCAMPUS_SOU
+ RCE:preco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:528ff13dfac408720ad2af08a9e7f5cd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 2 пара\nДополнительно: ОЛ-250к\nURALCAMPUS
+ _SYNC_ID:528ff13dfac408720ad2af08a9e7f5cd\nURALCAMPUS_SOURCE:preco:teache
+ r:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b9d95b0cb03ba5f9af6f097f1c2c6f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 3 пара\nДополнительно: Ф-232к\, Ф-232Ак\
+ nURALCAMPUS_SYNC_ID:d2b9d95b0cb03ba5f9af6f097f1c2c6f\nURALCAMPUS_SOURCE:p
+ reco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:7625eb28cc5e9fc5131fbf2d690e92c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 4 пара\nДополнительно: Ю-338к\, Ю-338Ак\
+ nURALCAMPUS_SYNC_ID:7625eb28cc5e9fc5131fbf2d690e92c2\nURALCAMPUS_SOURCE:p
+ reco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:cb4766b98657bedbcb70c0bd649cf2bc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тютин Александр Андреевич\
+ nПара: 5 пара\nДополнительно: ПД-248к\, ПД-248
+ Ак\nURALCAMPUS_SYNC_ID:cb4766b98657bedbcb70c0bd649cf2bc\nURALCAMPUS_SOU
+ RCE:preco:teacher:0472e04d-0307-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

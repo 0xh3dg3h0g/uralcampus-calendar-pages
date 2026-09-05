@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗ-401/01
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fe18f68406c1fe786a5cc04838a5425d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Уголовно-исполнительное право (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401/01\nПара: 6 пара\nДополните
+ льно: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:fe18f68406c1fe786a5cc
+ 04838a5425d\nURALCAMPUS_SOURCE:inueco:group:ac9233a7-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6f44b1d80cc8bf14fe2163da95881545@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401/01\nПара: 7 пара\nДополните
+ льно: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:6f44b1d80cc8bf14fe216
+ 3da95881545\nURALCAMPUS_SOURCE:inueco:group:ac9233a7-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ed714944b9d51016d9c11ed2577084@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401/01\nПара: 6 пара\nДополните
+ льно: Кузьмина М.Е.\nURALCAMPUS_SYNC_ID:b0ed714944b9d51016d
+ 9c11ed2577084\nURALCAMPUS_SOURCE:inueco:group:ac9233a7-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6401eabfb37fe127c56dfd98d8b02362@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401/01\nПара: 7 пара\nДополните
+ льно: Кузьмина М.Е.\nURALCAMPUS_SYNC_ID:6401eabfb37fe127c56
+ dfd98d8b02362\nURALCAMPUS_SOURCE:inueco:group:ac9233a7-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+END:VCALENDAR

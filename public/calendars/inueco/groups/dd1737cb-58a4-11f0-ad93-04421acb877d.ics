@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: СЗД-401
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:176c9f3e2ffb531f5259e50137f580d1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗД-401\nПара: 6 пара\nДополнител
+ ьно: Дегтярева Н.В.\nURALCAMPUS_SYNC_ID:176c9f3e2ffb531f525
+ 9e50137f580d1\nURALCAMPUS_SOURCE:inueco:group:dd1737cb-58a4-11f0-ad93-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:820398955c9e262f79c98d23edf34002@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗД-401\nПара: 7 пара\nДополнител
+ ьно: Дегтярева Н.В.\nURALCAMPUS_SYNC_ID:820398955c9e262f79c
+ 98d23edf34002\nURALCAMPUS_SOURCE:inueco:group:dd1737cb-58a4-11f0-ad93-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb6b685446a9035491465a53965c54e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗД-401\nПара: 8 пара\nДополнител
+ ьно: Дегтярева Н.В.\nURALCAMPUS_SYNC_ID:9cb6b685446a9035491
+ 465a53965c54e\nURALCAMPUS_SOURCE:inueco:group:dd1737cb-58a4-11f0-ad93-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e79370f80dab65d4b603e955f699c6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗД-401\nПара: 6 пара\nДополнител
+ ьно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:b6e79370f80dab65d4b6
+ 03e955f699c6\nURALCAMPUS_SOURCE:inueco:group:dd1737cb-58a4-11f0-ad93-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:28d10e2ab4f0a04748a65376ae0511e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗД-401\nПара: 7 пара\nДополнител
+ ьно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:28d10e2ab4f0a04748a6
+ 5376ae0511e8\nURALCAMPUS_SOURCE:inueco:group:dd1737cb-58a4-11f0-ad93-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR

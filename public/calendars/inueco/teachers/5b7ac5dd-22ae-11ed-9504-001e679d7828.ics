@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Саврасова Наталья
+  Рэмовна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0fa400c9b01efc7036830d41ef408f52@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 5 пара\nДополнительно: ЭЛЗ-301\nU
+ RALCAMPUS_SYNC_ID:0fa400c9b01efc7036830d41ef408f52\nURALCAMPUS_SOURCE:inu
+ eco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:b594090a736875f4da3bf0e2c6820052@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 6 пара\nДополнительно: ЭЛЗ-301\nU
+ RALCAMPUS_SYNC_ID:b594090a736875f4da3bf0e2c6820052\nURALCAMPUS_SOURCE:inu
+ eco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:624abca72421bba969da0530e275050f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 7 пара\nДополнительно: ЭЛЗ-301\nU
+ RALCAMPUS_SYNC_ID:624abca72421bba969da0530e275050f\nURALCAMPUS_SOURCE:inu
+ eco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f2bc2552ced95a2b7e405dce9cd0c1f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T195000
+DTEND;TZID=Asia/Yekaterinburg:20260907T205000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 8 пара\nДополнительно: ЭЛЗ-301\nU
+ RALCAMPUS_SYNC_ID:f2bc2552ced95a2b7e405dce9cd0c1f5\nURALCAMPUS_SOURCE:inu
+ eco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4523143fe942433736a74f0155afc816@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 4 пара\nДополнительно: С-216\nURALC
+ AMPUS_SYNC_ID:4523143fe942433736a74f0155afc816\nURALCAMPUS_SOURCE:inueco:
+ teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:ef062fb1163e4d0dc88b378718a94dcc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 5 пара\nДополнительно: С-216\nURALC
+ AMPUS_SYNC_ID:ef062fb1163e4d0dc88b378718a94dcc\nURALCAMPUS_SOURCE:inueco:
+ teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:33c83dd8446fc3033e629b59a394f67f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 6 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:33c83dd8446fc3033e629b59a394f67f\nURALCAMPUS_SOURCE:i
+ nueco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:99521950dc14225ae2bef7218d949f24@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 7 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:99521950dc14225ae2bef7218d949f24\nURALCAMPUS_SOURCE:i
+ nueco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:102ebdc388d2a1b89b8c72a51dfa02da@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Сопротивление материалов (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 8 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:102ebdc388d2a1b89b8c72a51dfa02da\nURALCAMPUS_SOURCE:i
+ nueco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e1a8bbf7e06d6545b5b4f6e8a9428085@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 5 пара\nДополнительно: ТТПЗ-301/
+ 02\, ТТПЗ-301/03\, ТТПЗ-301/04\, ТТПЗ-301/05а\, ТТПЗ-301
+ /06\, ТТПЗ-301/07\, ТТПЗ-301/07а\, ТТПЗ-301/07б\, ТТПЗ-
+ 301/11\, ТТПЗ-301/12\, ТТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ
+ -301/13а\, ТТПЗ-301а/04\, ТТПЗ-301а/06\, ТТПЗу-301/03\, 
+ ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAMPUS_S
+ YNC_ID:e1a8bbf7e06d6545b5b4f6e8a9428085\nURALCAMPUS_SOURCE:inueco:teacher
+ :5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:00b8bf823f10adc5653b33f2a05a7c3a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 6 пара\nДополнительно: ТТПЗ-301/
+ 02\, ТТПЗ-301/03\, ТТПЗ-301/04\, ТТПЗ-301/05а\, ТТПЗ-301
+ /06\, ТТПЗ-301/07\, ТТПЗ-301/07а\, ТТПЗ-301/07б\, ТТПЗ-
+ 301/11\, ТТПЗ-301/12\, ТТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ
+ -301/13а\, ТТПЗ-301а/04\, ТТПЗ-301а/06\, ТТПЗу-301/03\, 
+ ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAMPUS_S
+ YNC_ID:00b8bf823f10adc5653b33f2a05a7c3a\nURALCAMPUS_SOURCE:inueco:teacher
+ :5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:db6af276dd3cef1e44e819697ac7421d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 7 пара\nДополнительно: ЭЛЗ-301/02
+ \, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05а\, Э
+ лЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, ЭЛЗ-
+ 301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-301/13
+ А\nURALCAMPUS_SYNC_ID:db6af276dd3cef1e44e819697ac7421d\nURALCAMPUS_SOURC
+ E:inueco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fad5d597d71eb6439093fc8cceb1b5fa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 8 пара\nДополнительно: ЭЛЗ-301/02
+ \, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05а\, Э
+ лЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, ЭЛЗ-
+ 301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-301/13
+ А\nURALCAMPUS_SYNC_ID:fad5d597d71eb6439093fc8cceb1b5fa\nURALCAMPUS_SOURC
+ E:inueco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4ade602cbbe8acfefdb0d281d5f6ce5a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 7 пара\nДополнительно: ЭЛЗ-301/02
+ \, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05а\, Э
+ лЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, ЭЛЗ-
+ 301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-301/13
+ А\nURALCAMPUS_SYNC_ID:4ade602cbbe8acfefdb0d281d5f6ce5a\nURALCAMPUS_SOURC
+ E:inueco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:7697d22ea07bfa9082ff4e9b7ea9034d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 8 пара\nДополнительно: ЭЛЗ-301/02
+ \, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05а\, Э
+ лЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, ЭЛЗ-
+ 301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-301/13
+ А\nURALCAMPUS_SYNC_ID:7697d22ea07bfa9082ff4e9b7ea9034d\nURALCAMPUS_SOURC
+ E:inueco:teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

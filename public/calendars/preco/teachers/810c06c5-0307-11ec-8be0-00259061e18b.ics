@@ -1,0 +1,551 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Патраков Николай 
+ Иванович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b0d230dd2c0f99c08b0f5079404d1e22@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 1 пара\nДополнительно: 131\nURALCAMPUS_SYNC_I
+ D:b0d230dd2c0f99c08b0f5079404d1e22\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:3dadd912faa0938afc31d1609441f278@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 2 пара\nДополнительно: 131\nURALCAMPUS_SYNC_I
+ D:3dadd912faa0938afc31d1609441f278\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:03121b4d8636c8959475def7f5801669@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 3 пара\nДополнительно: 132\nURALCAMPUS_SYNC_I
+ D:03121b4d8636c8959475def7f5801669\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:6931aea767c3ed1375eae20dda98ad85@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 4 пара\nДополнительно: 132\nURALCAMPUS_SYNC_I
+ D:6931aea767c3ed1375eae20dda98ad85\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:93c6b9842e2442467947af9a44b14081@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T153000
+DTEND;TZID=Asia/Yekaterinburg:20260905T170000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 5 пара\nДополнительно: 136\nURALCAMPUS_SYNC_I
+ D:93c6b9842e2442467947af9a44b14081\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:fc82082304be6183627c91c288202c90@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T171000
+DTEND;TZID=Asia/Yekaterinburg:20260905T182000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 6 пара\nДополнительно: 136\nURALCAMPUS_SYNC_I
+ D:fc82082304be6183627c91c288202c90\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bd2737faa1d4bc24a16dba32cd0edbb0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 1 пара\nДополнительно: 137к\nURALCAMPUS_SYNC
+ _ID:bd2737faa1d4bc24a16dba32cd0edbb0\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:3d30c57f00e8aeafdb553931f393cfc9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 2 пара\nДополнительно: 132к\nURALCAMPUS_SYNC
+ _ID:3d30c57f00e8aeafdb553931f393cfc9\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:523d78cf00185b23d5b3ca382e80bb22@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 3 пара\nДополнительно: 139к\nURALCAMPUS_SYNC
+ _ID:523d78cf00185b23d5b3ca382e80bb22\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:f653ea4e9527ba03f9a506277b2fec73@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 4 пара\nДополнительно: 135к\nURALCAMPUS_SYNC
+ _ID:f653ea4e9527ba03f9a506277b2fec73\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad4d4ea18e83a355831ee425d723761@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 5 пара\nДополнительно: 133к\nURALCAMPUS_SYNC
+ _ID:2ad4d4ea18e83a355831ee425d723761\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe2a5cded2cca5dce5bd9320febca78@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 1 пара\nДополнительно: 141к\nURALCAMPUS_SYNC
+ _ID:cbe2a5cded2cca5dce5bd9320febca78\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8dc2c90e15ce0d35bcc79b5ed0b617@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 2 пара\nДополнительно: 146к\nURALCAMPUS_SYNC
+ _ID:cb8dc2c90e15ce0d35bcc79b5ed0b617\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:62f5fc2b2b20be3cd287abaa2e1c2dee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 3 пара\nДополнительно: 157к\nURALCAMPUS_SYNC
+ _ID:62f5fc2b2b20be3cd287abaa2e1c2dee\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a1eec220fa4c02e050d20027d2c8ebda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 4 пара\nДополнительно: 144к\nURALCAMPUS_SYNC
+ _ID:a1eec220fa4c02e050d20027d2c8ebda\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:061aca8cd349f0cd8f9fc78ee91c1043@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 5 пара\nДополнительно: 150к\nURALCAMPUS_SYNC
+ _ID:061aca8cd349f0cd8f9fc78ee91c1043\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:332df825045aff4dbb577bea57cb7853@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 6 пара\nДополнительно: 156к\nURALCAMPUS_SYNC
+ _ID:332df825045aff4dbb577bea57cb7853\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:43a5d29d007cbe18fd72cd8351d39ab2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 1 пара\nДополнительно: 147к\nURALCAMPUS_SYNC
+ _ID:43a5d29d007cbe18fd72cd8351d39ab2\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:37803894cf4dbd86818892dd5028aa57@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 2 пара\nДополнительно: 143к\nURALCAMPUS_SYNC
+ _ID:37803894cf4dbd86818892dd5028aa57\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:54e2cdc35d9e6e16aed41d228645179b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 3 пара\nДополнительно: 142к\nURALCAMPUS_SYNC
+ _ID:54e2cdc35d9e6e16aed41d228645179b\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ef67aa9010eabf1835206048c611bc9b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 419\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 4 пара\nДополнительно: 145к\nURALCAMPUS_SYNC
+ _ID:ef67aa9010eabf1835206048c611bc9b\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:f57a2c6e73979b6e4e1ce2d8485d4640@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 5 пара\nДополнительно: 148к\nURALCAMPUS_SYNC
+ _ID:f57a2c6e73979b6e4e1ce2d8485d4640\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:739e2f624f47b3fd357daf506f52296e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 6 пара\nДополнительно: 149к\nURALCAMPUS_SYNC
+ _ID:739e2f624f47b3fd357daf506f52296e\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:719642da637f6e6fbab8014fa7972d98@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 1 пара\nДополнительно: 138к\nURALCAMPUS_SYNC
+ _ID:719642da637f6e6fbab8014fa7972d98\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:8435e718309b5c86fa4437db3397bcfc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 2 пара\nДополнительно: 131к\nURALCAMPUS_SYNC
+ _ID:8435e718309b5c86fa4437db3397bcfc\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:7899ea5f23fa5c64ff4c13615c3865d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 3 пара\nДополнительно: 134к\nURALCAMPUS_SYNC
+ _ID:7899ea5f23fa5c64ff4c13615c3865d2\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:26d191bba811bfc3bc46ac18c50eb831@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 4 пара\nДополнительно: 136к\nURALCAMPUS_SYNC
+ _ID:26d191bba811bfc3bc46ac18c50eb831\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:aff5d8ad99c99cc5741334a35ec5afb7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 5 пара\nДополнительно: 130к\nURALCAMPUS_SYNC
+ _ID:aff5d8ad99c99cc5741334a35ec5afb7\nURALCAMPUS_SOURCE:preco:teacher:810
+ c06c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:e5dbc88c09f526010eb8b66dc85b6128@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 1 пара\nДополнительно: 135\nURALCAMPUS_SYNC_I
+ D:e5dbc88c09f526010eb8b66dc85b6128\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:f558b008d441b1bb3aa8ca48d7b32461@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 2 пара\nДополнительно: 134\nURALCAMPUS_SYNC_I
+ D:f558b008d441b1bb3aa8ca48d7b32461\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b3fa426aa1b0054ca3aaa57ee9501c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 3 пара\nДополнительно: 130\nURALCAMPUS_SYNC_I
+ D:a5b3fa426aa1b0054ca3aaa57ee9501c\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:da0d1071beb621eff9e06f4d0762ec81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 4 пара\nДополнительно: 131\nURALCAMPUS_SYNC_I
+ D:da0d1071beb621eff9e06f4d0762ec81\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb26dac2b892c1e6ba43f8455e0c8a4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 5 пара\nДополнительно: 133\nURALCAMPUS_SYNC_I
+ D:8fb26dac2b892c1e6ba43f8455e0c8a4\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:1a49b82e03e28cc67c7b3456612d7374@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 6 пара\nДополнительно: 132\nURALCAMPUS_SYNC_I
+ D:1a49b82e03e28cc67c7b3456612d7374\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:dc20b62153f73e11b1ca21d8cf54cb6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 1 пара\nДополнительно: 134\nURALCAMPUS_SYNC_I
+ D:dc20b62153f73e11b1ca21d8cf54cb6e\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a113e6a3eb7af28056aa6c699a324a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 2 пара\nДополнительно: 134\nURALCAMPUS_SYNC_I
+ D:d4a113e6a3eb7af28056aa6c699a324a\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:40690c5a81be42aed5e059944766bc3e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 3 пара\nДополнительно: 135\nURALCAMPUS_SYNC_I
+ D:40690c5a81be42aed5e059944766bc3e\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:461e43c1a8460ee13187d4a1b1701141@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T135000
+DTEND;TZID=Asia/Yekaterinburg:20260912T152000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 4 пара\nДополнительно: 135\nURALCAMPUS_SYNC_I
+ D:461e43c1a8460ee13187d4a1b1701141\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ba8d4b6a654888cd4e838d272b1a5e8d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T153000
+DTEND;TZID=Asia/Yekaterinburg:20260912T170000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 5 пара\nДополнительно: 136\nURALCAMPUS_SYNC_I
+ D:ba8d4b6a654888cd4e838d272b1a5e8d\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:1a655a2c4eee39a74fa48a4a8adc575d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T171000
+DTEND;TZID=Asia/Yekaterinburg:20260912T182000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Патраков Николай Иванович\
+ nПара: 6 пара\nДополнительно: 136\nURALCAMPUS_SYNC_I
+ D:1a655a2c4eee39a74fa48a4a8adc575d\nURALCAMPUS_SOURCE:preco:teacher:810c0
+ 6c5-0307-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

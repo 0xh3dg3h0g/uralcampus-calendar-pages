@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: Д-212А (1)
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c6c2a3b76c3b8afb9192ff0ce16e7360@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Рисунок с основами перспективы (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 1 пара\nДополнительно:
+  Лопяткина И.Б.\nURALCAMPUS_SYNC_ID:c6c2a3b76c3b8afb9192ff0ce1
+ 6e7360\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:f118606b5944e543e7c84403401aab01@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Рисунок с основами перспективы (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 2 пара\nДополнительно:
+  Лопяткина И.Б.\nURALCAMPUS_SYNC_ID:f118606b5944e543e7c8440340
+ 1aab01\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4fbf0e67d683e9d3a670aa4b806bad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Пропедевтика (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 3 пара\nДополнительно:
+  Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:3f4fbf0e67d683e9d3a670aa4b806b
+ ad\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4152c671af4324cd437e57d6278298b9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Живопись с основами цветоведения (А
+ удиторные занятия)
+LOCATION:ауд. 101\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 4 пара\nДополнительно:
+  Дубровина О.Н.\nURALCAMPUS_SYNC_ID:4152c671af4324cd437e57d627
+ 8298b9\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:937dc87f1b37aebbe7773e2d92425104@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 5 пара\nДополнительно:
+  Орлова Д.Н.\nURALCAMPUS_SYNC_ID:937dc87f1b37aebbe7773e2d92425104
+ \nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7d33abf0fbb1eec341dc3dac17ee2bbd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Информационное обеспечение професс
+ иональной деятельности (Аудиторные зан
+ ятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 3 пара\nДополнительно:
+  Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:7d33abf0fbb1eec341dc3dac17ee2b
+ bd\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:13d84eb71263cfa36afc06b439c41ad2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Информационное обеспечение професс
+ иональной деятельности (Аудиторные зан
+ ятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 4 пара\nДополнительно:
+  Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:13d84eb71263cfa36afc06b439c41a
+ d2\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:49b934c9819bc21b7ccc1d4072ebfeb3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 5 пара\nДополнительно:
+  Владимирова К.П.\nURALCAMPUS_SYNC_ID:49b934c9819bc21b7ccc1d
+ 4072ebfeb3\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5737cb44eae4f4d7895429fa735bcf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 1 пара\nДополнительно:
+  Бахарева С.В.\nURALCAMPUS_SYNC_ID:3a5737cb44eae4f4d7895429fa73
+ 5bcf\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4e08abb9f07b06821427869b6ad58cda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 2 пара\nДополнительно:
+  Бахарева С.В.\nURALCAMPUS_SYNC_ID:4e08abb9f07b06821427869b6ad5
+ 8cda\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:86449308c24292a7c1dfad1c6ca715a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 3 пара\nДополнительно:
+  Моторина Л.А.\nURALCAMPUS_SYNC_ID:86449308c24292a7c1dfad1c6ca7
+ 15a3\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5acd9070dd74f0168bc990c0c630b82f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 1 пара\nДополнительно:
+  Орлова Д.Н.\nURALCAMPUS_SYNC_ID:5acd9070dd74f0168bc990c0c630b82f
+ \nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:844f6f60b6a9fddace90af3fe548f867@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Пропедевтика (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 2 пара\nДополнительно:
+  Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:844f6f60b6a9fddace90af3fe548f8
+ 67\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f4da9cfad9e1c0570c3494ec15683c35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212А (1)\nПара: 3 пара\nДополнительно:
+  Цветникова Я.В.\nURALCAMPUS_SYNC_ID:f4da9cfad9e1c0570c3494ec
+ 15683c35\nURALCAMPUS_SOURCE:preco:group:0542f5b8-7db7-11f0-ad96-04421acb8
+ 77d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Боровинских Вален
+ тина Александровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5232c2f1243a800f7511605ee4c6928d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Социально-экономическая статистика
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боровинских Валентин
+ а Александровна\nПара: 1 пара\nДополнител
+ ьно: ГМУЗ-301/01\, ГМУЗ-301/02\, ГМУЗ-301/04\, ГМУЗ-30
+ 1/04а\, ГМУЗ-301/05а\, ГМУЗ-301/06\, ГМУЗ-301/07а\, ГМУ
+ З-301/07б\, ГМУЗ-301/08\, ГМУЗ-301/11\, ГМУЗ-301/12\, ГМ
+ УЗ-301/12а\, ГМУЗ-301/13\, ГМУЗ-301/13А\, ГМУЗ-301/14\, 
+ ГМУЗД-301\nURALCAMPUS_SYNC_ID:5232c2f1243a800f7511605ee4c6928d\nURAL
+ CAMPUS_SOURCE:inueco:teacher:f57a0dcf-6b1e-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9770e9eadfe9d51b2c2c15400fa226@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Социально-экономическая статистика
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боровинских Валентин
+ а Александровна\nПара: 2 пара\nДополнител
+ ьно: ГМУЗ-301/01\, ГМУЗ-301/02\, ГМУЗ-301/04\, ГМУЗ-30
+ 1/04а\, ГМУЗ-301/05а\, ГМУЗ-301/06\, ГМУЗ-301/07а\, ГМУ
+ З-301/07б\, ГМУЗ-301/08\, ГМУЗ-301/11\, ГМУЗ-301/12\, ГМ
+ УЗ-301/12а\, ГМУЗ-301/13\, ГМУЗ-301/13А\, ГМУЗ-301/14\, 
+ ГМУЗД-301\nURALCAMPUS_SYNC_ID:bc9770e9eadfe9d51b2c2c15400fa226\nURAL
+ CAMPUS_SOURCE:inueco:teacher:f57a0dcf-6b1e-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:47f2a688813857fe60cb4946457f38f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Социально-экономическая статистика
+  (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боровинских Валентин
+ а Александровна\nПара: 3 пара\nДополнител
+ ьно: ГМУЗ-301/01\, ГМУЗ-301/02\, ГМУЗ-301/04\, ГМУЗ-30
+ 1/04а\, ГМУЗ-301/05а\, ГМУЗ-301/06\, ГМУЗ-301/07а\, ГМУ
+ З-301/07б\, ГМУЗ-301/08\, ГМУЗ-301/11\, ГМУЗ-301/12\, ГМ
+ УЗ-301/12а\, ГМУЗ-301/13\, ГМУЗ-301/13А\, ГМУЗ-301/14\, 
+ ГМУЗД-301\nURALCAMPUS_SYNC_ID:47f2a688813857fe60cb4946457f38f2\nURAL
+ CAMPUS_SOURCE:inueco:teacher:f57a0dcf-6b1e-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:50596384af2678c6b9c16aa459fb6aa7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Социально-экономическая статистика
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боровинских Валентин
+ а Александровна\nПара: 1 пара\nДополнител
+ ьно: ГМУЗ-301/01\, ГМУЗ-301/02\, ГМУЗ-301/04\, ГМУЗ-30
+ 1/04а\, ГМУЗ-301/05а\, ГМУЗ-301/06\, ГМУЗ-301/07а\, ГМУ
+ З-301/07б\, ГМУЗ-301/08\, ГМУЗ-301/11\, ГМУЗ-301/12\, ГМ
+ УЗ-301/12а\, ГМУЗ-301/13\, ГМУЗ-301/13А\, ГМУЗ-301/14\, 
+ ГМУЗД-301\nURALCAMPUS_SYNC_ID:50596384af2678c6b9c16aa459fb6aa7\nURAL
+ CAMPUS_SOURCE:inueco:teacher:f57a0dcf-6b1e-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a895140a94f01a53c7e8c428c7ab2a79@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Социально-экономическая статистика
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боровинских Валентин
+ а Александровна\nПара: 2 пара\nДополнител
+ ьно: ГМУЗ-301/01\, ГМУЗ-301/02\, ГМУЗ-301/04\, ГМУЗ-30
+ 1/04а\, ГМУЗ-301/05а\, ГМУЗ-301/06\, ГМУЗ-301/07а\, ГМУ
+ З-301/07б\, ГМУЗ-301/08\, ГМУЗ-301/11\, ГМУЗ-301/12\, ГМ
+ УЗ-301/12а\, ГМУЗ-301/13\, ГМУЗ-301/13А\, ГМУЗ-301/14\, 
+ ГМУЗД-301\nURALCAMPUS_SYNC_ID:a895140a94f01a53c7e8c428c7ab2a79\nURAL
+ CAMPUS_SOURCE:inueco:teacher:f57a0dcf-6b1e-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:88bcea576c2c38a18762b8b7c3b736b0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Социально-экономическая статистика
+  (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боровинских Валентин
+ а Александровна\nПара: 3 пара\nДополнител
+ ьно: ГМУЗ-301/01\, ГМУЗ-301/02\, ГМУЗ-301/04\, ГМУЗ-30
+ 1/04а\, ГМУЗ-301/05а\, ГМУЗ-301/06\, ГМУЗ-301/07а\, ГМУ
+ З-301/07б\, ГМУЗ-301/08\, ГМУЗ-301/11\, ГМУЗ-301/12\, ГМ
+ УЗ-301/12а\, ГМУЗ-301/13\, ГМУЗ-301/13А\, ГМУЗ-301/14\, 
+ ГМУЗД-301\nURALCAMPUS_SYNC_ID:88bcea576c2c38a18762b8b7c3b736b0\nURAL
+ CAMPUS_SOURCE:inueco:teacher:f57a0dcf-6b1e-11ed-ad68-04421acb877d
+END:VEVENT
+END:VCALENDAR

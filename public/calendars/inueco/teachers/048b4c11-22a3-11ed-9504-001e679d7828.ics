@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Кондратов Максим 
+ Владимирович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7815ad2e737080b43a82b349cacd8e8e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Инвестиционная политика предприяти
+ я (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 1 пара\nДополнительно: ЭБ-
+ 408\nURALCAMPUS_SYNC_ID:7815ad2e737080b43a82b349cacd8e8e\nURALCAMPUS_SOUR
+ CE:inueco:teacher:048b4c11-22a3-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3b2d713e8b520bb658561429dcfcd0b3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Инвестиционная политика предприяти
+ я (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 2 пара\nДополнительно: ЭБ-
+ 408\nURALCAMPUS_SYNC_ID:3b2d713e8b520bb658561429dcfcd0b3\nURALCAMPUS_SOUR
+ CE:inueco:teacher:048b4c11-22a3-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:9943b24e295d7b2dad4e96457a4dc5ab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Инвестиционная политика предприяти
+ я (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 3 пара\nДополнительно: ЭБ-
+ 408\nURALCAMPUS_SYNC_ID:9943b24e295d7b2dad4e96457a4dc5ab\nURALCAMPUS_SOUR
+ CE:inueco:teacher:048b4c11-22a3-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:85aea2ce2cc58c37fb5491c968e9b71d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T134000
+DTEND;TZID=Asia/Yekaterinburg:20260905T151000
+SUMMARY:Инвестиционная политика предприяти
+ я (Практика)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 4 пара\nДополнительно: ЭБ-
+ 408\nURALCAMPUS_SYNC_ID:85aea2ce2cc58c37fb5491c968e9b71d\nURALCAMPUS_SOUR
+ CE:inueco:teacher:048b4c11-22a3-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:38774dd03acaeb6fa9c3c37be7dc4012@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Контроль и ревизия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 6 пара\nДополнительно: ЭЗ
+ Ду-401\, ЭЗу-401/02\, ЭЗу-401/05\, ЭЗу-401/06\, ЭЗу-401/07\
+ , ЭЗу-401/09\, ЭЗу-401/12\nURALCAMPUS_SYNC_ID:38774dd03acaeb6fa9c3c
+ 37be7dc4012\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11-22a3-11ed-9504-001
+ e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:18519c6c88a66413377ba48677fd8c33@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Контроль и ревизия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 7 пара\nДополнительно: ЭЗ
+ Ду-401\, ЭЗу-401/02\, ЭЗу-401/05\, ЭЗу-401/06\, ЭЗу-401/07\
+ , ЭЗу-401/09\, ЭЗу-401/12\nURALCAMPUS_SYNC_ID:18519c6c88a66413377ba
+ 48677fd8c33\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11-22a3-11ed-9504-001
+ e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:575d5db7233dc1e615dceabb8991ee76@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Контроль и ревизия (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 8 пара\nДополнительно: ЭЗ
+ Ду-401\, ЭЗу-401/02\, ЭЗу-401/05\, ЭЗу-401/06\, ЭЗу-401/07\
+ , ЭЗу-401/09\, ЭЗу-401/12\nURALCAMPUS_SYNC_ID:575d5db7233dc1e615dce
+ abb8991ee76\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11-22a3-11ed-9504-001
+ e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3e62701812e28f17928175cf6e466046@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Инвестиционная политика предприяти
+ я (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 4 пара\nДополнительно: ЭБ-
+ 408\nURALCAMPUS_SYNC_ID:3e62701812e28f17928175cf6e466046\nURALCAMPUS_SOUR
+ CE:inueco:teacher:048b4c11-22a3-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa27a485619759bdb40e1dfa53eb014@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Инвестиционная политика предприяти
+ я (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 5 пара\nДополнительно: ЭБ-
+ 408\nURALCAMPUS_SYNC_ID:6aa27a485619759bdb40e1dfa53eb014\nURALCAMPUS_SOUR
+ CE:inueco:teacher:048b4c11-22a3-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b0d0718d37fc1466a572fac20ab8cc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Учетная политика предприятия (Лекци
+ я)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 6 пара\nДополнительно: ЭЗ
+ Ду-401\, ЭЗу-401/02\, ЭЗу-401/05\, ЭЗу-401/06\, ЭЗу-401/07\
+ , ЭЗу-401/09\, ЭЗу-401/12\nURALCAMPUS_SYNC_ID:a8b0d0718d37fc1466a57
+ 2fac20ab8cc\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11-22a3-11ed-9504-001
+ e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:11a5e800af404ede9358f7c3bad4313c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Учетная политика предприятия (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 7 пара\nДополнительно: ЭЗ
+ Ду-401\, ЭЗу-401/02\, ЭЗу-401/05\, ЭЗу-401/06\, ЭЗу-401/07\
+ , ЭЗу-401/09\, ЭЗу-401/12\nURALCAMPUS_SYNC_ID:11a5e800af404ede9358f
+ 7c3bad4313c\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11-22a3-11ed-9504-001
+ e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:db0c82b7402259324c91a42dd93c70e9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Учетная политика предприятия (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 8 пара\nДополнительно: ЭЗ
+ Ду-401\, ЭЗу-401/02\, ЭЗу-401/05\, ЭЗу-401/06\, ЭЗу-401/07\
+ , ЭЗу-401/09\, ЭЗу-401/12\nURALCAMPUS_SYNC_ID:db0c82b7402259324c91a
+ 42dd93c70e9\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11-22a3-11ed-9504-001
+ e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:2870fce23ccaa4974642ff9186c86e29@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Инвестиционный анализ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 1 пара\nДополнительно: ЭЗ-
+ 301/02\, ЭЗ-301/04а\, ЭЗ-301/07\, ЭЗ-301/07б\, ЭЗ-301/08\, ЭЗ
+ -301/11\, ЭЗ-301/12а\, ЭЗ-301/13\, ЭЗд-301\nURALCAMPUS_SYNC_ID:28
+ 70fce23ccaa4974642ff9186c86e29\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11
+ -22a3-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:625155da63b26d5c466a35b780dd00eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Инвестиционный анализ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 2 пара\nДополнительно: ЭЗ-
+ 301/02\, ЭЗ-301/04а\, ЭЗ-301/07\, ЭЗ-301/07б\, ЭЗ-301/08\, ЭЗ
+ -301/11\, ЭЗ-301/12а\, ЭЗ-301/13\, ЭЗд-301\nURALCAMPUS_SYNC_ID:62
+ 5155da63b26d5c466a35b780dd00eb\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11
+ -22a3-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:025d25c8809aab87f148f60873af7783@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Инвестиционный анализ (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кондратов Максим Влад
+ имирович\nПара: 3 пара\nДополнительно: ЭЗ-
+ 301/02\, ЭЗ-301/04а\, ЭЗ-301/07\, ЭЗ-301/07б\, ЭЗ-301/08\, ЭЗ
+ -301/11\, ЭЗ-301/12а\, ЭЗ-301/13\, ЭЗд-301\nURALCAMPUS_SYNC_ID:02
+ 5d25c8809aab87f148f60873af7783\nURALCAMPUS_SOURCE:inueco:teacher:048b4c11
+ -22a3-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

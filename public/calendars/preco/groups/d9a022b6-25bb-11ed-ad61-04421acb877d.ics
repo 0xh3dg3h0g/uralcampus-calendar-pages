@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: П-240к
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:94510ee3160ffc50bc32b564def07c86@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 3 пара\nДополнительно: В
+ оронцов М.В.\nURALCAMPUS_SYNC_ID:94510ee3160ffc50bc32b564def07c8
+ 6\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:46f31af3c8d06c72f6aad81fba101d52@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 4 пара\nДополнительно: В
+ оронцов М.В.\nURALCAMPUS_SYNC_ID:46f31af3c8d06c72f6aad81fba101d5
+ 2\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:62004f1b1363465a1d07399409416f6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 5 пара\nДополнительно: Т
+ ютин А.А.\nURALCAMPUS_SYNC_ID:62004f1b1363465a1d07399409416f6e\nURA
+ LCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2d4c0f4bbad8665b39cb2602e717eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 6 пара\nДополнительно: К
+ арепина А.Д.\nURALCAMPUS_SYNC_ID:3f2d4c0f4bbad8665b39cb2602e717e
+ b\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d790c8f54decba45a9caf36ddd41d6f0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 1 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:d790c8f54decba45a9caf36ddd41d6f
+ 0\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9af5bbb74a5d0886cb188a99aad7304f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 2 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:9af5bbb74a5d0886cb188a99aad7304
+ f\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:479fd1807982babd818bbf2ca06e4189@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 3 пара\nДополнительно: Ш
+ алгина С.В.\nURALCAMPUS_SYNC_ID:479fd1807982babd818bbf2ca06e4189\
+ nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:76e3e2fccafa1756988bf76ba41a1725@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 4 пара\nДополнительно: Ш
+ алгина С.В.\nURALCAMPUS_SYNC_ID:76e3e2fccafa1756988bf76ba41a1725\
+ nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:671c37fc11f377de35b6fefa4641d30e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Экономика отрасли (Аудиторные занят
+ ия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 2 пара\nДополнительно: Ш
+ вейкерт М.И.\nURALCAMPUS_SYNC_ID:671c37fc11f377de35b6fefa4641d30
+ e\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3115804f642755faaa3c4546198325b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Экономика отрасли (Аудиторные занят
+ ия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 3 пара\nДополнительно: Ш
+ вейкерт М.И.\nURALCAMPUS_SYNC_ID:3115804f642755faaa3c4546198325b
+ 7\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:805749df9eedf76120e939c7e3cd2b28@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 1 пара\nДополнительно: Ш
+ алгина С.В.\nURALCAMPUS_SYNC_ID:805749df9eedf76120e939c7e3cd2b28\
+ nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5edc59f93e9241204d9f2308164aa1ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 2 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:5edc59f93e9241204d9f2308164aa1c
+ a\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f319833be5c7013db69db2658b0e8a6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 3 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:f319833be5c7013db69db2658b0e8a6
+ e\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5f63e015bffcb92535d6b21ba5554950@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 1 пара\nДополнительно: С
+ емянников И.М.\nURALCAMPUS_SYNC_ID:5f63e015bffcb92535d6b21ba55
+ 54950\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

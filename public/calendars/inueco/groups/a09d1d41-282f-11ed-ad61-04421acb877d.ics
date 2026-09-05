@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЛЗ-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:84818b940d0575cc036e09f9cc769fd6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 1 пара\nДополнитель
+ но: Де К.Г.\nURALCAMPUS_SYNC_ID:84818b940d0575cc036e09f9cc769fd6\nU
+ RALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a9cb6cfb78884bb323bd24c9b0ad4670@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 2 пара\nДополнитель
+ но: Де К.Г.\nURALCAMPUS_SYNC_ID:a9cb6cfb78884bb323bd24c9b0ad4670\nU
+ RALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:989abf67b531466bb7d84df11eef8257@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:История и география стран первого и
+ ностранного языка (Лекция)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 3 пара\nДополнитель
+ но: Ровный Б. И.\nURALCAMPUS_SYNC_ID:989abf67b531466bb7d84df11e
+ ef8257\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:3dcbdbd80ab5e4d2b69a9bc59985fd06@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Основы языкознания (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 3 пара\nДополнитель
+ но: Ещеркина Л. В.\nURALCAMPUS_SYNC_ID:3dcbdbd80ab5e4d2b69a9b
+ c59985fd06\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0db4360ddccafac0c8b67ded960e14de@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Основы языкознания (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 4 пара\nДополнитель
+ но: Ещеркина Л. В.\nURALCAMPUS_SYNC_ID:0db4360ddccafac0c8b67d
+ ed960e14de\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:596a8478c71f086199f217d742f55956@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Основы языкознания (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 5 пара\nДополнитель
+ но: Ещеркина Л. В.\nURALCAMPUS_SYNC_ID:596a8478c71f086199f217
+ d742f55956\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9c5c4abbffca483fb01afbf49f81c3e6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Основы языкознания (Практика)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 1 пара\nДополнитель
+ но: Ещеркина Л. В.\nURALCAMPUS_SYNC_ID:9c5c4abbffca483fb01afb
+ f49f81c3e6\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:453c1073d3ef1586567bf8c3172579e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Теория перевода (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 2 пара\nДополнитель
+ но: Васильева Т.В.\nURALCAMPUS_SYNC_ID:453c1073d3ef1586567bf
+ 8c3172579e2\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cecbb0307d6ead4e9f8e2112b7457d35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Теория перевода (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 3 пара\nДополнитель
+ но: Васильева Т.В.\nURALCAMPUS_SYNC_ID:cecbb0307d6ead4e9f8e2
+ 112b7457d35\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:21c50fdb27a1fd7537443a79b85df3bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:История и география стран второго и
+ ностранного языка (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 1 пара\nДополнитель
+ но: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:21c50fdb27a1fd7537443a79b
+ 85df3bf\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:fd2ee9f5b103482cc77bf6f666516451@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:История и география стран второго и
+ ностранного языка (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 2 пара\nДополнитель
+ но: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:fd2ee9f5b103482cc77bf6f66
+ 6516451\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:6255b29e8b73a98d3cad491a2b94df7f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:История и география стран второго и
+ ностранного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 3 пара\nДополнитель
+ но: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:6255b29e8b73a98d3cad491a2
+ b94df7f\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:67aa3fa9f3306e075775a66f30719d8c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:История и география стран второго и
+ ностранного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 4 пара\nДополнитель
+ но: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:67aa3fa9f3306e075775a66f3
+ 0719d8c\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:cd18d5fc48301a68b3549db78936a6c0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 1 пара\nДополнитель
+ но: Де К.Г.\nURALCAMPUS_SYNC_ID:cd18d5fc48301a68b3549db78936a6c0\nU
+ RALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d78e472a9b141a57bea849214dc60bd6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 2 пара\nДополнитель
+ но: Де К.Г.\nURALCAMPUS_SYNC_ID:d78e472a9b141a57bea849214dc60bd6\nU
+ RALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d6786a656979b432f062f12b234cbe86@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:История и география стран первого и
+ ностранного языка (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЛЗ-301\nПара: 3 пара\nДополнитель
+ но: Ровный Б. И.\nURALCAMPUS_SYNC_ID:d6786a656979b432f062f12b23
+ 4cbe86\nURALCAMPUS_SOURCE:inueco:group:a09d1d41-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+END:VCALENDAR

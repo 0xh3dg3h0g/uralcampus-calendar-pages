@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЗИ-274
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:40f4c7b87365c562276f582e509cdcf5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Основы геодезии и картографии\, топо
+ графическая графика (Аудиторные заняти
+ я)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-274\nПара: 1 пара\nДополнительно: Е
+ рина М.А.\nURALCAMPUS_SYNC_ID:40f4c7b87365c562276f582e509cdcf5\nURA
+ LCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10648ef4aa818313c638719dc4b6925e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Основы геодезии и картографии\, топо
+ графическая графика (Аудиторные заняти
+ я)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-274\nПара: 2 пара\nДополнительно: Е
+ рина М.А.\nURALCAMPUS_SYNC_ID:10648ef4aa818313c638719dc4b6925e\nURA
+ LCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6427a843ef4953ba21197c55c262f8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-274\nПара: 3 пара\nДополнительно: Б
+ ежецких Ж.Г.\nURALCAMPUS_SYNC_ID:1f6427a843ef4953ba21197c55c262f
+ 8\nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+END:VEVENT
+END:VCALENDAR

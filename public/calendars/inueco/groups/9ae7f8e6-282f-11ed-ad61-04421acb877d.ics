@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ГМУЗ-201/07б
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6448118b98c508720664b1ddb5270c5e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Региональная социальная политика (Л
+ екция)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/07б\nПара: 6 пара\nДополн
+ ительно: Горяйнова Н.М.\nURALCAMPUS_SYNC_ID:6448118b98c
+ 508720664b1ddb5270c5e\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e6-282f-11ed-
+ ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:42eb8f90216fdc4dab71ab157f73575a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Региональная социальная политика (Л
+ екция)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/07б\nПара: 7 пара\nДополн
+ ительно: Горяйнова Н.М.\nURALCAMPUS_SYNC_ID:42eb8f90216
+ fdc4dab71ab157f73575a\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e6-282f-11ed-
+ ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dbaadbef9d73a54f732c138b8a14d080@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Региональная социальная политика (П
+ рактика)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/07б\nПара: 6 пара\nДополн
+ ительно: Горяйнова Н.М.\nURALCAMPUS_SYNC_ID:dbaadbef9d7
+ 3a54f732c138b8a14d080\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e6-282f-11ed-
+ ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e7cdd5954ff13e8f2657970b1dcf0c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Региональная социальная политика (П
+ рактика)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/07б\nПара: 7 пара\nДополн
+ ительно: Горяйнова Н.М.\nURALCAMPUS_SYNC_ID:d8e7cdd5954
+ ff13e8f2657970b1dcf0c\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e6-282f-11ed-
+ ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:94651d20c82b29223ebbf21c55fb61f8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:История государственного управлени
+ я в России (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/07б\nПара: 6 пара\nДополн
+ ительно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:94651d2
+ 0c82b29223ebbf21c55fb61f8\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e6-282f-1
+ 1ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:de09ce222e247388e4d308b335b3cd48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T182000
+DTEND;TZID=Asia/Yekaterinburg:20260912T193000
+SUMMARY:История государственного управлени
+ я в России (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/07б\nПара: 7 пара\nДополн
+ ительно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:de09ce2
+ 22e247388e4d308b335b3cd48\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e6-282f-1
+ 1ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

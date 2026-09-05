@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ТД-406
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f2b03423eb359a38c8d786d3f0650fba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Декларирование товаров и транспорт
+ ных средств (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 2 пара\nДополнитель
+ но: Широковская Т.В.\nURALCAMPUS_SYNC_ID:f2b03423eb359a38c
+ 8d786d3f0650fba\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c443b200eb1931e184550326dba07221@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Декларирование товаров и транспорт
+ ных средств (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 3 пара\nДополнитель
+ но: Широковская Т.В.\nURALCAMPUS_SYNC_ID:c443b200eb1931e18
+ 4550326dba07221\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6287ccc1d988fbf85ba84f0436f76788@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Правовые основы государственной сл
+ ужбы в таможенных органах (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 1 пара\nДополнитель
+ но: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:6287ccc1d988fbf85b
+ a84f0436f76788\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d3df6db867a57543f808c155fdc62d8c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Правовые основы государственной сл
+ ужбы в таможенных органах (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 2 пара\nДополнитель
+ но: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:d3df6db867a57543f8
+ 08c155fdc62d8c\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd00d0e081e1b3dbb6d2ab7c6cb1a27@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Валютное регулирование и валютный к
+ онтроль (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 3 пара\nДополнитель
+ но: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:1cd00d0e081e1b3dbb6d2a
+ b7c6cb1a27\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78a4cd0615946cc3034f149b7073b112@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Валютное регулирование и валютный к
+ онтроль (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 4 пара\nДополнитель
+ но: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:78a4cd0615946cc3034f14
+ 9b7073b112\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:97b04a5324a64780ef08c85cb405704d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Логистика (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 4 пара\nДополнитель
+ но: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:97b04a5324a64780ef08c85
+ cb405704d\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1f754b429af2edd54ac563542bdbbbfb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Логистика (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 5 пара\nДополнитель
+ но: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:1f754b429af2edd54ac5635
+ 42bdbbbfb\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bef8c15de7bf8051a80da59588486fd9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Таможенный менеджмент (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 2 пара\nДополнитель
+ но: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:bef8c15de7bf8051a80da59
+ 588486fd9\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78189373925c79c73f8484015b120a80@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Таможенный менеджмент (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 3 пара\nДополнитель
+ но: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:78189373925c79c73f84840
+ 15b120a80\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:30fbdeb050ff71df033e1d196958f871@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Логистика (Лекция)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 4 пара\nДополнитель
+ но: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:30fbdeb050ff71df033e1d1
+ 96958f871\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:050d5fa2d2174ef0b02b22d905ec32bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Логистика (Лекция)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 5 пара\nДополнитель
+ но: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:050d5fa2d2174ef0b02b22d
+ 905ec32bb\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d76b0fec920af8b4f1ced99bb61832@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Организация таможенного контроля т
+ оваров и транспортных средств (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 6 пара\nДополнитель
+ но: Сенчихина И.А.\nURALCAMPUS_SYNC_ID:e6d76b0fec920af8b4f1c
+ ed99bb61832\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7441fec3554fdf173f044b7513bb0e90@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Организация таможенного контроля т
+ оваров и транспортных средств (Практика
+ )
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 7 пара\nДополнитель
+ но: Сенчихина И.А.\nURALCAMPUS_SYNC_ID:7441fec3554fdf173f044
+ b7513bb0e90\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:17534215be30f02a4f64bc47ca6cc9b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Декларирование товаров и транспорт
+ ных средств (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 2 пара\nДополнитель
+ но: Широковская Т.В.\nURALCAMPUS_SYNC_ID:17534215be30f02a4
+ f64bc47ca6cc9b7\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8e268d98713a588a6cb726a8f9daa0d1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Декларирование товаров и транспорт
+ ных средств (Лаб.)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 3 пара\nДополнитель
+ но: Широковская Т.В.\nURALCAMPUS_SYNC_ID:8e268d98713a588a6
+ cb726a8f9daa0d1\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7b8fe5bb4014f07636ce1db73bd76569@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Международное таможенное сотруднич
+ ество (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-406\nПара: 4 пара\nДополнитель
+ но: Широковская Т.В.\nURALCAMPUS_SYNC_ID:7b8fe5bb4014f0763
+ 6ce1db73bd76569\nURALCAMPUS_SOURCE:inueco:group:a695340a-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+END:VCALENDAR

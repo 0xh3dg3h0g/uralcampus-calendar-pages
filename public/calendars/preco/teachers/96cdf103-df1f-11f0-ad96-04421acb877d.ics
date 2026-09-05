@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Ерина Мария Алекс
+ еевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ce8ca49049d2873ef60ab39224ba4e44@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Основы геодезии и картографии\, топо
+ графическая графика (Аудиторные заняти
+ я)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 1 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC_I
+ D:ce8ca49049d2873ef60ab39224ba4e44\nURALCAMPUS_SOURCE:preco:teacher:96cdf
+ 103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2b6641821e371b15422047c540248baf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Основы геодезии и картографии\, топо
+ графическая графика (Аудиторные заняти
+ я)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 2 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC_I
+ D:2b6641821e371b15422047c540248baf\nURALCAMPUS_SOURCE:preco:teacher:96cdf
+ 103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2362e625d99274527371c439348e171d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы гидравлики\, теплотехники и а
+ эродинамики (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 3 пара\nДополнительно: ГС-376\, ГС-376А\nURAL
+ CAMPUS_SYNC_ID:2362e625d99274527371c439348e171d\nURALCAMPUS_SOURCE:preco:
+ teacher:96cdf103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7da70e9951eb67d541d8d415f16b2f54@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы гидравлики\, теплотехники и а
+ эродинамики (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 4 пара\nДополнительно: ГС-376\, ГС-376А\nURAL
+ CAMPUS_SYNC_ID:7da70e9951eb67d541d8d415f16b2f54\nURALCAMPUS_SOURCE:preco:
+ teacher:96cdf103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

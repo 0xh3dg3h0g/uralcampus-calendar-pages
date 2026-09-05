@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: СЗу-301/13
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:404041daf1fe8bb9026e95a04122e2ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/13\nПара: 6 пара\nДополнит
+ ельно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:404041daf1fe8bb9
+ 026e95a04122e2ca\nURALCAMPUS_SOURCE:inueco:group:dd1737d0-58a4-11f0-ad93-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:81279b70832d4fd211deb733f7730715@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/13\nПара: 7 пара\nДополнит
+ ельно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:81279b70832d4fd2
+ 11deb733f7730715\nURALCAMPUS_SOURCE:inueco:group:dd1737d0-58a4-11f0-ad93-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:db7e8fbcf64fdca08ddb0a9d4d30a1a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Средства механизации строительства
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/13\nПара: 7 пара\nДополнит
+ ельно: Пономарева О.А.\nURALCAMPUS_SYNC_ID:db7e8fbcf64fd
+ ca08ddb0a9d4d30a1a5\nURALCAMPUS_SOURCE:inueco:group:dd1737d0-58a4-11f0-ad
+ 93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0d2466c24c70a439f902e7ea0a2ed962@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Средства механизации строительства
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/13\nПара: 8 пара\nДополнит
+ ельно: Пономарева О.А.\nURALCAMPUS_SYNC_ID:0d2466c24c70a
+ 439f902e7ea0a2ed962\nURALCAMPUS_SOURCE:inueco:group:dd1737d0-58a4-11f0-ad
+ 93-04421acb877d
+END:VEVENT
+END:VCALENDAR

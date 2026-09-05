@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Новокрещенов Дани
+ ил Витальевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:123f4e0970afa2bf499ec2ddf35c295c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 1 пара\nДополнительно: 131к\nURAL
+ CAMPUS_SYNC_ID:123f4e0970afa2bf499ec2ddf35c295c\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f960246f0db74f2ed3290bd0a5bd0762@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 3 пара\nДополнительно: 135к\nURAL
+ CAMPUS_SYNC_ID:f960246f0db74f2ed3290bd0a5bd0762\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f46297e47c7460f1bfa5caf4459764f9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 4 пара\nДополнительно: 137к\nURAL
+ CAMPUS_SYNC_ID:f46297e47c7460f1bfa5caf4459764f9\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cd98dac5b1ccb91bb22efd0ccd909966@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 5 пара\nДополнительно: 136к\nURAL
+ CAMPUS_SYNC_ID:cd98dac5b1ccb91bb22efd0ccd909966\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:442714c2a461e4ca9d5c76618144dafb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 1 пара\nДополнительно: 139к\nURAL
+ CAMPUS_SYNC_ID:442714c2a461e4ca9d5c76618144dafb\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5620fb8272a9bb66525eb4d2221835@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 2 пара\nДополнительно: 132к\nURAL
+ CAMPUS_SYNC_ID:3c5620fb8272a9bb66525eb4d2221835\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f1538b084415ab3cabe7bfd7c99ee674@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 3 пара\nДополнительно: 138к\nURAL
+ CAMPUS_SYNC_ID:f1538b084415ab3cabe7bfd7c99ee674\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0bcfe260805ff00aed73fee07ac6bffd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 4 пара\nДополнительно: 134к\nURAL
+ CAMPUS_SYNC_ID:0bcfe260805ff00aed73fee07ac6bffd\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9caa5d3b2a7acf3db5adb09548be8528@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 414\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 5 пара\nДополнительно: 133к\nURAL
+ CAMPUS_SYNC_ID:9caa5d3b2a7acf3db5adb09548be8528\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:99b3432eb076d5f17324807df2908178@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 6 пара\nДополнительно: 130к\nURAL
+ CAMPUS_SYNC_ID:99b3432eb076d5f17324807df2908178\nURALCAMPUS_SOURCE:preco:
+ teacher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:02a4c39b0547c86a4e1a386e782d36ea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 1 пара\nДополнительно: 134\nURALCA
+ MPUS_SYNC_ID:02a4c39b0547c86a4e1a386e782d36ea\nURALCAMPUS_SOURCE:preco:te
+ acher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f4315a5856a105ca0dec387c52a058@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 2 пара\nДополнительно: 135\nURALCA
+ MPUS_SYNC_ID:b1f4315a5856a105ca0dec387c52a058\nURALCAMPUS_SOURCE:preco:te
+ acher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3791c87393faeefd5b63504df3755ebb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 3 пара\nДополнительно: 131\nURALCA
+ MPUS_SYNC_ID:3791c87393faeefd5b63504df3755ebb\nURALCAMPUS_SOURCE:preco:te
+ acher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:99fde5aa7258787daff622ecb525340a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 4 пара\nДополнительно: 133\nURALCA
+ MPUS_SYNC_ID:99fde5aa7258787daff622ecb525340a\nURALCAMPUS_SOURCE:preco:te
+ acher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5c2d8119180755f6dfc747785dc031ce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 5 пара\nДополнительно: 132\nURALCA
+ MPUS_SYNC_ID:5c2d8119180755f6dfc747785dc031ce\nURALCAMPUS_SOURCE:preco:te
+ acher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bdedaf477979d5eb1b74655d81e66686@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Новокрещенов Даниил Витал
+ ьевич\nПара: 6 пара\nДополнительно: 130\nURALCA
+ MPUS_SYNC_ID:bdedaf477979d5eb1b74655d81e66686\nURALCAMPUS_SOURCE:preco:te
+ acher:2f85f73f-73fd-11ef-ad91-04421acb877d
+END:VEVENT
+END:VCALENDAR

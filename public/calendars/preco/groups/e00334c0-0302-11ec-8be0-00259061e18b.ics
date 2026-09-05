@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: 131
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6efb03224eda1d867d99cecf9fed1c1e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 1 пара\nДополнительно: Патр
+ аков Н.И.\nURALCAMPUS_SYNC_ID:6efb03224eda1d867d99cecf9fed1c1e\nURA
+ LCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee1ba5c75c8887c83410911a0ddd7b9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 2 пара\nДополнительно: Патр
+ аков Н.И.\nURALCAMPUS_SYNC_ID:0ee1ba5c75c8887c83410911a0ddd7b9\nURA
+ LCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ac04f383a455b63ed44cf46084991ab4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 2 пара\nДополнительно: Гера
+ симова К.Е.\nURALCAMPUS_SYNC_ID:ac04f383a455b63ed44cf46084991ab4\
+ nURALCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:45cab1d7265ce426802269ba8e4265b1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 1 пара\nДополнительно: Епиф
+ анов Д.А.\nURALCAMPUS_SYNC_ID:45cab1d7265ce426802269ba8e4265b1\nURA
+ LCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:011016caafc97bd49f9aee554c30d9ba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 2 пара\nДополнительно: Орло
+ ва Д.Н.\nURALCAMPUS_SYNC_ID:011016caafc97bd49f9aee554c30d9ba\nURALCAM
+ PUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:50bae6c3d4e274b4eef5f26f3eb2693c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 3 пара\nДополнительно: Влад
+ имирова К.П.\nURALCAMPUS_SYNC_ID:50bae6c3d4e274b4eef5f26f3eb2693
+ c\nURALCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:362e649ee0582b12877f5e6634d70b48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Информатика(подгруппа:131 (2)) (Аудитор
+ ные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 1 пара\nДополнительно: Куро
+ ва К.В.\nURALCAMPUS_SYNC_ID:362e649ee0582b12877f5e6634d70b48\nURALCAM
+ PUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ddb0e3551b573377ad20d5ea960b8447@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 2 пара\nДополнительно: Гера
+ симова К.Е.\nURALCAMPUS_SYNC_ID:ddb0e3551b573377ad20d5ea960b8447\
+ nURALCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:0a17320b2f4fad16e2b62100d484ad0d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 3 пара\nДополнительно: Сата
+ ева М.Р.\nURALCAMPUS_SYNC_ID:0a17320b2f4fad16e2b62100d484ad0d\nURALC
+ AMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:37aa13dc79e83869ab14d6bbe502101a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 1 пара\nДополнительно: Орло
+ ва Д.Н.\nURALCAMPUS_SYNC_ID:37aa13dc79e83869ab14d6bbe502101a\nURALCAM
+ PUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a8829540a124df3a84b21c645f1a211a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 2 пара\nДополнительно: Мото
+ рина Л.А.\nURALCAMPUS_SYNC_ID:a8829540a124df3a84b21c645f1a211a\nURA
+ LCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:2219525e4a914a357d0b7e4fd1c893a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 3 пара\nДополнительно: Ново
+ крещенов Д.В.\nURALCAMPUS_SYNC_ID:2219525e4a914a357d0b7e4fd1c89
+ 3a6\nURALCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:b41e7e27246f4adbe4f67d3ad4d43ce2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 4 пара\nДополнительно: Бато
+ вская Е.К.\nURALCAMPUS_SYNC_ID:b41e7e27246f4adbe4f67d3ad4d43ce2\nU
+ RALCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:56d6d009771df608162c4524a614173e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 4 пара\nДополнительно: Патр
+ аков Н.И.\nURALCAMPUS_SYNC_ID:56d6d009771df608162c4524a614173e\nURA
+ LCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:8741ecbd0aa3af4031245c40eb50e0bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 5 пара\nДополнительно: Ефре
+ мова Л.В.\nURALCAMPUS_SYNC_ID:8741ecbd0aa3af4031245c40eb50e0bb\nURA
+ LCAMPUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bf915d93120bf173f707b63544cd67f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 131\nПара: 6 пара\nДополнительно: Орло
+ ва Д.Н.\nURALCAMPUS_SYNC_ID:bf915d93120bf173f707b63544cd67f4\nURALCAM
+ PUS_SOURCE:preco:group:e00334c0-0302-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

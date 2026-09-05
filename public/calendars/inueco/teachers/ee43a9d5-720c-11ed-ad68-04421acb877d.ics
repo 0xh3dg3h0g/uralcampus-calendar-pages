@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Белов Александр В
+ ладимирович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f71d0bf59eab17a19287728c7ec9e511@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 3 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:f71d0bf59eab17a19287728c7ec9e511\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:df0eb801ffcc46c417d13d5a20fc1c71@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 4 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:df0eb801ffcc46c417d13d5a20fc1c71\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f656eb00522ad21d58a43ce45c22e6d9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Электрические станции и подстанции 
+ (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 5 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:f656eb00522ad21d58a43ce45c22e6d9\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc0dcc699bd3b59206bb76dab2bb883@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 3 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:9dc0dcc699bd3b59206bb76dab2bb883\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:01aa1a4b0b2c50cb38e8e9db44b00f2c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Электрические станции и подстанции 
+ (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 4 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:01aa1a4b0b2c50cb38e8e9db44b00f2c\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8977f4c06f64bf74131e3db331c8aac1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Электрические станции и подстанции 
+ (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 5 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:8977f4c06f64bf74131e3db331c8aac1\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf79817f45c63de0edc3843bb59d756@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Электроснабжение (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 3 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:4bf79817f45c63de0edc3843bb59d756\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b0a0539132cb4c96080b5681acbd94@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Электроснабжение (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 4 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:e9b0a0539132cb4c96080b5681acbd94\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5c0b7de43bea8b3a1c37b4671e73f6d7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Электрические станции и подстанции 
+ (Экзамен)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 5 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:5c0b7de43bea8b3a1c37b4671e73f6d7\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:94e2a04927ce1f7b8d07af50207c983a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Электроснабжение (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 3 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:94e2a04927ce1f7b8d07af50207c983a\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d1b788e4934fbb541f90aaa20c8c0b34@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Электроснабжение (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 4 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:d1b788e4934fbb541f90aaa20c8c0b34\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a9282621b0440df7ad7dc704757a74eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Электроснабжение (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 5 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:a9282621b0440df7ad7dc704757a74eb\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:df25f1110fede8457f08282d9e13aafa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 2 пара\nДополнительно: ЭЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:df25f1110fede8457f08282d9e13aafa\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:549c59549428e15ae86ea3fbc59acfdb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 3 пара\nДополнительно: ЭЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:549c59549428e15ae86ea3fbc59acfdb\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:82028ce1817096116d7b1d778d1ef659@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Электрические станции и подстанции 
+ (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 4 пара\nДополнительно: ЭЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:82028ce1817096116d7b1d778d1ef659\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c20b618cd19b80aea99af46cfd905093@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Электроснабжение (Экзамен)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 5 пара\nДополнительно: ЭЛЗ
+ у-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, Э
+ ЛЗу-301/12\nURALCAMPUS_SYNC_ID:c20b618cd19b80aea99af46cfd905093\nURALC
+ AMPUS_SOURCE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:deac24a2c29faeeb00999d02ccf2c336@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 3 пара\nДополнительно: ЭЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:deac24a2c29faeeb00999d02ccf2c336\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78f645d940fcd1a95941f42e3eab455b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Электрические станции и подстанции 
+ (Практика)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 4 пара\nДополнительно: ЭЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:78f645d940fcd1a95941f42e3eab455b\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:db9bb51a2019ec470eda10fbdad5ee64@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Электрические станции и подстанции 
+ (Зачет)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Белов Александр Влади
+ мирович\nПара: 5 пара\nДополнительно: ЭЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:db9bb51a2019ec470eda10fbdad5ee64\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ee43a9d5-720c-11ed-ad68-04421acb877d
+END:VEVENT
+END:VCALENDAR

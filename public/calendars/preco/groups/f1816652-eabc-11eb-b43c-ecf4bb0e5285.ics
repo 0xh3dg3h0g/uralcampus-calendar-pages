@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: Ф-202\, Ф-202А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:107b9a8b167146a206101401b21d4887@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 1 пара\nДополнитель
+ но: Батовская Е.К.\nURALCAMPUS_SYNC_ID:107b9a8b167146a206101
+ 401b21d4887\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4b0ec7f982060670c05dfa551f27b0a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 2 пара\nДополнитель
+ но: Батовская Е.К.\nURALCAMPUS_SYNC_ID:4b0ec7f982060670c05df
+ a551f27b0a5\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:cd902526fabb9fadb0511fe4ba6b2619@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 1 пара\nДополнитель
+ но: Стокоз О.С.\nURALCAMPUS_SYNC_ID:cd902526fabb9fadb0511fe4ba6
+ b2619\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:abb7d620403204e1e4c0930013e789a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 2 пара\nДополнитель
+ но: Стокоз О.С.\nURALCAMPUS_SYNC_ID:abb7d620403204e1e4c0930013e
+ 789a3\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:6957a062455b339db9668dc8cd3e32bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 2 пара\nДополнитель
+ но: Сазонова И.А.\nURALCAMPUS_SYNC_ID:6957a062455b339db9668dc
+ 8cd3e32bb\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e001274f2efda3d2beb731292fab3d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 3 пара\nДополнитель
+ но: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:b5e001274f2efda3d2beb7312
+ 92fab3d\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e52
+ 85
+END:VEVENT
+BEGIN:VEVENT
+UID:c2011674eaa2cb92622addf12de2c844@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 4 пара\nДополнитель
+ но: Надеждина О.А.\nURALCAMPUS_SYNC_ID:c2011674eaa2cb92622ad
+ df12de2c844\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7cba47d25a30fe1a5f39ed034cccc981@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 505\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 5 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:7cba47d25a30fe1a5f39e
+ d034cccc981\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c71dec2a435a015c12c429e68fbdb3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 1 пара\nДополнитель
+ но: Стокоз О.С.\nURALCAMPUS_SYNC_ID:a2c71dec2a435a015c12c429e68
+ fbdb3\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:e0911e6597b9967d0881f071dc08c321@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Ботаника (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 2 пара\nДополнитель
+ но: Стокоз О.С.\nURALCAMPUS_SYNC_ID:e0911e6597b9967d0881f071dc0
+ 8c321\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9f42a246d284e7954730d2b1360bc578@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 4 пара\nДополнитель
+ но: Дружинин В.А.\nURALCAMPUS_SYNC_ID:9f42a246d284e7954730d2b
+ 1360bc578\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:0bb8e33b5593d627e1e9b0bd2ab9020e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 5 пара\nДополнитель
+ но: Дружинин В.А.\nURALCAMPUS_SYNC_ID:0bb8e33b5593d627e1e9b0b
+ d2ab9020e\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a705498c21f06d0e44219b2ba8b9c51d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 2 пара\nДополнитель
+ но: Стокоз О.С.\nURALCAMPUS_SYNC_ID:a705498c21f06d0e44219b2ba8b
+ 9c51d\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4c823cfb85c03c22fd89f97d6e9f5151@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 3 пара\nДополнитель
+ но: Стокоз О.С.\nURALCAMPUS_SYNC_ID:4c823cfb85c03c22fd89f97d6e9
+ f5151\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:26ff89cfa71cd14f8f155f199e5f17c1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 1 пара\nДополнитель
+ но: Батовская Е.К.\nURALCAMPUS_SYNC_ID:26ff89cfa71cd14f8f155
+ f199e5f17c1\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:686f31eec3b3200a7391c779a5a0468b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-202\, Ф-202А\nПара: 2 пара\nДополнитель
+ но: Батовская Е.К.\nURALCAMPUS_SYNC_ID:686f31eec3b3200a7391c
+ 779a5a0468b\nURALCAMPUS_SOURCE:preco:group:f1816652-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+END:VCALENDAR

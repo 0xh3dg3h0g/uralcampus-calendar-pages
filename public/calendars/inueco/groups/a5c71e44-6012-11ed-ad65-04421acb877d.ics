@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗД-201
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c922d2ef82145ab2773ae84653e1edd0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T134000
+DTEND;TZID=Asia/Yekaterinburg:20260905T151000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 4 пара\nДополнител
+ ьно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:c922d2ef82145ab2773ae
+ 84653e1edd0\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5f28ec7ea14548df5e6e07b8d5093825@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T152000
+DTEND;TZID=Asia/Yekaterinburg:20260905T165000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 5 пара\nДополнител
+ ьно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:5f28ec7ea14548df5e6e0
+ 7b8d5093825\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9e611c287f2f40696565860e546e3d74@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 6 пара\nДополнител
+ ьно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:9e611c287f2f40696
+ 565860e546e3d74\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4eef1c812141991a76aec8d1799d99@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 7 пара\nДополнител
+ ьно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:8f4eef1c812141991
+ a76aec8d1799d99\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0c678e562c576cf154423109d36747e6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Профессиональная этика юриста (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 8 пара\nДополнител
+ ьно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:0c678e562c576cf15
+ 4423109d36747e6\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c381791f5b64dabdedfbaa158c782556@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 5 пара\nДополнител
+ ьно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:c381791f5b64dabded
+ fbaa158c782556\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a3540c58203298c5bc270c73b91d2d61@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 6 пара\nДополнител
+ ьно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:a3540c58203298c5bc
+ 270c73b91d2d61\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

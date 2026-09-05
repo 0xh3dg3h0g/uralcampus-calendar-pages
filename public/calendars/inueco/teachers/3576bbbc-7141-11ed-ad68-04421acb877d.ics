@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Качурин Виталий В
+ ладимирович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0aa2877bf93e360730fa1ea25de30533@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Транспортная и складская логистика 
+ (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 7 пара\nДополнительно: ТТП
+ З-301/07а\, ТТПЗ-301/07б\, ТТПЗ-301/11\, ТТПЗ-301/12\, Т
+ ТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ-301/13а\, ТТПЗ-301а/04
+ \, ТТПЗ-301а/06\, ТТПЗу-301/03\, ТТПЗу-301/05\, ТТПЗу
+ -301/07б\, ТТПЗу-301/12\, ТТПЗ-301/02\, ТТПЗ-301/03\, ТТ
+ ПЗ-301/04\, ТТПЗ-301/05а\, ТТПЗ-301/06\, ТТПЗ-301/07\nURAL
+ CAMPUS_SYNC_ID:0aa2877bf93e360730fa1ea25de30533\nURALCAMPUS_SOURCE:inueco
+ :teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c32b688bc18092b9d81d18e36b334737@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T195000
+DTEND;TZID=Asia/Yekaterinburg:20260907T205000
+SUMMARY:Транспортная и складская логистика 
+ (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 8 пара\nДополнительно: ТТП
+ З-301/02\, ТТПЗ-301/03\, ТТПЗ-301/04\, ТТПЗ-301/05а\, ТТ
+ ПЗ-301/06\, ТТПЗ-301/07\, ТТПЗ-301/07а\, ТТПЗ-301/07б\, 
+ ТТПЗ-301/11\, ТТПЗ-301/12\, ТТПЗ-301/12а\, ТТПЗ-301/13\,
+  ТТПЗ-301/13а\, ТТПЗ-301а/04\, ТТПЗ-301а/06\, ТТПЗу-3
+ 01/03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURAL
+ CAMPUS_SYNC_ID:c32b688bc18092b9d81d18e36b334737\nURALCAMPUS_SOURCE:inueco
+ :teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f6f1c050f81b1e47314e45ee57b3c3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Транспортная и складская логистика 
+ (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 7 пара\nДополнительно: ТТП
+ З-301/02\, ТТПЗ-301/03\, ТТПЗ-301/04\, ТТПЗ-301/05а\, ТТ
+ ПЗ-301/06\, ТТПЗ-301/07\, ТТПЗ-301/07а\, ТТПЗ-301/07б\, 
+ ТТПЗ-301/11\, ТТПЗ-301/12\, ТТПЗ-301/12а\, ТТПЗ-301/13\,
+  ТТПЗ-301/13а\, ТТПЗ-301а/04\, ТТПЗ-301а/06\, ТТПЗу-3
+ 01/03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURAL
+ CAMPUS_SYNC_ID:b6f6f1c050f81b1e47314e45ee57b3c3\nURALCAMPUS_SOURCE:inueco
+ :teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3906b85acf1ff83d64056f9b08c794fc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Транспортная и складская логистика 
+ (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 8 пара\nДополнительно: ТТП
+ З-301/02\, ТТПЗ-301/03\, ТТПЗ-301/04\, ТТПЗ-301/05а\, ТТ
+ ПЗ-301/06\, ТТПЗ-301/07\, ТТПЗ-301/07а\, ТТПЗ-301/07б\, 
+ ТТПЗ-301/11\, ТТПЗ-301/12\, ТТПЗ-301/12а\, ТТПЗ-301/13\,
+  ТТПЗ-301/13а\, ТТПЗ-301а/04\, ТТПЗ-301а/06\, ТТПЗу-3
+ 01/03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURAL
+ CAMPUS_SYNC_ID:3906b85acf1ff83d64056f9b08c794fc\nURALCAMPUS_SOURCE:inueco
+ :teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:11ff0e199f001b990d3bee3a5f71abfd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 7 пара\nДополнительно: ТТП
+ З-301/04\, ТТПЗ-301/05а\, ТТПЗ-301/06\, ТТПЗ-301/07\, ТТ
+ ПЗ-301/07а\, ТТПЗ-301/07б\, ТТПЗ-301/11\, ТТПЗ-301/12\, 
+ ТТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ-301/13а\, ТТПЗу-301/
+ 03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAM
+ PUS_SYNC_ID:11ff0e199f001b990d3bee3a5f71abfd\nURALCAMPUS_SOURCE:inueco:te
+ acher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6b63de75abfc25d4624f633c4ac9fc40@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 8 пара\nДополнительно: ТТП
+ З-301/04\, ТТПЗ-301/05а\, ТТПЗ-301/06\, ТТПЗ-301/07\, ТТ
+ ПЗ-301/07а\, ТТПЗ-301/07б\, ТТПЗ-301/11\, ТТПЗ-301/12\, 
+ ТТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ-301/13а\, ТТПЗу-301/
+ 03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAM
+ PUS_SYNC_ID:6b63de75abfc25d4624f633c4ac9fc40\nURALCAMPUS_SOURCE:inueco:te
+ acher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:454db2639deed86c0978455033ed7679@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 7 пара\nДополнительно: ТТП
+ З-301/04\, ТТПЗ-301/05а\, ТТПЗ-301/06\, ТТПЗ-301/07\, ТТ
+ ПЗ-301/07а\, ТТПЗ-301/07б\, ТТПЗ-301/11\, ТТПЗ-301/12\, 
+ ТТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ-301/13а\, ТТПЗу-301/
+ 03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAM
+ PUS_SYNC_ID:454db2639deed86c0978455033ed7679\nURALCAMPUS_SOURCE:inueco:te
+ acher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:068e1e3be44c6824f5b2a71f59d6d166@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 8 пара\nДополнительно: ТТП
+ З-301/04\, ТТПЗ-301/05а\, ТТПЗ-301/06\, ТТПЗ-301/07\, ТТ
+ ПЗ-301/07а\, ТТПЗ-301/07б\, ТТПЗ-301/11\, ТТПЗ-301/12\, 
+ ТТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ-301/13а\, ТТПЗу-301/
+ 03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAM
+ PUS_SYNC_ID:068e1e3be44c6824f5b2a71f59d6d166\nURALCAMPUS_SOURCE:inueco:te
+ acher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:703de6db4101f5ebb038c2dc9556964a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 7 пара\nДополнительно: ТТП
+ З-301/04\, ТТПЗ-301/05а\, ТТПЗ-301/06\, ТТПЗ-301/07\, ТТ
+ ПЗ-301/07а\, ТТПЗ-301/07б\, ТТПЗ-301/11\, ТТПЗ-301/12\, 
+ ТТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ-301/13а\, ТТПЗу-301/
+ 03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAM
+ PUS_SYNC_ID:703de6db4101f5ebb038c2dc9556964a\nURALCAMPUS_SOURCE:inueco:te
+ acher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:24a6b19f9969fe21473884eb3e54c392@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 8 пара\nДополнительно: ТТП
+ З-301/04\, ТТПЗ-301/05а\, ТТПЗ-301/06\, ТТПЗ-301/07\, ТТ
+ ПЗ-301/07а\, ТТПЗ-301/07б\, ТТПЗ-301/11\, ТТПЗ-301/12\, 
+ ТТПЗ-301/12а\, ТТПЗ-301/13\, ТТПЗ-301/13а\, ТТПЗу-301/
+ 03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAM
+ PUS_SYNC_ID:24a6b19f9969fe21473884eb3e54c392\nURALCAMPUS_SOURCE:inueco:te
+ acher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aea3194db5adc017c211ff1ed032407f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Транспортная и складская логистика 
+ (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 1 пара\nДополнительно: ТТП
+ З-301\nURALCAMPUS_SYNC_ID:aea3194db5adc017c211ff1ed032407f\nURALCAMPUS_S
+ OURCE:inueco:teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bc5f51d95eac404cc80084899dc408e0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Транспортная и складская логистика 
+ (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 2 пара\nДополнительно: ТТП
+ З-301\nURALCAMPUS_SYNC_ID:bc5f51d95eac404cc80084899dc408e0\nURALCAMPUS_S
+ OURCE:inueco:teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aa4378e3c6ca24c28cd288f8110941ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Транспортная и складская логистика 
+ (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 3 пара\nДополнительно: ТТП
+ З-301\nURALCAMPUS_SYNC_ID:aa4378e3c6ca24c28cd288f8110941ca\nURALCAMPUS_S
+ OURCE:inueco:teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5f04bf8e2b9454b9120032c6b531ec5f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Транспортная и складская логистика 
+ (Зачет)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 4 пара\nДополнительно: ТТП
+ З-301\nURALCAMPUS_SYNC_ID:5f04bf8e2b9454b9120032c6b531ec5f\nURALCAMPUS_S
+ OURCE:inueco:teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:104a2fa27f7e01b8a37127a8906fffec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Транспортная инфраструктура (Лекци
+ я)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 5 пара\nДополнительно: ТТП
+ З-301/02\, ТТПЗ-301/03\, ТТПЗ-301/04\, ТТПЗ-301/05а\, ТТ
+ ПЗ-301/06\, ТТПЗ-301/07\, ТТПЗ-301/07а\, ТТПЗ-301/07б\, 
+ ТТПЗ-301/11\, ТТПЗ-301/12\, ТТПЗ-301/12а\, ТТПЗ-301/13\,
+  ТТПЗ-301/13а\, ТТПЗ-301а/04\, ТТПЗ-301а/06\, ТТПЗу-3
+ 01/03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURAL
+ CAMPUS_SYNC_ID:104a2fa27f7e01b8a37127a8906fffec\nURALCAMPUS_SOURCE:inueco
+ :teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e20f5e13e31ffb2f765c35f69b18947d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:Транспортная инфраструктура (Лекци
+ я)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 6 пара\nДополнительно: ТТП
+ З-301/02\, ТТПЗ-301/03\, ТТПЗ-301/04\, ТТПЗ-301/05а\, ТТ
+ ПЗ-301/06\, ТТПЗ-301/07\, ТТПЗ-301/07а\, ТТПЗ-301/07б\, 
+ ТТПЗ-301/11\, ТТПЗ-301/12\, ТТПЗ-301/12а\, ТТПЗ-301/13\,
+  ТТПЗ-301/13а\, ТТПЗ-301а/04\, ТТПЗ-301а/06\, ТТПЗу-3
+ 01/03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURAL
+ CAMPUS_SYNC_ID:e20f5e13e31ffb2f765c35f69b18947d\nURALCAMPUS_SOURCE:inueco
+ :teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6a360c6f79cf37e8d8e15593aef681@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T182000
+DTEND;TZID=Asia/Yekaterinburg:20260912T193000
+SUMMARY:Транспортная инфраструктура (Лекци
+ я)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Качурин Виталий Влади
+ мирович\nПара: 7 пара\nДополнительно: ТТП
+ З-301/02\, ТТПЗ-301/03\, ТТПЗ-301/04\, ТТПЗ-301/05а\, ТТ
+ ПЗ-301/06\, ТТПЗ-301/07\, ТТПЗ-301/07а\, ТТПЗ-301/07б\, 
+ ТТПЗ-301/11\, ТТПЗ-301/12\, ТТПЗ-301/12а\, ТТПЗ-301/13\,
+  ТТПЗ-301/13а\, ТТПЗ-301а/04\, ТТПЗ-301а/06\, ТТПЗу-3
+ 01/03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURAL
+ CAMPUS_SYNC_ID:cf6a360c6f79cf37e8d8e15593aef681\nURALCAMPUS_SOURCE:inueco
+ :teacher:3576bbbc-7141-11ed-ad68-04421acb877d
+END:VEVENT
+END:VCALENDAR

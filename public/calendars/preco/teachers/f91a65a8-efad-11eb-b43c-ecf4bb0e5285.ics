@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Зенова Ирина Алек
+ сандровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:301bb6e6e1fc3445e4f6404e2a589ca5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 2 пара\nДополнительно: 108\nURALCAMPUS_SYN
+ C_ID:301bb6e6e1fc3445e4f6404e2a589ca5\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb18eb207f3f1518921e3621767ec9e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 3 пара\nДополнительно: 109\nURALCAMPUS_SYN
+ C_ID:fdb18eb207f3f1518921e3621767ec9e\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:2541c66898acb5274e1e656c459063f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 4 пара\nДополнительно: 110\nURALCAMPUS_SYN
+ C_ID:2541c66898acb5274e1e656c459063f4\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:64713ed2fe54918c311c012c01da00a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 1 пара\nДополнительно: 108\nURALCAMPUS_SYN
+ C_ID:64713ed2fe54918c311c012c01da00a8\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:fdce34c3e1f754a141f5622c387811d5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 4 пара\nДополнительно: 102\nURALCAMPUS_SYN
+ C_ID:fdce34c3e1f754a141f5622c387811d5\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:c2257c4f9533b83f252718fc9e0b51b2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 5 пара\nДополнительно: 105\nURALCAMPUS_SYN
+ C_ID:c2257c4f9533b83f252718fc9e0b51b2\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f090e4b6f7dbd6114d523fec5cf6d7b5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 3 пара\nДополнительно: 109\nURALCAMPUS_SYN
+ C_ID:f090e4b6f7dbd6114d523fec5cf6d7b5\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:59258999276d98d191af06f579b2b9da@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 4 пара\nДополнительно: 104\nURALCAMPUS_SYN
+ C_ID:59258999276d98d191af06f579b2b9da\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b98076b768bc432bdcc0cc5ecf9c5a87@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 2 пара\nДополнительно: 110\nURALCAMPUS_SYN
+ C_ID:b98076b768bc432bdcc0cc5ecf9c5a87\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:faa0199c145a3208d9c6ddc84ab191c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 3 пара\nДополнительно: 105\nURALCAMPUS_SYN
+ C_ID:faa0199c145a3208d9c6ddc84ab191c4\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:2b388c0c429a3cac7cbb6051fb99e682@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 4 пара\nДополнительно: 103\nURALCAMPUS_SYN
+ C_ID:2b388c0c429a3cac7cbb6051fb99e682\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

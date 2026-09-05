@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Горяйнова Наталья
+  Михайловна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:67a32e8783fc081539370181aca3fa90@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Региональная социальная политика (Л
+ екция)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяйнова Наталья Мих
+ айловна\nПара: 6 пара\nДополнительно: ГМУ
+ З-201/01\, ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, ГМУ
+ З-201/04а\, ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07\, Г
+ МУЗ-201/07б\, ГМУЗ-201/08\, ГМУЗ-201/11\, ГМУЗ-201/12\, 
+ ГМУЗ-201/12а\, ГМУЗ-201/13\, ГМУЗ-201/13а\, ГМУЗД-201\
+ nURALCAMPUS_SYNC_ID:67a32e8783fc081539370181aca3fa90\nURALCAMPUS_SOURCE:i
+ nueco:teacher:aaa871e7-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:bc5888a4070cba8b96b6e18113751d0d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Региональная социальная политика (Л
+ екция)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяйнова Наталья Мих
+ айловна\nПара: 7 пара\nДополнительно: ГМУ
+ З-201/01\, ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, ГМУ
+ З-201/04а\, ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07\, Г
+ МУЗ-201/07б\, ГМУЗ-201/08\, ГМУЗ-201/11\, ГМУЗ-201/12\, 
+ ГМУЗ-201/12а\, ГМУЗ-201/13\, ГМУЗ-201/13а\, ГМУЗД-201\
+ nURALCAMPUS_SYNC_ID:bc5888a4070cba8b96b6e18113751d0d\nURALCAMPUS_SOURCE:i
+ nueco:teacher:aaa871e7-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:5437516a6fe025bb01249cf04a1042f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Социально-психологические основы у
+ правления (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяйнова Наталья Мих
+ айловна\nПара: 6 пара\nДополнительно: МЗу-
+ 301\nURALCAMPUS_SYNC_ID:5437516a6fe025bb01249cf04a1042f2\nURALCAMPUS_SOUR
+ CE:inueco:teacher:aaa871e7-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:00e358d03893a9e6600bb6cee5979a9e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Социально-психологические основы у
+ правления (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяйнова Наталья Мих
+ айловна\nПара: 7 пара\nДополнительно: МЗу-
+ 301\nURALCAMPUS_SYNC_ID:00e358d03893a9e6600bb6cee5979a9e\nURALCAMPUS_SOUR
+ CE:inueco:teacher:aaa871e7-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6adbd61501a963ef44cb24af6e20c533@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Региональная социальная политика (П
+ рактика)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяйнова Наталья Мих
+ айловна\nПара: 6 пара\nДополнительно: ГМУ
+ З-201/01\, ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, ГМУ
+ З-201/04а\, ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07\, Г
+ МУЗ-201/07б\, ГМУЗ-201/08\, ГМУЗ-201/11\, ГМУЗ-201/12\, 
+ ГМУЗ-201/12а\, ГМУЗ-201/13\, ГМУЗ-201/13а\, ГМУЗД-201\
+ nURALCAMPUS_SYNC_ID:6adbd61501a963ef44cb24af6e20c533\nURALCAMPUS_SOURCE:i
+ nueco:teacher:aaa871e7-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a5288502ff17fc1d09351dda02560713@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Региональная социальная политика (П
+ рактика)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяйнова Наталья Мих
+ айловна\nПара: 7 пара\nДополнительно: ГМУ
+ З-201/01\, ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, ГМУ
+ З-201/04а\, ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07\, Г
+ МУЗ-201/07б\, ГМУЗ-201/08\, ГМУЗ-201/11\, ГМУЗ-201/12\, 
+ ГМУЗ-201/12а\, ГМУЗ-201/13\, ГМУЗ-201/13а\, ГМУЗД-201\
+ nURALCAMPUS_SYNC_ID:a5288502ff17fc1d09351dda02560713\nURALCAMPUS_SOURCE:i
+ nueco:teacher:aaa871e7-22a2-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

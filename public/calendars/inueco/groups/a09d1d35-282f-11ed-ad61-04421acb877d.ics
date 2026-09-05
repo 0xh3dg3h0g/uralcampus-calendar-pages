@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: И-307
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:efbb013d8c7e9f5e6f956061c95c1e7d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Алгоритмизация и технологии програ
+ ммирования (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 5 пара\nДополнительн
+ о: Мусин А.Р.\nURALCAMPUS_SYNC_ID:efbb013d8c7e9f5e6f956061c95c1e7
+ d\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0db05c6802b4b0f9862dd17d2b59f643@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Алгоритмизация и технологии програ
+ ммирования (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 6 пара\nДополнительн
+ о: Мусин А.Р.\nURALCAMPUS_SYNC_ID:0db05c6802b4b0f9862dd17d2b59f64
+ 3\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9929f064c0b45c284f52f9748ef19663@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лекци
+ я)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 4 пара\nДополнительн
+ о: Саллам М.Э.\nURALCAMPUS_SYNC_ID:9929f064c0b45c284f52f9748ef19
+ 663\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cd8a62fe7bbdbf9f4cbe7c71c8cd4577@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лекци
+ я)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 5 пара\nДополнительн
+ о: Саллам М.Э.\nURALCAMPUS_SYNC_ID:cd8a62fe7bbdbf9f4cbe7c71c8cd4
+ 577\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:92cfd92e8361b719bf8e8de5980122bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Корпоративные информационные систе
+ мы (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 1 пара\nДополнительн
+ о: Коробкова О.В.\nURALCAMPUS_SYNC_ID:92cfd92e8361b719bf8e8de
+ 5980122bb\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b1850833b4cb4660c16de518660e208c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Корпоративные информационные систе
+ мы (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 2 пара\nДополнительн
+ о: Коробкова О.В.\nURALCAMPUS_SYNC_ID:b1850833b4cb4660c16de51
+ 8660e208c\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4e91486e68c914652a39ce937116e0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Основы web-технологий (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 1 пара\nДополнительн
+ о: Мухина Ю. Р.\nURALCAMPUS_SYNC_ID:3c4e91486e68c914652a39ce9371
+ 16e0\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6b52e82221a0af4f231d1d3ab5be5837@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Основы web-технологий (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 2 пара\nДополнительн
+ о: Мухина Ю. Р.\nURALCAMPUS_SYNC_ID:6b52e82221a0af4f231d1d3ab5be
+ 5837\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fed02e72f0e8e348c39594b2d8f760dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Инструментальные средства информац
+ ионных систем (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 3 пара\nДополнительн
+ о: Блинов А.В.\nURALCAMPUS_SYNC_ID:fed02e72f0e8e348c39594b2d8f76
+ 0dc\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:969ca6661b79d6f31a8044a357130678@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Инструментальные средства информац
+ ионных систем (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 4 пара\nДополнительн
+ о: Блинов А.В.\nURALCAMPUS_SYNC_ID:969ca6661b79d6f31a8044a357130
+ 678\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f93bdf425e178c996c93f247dcf5a27e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Операционные системы (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 5 пара\nДополнительн
+ о: Шевякин М.А.\nURALCAMPUS_SYNC_ID:f93bdf425e178c996c93f247dcf
+ 5a27e\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:c76d7c96c150a130834933cab974b2de@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Операционные системы (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-307\nПара: 6 пара\nДополнительн
+ о: Шевякин М.А.\nURALCAMPUS_SYNC_ID:c76d7c96c150a130834933cab97
+ 4b2de\nURALCAMPUS_SOURCE:inueco:group:a09d1d35-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+END:VCALENDAR

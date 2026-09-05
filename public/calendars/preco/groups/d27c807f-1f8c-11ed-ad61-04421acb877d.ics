@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: Ф-302\, Ф-302А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b40c0158da25c10950f09fff3c9a94b0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 1 пара\nДополнитель
+ но: Каримова К.Р.\nURALCAMPUS_SYNC_ID:b40c0158da25c10950f09ff
+ f3c9a94b0\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:66ce308cb74dcadd818c7f3ce30b023c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 2 пара\nДополнитель
+ но: Каримова К.Р.\nURALCAMPUS_SYNC_ID:66ce308cb74dcadd818c7f3
+ ce30b023c\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9a6851052f5061e328c64c9d59e3199d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 3 пара\nДополнитель
+ но: Каримова К.Р.\nURALCAMPUS_SYNC_ID:9a6851052f5061e328c64c9
+ d59e3199d\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b0315bd6bc1a79fa04e44ca1b78bef00@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 2 пара\nДополнитель
+ но: Дресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:b0315bd6bc1a7
+ 9fa04e44ca1b78bef00\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:05acd0df71bbb381b537476a8c2db649@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 3 пара\nДополнитель
+ но: Дресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:05acd0df71bbb
+ 381b537476a8c2db649\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5f41e9340fc4cd8bb80af79ec9485f3a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 4 пара\nДополнитель
+ но: Дресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:5f41e9340fc4c
+ d8bb80af79ec9485f3a\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a17f8b175387516a1309b7a5aad9e2fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 1 пара\nДополнитель
+ но: Сазонова И.А.\nURALCAMPUS_SYNC_ID:a17f8b175387516a1309b7a
+ 5aad9e2fb\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:32686b8bb13b9aec88fad4acf4b1911d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Психология общения (Аудиторные заня
+ тия)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 2 пара\nДополнитель
+ но: Мостовая К.Н.\nURALCAMPUS_SYNC_ID:32686b8bb13b9aec88fad4a
+ cf4b1911d\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8f35b9e011f826ff67cd6e984dc313@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 505\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 1 пара\nДополнитель
+ но: Дресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:bf8f35b9e011f
+ 826ff67cd6e984dc313\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:291e2e4ebddab04301cf0b9fb402d510@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 505\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 2 пара\nДополнитель
+ но: Дресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:291e2e4ebddab
+ 04301cf0b9fb402d510\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0dd5ad98352512b5810d847f74c4aca4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 3 пара\nДополнитель
+ но: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:0dd5ad98352512b5810d847f7
+ 4c4aca4\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:68bf7862a89ff1d78390771bab9ca01a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 1 пара\nДополнитель
+ но: Каримова К.Р.\nURALCAMPUS_SYNC_ID:68bf7862a89ff1d78390771
+ bab9ca01a\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b17cccb4649cd915863e8fd15abf3734@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 2 пара\nДополнитель
+ но: Каримова К.Р.\nURALCAMPUS_SYNC_ID:b17cccb4649cd915863e8fd
+ 15abf3734\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5949fe8a121d1b5c2e11d2dedd816134@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 3 пара\nДополнитель
+ но: Каримова К.Р.\nURALCAMPUS_SYNC_ID:5949fe8a121d1b5c2e11d2d
+ edd816134\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee00d583701a45e1a3733724f93e3c1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 4 пара\nДополнитель
+ но: Каримова К.Р.\nURALCAMPUS_SYNC_ID:0ee00d583701a45e1a37337
+ 24f93e3c1\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8ad896ad0fc4ac7a1b4c80da8583dd6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 4 пара\nДополнитель
+ но: Дресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:8ad896ad0fc4a
+ c7a1b4c80da8583dd6b\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d359b78657385b122c1c922f700d111a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 5 пара\nДополнитель
+ но: Стокоз О.С.\nURALCAMPUS_SYNC_ID:d359b78657385b122c1c922f700
+ d111a\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eb0ec103e6bdff80450688d2c6a256ae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-302\, Ф-302А\nПара: 6 пара\nДополнитель
+ но: Стокоз О.С.\nURALCAMPUS_SYNC_ID:eb0ec103e6bdff80450688d2c6a
+ 256ae\nURALCAMPUS_SOURCE:preco:group:d27c807f-1f8c-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

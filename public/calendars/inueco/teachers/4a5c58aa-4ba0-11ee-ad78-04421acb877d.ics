@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Кравченко Елена В
+ ладимировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:47dd91d09f5fee319aeb11930859520b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 1 пара\nДополнительно: З-113\
+ , С-116\nURALCAMPUS_SYNC_ID:47dd91d09f5fee319aeb11930859520b\nURALCAMPUS
+ _SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2a870a1af86d388a45f8f7118958cd89@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 2 пара\nДополнительно: А-110\
+ , Д-105\nURALCAMPUS_SYNC_ID:2a870a1af86d388a45f8f7118958cd89\nURALCAMPUS
+ _SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:305021fc7f62a6355b3b382ce6065e27@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 404\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 1 пара\nДополнительно: З-113\
+ , С-116\nURALCAMPUS_SYNC_ID:305021fc7f62a6355b3b382ce6065e27\nURALCAMPUS
+ _SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1c2e8b8e2f3d5f30d2d3bb3d62ae0d3c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 404\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 2 пара\nДополнительно: З-113\
+ , С-116\nURALCAMPUS_SYNC_ID:1c2e8b8e2f3d5f30d2d3bb3d62ae0d3c\nURALCAMPUS
+ _SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f857d0228ffe51dce763077a4c938c40@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 3 пара\nДополнительно: А-110\
+ , Д-105\nURALCAMPUS_SYNC_ID:f857d0228ffe51dce763077a4c938c40\nURALCAMPUS
+ _SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:67a07fc61f2c60e86d4297c22f8cf499@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 404\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 1 пара\nДополнительно: З-113\
+ , С-116\nURALCAMPUS_SYNC_ID:67a07fc61f2c60e86d4297c22f8cf499\nURALCAMPUS
+ _SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:44785c526cf97afa4a4c3259f98db415@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 2 пара\nДополнительно: А-110\
+ , Д-105\nURALCAMPUS_SYNC_ID:44785c526cf97afa4a4c3259f98db415\nURALCAMPUS
+ _SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:24077fd16f1cc1ff6ac5b25f4418419b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 3 пара\nДополнительно: А-110\
+ , Д-105\nURALCAMPUS_SYNC_ID:24077fd16f1cc1ff6ac5b25f4418419b\nURALCAMPUS
+ _SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cc28146f016bc130ecd4942f34599bdd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 1 пара\nДополнительно: Л-111\
+ , ТД-106\nURALCAMPUS_SYNC_ID:cc28146f016bc130ecd4942f34599bdd\nURALCAMP
+ US_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d1732d53a57a3864d8246c75577818@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 2 пара\nДополнительно: Л-111\
+ , ТД-106\nURALCAMPUS_SYNC_ID:d1d1732d53a57a3864d8246c75577818\nURALCAMP
+ US_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e304e07f720e52dd376daf03bf961b68@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 3 пара\nДополнительно: ГМУ-
+ 102\, М-103\, Э-109\nURALCAMPUS_SYNC_ID:e304e07f720e52dd376daf03bf961b6
+ 8\nURALCAMPUS_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6f869a9f992b6326a0da972d61d9d59b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 4 пара\nДополнительно: И-107\
+ , И-107а\nURALCAMPUS_SYNC_ID:6f869a9f992b6326a0da972d61d9d59b\nURALCAMP
+ US_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1834f54c50d575d051bf4b7e5117826a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 5 пара\nДополнительно: И-107\
+ , И-107а\nURALCAMPUS_SYNC_ID:1834f54c50d575d051bf4b7e5117826a\nURALCAMP
+ US_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:46216ee086a30127723169fdda3e30e1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 1 пара\nДополнительно: ГМУ-
+ 102\, М-103\, Э-109\nURALCAMPUS_SYNC_ID:46216ee086a30127723169fdda3e30e
+ 1\nURALCAMPUS_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:579a8c636c922dae2b0bfa685e7e4e07@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 2 пара\nДополнительно: Л-111\
+ , ТД-106\nURALCAMPUS_SYNC_ID:579a8c636c922dae2b0bfa685e7e4e07\nURALCAMP
+ US_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7951554e396c874e7b3aa900c79d432b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 3 пара\nДополнительно: СПД-
+ 112\, Ю-101\nURALCAMPUS_SYNC_ID:7951554e396c874e7b3aa900c79d432b\nURALCA
+ MPUS_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fbac45fa31263fe0a2621b0167859594@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 4 пара\nДополнительно: СПД-
+ 112\, Ю-101\nURALCAMPUS_SYNC_ID:fbac45fa31263fe0a2621b0167859594\nURALCA
+ MPUS_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c8fa3a711d77999132b8cec0858b7bf1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 1 пара\nДополнительно: СПД-
+ 112\, Ю-101\nURALCAMPUS_SYNC_ID:c8fa3a711d77999132b8cec0858b7bf1\nURALCA
+ MPUS_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e3c51443849039b141b3673eb6ba6c9d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кравченко Елена Влади
+ мировна\nПара: 2 пара\nДополнительно: ГМУ-
+ 102\, М-103\, Э-109\nURALCAMPUS_SYNC_ID:e3c51443849039b141b3673eb6ba6c9
+ d\nURALCAMPUS_SOURCE:inueco:teacher:4a5c58aa-4ba0-11ee-ad78-04421acb877d
+END:VEVENT
+END:VCALENDAR

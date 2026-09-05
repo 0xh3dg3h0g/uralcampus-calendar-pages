@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Шевякин Михаил Ал
+ ександрович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bcfa64bfdd89345121c63832e7df7229@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Инфокоммуникационные системы и сет
+ и (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 6 пара\nДополнительно: И-407\
+ nURALCAMPUS_SYNC_ID:bcfa64bfdd89345121c63832e7df7229\nURALCAMPUS_SOURCE:i
+ nueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78e1d3a8ef3ef45cc5cff79d94034539@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Инфокоммуникационные системы и сет
+ и (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 7 пара\nДополнительно: И-407\
+ nURALCAMPUS_SYNC_ID:78e1d3a8ef3ef45cc5cff79d94034539\nURALCAMPUS_SOURCE:i
+ nueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b172493d910fbd563188ac36328f526f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Операционные системы (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 5 пара\nДополнительно: И-307\
+ , И-307а\nURALCAMPUS_SYNC_ID:b172493d910fbd563188ac36328f526f\nURALCAMP
+ US_SOURCE:inueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eac83f015191d9c89b0b2c139c945336@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Операционные системы (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 6 пара\nДополнительно: И-307\
+ , И-307а\nURALCAMPUS_SYNC_ID:eac83f015191d9c89b0b2c139c945336\nURALCAMP
+ US_SOURCE:inueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aa0733cac18fc35d6f8eb9aa0d0c347a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Операционные системы (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 1 пара\nДополнительно: ИЗ-30
+ 1\nURALCAMPUS_SYNC_ID:aa0733cac18fc35d6f8eb9aa0d0c347a\nURALCAMPUS_SOURCE
+ :inueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ba6c5d79b9ac8fec03cdcb168f34713f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Операционные системы (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 2 пара\nДополнительно: ИЗ-30
+ 1\nURALCAMPUS_SYNC_ID:ba6c5d79b9ac8fec03cdcb168f34713f\nURALCAMPUS_SOURCE
+ :inueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e12de79dd520b643531900141fdd25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Операционные системы (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 3 пара\nДополнительно: ИЗ-30
+ 1\nURALCAMPUS_SYNC_ID:e0e12de79dd520b643531900141fdd25\nURALCAMPUS_SOURCE
+ :inueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f3f4f3b08df17fc5bbdc729f5acf7095@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Операционные системы (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 4 пара\nДополнительно: ИЗ-30
+ 1\nURALCAMPUS_SYNC_ID:f3f4f3b08df17fc5bbdc729f5acf7095\nURALCAMPUS_SOURCE
+ :inueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e856ef66a119b845008ea72f0f9a3fe8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Операционные системы (Зачет)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шевякин Михаил Алекса
+ ндрович\nПара: 5 пара\nДополнительно: ИЗ-30
+ 1\nURALCAMPUS_SYNC_ID:e856ef66a119b845008ea72f0f9a3fe8\nURALCAMPUS_SOURCE
+ :inueco:teacher:56c6bdc3-5894-11f0-ad93-04421acb877d
+END:VEVENT
+END:VCALENDAR

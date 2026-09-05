@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Савочкина Екатери
+ на Эдуардовна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:15da1eb0f8b64944479fbdf717f0b3c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Техника графики (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 2 пара\nДополнительно: Д-
+ 205\nURALCAMPUS_SYNC_ID:15da1eb0f8b64944479fbdf717f0b3c2\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:483197ac69c16847dfc304f7ae276124@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Техника графики (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 3 пара\nДополнительно: Д-
+ 205\nURALCAMPUS_SYNC_ID:483197ac69c16847dfc304f7ae276124\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3a368890d858f37bb4443ced001380@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Иллюстрация (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 4 пара\nДополнительно: Д-
+ 305\nURALCAMPUS_SYNC_ID:fa3a368890d858f37bb4443ced001380\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fedfdf7fd87b3fdcd577f51a098170b6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Иллюстрация (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 5 пара\nДополнительно: Д-
+ 305\nURALCAMPUS_SYNC_ID:fedfdf7fd87b3fdcd577f51a098170b6\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:131259ff2fe9b9f6fa4a34179b1fdb59@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Академическая живопись (Практика)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 1 пара\nДополнительно: Д-
+ 205\nURALCAMPUS_SYNC_ID:131259ff2fe9b9f6fa4a34179b1fdb59\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6500fcbd18b7e927f320a12302314c41@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Академическая живопись (Практика)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 2 пара\nДополнительно: Д-
+ 205\nURALCAMPUS_SYNC_ID:6500fcbd18b7e927f320a12302314c41\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d08d6da2a9045099a604b9629383ff70@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Живопись и колористика (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 3 пара\nДополнительно: А-
+ 310\nURALCAMPUS_SYNC_ID:d08d6da2a9045099a604b9629383ff70\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:058421f78a632feb47f731b5daf190fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Живопись и колористика (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 4 пара\nДополнительно: А-
+ 310\nURALCAMPUS_SYNC_ID:058421f78a632feb47f731b5daf190fb\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fad180d771efaf22115c3e688ff54b9e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Иллюстрация (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 6 пара\nДополнительно: Д
+ З-401\nURALCAMPUS_SYNC_ID:fad180d771efaf22115c3e688ff54b9e\nURALCAMPUS_S
+ OURCE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:998b983049de62d94801c4f25dc4fce2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Иллюстрация (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 7 пара\nДополнительно: Д
+ З-401\nURALCAMPUS_SYNC_ID:998b983049de62d94801c4f25dc4fce2\nURALCAMPUS_S
+ OURCE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c4f4642cb218bedaa18c95b5c4ac38d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Цветоведение и колористика (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савочкина Екатерина Э
+ дуардовна\nПара: 2 пара\nДополнительно: Д-
+ 105\nURALCAMPUS_SYNC_ID:c4f4642cb218bedaa18c95b5c4ac38d2\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ba98021e-22a7-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

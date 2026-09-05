@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: З-344\, З-344А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0af030c362ae122a716d23ea4b9b9ce1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Здания и сооружения (Аудиторные зан
+ ятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 1 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:0af030c362ae122a716d23e
+ a4b9b9ce1\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:70d3611c5d76186df4bd77581471b7b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Здания и сооружения (Аудиторные зан
+ ятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 2 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:70d3611c5d76186df4bd775
+ 81471b7b7\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:03ba60197e36f00b2bb8c9ef6eb86a92@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Здания и сооружения (Аудиторные зан
+ ятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 3 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:03ba60197e36f00b2bb8c9e
+ f6eb86a92\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:aa61d84e5ddeeebeb4873ffd298edb92@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы экономики организации\, мене
+ джмента и маркетинга (Аудиторные заняти
+ я)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 4 пара\nДополнитель
+ но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:aa61d84e5ddeeebeb48
+ 73ffd298edb92\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-0025
+ 9061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:af06146952261f091521022fcb495033@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 404\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 5 пара\nДополнитель
+ но: Моторина Л.А.\nURALCAMPUS_SYNC_ID:af06146952261f091521022
+ fcb495033\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:8cbd3c1b221d6525fe959f7e04af9ec8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 6 пара\nДополнитель
+ но: Владимирова К.П.\nURALCAMPUS_SYNC_ID:8cbd3c1b221d6525f
+ e959f7e04af9ec8\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00
+ 259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c260f234061473f82e061f067d6d1fd8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Охрана труда (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 3 пара\nДополнитель
+ но: Паньжина М.К.\nURALCAMPUS_SYNC_ID:c260f234061473f82e061f0
+ 67d6d1fd8\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:45717735c9e2d70dabc38d0b89c97271@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 4 пара\nДополнитель
+ но: Курова К.В.\nURALCAMPUS_SYNC_ID:45717735c9e2d70dabc38d0b89c
+ 97271\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7d75e8cdb202a2050fa3f6fd9c2ca8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Выполнение топографических съемок 
+ и оформление их результатов (Аудиторные
+  занятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 1 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:bd7d75e8cdb202a2050fa3f
+ 6fd9c2ca8\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:19482809e097468c48f4c057dafca726@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Выполнение топографических съемок 
+ и оформление их результатов (Аудиторные
+  занятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 2 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:19482809e097468c48f4c05
+ 7dafca726\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1e3e36563ba66bf2b932853ab00993@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Замерщик на топографо-геодезически
+ х и маркшейдерских работах (Аудиторные 
+ занятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 3 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:fd1e3e36563ba66bf2b9328
+ 53ab00993\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:42aa663bad747e168c23f31c56f80faa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Замерщик на топографо-геодезически
+ х и маркшейдерских работах (Аудиторные 
+ занятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 4 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:42aa663bad747e168c23f31
+ c56f80faa\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:131df9b5b53f54e92b2222b2da10013b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Основы экономики организации\, мене
+ джмента и маркетинга (Аудиторные заняти
+ я)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 5 пара\nДополнитель
+ но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:131df9b5b53f54e92b2
+ 222b2da10013b\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-0025
+ 9061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e2835bec4579a5733a9a2516f686d9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Правовое регулирование отношений в 
+ землеустройстве\, кадастре и градострои
+ тельстве (Аудиторные занятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 6 пара\nДополнитель
+ но: Чкалова Э.В.\nURALCAMPUS_SYNC_ID:b8e2835bec4579a5733a9a251
+ 6f686d9\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061e1
+ 8b
+END:VEVENT
+END:VCALENDAR

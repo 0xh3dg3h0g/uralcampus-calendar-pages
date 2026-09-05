@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ОЛ-220\, ОЛ-220А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:71c4be1e4e29cd8c23689d18031ac483@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 4 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:71c4be1e4e29cd8
+ c23689d18031ac483\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:383d8ecbcc0f69a79ffabe68de32d0ef@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T153000
+DTEND;TZID=Asia/Yekaterinburg:20260905T170000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 5 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:383d8ecbcc0f69a
+ 79ffabe68de32d0ef\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2796a7ebd8395be886fad988428a9e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 1 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:ac2796a7ebd8395be886f
+ ad988428a9e\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:8efca005d2d43af4800c06b234aa4f41@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Основы логистической деятельности (
+ Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 2 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:8efca005d2d43af
+ 4800c06b234aa4f41\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:d74df009bdac630f991f2f25616f7c22@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 2 пара\nДополните
+ льно: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:d74df009bdac630f991f2
+ f25616f7c22\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:e52503a74c3a871c7f4d08e4f721670c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 3 пара\nДополните
+ льно: Попова К.С.\nURALCAMPUS_SYNC_ID:e52503a74c3a871c7f4d08e
+ 4f721670c\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4de44c8e3aca4d4604fb0c993a41dc1c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 4 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:4de44c8e3aca4d4604fb0
+ c993a41dc1c\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7990b831f81a02662833bad2bede220e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Статистика (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 5 пара\nДополните
+ льно: Важенина Е.В.\nURALCAMPUS_SYNC_ID:7990b831f81a0266283
+ 3bad2bede220e\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a92cd3239d7ae7879d4d5a479aa09642@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 3 пара\nДополните
+ льно: Надеждина О.А.\nURALCAMPUS_SYNC_ID:a92cd3239d7ae7879
+ d4d5a479aa09642\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ec
+ f4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6d152be2e07a7385e8d27262fe85c0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 4 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:4e6d152be2e07a7
+ 385e8d27262fe85c0\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a6009f6a82173d46bae06d82848409a7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Информационное обеспечение логисти
+ ческих процессов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 5 пара\nДополните
+ льно: Мусин А.Р.\nURALCAMPUS_SYNC_ID:a6009f6a82173d46bae06d828
+ 48409a7\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ecf4bb0e52
+ 85
+END:VEVENT
+BEGIN:VEVENT
+UID:196c59fa2979b9f0554e6274bc1b2f85@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Документационное обеспечение управ
+ ления (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 1 пара\nДополните
+ льно: Степанова С.Л.\nURALCAMPUS_SYNC_ID:196c59fa2979b9f05
+ 54e6274bc1b2f85\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ec
+ f4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:c847709a4c788625ea463bb2141cdeae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Документационное обеспечение управ
+ ления (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 2 пара\nДополните
+ льно: Степанова С.Л.\nURALCAMPUS_SYNC_ID:c847709a4c788625e
+ a463bb2141cdeae\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ec
+ f4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4be93db6f70781660dfaaa6f81fc1b6d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 3 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:4be93db6f70781660dfaa
+ a6f81fc1b6d\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:89e71b321dc1f04c4db3eb5617f36fc1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 3 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:89e71b321dc1f04
+ c4db3eb5617f36fc1\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9d8200db99e3de1ef3dd6ad51f52b562@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T135000
+DTEND;TZID=Asia/Yekaterinburg:20260912T152000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 4 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:9d8200db99e3de1
+ ef3dd6ad51f52b562\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:09e1b9761d480125f3ad83cb99e614fe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T153000
+DTEND;TZID=Asia/Yekaterinburg:20260912T170000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 5 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:09e1b9761d48012
+ 5f3ad83cb99e614fe\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ТДЗ-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c8134c36c539afe0964c402dd79c2ebe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Таможенные платежи (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 4 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:c8134c36c539afe0964c402
+ dd79c2ebe\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ecda7a2ad2d5465167e5e8876dccdb6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Таможенные платежи (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 5 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:ecda7a2ad2d5465167e5e88
+ 76dccdb6c\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b73354d9daef8a88a662d2ad25ddeb9f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Таможенные платежи (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 6 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:b73354d9daef8a88a662d2a
+ d25ddeb9f\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8350e0019366d7ceadd0f694d1ea7f14@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Таможенные платежи (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 7 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:8350e0019366d7ceadd0f69
+ 4d1ea7f14\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a78e93cb03743130017b726f6832004d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Таможенные операции (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 2 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:a78e93cb03743130017b726
+ f6832004d\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5469340b711d197365831b261f24878f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Таможенные операции (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 3 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:5469340b711d197365831b2
+ 61f24878f\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:42ea994daf14f600e481db6ee38c9a00@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Таможенные операции (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 4 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:42ea994daf14f600e481db6
+ ee38c9a00\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d8b25c652629eede32775b55543d794d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Таможенные операции (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 5 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:d8b25c652629eede32775b5
+ 5543d794d\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3925d2a88d6ac274d3de14ecb0c6fd40@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Таможенные операции (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 6 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:3925d2a88d6ac274d3de14e
+ cb0c6fd40\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:806a5e9e48b2cad4c576b16e2b1b87a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Таможенная статистика (Лекция)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 5 пара\nДополнител
+ ьно: Сергеичева И. А.\nURALCAMPUS_SYNC_ID:806a5e9e48b2cad4
+ c576b16e2b1b87a5\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4d076ddb7c3de4c59dc2c16051218944@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 6 пара\nДополнител
+ ьно: Сумина Н. В.\nURALCAMPUS_SYNC_ID:4d076ddb7c3de4c59dc2c160
+ 51218944\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:625c9681bbe89fa84cdb6b4c50cd15f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 7 пара\nДополнител
+ ьно: Сумина Н. В.\nURALCAMPUS_SYNC_ID:625c9681bbe89fa84cdb6b4c
+ 50cd15f4\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9e2e1ae0fec36448fe5e0ee63fc798d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 8 пара\nДополнител
+ ьно: Сумина Н. В.\nURALCAMPUS_SYNC_ID:9e2e1ae0fec36448fe5e0ee6
+ 3fc798d6\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b94b8ed6e3713d5f572b40b3a230b53d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Лекция)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 4 пара\nДополнител
+ ьно: Сумина Н. В.\nURALCAMPUS_SYNC_ID:b94b8ed6e3713d5f572b40b3
+ a230b53d\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:01dddb95f56072fde40b0d20cd788f8c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 5 пара\nДополнител
+ ьно: Сумина Н. В.\nURALCAMPUS_SYNC_ID:01dddb95f56072fde40b0d20
+ cd788f8c\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe7c66f0cb8c3e86a3962718351682e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 6 пара\nДополнител
+ ьно: Сумина Н. В.\nURALCAMPUS_SYNC_ID:bbe7c66f0cb8c3e86a396271
+ 8351682e\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bd04dccd986abe9dc4b082e595ab837a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Запреты и ограничения внешнеторгов
+ ой деятельности (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 7 пара\nДополнител
+ ьно: Сенчихина И.А.\nURALCAMPUS_SYNC_ID:bd04dccd986abe9dc4b
+ 082e595ab837a\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:86a9bf077e8473ee172edd664cac998f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Запреты и ограничения внешнеторгов
+ ой деятельности (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 8 пара\nДополнител
+ ьно: Сенчихина И.А.\nURALCAMPUS_SYNC_ID:86a9bf077e8473ee172
+ edd664cac998f\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10b7ec4a735c912b401f45fea410fd49@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Общий менеджмент (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 3 пара\nДополнител
+ ьно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:10b7ec4a735c912b40
+ 1f45fea410fd49\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2ad1dee296ffea21343fbb51bc5d5b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Общий менеджмент (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 4 пара\nДополнител
+ ьно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:7f2ad1dee296ffea21
+ 343fbb51bc5d5b\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b856fe424e5f17b746f7d5d12c55761f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Общий менеджмент (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 5 пара\nДополнител
+ ьно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:b856fe424e5f17b746
+ f7d5d12c55761f\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f807acfd6160ddfc7cf24d7595c14a28@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Основы научных исследований (Лекция
+ )
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 5 пара\nДополнител
+ ьно: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:f807acfd6160ddfc7c
+ f24d7595c14a28\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eb491eb8c31a676ed6a153a5bb201dc2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:Основы научных исследований (Лекция
+ )
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 6 пара\nДополнител
+ ьно: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:eb491eb8c31a676ed6
+ a153a5bb201dc2\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b2946a7b2089c9ca8f2e22d37a1ee909@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T182000
+DTEND;TZID=Asia/Yekaterinburg:20260912T193000
+SUMMARY:Основы научных исследований (Практи
+ ка)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 7 пара\nДополнител
+ ьно: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:b2946a7b2089c9ca8f
+ 2e22d37a1ee909\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:41b2a891ba6bc602a93d27b47ce5f0a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T194000
+DTEND;TZID=Asia/Yekaterinburg:20260912T205000
+SUMMARY:Основы научных исследований (Практи
+ ка)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 8 пара\nДополнител
+ ьно: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:41b2a891ba6bc602a9
+ 3d27b47ce5f0a6\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

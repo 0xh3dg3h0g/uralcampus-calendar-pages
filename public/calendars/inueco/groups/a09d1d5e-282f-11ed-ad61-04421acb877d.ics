@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: МЗ-501
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:663e33485ba76a667a7cd33705666653@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Инновационный менеджмент (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501\nПара: 6 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:663e33485ba76a667a7c
+ d33705666653\nURALCAMPUS_SOURCE:inueco:group:a09d1d5e-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:750bcd23d4dda75c504ff3a6719a4314@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Инновационный менеджмент (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501\nПара: 7 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:750bcd23d4dda75c504f
+ f3a6719a4314\nURALCAMPUS_SOURCE:inueco:group:a09d1d5e-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b10211dfa67386a6316fe1c4f27df1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Инновационный менеджмент (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501\nПара: 8 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:c1b10211dfa67386a631
+ 6fe1c4f27df1\nURALCAMPUS_SOURCE:inueco:group:a09d1d5e-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:74f54c396e05af6b2f4f3f21eec86564@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Инновационный менеджмент (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501\nПара: 6 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:74f54c396e05af6b2f4f
+ 3f21eec86564\nURALCAMPUS_SOURCE:inueco:group:a09d1d5e-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:63747528697704e536e134dc16091f4e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Реинжиниринг бизнеса (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501\nПара: 7 пара\nДополнитель
+ но: Лобанов В. С.\nURALCAMPUS_SYNC_ID:63747528697704e536e134dc
+ 16091f4e\nURALCAMPUS_SOURCE:inueco:group:a09d1d5e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:949013c93612cdc17aadd37133cd9199@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Реинжиниринг бизнеса (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501\nПара: 8 пара\nДополнитель
+ но: Лобанов В. С.\nURALCAMPUS_SYNC_ID:949013c93612cdc17aadd371
+ 33cd9199\nURALCAMPUS_SOURCE:inueco:group:a09d1d5e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

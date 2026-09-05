@@ -1,0 +1,552 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Цветникова Яна Ва
+ лерьевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e5bffd4f494d3d384ce08694b8d8d1d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 1 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
+ nURALCAMPUS_SYNC_ID:e5bffd4f494d3d384ce08694b8d8d1d4\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:23ade91515ec401e4f320e3da9963832@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Бухгалтерский учёт логистических о
+ пераций (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 2 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
+ nURALCAMPUS_SYNC_ID:23ade91515ec401e4f320e3da9963832\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:e2971a2c8363d69d1baaefcd9668e7db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Бухгалтерский учёт логистических о
+ пераций (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
+ nURALCAMPUS_SYNC_ID:e2971a2c8363d69d1baaefcd9668e7db\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:c2320186b85e7c405a4480048350cf1b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 4 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
+ nURALCAMPUS_SYNC_ID:c2320186b85e7c405a4480048350cf1b\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0500c11b8dd47bf8e9f1fd5214a50f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T153000
+DTEND;TZID=Asia/Yekaterinburg:20260905T170000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 5 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
+ nURALCAMPUS_SYNC_ID:6c0500c11b8dd47bf8e9f1fd5214a50f\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:d72b269666bbccb52d71a0929dec3886@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Выполнение работ по профессии 20002 Аг
+ ент банка (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 1 пара\nДополнительно: Б-334\, Б-334А\nURA
+ LCAMPUS_SYNC_ID:d72b269666bbccb52d71a0929dec3886\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f259cb7262430d4c467c7e93fb9271c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Выполнение работ по профессии 20002 Аг
+ ент банка (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 2 пара\nДополнительно: Б-334\, Б-334А\nURA
+ LCAMPUS_SYNC_ID:f259cb7262430d4c467c7e93fb9271c4\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:89c1271c9f1e1ec6570719f2a0d16974@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Выполнение работ по профессии 20002 Аг
+ ент банка (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: Б-334\, Б-334А\nURA
+ LCAMPUS_SYNC_ID:89c1271c9f1e1ec6570719f2a0d16974\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:0fa5516d31357c09c769774aa502ec1f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы экономики организации\, мене
+ джмента и маркетинга (Аудиторные заняти
+ я)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 4 пара\nДополнительно: З-344\, З-344А\nURA
+ LCAMPUS_SYNC_ID:0fa5516d31357c09c769774aa502ec1f\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:58b3b04302a2213984efbbb22854af4a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Основы менеджмента (Аудиторные заня
+ тия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 5 пара\nДополнительно: Д-342\nURALCAMPUS_SYN
+ C_ID:58b3b04302a2213984efbbb22854af4a\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5fc5bf2a5bb10450ad67b3303fc4dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 1 пара\nДополнительно: Ю-208\, Ю-208А\nURA
+ LCAMPUS_SYNC_ID:3f5fc5bf2a5bb10450ad67b3303fc4dc\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:45e42900391d345cf349fc85469f2c2a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Основы логистической деятельности (
+ Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 2 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
+ nURALCAMPUS_SYNC_ID:45e42900391d345cf349fc85469f2c2a\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:45af822ddabca33373e808d0ca3db7f8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Организация и ведение коммерческой 
+ деятельности специалиста индустрии кра
+ соты (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: ТИК-224\nURALCAMPUS
+ _SYNC_ID:45af822ddabca33373e808d0ca3db7f8\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:cb35eaf9be7ce4906dcec81cb51e41f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 4 пара\nДополнительно: СД-323\nURALCAMPUS_S
+ YNC_ID:cb35eaf9be7ce4906dcec81cb51e41f5\nURALCAMPUS_SOURCE:preco:teacher:
+ f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5b1fddf927d7ec8ecd1da382673dff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 5 пара\nДополнительно: СД-322\nURALCAMPUS_S
+ YNC_ID:4c5b1fddf927d7ec8ecd1da382673dff\nURALCAMPUS_SOURCE:preco:teacher:
+ f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:90ee0ab5caf5f3b5df2778eca4070ad8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Предпринимательская деятельности (
+ Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 1 пара\nДополнительно: П-440\, П-440А\nURA
+ LCAMPUS_SYNC_ID:90ee0ab5caf5f3b5df2778eca4070ad8\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:891f03ea64461a3b7d1557a85e297285@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Бухгалтерский учет (Аудиторные заня
+ тия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 2 пара\nДополнительно: Б-334\, Б-334А\nURA
+ LCAMPUS_SYNC_ID:891f03ea64461a3b7d1557a85e297285\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:066f94d82d5afe709e053fd0e5cd7bb9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Основы менеджмента (Аудиторные заня
+ тия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: Д-312\, Д-312А\nURA
+ LCAMPUS_SYNC_ID:066f94d82d5afe709e053fd0e5cd7bb9\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:1843a71f103be441777677ae71bca2a2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Страхование (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 4 пара\nДополнительно: Б-334\, Б-334А\nURA
+ LCAMPUS_SYNC_ID:1843a71f103be441777677ae71bca2a2\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:2caa8c4003051e86904ac57ec9e95919@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Страхование (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 5 пара\nДополнительно: Б-334\, Б-334А\nURA
+ LCAMPUS_SYNC_ID:2caa8c4003051e86904ac57ec9e95919\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ae10075484fe0584c839439496077ee9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 1 пара\nДополнительно: П-310\, П-310А\nURA
+ LCAMPUS_SYNC_ID:ae10075484fe0584c839439496077ee9\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:452555ffc0d8c77df43e2e54b1442a2d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Экономика отрасли (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 2 пара\nДополнительно: П-211\nURALCAMPUS_SYN
+ C_ID:452555ffc0d8c77df43e2e54b1442a2d\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:23114b9e6e66a657d5820e6de5c75c04@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Экономика отрасли (Аудиторные занят
+ ия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: П-210\nURALCAMPUS_SYN
+ C_ID:23114b9e6e66a657d5820e6de5c75c04\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:d792ad0d4dd45fb04d5d2e66733fe597@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 4 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
+ nURALCAMPUS_SYNC_ID:d792ad0d4dd45fb04d5d2e66733fe597\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9cf5a556aa627740cc168f7ca16dbdb2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Организация и ведение коммерческой 
+ деятельности специалиста индустрии кра
+ соты (Аудиторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 5 пара\nДополнительно: ТИК-224\nURALCAMPUS
+ _SYNC_ID:9cf5a556aa627740cc168f7ca16dbdb2\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a87dfaf42d29b5c2f344b76ddb9e3d4f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Основы менеджмента (Аудиторные заня
+ тия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 1 пара\nДополнительно: Д-342\nURALCAMPUS_SYN
+ C_ID:a87dfaf42d29b5c2f344b76ddb9e3d4f\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:604552bee3defef87e5a73bd341d4d70@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 2 пара\nДополнительно: Д-242\nURALCAMPUS_SYN
+ C_ID:604552bee3defef87e5a73bd341d4d70\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b1e802c903ac97d9531a7202f8ff20@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: Д-212\, Д-212А\nURA
+ LCAMPUS_SYNC_ID:d0b1e802c903ac97d9531a7202f8ff20\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:8774d51dc69c15bfb0a7fe5cedf4e0dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: Д-212А (1)\nURALCAMP
+ US_SYNC_ID:8774d51dc69c15bfb0a7fe5cedf4e0dc\nURALCAMPUS_SOURCE:preco:teac
+ her:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ece2c2780cd968eb77da274408623186@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: Д-212А (2)\nURALCAMP
+ US_SYNC_ID:ece2c2780cd968eb77da274408623186\nURALCAMPUS_SOURCE:preco:teac
+ her:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f840498f9124e1fe02a775d6af10ed08@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Бухгалтерский учет (Аудиторные заня
+ тия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 4 пара\nДополнительно: Б-334\, Б-334А\nURA
+ LCAMPUS_SYNC_ID:f840498f9124e1fe02a775d6af10ed08\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:cb13b2cc58d7b53d2c501a58611af9eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Основы экономики организации\, мене
+ джмента и маркетинга (Аудиторные заняти
+ я)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 5 пара\nДополнительно: З-344\, З-344А\nURA
+ LCAMPUS_SYNC_ID:cb13b2cc58d7b53d2c501a58611af9eb\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:6be8ca1215adfac792cb3f8adb2ba5eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Основы менеджмента (Аудиторные заня
+ тия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 6 пара\nДополнительно: Д-312\, Д-312А\nURA
+ LCAMPUS_SYNC_ID:6be8ca1215adfac792cb3f8adb2ba5eb\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:898e930c98cefa8f7613c340ad13f043@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 1 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
+ nURALCAMPUS_SYNC_ID:898e930c98cefa8f7613c340ad13f043\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:36fe9368c0ba2ccbf6ab896dce5e28bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Бухгалтерский учёт логистических о
+ пераций (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 2 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
+ nURALCAMPUS_SYNC_ID:36fe9368c0ba2ccbf6ab896dce5e28bb\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:d57f3e24ac2c047c33f1f8e3ba2008f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
+ nURALCAMPUS_SYNC_ID:d57f3e24ac2c047c33f1f8e3ba2008f5\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:1d8d0ec998fcde7fd7c4a033b5275876@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T135000
+DTEND;TZID=Asia/Yekaterinburg:20260912T152000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 4 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
+ nURALCAMPUS_SYNC_ID:1d8d0ec998fcde7fd7c4a033b5275876\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:c26f04769d2de511c90b924f831f9967@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T153000
+DTEND;TZID=Asia/Yekaterinburg:20260912T170000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 5 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
+ nURALCAMPUS_SYNC_ID:c26f04769d2de511c90b924f831f9967\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

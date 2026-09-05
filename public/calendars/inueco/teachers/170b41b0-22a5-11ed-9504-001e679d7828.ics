@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Василенко Людмила
+  Александровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:76e4c2d1bb11ffe73cea25adc65f6a91@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Уголовный процесс (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 6 пара\nДополнительно: 
+ ЮЗ-301/01\, ЮЗ-301/02\, ЮЗ-301/03\, ЮЗ-301/04\, ЮЗ-301/04а\, 
+ ЮЗ-301/05а\, ЮЗ-301/06\, ЮЗ-301/07\, ЮЗ-301/07а\, ЮЗ-301/07б
+ \, ЮЗ-301/11\, ЮЗ-301/12\, ЮЗ-301/12а\, ЮЗ-301/13\, ЮЗ-301/13
+ А\, ЮЗД-301\nURALCAMPUS_SYNC_ID:76e4c2d1bb11ffe73cea25adc65f6a91\nURA
+ LCAMPUS_SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a9aef1dd8730613a0318f8cb12b99589@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Уголовный процесс (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 7 пара\nДополнительно: 
+ ЮЗ-301/01\, ЮЗ-301/02\, ЮЗ-301/03\, ЮЗ-301/04\, ЮЗ-301/04а\, 
+ ЮЗ-301/05а\, ЮЗ-301/06\, ЮЗ-301/07\, ЮЗ-301/07а\, ЮЗ-301/07б
+ \, ЮЗ-301/11\, ЮЗ-301/12\, ЮЗ-301/12а\, ЮЗ-301/13\, ЮЗ-301/13
+ А\, ЮЗД-301\nURALCAMPUS_SYNC_ID:a9aef1dd8730613a0318f8cb12b99589\nURA
+ LCAMPUS_SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3f41c6c24d5904078eec9f80ccf76aaf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Уголовный процесс (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 8 пара\nДополнительно: 
+ ЮЗ-301/01\, ЮЗ-301/02\, ЮЗ-301/03\, ЮЗ-301/04\, ЮЗ-301/04а\, 
+ ЮЗ-301/05а\, ЮЗ-301/06\, ЮЗ-301/07\, ЮЗ-301/07а\, ЮЗ-301/07б
+ \, ЮЗ-301/11\, ЮЗ-301/12\, ЮЗ-301/12а\, ЮЗ-301/13\, ЮЗ-301/13
+ А\, ЮЗД-301\nURALCAMPUS_SYNC_ID:3f41c6c24d5904078eec9f80ccf76aaf\nURA
+ LCAMPUS_SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:35bcc95ea0923d33ff1ab66779fe6fb8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 2 пара\nДополнительно: 
+ СПДЗ-301\nURALCAMPUS_SYNC_ID:35bcc95ea0923d33ff1ab66779fe6fb8\nURALCA
+ MPUS_SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:da584cab3db8833551198d8d1161cc5a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 3 пара\nДополнительно: 
+ СПДЗ-301\nURALCAMPUS_SYNC_ID:da584cab3db8833551198d8d1161cc5a\nURALCA
+ MPUS_SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:16857a3f1ad8a003d148576767f9cec1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Жилищное право (Практика)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 4 пара\nДополнительно: 
+ СПДЗ-301\nURALCAMPUS_SYNC_ID:16857a3f1ad8a003d148576767f9cec1\nURALCA
+ MPUS_SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd952b84f4414b40353ccaee78185ba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Основы квалификации преступлений в 
+ сфере таможенного дела (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 2 пара\nДополнительно: 
+ ТД-506\nURALCAMPUS_SYNC_ID:9dd952b84f4414b40353ccaee78185ba\nURALCAMPUS
+ _SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:38ba48fa6f9ced0ee47c0e508c7e693a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Основы квалификации преступлений в 
+ сфере таможенного дела (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 3 пара\nДополнительно: 
+ ТД-506\nURALCAMPUS_SYNC_ID:38ba48fa6f9ced0ee47c0e508c7e693a\nURALCAMPUS
+ _SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:163c3c009f4cae9658f3d62faeb4e7c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 4 пара\nДополнительно: 
+ Ю-201\nURALCAMPUS_SYNC_ID:163c3c009f4cae9658f3d62faeb4e7c4\nURALCAMPUS_S
+ OURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:b6fadfb7160c332c07b384a16fc78be0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 3 пара\nДополнительно: 
+ СПДЗ-301\nURALCAMPUS_SYNC_ID:b6fadfb7160c332c07b384a16fc78be0\nURALCA
+ MPUS_SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:0836d25a2b3f4fdfa1a5d4d29fd7c96c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Жилищное право (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 4 пара\nДополнительно: 
+ СПДЗ-301\nURALCAMPUS_SYNC_ID:0836d25a2b3f4fdfa1a5d4d29fd7c96c\nURALCA
+ MPUS_SOURCE:inueco:teacher:170b41b0-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:7c9412cb00cf75c5178bcb705dd4f8e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 5 пара\nДополнительно: 
+ ЮЗ-201/01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, 
+ ЮЗ-201/05а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б
+ \, ЮЗ-201/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\
+ , ЮЗ-201/13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:7c9412cb00
+ cf75c5178bcb705dd4f8e2\nURALCAMPUS_SOURCE:inueco:teacher:170b41b0-22a5-11
+ ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f271b8b495995c50e9c6b73ccbe1ee63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Василенко Людмила Але
+ ксандровна\nПара: 6 пара\nДополнительно: 
+ ЮЗ-201/01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, 
+ ЮЗ-201/05а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б
+ \, ЮЗ-201/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\
+ , ЮЗ-201/13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:f271b8b495
+ 995c50e9c6b73ccbe1ee63\nURALCAMPUS_SOURCE:inueco:teacher:170b41b0-22a5-11
+ ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

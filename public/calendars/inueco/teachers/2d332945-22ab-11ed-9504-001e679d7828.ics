@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Алабугин Александ
+ р Николаевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:84594a1e20888e48858c7663b63020d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 6 пара\nДополнительно: СЗ
+ Ду-301\, СЗу-301/04а\, СЗу-301/05\, СЗу-301/06\, СЗу-301/0
+ 7\, СЗу-301/07б\, СЗу-301/13\nURALCAMPUS_SYNC_ID:84594a1e20888e488
+ 58c7663b63020d4\nURALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504
+ -001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6f65277cec5cb51aafe55f7bb490aa80@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 7 пара\nДополнительно: СЗ
+ Ду-301\, СЗу-301/04а\, СЗу-301/05\, СЗу-301/06\, СЗу-301/0
+ 7\, СЗу-301/07б\, СЗу-301/13\nURALCAMPUS_SYNC_ID:6f65277cec5cb51aa
+ fe55f7bb490aa80\nURALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504
+ -001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:b203ac27af2e8717cf12fc5f33158461@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Инженерное оборудование зданий (Лек
+ ция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 5 пара\nДополнительно: А-41
+ 0\nURALCAMPUS_SYNC_ID:b203ac27af2e8717cf12fc5f33158461\nURALCAMPUS_SOURCE
+ :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0f2ce499b38dc6a81e76b0f9eb8fda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Инженерные изыскания в строительст
+ ве (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 6 пара\nДополнительно: СЗ-
+ 201\, СЗУ-201\nURALCAMPUS_SYNC_ID:1d0f2ce499b38dc6a81e76b0f9eb8fda\nUR
+ ALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:524bf3b87f56f41cfc10f10f05e5d2df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Инженерные изыскания в строительст
+ ве (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 7 пара\nДополнительно: СЗ-
+ 201\, СЗУ-201\nURALCAMPUS_SYNC_ID:524bf3b87f56f41cfc10f10f05e5d2df\nUR
+ ALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:bb287cbb3d1b2c5393b9739980fa2feb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Инженерные изыскания в строительст
+ ве (Практика)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 8 пара\nДополнительно: СЗ-
+ 201\, СЗУ-201\nURALCAMPUS_SYNC_ID:bb287cbb3d1b2c5393b9739980fa2feb\nUR
+ ALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:1d06c8b7a765a49792405da04b0fb50e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Архитектурные конструкции (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 3 пара\nДополнительно: А-21
+ 0\nURALCAMPUS_SYNC_ID:1d06c8b7a765a49792405da04b0fb50e\nURALCAMPUS_SOURCE
+ :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:0919e9d783a5e507142f61d61518b5dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Архитектурные конструкции (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 4 пара\nДополнительно: А-21
+ 0\nURALCAMPUS_SYNC_ID:0919e9d783a5e507142f61d61518b5dd\nURALCAMPUS_SOURCE
+ :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9465c58c6ec4f658d57cd308630127@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Архитектурные конструкции (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 5 пара\nДополнительно: А-31
+ 0\nURALCAMPUS_SYNC_ID:6a9465c58c6ec4f658d57cd308630127\nURALCAMPUS_SOURCE
+ :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:be2c6ee97cf796722d72fcd36f9f43ac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 6 пара\nДополнительно: СЗ-
+ 401/01\, СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, СЗ-4
+ 01/05а\, СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, СЗ-40
+ 1/12\, СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:be2c6ee97cf796722d72f
+ cd36f9f43ac\nURALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504-001
+ e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d4fc75515228bf3f637d22b67ac3c802@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 7 пара\nДополнительно: СЗ-
+ 401/01\, СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, СЗ-4
+ 01/05а\, СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, СЗ-40
+ 1/12\, СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:d4fc75515228bf3f637d2
+ 2b67ac3c802\nURALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504-001
+ e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:67f397053f57a4fdafe8745103686a8f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Технология ремонтных и восстановит
+ ельных работ (Лекция)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 6 пара\nДополнительно: СЗ
+ У-401\nURALCAMPUS_SYNC_ID:67f397053f57a4fdafe8745103686a8f\nURALCAMPUS_S
+ OURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f1b7ed5829cd32707888b8ac66dfc758@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Технология ремонтных и восстановит
+ ельных работ (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 7 пара\nДополнительно: СЗ
+ У-401\nURALCAMPUS_SYNC_ID:f1b7ed5829cd32707888b8ac66dfc758\nURALCAMPUS_S
+ OURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3ba2dfa9634706e9461f697fa61ff740@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Технология ремонтных и восстановит
+ ельных работ (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 8 пара\nДополнительно: СЗ
+ У-401\nURALCAMPUS_SYNC_ID:3ba2dfa9634706e9461f697fa61ff740\nURALCAMPUS_S
+ OURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

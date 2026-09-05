@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ДЗ-401
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c5a405eb11c51438ce9cd032b2f2d65e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Иллюстрация (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-401\nПара: 6 пара\nДополнитель
+ но: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:c5a405eb11c51438ce9c
+ d032b2f2d65e\nURALCAMPUS_SOURCE:inueco:group:4b178813-60fb-11ef-ad90-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fabb29080105ac0af389256718836fd4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Иллюстрация (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-401\nПара: 7 пара\nДополнитель
+ но: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:fabb29080105ac0af389
+ 256718836fd4\nURALCAMPUS_SOURCE:inueco:group:4b178813-60fb-11ef-ad90-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR

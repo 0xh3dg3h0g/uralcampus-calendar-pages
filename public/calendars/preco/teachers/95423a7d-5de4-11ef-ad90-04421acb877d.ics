@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Куцко Татьяна Раш
+ идовна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bb89447d428fa51329f60c4897dbd67b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Куцко Татьяна Рашидовна\nП
+ ара: 1 пара\nДополнительно: Ф-332к\, Ф-332Ак\nUR
+ ALCAMPUS_SYNC_ID:bb89447d428fa51329f60c4897dbd67b\nURALCAMPUS_SOURCE:prec
+ o:teacher:95423a7d-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:652aa1120cecd739711273115b68f26e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Куцко Татьяна Рашидовна\nП
+ ара: 2 пара\nДополнительно: Ф-332к\, Ф-332Ак\nUR
+ ALCAMPUS_SYNC_ID:652aa1120cecd739711273115b68f26e\nURALCAMPUS_SOURCE:prec
+ o:teacher:95423a7d-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f7766acc87d75832b88b6ab7408c77@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Куцко Татьяна Рашидовна\nП
+ ара: 3 пара\nДополнительно: Ф-332к\, Ф-332Ак\nUR
+ ALCAMPUS_SYNC_ID:f9f7766acc87d75832b88b6ab7408c77\nURALCAMPUS_SOURCE:prec
+ o:teacher:95423a7d-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:46d30945984b00b1538662df6c7a8d9e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Куцко Татьяна Рашидовна\nП
+ ара: 1 пара\nДополнительно: Ф-332к\, Ф-332Ак\nUR
+ ALCAMPUS_SYNC_ID:46d30945984b00b1538662df6c7a8d9e\nURALCAMPUS_SOURCE:prec
+ o:teacher:95423a7d-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c3f9e8694b88b79f70a20a43fbdf08dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Куцко Татьяна Рашидовна\nП
+ ара: 2 пара\nДополнительно: Ф-332к\, Ф-332Ак\nUR
+ ALCAMPUS_SYNC_ID:c3f9e8694b88b79f70a20a43fbdf08dc\nURALCAMPUS_SOURCE:prec
+ o:teacher:95423a7d-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:645bffeaa34dc8bda999e51a741bcec3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Куцко Татьяна Рашидовна\nП
+ ара: 3 пара\nДополнительно: Ф-332к\, Ф-332Ак\nUR
+ ALCAMPUS_SYNC_ID:645bffeaa34dc8bda999e51a741bcec3\nURALCAMPUS_SOURCE:prec
+ o:teacher:95423a7d-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:917ed4890a55249a70adaf2192f534a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Куцко Татьяна Рашидовна\nП
+ ара: 1 пара\nДополнительно: 132к\nURALCAMPUS_SYNC_ID
+ :917ed4890a55249a70adaf2192f534a9\nURALCAMPUS_SOURCE:preco:teacher:95423a
+ 7d-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc3f0ab32884fb75ccd9368b4ebe20a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Куцко Татьяна Рашидовна\nП
+ ара: 2 пара\nДополнительно: 133к\nURALCAMPUS_SYNC_ID
+ :1bc3f0ab32884fb75ccd9368b4ebe20a\nURALCAMPUS_SOURCE:preco:teacher:95423a
+ 7d-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,408 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Стокоз Оксана Сер
+ геевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0e7d1a6473cf9e1f52c0e5ec626f7bce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 1 пара\nДополнительно: Ф-202\, Ф-202А\nURALCA
+ MPUS_SYNC_ID:0e7d1a6473cf9e1f52c0e5ec626f7bce\nURALCAMPUS_SOURCE:preco:te
+ acher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1abf94ed2aaa98926a163c9e90e5ae17@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 2 пара\nДополнительно: Ф-202\, Ф-202А\nURALCA
+ MPUS_SYNC_ID:1abf94ed2aaa98926a163c9e90e5ae17\nURALCAMPUS_SOURCE:preco:te
+ acher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac667607518802be21c4dfc406d86e1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 3 пара\nДополнительно: 105\nURALCAMPUS_SYNC_ID:3
+ ac667607518802be21c4dfc406d86e1\nURALCAMPUS_SOURCE:preco:teacher:a5a0c2bc
+ -22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1ef5d1f6c70a6b99c23487799afa5eec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 4 пара\nДополнительно: СД-222\nURALCAMPUS_SYNC
+ _ID:1ef5d1f6c70a6b99c23487799afa5eec\nURALCAMPUS_SOURCE:preco:teacher:a5a
+ 0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f05d66b01db31280ca55f3109d546c4e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 5 пара\nДополнительно: СД-222\nURALCAMPUS_SYNC
+ _ID:f05d66b01db31280ca55f3109d546c4e\nURALCAMPUS_SOURCE:preco:teacher:a5a
+ 0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9b1f0549efaa2bd8100bb459ea0d1873@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 1 пара\nДополнительно: Ф-232к\, Ф-232Ак\nUR
+ ALCAMPUS_SYNC_ID:9b1f0549efaa2bd8100bb459ea0d1873\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:058c8059ca14185287e30d65cfbb7261@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 2 пара\nДополнительно: Ф-232к\, Ф-232Ак\nUR
+ ALCAMPUS_SYNC_ID:058c8059ca14185287e30d65cfbb7261\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a4bad2376881ecfa28cadca74bfb8663@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 3 пара\nДополнительно: Ф-232к\, Ф-232Ак\nUR
+ ALCAMPUS_SYNC_ID:a4bad2376881ecfa28cadca74bfb8663\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:64b27931d887dd145bc3dda153c46141@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 4 пара\nДополнительно: Ф-232к\, Ф-232Ак\nUR
+ ALCAMPUS_SYNC_ID:64b27931d887dd145bc3dda153c46141\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:584f8d20b2d6b916283252bc769c83be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 5 пара\nДополнительно: СД-253к\, СД-253Ак
+ \nURALCAMPUS_SYNC_ID:584f8d20b2d6b916283252bc769c83be\nURALCAMPUS_SOURCE:
+ preco:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:736e9d0a968a54df3b692ae16a3c7615@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 1 пара\nДополнительно: Ф-202\, Ф-202А\nURALCA
+ MPUS_SYNC_ID:736e9d0a968a54df3b692ae16a3c7615\nURALCAMPUS_SOURCE:preco:te
+ acher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:519672ec83ad3d152a39a51684e2e553@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Ботаника (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 2 пара\nДополнительно: Ф-202\, Ф-202А\nURALCA
+ MPUS_SYNC_ID:519672ec83ad3d152a39a51684e2e553\nURALCAMPUS_SOURCE:preco:te
+ acher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ec92c7b8054ec64233232eaa9c5d0060@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 3 пара\nДополнительно: СД-222\nURALCAMPUS_SYNC
+ _ID:ec92c7b8054ec64233232eaa9c5d0060\nURALCAMPUS_SOURCE:preco:teacher:a5a
+ 0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9ecf31a9079f51764515fb59037e5066@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 4 пара\nДополнительно: СД-222\nURALCAMPUS_SYNC
+ _ID:9ecf31a9079f51764515fb59037e5066\nURALCAMPUS_SOURCE:preco:teacher:a5a
+ 0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5f1d855a6ce372b47304c5c43f5689d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Генетика человека с основами медици
+ нской генетики (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 5 пара\nДополнительно: СД-222\nURALCAMPUS_SYNC
+ _ID:5f1d855a6ce372b47304c5c43f5689d6\nURALCAMPUS_SOURCE:preco:teacher:a5a
+ 0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6571eb0631be07d2172b17b2386feab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 6 пара\nДополнительно: СД-222\nURALCAMPUS_SYNC
+ _ID:b6571eb0631be07d2172b17b2386feab\nURALCAMPUS_SOURCE:preco:teacher:a5a
+ 0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5216250269b4e76bb4a6905035697520@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 1 пара\nДополнительно: Ф-232к\, Ф-232Ак\nUR
+ ALCAMPUS_SYNC_ID:5216250269b4e76bb4a6905035697520\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7722f01707f9b485cdc4754f9ae5c902@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 2 пара\nДополнительно: Ф-232к\, Ф-232Ак\nUR
+ ALCAMPUS_SYNC_ID:7722f01707f9b485cdc4754f9ae5c902\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:15d6407eefec4954a1b06a0537ea1501@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 3 пара\nДополнительно: Ф-232к\, Ф-232Ак\nUR
+ ALCAMPUS_SYNC_ID:15d6407eefec4954a1b06a0537ea1501\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e14c418b346fc6e2e8002e152cfac733@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 4 пара\nДополнительно: Ф-332к\, Ф-332Ак\nUR
+ ALCAMPUS_SYNC_ID:e14c418b346fc6e2e8002e152cfac733\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a83964d593d5280077341d674c4d8e38@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 5 пара\nДополнительно: Ф-332к\, Ф-332Ак\nUR
+ ALCAMPUS_SYNC_ID:a83964d593d5280077341d674c4d8e38\nURALCAMPUS_SOURCE:prec
+ o:teacher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:495c8b5b66713ad7c52b61a8e111937d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 6 пара\nДополнительно: СД-252к\nURALCAMPUS_SY
+ NC_ID:495c8b5b66713ad7c52b61a8e111937d\nURALCAMPUS_SOURCE:preco:teacher:a
+ 5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b2563be6fc9b0b4d1820dff8ecda6f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 2 пара\nДополнительно: Ф-202\, Ф-202А\nURALCA
+ MPUS_SYNC_ID:b4b2563be6fc9b0b4d1820dff8ecda6f\nURALCAMPUS_SOURCE:preco:te
+ acher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:36bdc363a3f39aec6d9c877736917d4c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 3 пара\nДополнительно: Ф-202\, Ф-202А\nURALCA
+ MPUS_SYNC_ID:36bdc363a3f39aec6d9c877736917d4c\nURALCAMPUS_SOURCE:preco:te
+ acher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:20599a9c0aef1abc41bbcd3179e8673a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 4 пара\nДополнительно: СД-222\nURALCAMPUS_SYNC
+ _ID:20599a9c0aef1abc41bbcd3179e8673a\nURALCAMPUS_SOURCE:preco:teacher:a5a
+ 0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:75f659db1152aa0f96c6f66f71608bdd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 5 пара\nДополнительно: Ф-302\, Ф-302А\nURALCA
+ MPUS_SYNC_ID:75f659db1152aa0f96c6f66f71608bdd\nURALCAMPUS_SOURCE:preco:te
+ acher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:31a4386629ce8e6fe7b23c795486da6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Стокоз Оксана Сергеевна\nП
+ ара: 6 пара\nДополнительно: Ф-302\, Ф-302А\nURALCA
+ MPUS_SYNC_ID:31a4386629ce8e6fe7b23c795486da6c\nURALCAMPUS_SOURCE:preco:te
+ acher:a5a0c2bc-22d5-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

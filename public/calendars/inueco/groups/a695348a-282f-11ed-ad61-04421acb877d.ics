@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЭЗу-401/02
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:36873223586ef60806978b2a09cdb572@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Контроль и ревизия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/02\nПара: 6 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:36873223586ef6
+ 0806978b2a09cdb572\nURALCAMPUS_SOURCE:inueco:group:a695348a-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fbf578c74a9253f0110091e777ed7a94@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Контроль и ревизия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/02\nПара: 7 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:fbf578c74a9253
+ f0110091e777ed7a94\nURALCAMPUS_SOURCE:inueco:group:a695348a-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9a79ded605986bb7ec7c4281e69ec912@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Контроль и ревизия (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/02\nПара: 8 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:9a79ded605986b
+ b7ec7c4281e69ec912\nURALCAMPUS_SOURCE:inueco:group:a695348a-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b766a041e8e2552bbc962b041fecd88c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Учетная политика предприятия (Лекци
+ я)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/02\nПара: 6 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:b766a041e8e255
+ 2bbc962b041fecd88c\nURALCAMPUS_SOURCE:inueco:group:a695348a-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:756eb65bd55f058250fa03fe303f40a7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Учетная политика предприятия (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/02\nПара: 7 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:756eb65bd55f05
+ 8250fa03fe303f40a7\nURALCAMPUS_SOURCE:inueco:group:a695348a-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b97cf18e33a66c38283e950ed7b8cb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Учетная политика предприятия (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/02\nПара: 8 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:d2b97cf18e33a6
+ 6c38283e950ed7b8cb\nURALCAMPUS_SOURCE:inueco:group:a695348a-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+END:VCALENDAR

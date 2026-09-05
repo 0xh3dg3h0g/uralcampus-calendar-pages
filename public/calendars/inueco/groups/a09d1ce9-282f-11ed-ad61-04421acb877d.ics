@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ГМУЗ-301/14
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9eca2fbe3d048aebfade43026fa9081b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Социально-экономическая статистика
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/14\nПара: 1 пара\nДополни
+ тельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:9eca2fbe3
+ d048aebfade43026fa9081b\nURALCAMPUS_SOURCE:inueco:group:a09d1ce9-282f-11e
+ d-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f674a67a40068148c2fc7b8e4c33c66c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Социально-экономическая статистика
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/14\nПара: 2 пара\nДополни
+ тельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:f674a67a4
+ 0068148c2fc7b8e4c33c66c\nURALCAMPUS_SOURCE:inueco:group:a09d1ce9-282f-11e
+ d-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ef3f0a4cc73a66f350d1f2544c08a7e3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Социально-экономическая статистика
+  (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/14\nПара: 3 пара\nДополни
+ тельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:ef3f0a4cc
+ 73a66f350d1f2544c08a7e3\nURALCAMPUS_SOURCE:inueco:group:a09d1ce9-282f-11e
+ d-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d7576f58508d9ba453ec01ae5e250a22@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Социально-экономическая статистика
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/14\nПара: 1 пара\nДополни
+ тельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:d7576f585
+ 08d9ba453ec01ae5e250a22\nURALCAMPUS_SOURCE:inueco:group:a09d1ce9-282f-11e
+ d-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8551caf2a4a5d3a1aadbdc9566fa2c20@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Социально-экономическая статистика
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/14\nПара: 2 пара\nДополни
+ тельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:8551caf2a
+ 4a5d3a1aadbdc9566fa2c20\nURALCAMPUS_SOURCE:inueco:group:a09d1ce9-282f-11e
+ d-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b8b91c3d504046d3e974c297d6cdc027@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Социально-экономическая статистика
+  (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/14\nПара: 3 пара\nДополни
+ тельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:b8b91c3d5
+ 04046d3e974c297d6cdc027\nURALCAMPUS_SOURCE:inueco:group:a09d1ce9-282f-11e
+ d-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

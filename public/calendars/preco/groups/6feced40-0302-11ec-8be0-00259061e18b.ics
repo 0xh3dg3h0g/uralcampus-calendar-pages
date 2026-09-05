@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ПД-248к\, ПД-248Ак
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3f4f267a6bd110e84553ea4483204219@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 4 пара\nДополни
+ тельно: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:3f4f267a6bd110e84
+ 553ea4483204219\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-00
+ 259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd91834403287edc59779e8767995fa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 5 пара\nДополни
+ тельно: Надеждина О.А.\nURALCAMPUS_SYNC_ID:5bd9183440328
+ 7edc59779e8767995fa\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be
+ 0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:fec055e06c7f65fa4be86a3f885655ea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 1 пара\nДополни
+ тельно: Быков А.В.\nURALCAMPUS_SYNC_ID:fec055e06c7f65fa4be86
+ a3f885655ea\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-002590
+ 61e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:65691dbb427f295f8466fdd781dfcc7d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 2 пара\nДополни
+ тельно: Быков А.В.\nURALCAMPUS_SYNC_ID:65691dbb427f295f8466f
+ dd781dfcc7d\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-002590
+ 61e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:3fac9ae901c4ef7813f3d7d2e29939a7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 1 пара\nДополни
+ тельно: Тимохин Е.А.\nURALCAMPUS_SYNC_ID:3fac9ae901c4ef781
+ 3f3d7d2e29939a7\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-00
+ 259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:3767b528776cb1742808d0dac6b2a3ab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 2 пара\nДополни
+ тельно: Быков А.В.\nURALCAMPUS_SYNC_ID:3767b528776cb1742808d
+ 0dac6b2a3ab\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-002590
+ 61e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:e9697289a5a1f746f18df00b83ca0f3c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 2 пара\nДополни
+ тельно: Курова К.В.\nURALCAMPUS_SYNC_ID:e9697289a5a1f746f18
+ df00b83ca0f3c\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-0025
+ 9061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:7904114f2cdc5da955839c2da31e6e8a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 3 пара\nДополни
+ тельно: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:7904114f2cdc5
+ da955839c2da31e6e8a\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be
+ 0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:aeedd000dd9e7c18c797c743b2e8caa2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 4 пара\nДополни
+ тельно: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:aeedd000dd9e7
+ c18c797c743b2e8caa2\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be
+ 0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:802849a2f7f40f201f27549a4f61c3c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 5 пара\nДополни
+ тельно: Быков А.В.\nURALCAMPUS_SYNC_ID:802849a2f7f40f201f275
+ 49a4f61c3c2\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-002590
+ 61e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:21f2f4afbe2acb0fdaf018d871300053@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 3 пара\nДополни
+ тельно: Курова К.В.\nURALCAMPUS_SYNC_ID:21f2f4afbe2acb0fdaf
+ 018d871300053\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-0025
+ 9061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a809bd1e0899cd0dfa48bf35d5da4215@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 4 пара\nДополни
+ тельно: Надеждина О.А.\nURALCAMPUS_SYNC_ID:a809bd1e0899c
+ d0dfa48bf35d5da4215\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be
+ 0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bc201493a8d1cd195b469560687d4a31@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 5 пара\nДополни
+ тельно: Тютин А.А.\nURALCAMPUS_SYNC_ID:bc201493a8d1cd195b469
+ 560687d4a31\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-002590
+ 61e18b
+END:VEVENT
+END:VCALENDAR

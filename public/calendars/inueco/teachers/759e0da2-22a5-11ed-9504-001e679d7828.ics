@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Епифанова Анастас
+ ия Геннадьевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:408b48f99a0a79a3a366743b77385f82@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Пропедевтика (Практика)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 2 пара\nДополнительно: 
+ Д-105\nURALCAMPUS_SYNC_ID:408b48f99a0a79a3a366743b77385f82\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca06500d463809cec516dbf5ef358f9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 3 пара\nДополнительно: 
+ Д-405\nURALCAMPUS_SYNC_ID:5ca06500d463809cec516dbf5ef358f9\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:9c0d3efa583797635ca1f77196af3cec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 4 пара\nДополнительно: 
+ Д-405\nURALCAMPUS_SYNC_ID:9c0d3efa583797635ca1f77196af3cec\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6df8b292b5688545c16fcd79b9df32@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 5 пара\nДополнительно: 
+ Д-405\nURALCAMPUS_SYNC_ID:9d6df8b292b5688545c16fcd79b9df32\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a1de6eac0211ed880be5a758a980536b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 1 пара\nДополнительно: 
+ Д-405\nURALCAMPUS_SYNC_ID:a1de6eac0211ed880be5a758a980536b\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:572db00b7b7f0abc288c8412696c2274@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 2 пара\nДополнительно: 
+ Д-405\nURALCAMPUS_SYNC_ID:572db00b7b7f0abc288c8412696c2274\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce24e698e06c3a12a5f5015ecfd7f85@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 3 пара\nДополнительно: 
+ Д-405\nURALCAMPUS_SYNC_ID:0ce24e698e06c3a12a5f5015ecfd7f85\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:df82b0b425ec0458f00b12d0aac113ec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 4 пара\nДополнительно: 
+ Д-405\nURALCAMPUS_SYNC_ID:df82b0b425ec0458f00b12d0aac113ec\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:65ec4e7336f3764e6d2c1de818926f81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 2 пара\nДополнительно: 
+ Д-305\nURALCAMPUS_SYNC_ID:65ec4e7336f3764e6d2c1de818926f81\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3d97c5a39c992d252d0701689265749e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епифанова Анастасия Г
+ еннадьевна\nПара: 3 пара\nДополнительно: 
+ Д-305\nURALCAMPUS_SYNC_ID:3d97c5a39c992d252d0701689265749e\nURALCAMPUS_S
+ OURCE:inueco:teacher:759e0da2-22a5-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

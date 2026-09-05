@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЭЗд-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5a3af1b185525227e9ba499c736255db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Бухгалтерский управленческий учет (
+ Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗд-301\nПара: 7 пара\nДополнител
+ ьно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:5a3af1b185525227
+ e9ba499c736255db\nURALCAMPUS_SOURCE:inueco:group:dd173817-58a4-11f0-ad93-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd18da3d0fe52748e7e5cd475ccdb39@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Бухгалтерский управленческий учет (
+ Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗд-301\nПара: 8 пара\nДополнител
+ ьно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:0fd18da3d0fe5274
+ 8e7e5cd475ccdb39\nURALCAMPUS_SOURCE:inueco:group:dd173817-58a4-11f0-ad93-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e09f0d6e3c7d1a33fe6938f6641bb840@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Инвестиционный анализ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗд-301\nПара: 1 пара\nДополнител
+ ьно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:e09f0d6e3c7d1a33fe
+ 6938f6641bb840\nURALCAMPUS_SOURCE:inueco:group:dd173817-58a4-11f0-ad93-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:66fd7a9258e4527ecf95b38211d47cad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Инвестиционный анализ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗд-301\nПара: 2 пара\nДополнител
+ ьно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:66fd7a9258e4527ecf
+ 95b38211d47cad\nURALCAMPUS_SOURCE:inueco:group:dd173817-58a4-11f0-ad93-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0729e369f131b60afe6baf8e6e64a40e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Инвестиционный анализ (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗд-301\nПара: 3 пара\nДополнител
+ ьно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:0729e369f131b60afe
+ 6baf8e6e64a40e\nURALCAMPUS_SOURCE:inueco:group:dd173817-58a4-11f0-ad93-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

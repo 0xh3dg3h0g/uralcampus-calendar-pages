@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЭБ-508
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0eceec093557e98125cdba50afcae686@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Экономические преступления: квалиф
+ икация и расследование (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 1 пара\nДополнитель
+ но: Дробот С. А.\nURALCAMPUS_SYNC_ID:0eceec093557e98125cdba50af
+ cae686\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:3b6ccfadbf206f01da5214d4d3194820@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Экономические преступления: квалиф
+ икация и расследование (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 2 пара\nДополнитель
+ но: Дробот С. А.\nURALCAMPUS_SYNC_ID:3b6ccfadbf206f01da5214d4d3
+ 194820\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:8c3577cfbbf455c4dc4e8369aa032285@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Криминалистика (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 3 пара\nДополнитель
+ но: Макашова Т. П.\nURALCAMPUS_SYNC_ID:8c3577cfbbf455c4dc4e83
+ 69aa032285\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:331780c359f12159d4b39526e5980450@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Криминалистика (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 4 пара\nДополнитель
+ но: Макашова Т. П.\nURALCAMPUS_SYNC_ID:331780c359f12159d4b395
+ 26e5980450\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b73886bcbd33883797e1b02b491c512f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Судебная экономическая экспертиза (
+ Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 5 пара\nДополнитель
+ но: Булавинцева Н. А.\nURALCAMPUS_SYNC_ID:b73886bcbd338837
+ 97e1b02b491c512f\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c8f29e8ce028273bb070615e25f47e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Судебная экономическая экспертиза (
+ Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 6 пара\nДополнитель
+ но: Булавинцева Н. А.\nURALCAMPUS_SYNC_ID:c2c8f29e8ce02827
+ 3bb070615e25f47e\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2f098873bf533e1af9b79510fe579c3a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Оперативно-розыскная деятельность 
+ в сфере экономической безопасности (Лек
+ ция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 4 пара\nДополнитель
+ но: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:2f098873bf533e1af9b79510f
+ e579c3a\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:2a09456765babc6a3fb7b326a3726cb7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Оперативно-розыскная деятельность 
+ в сфере экономической безопасности (Пра
+ ктика)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 5 пара\nДополнитель
+ но: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:2a09456765babc6a3fb7b326a
+ 3726cb7\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:38218c5603da3171f5deadc24aa6a9a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Оперативно-розыскная деятельность 
+ в сфере экономической безопасности (Пра
+ ктика)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 6 пара\nДополнитель
+ но: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:38218c5603da3171f5deadc24
+ aa6a9a6\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:454a9c1eb948876ec578a8567fe5f310@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Внутренний контроль и внутренний ау
+ дит (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 3 пара\nДополнитель
+ но: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:454a9c1eb948876ec5
+ 78a8567fe5f310\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4c2d26a274ca52c339d58efc2f28f05f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Внутренний контроль и внутренний ау
+ дит (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 4 пара\nДополнитель
+ но: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:4c2d26a274ca52c339
+ d58efc2f28f05f\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7396f4f1fdc05a83c60fe6cb8ba57f21@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Налоговое право (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 5 пара\nДополнитель
+ но: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:7396f4f1fdc05a83c60fe6cb
+ 8ba57f21\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:77419bfc18f3beb7b784bb2751d67ced@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Налоговое право (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 6 пара\nДополнитель
+ но: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:77419bfc18f3beb7b784bb27
+ 51d67ced\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗД-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3b8d37943d0dc76cf59b653944d9b755@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Уголовный процесс (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-301\nПара: 6 пара\nДополнител
+ ьно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:3b8d37943d0dc76cf5
+ 9b653944d9b755\nURALCAMPUS_SOURCE:inueco:group:4d7826a6-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:64711368e4d001d84a6243ecb4c740f1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Уголовный процесс (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-301\nПара: 7 пара\nДополнител
+ ьно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:64711368e4d001d84a
+ 6243ecb4c740f1\nURALCAMPUS_SOURCE:inueco:group:4d7826a6-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e99c8dba79d81a6a999d4fab25b3ec93@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Уголовный процесс (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-301\nПара: 8 пара\nДополнител
+ ьно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:e99c8dba79d81a6a99
+ 9d4fab25b3ec93\nURALCAMPUS_SOURCE:inueco:group:4d7826a6-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d649cf9545eb1f05da557263fe440353@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Юридическая техника (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-301\nПара: 4 пара\nДополнител
+ ьно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:d649cf9545eb1f05da557
+ 263fe440353\nURALCAMPUS_SOURCE:inueco:group:4d7826a6-60fb-11ef-ad90-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c30983a97c524719a1c303ee91dc149f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Юридическая техника (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-301\nПара: 5 пара\nДополнител
+ ьно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:c30983a97c524719a1c30
+ 3ee91dc149f\nURALCAMPUS_SOURCE:inueco:group:4d7826a6-60fb-11ef-ad90-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:39f11a4a6088273a7b8eb624f569e48d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:Юридическая техника (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-301\nПара: 6 пара\nДополнител
+ ьно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:39f11a4a6088273a7b8eb
+ 624f569e48d\nURALCAMPUS_SOURCE:inueco:group:4d7826a6-60fb-11ef-ad90-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

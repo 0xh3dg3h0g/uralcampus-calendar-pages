@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: СЗ-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:72e6b919ea0e0cc5e99f4a2a0e07c4c8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Информационные технологии расчета 
+ строительных конструкций (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301\nПара: 7 пара\nДополнитель
+ но: Дегтярева Н.В.\nURALCAMPUS_SYNC_ID:72e6b919ea0e0cc5e99f4
+ a2a0e07c4c8\nURALCAMPUS_SOURCE:inueco:group:a09d1d84-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5d972edca67a46f78cd04ece25b93b4f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Информационные технологии расчета 
+ строительных конструкций (Лаб.)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301\nПара: 8 пара\nДополнитель
+ но: Дегтярева Н.В.\nURALCAMPUS_SYNC_ID:5d972edca67a46f78cd04
+ ece25b93b4f\nURALCAMPUS_SOURCE:inueco:group:a09d1d84-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:95b95c48c65186d62d2c8602a5205acb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Сметное дело в строительстве (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301\nПара: 6 пара\nДополнитель
+ но: Ездина А.А.\nURALCAMPUS_SYNC_ID:95b95c48c65186d62d2c8602a52
+ 05acb\nURALCAMPUS_SOURCE:inueco:group:a09d1d84-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:3f43108b1193184e69064c0639c6ba29@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Сметное дело в строительстве (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301\nПара: 7 пара\nДополнитель
+ но: Ездина А.А.\nURALCAMPUS_SYNC_ID:3f43108b1193184e69064c0639c
+ 6ba29\nURALCAMPUS_SOURCE:inueco:group:a09d1d84-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4654833f256067b1d0f5c6b84f0e08@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Сметное дело в строительстве (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301\nПара: 8 пара\nДополнитель
+ но: Ездина А.А.\nURALCAMPUS_SYNC_ID:7e4654833f256067b1d0f5c6b84
+ f0e08\nURALCAMPUS_SOURCE:inueco:group:a09d1d84-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+END:VCALENDAR

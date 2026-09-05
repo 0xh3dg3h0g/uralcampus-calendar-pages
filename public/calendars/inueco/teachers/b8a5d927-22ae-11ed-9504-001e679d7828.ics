@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Сумина Наталия Ви
+ тальевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:222f918da572eafde4fbabf358c078ab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Введение в специальность (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 3 пара\nДополнительно: ТД-106\nURA
+ LCAMPUS_SYNC_ID:222f918da572eafde4fbabf358c078ab\nURALCAMPUS_SOURCE:inuec
+ o:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:46b756e8284c765a11e4002ff2de7f90@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Контракты и внешнеторговая докумен
+ тация (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 4 пара\nДополнительно: ТД-506\nURA
+ LCAMPUS_SYNC_ID:46b756e8284c765a11e4002ff2de7f90\nURALCAMPUS_SOURCE:inuec
+ o:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:886d984d763ae0264922aa67ff245e52@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Контракты и внешнеторговая докумен
+ тация (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 5 пара\nДополнительно: ТД-506\nURA
+ LCAMPUS_SYNC_ID:886d984d763ae0264922aa67ff245e52\nURALCAMPUS_SOURCE:inuec
+ o:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:27298a3a67cd5549cdf0c18c6c92cc52@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 6 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:27298a3a67cd5549cdf0c18c6c92cc52\nURALCAMPUS_SOURCE:inu
+ eco:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:878d9ef7aca83475ce2ceece22d2af3c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 7 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:878d9ef7aca83475ce2ceece22d2af3c\nURALCAMPUS_SOURCE:inu
+ eco:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:5043ef30ff3a3cdac0f864b49330e114@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 8 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:5043ef30ff3a3cdac0f864b49330e114\nURALCAMPUS_SOURCE:inu
+ eco:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa4f6d2fb0009bfbdebd39b80ea26bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Лекция)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 4 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:aaa4f6d2fb0009bfbdebd39b80ea26bd\nURALCAMPUS_SOURCE:inu
+ eco:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:1824ebd34420bf3d9798888351253842@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 5 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:1824ebd34420bf3d9798888351253842\nURALCAMPUS_SOURCE:inu
+ eco:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:8e289134de7c0027748a4aec85caac6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Таможенно-тарифное регулирование в
+ нешнеторговой деятельности (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сумина Наталия Виталь
+ евна\nПара: 6 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:8e289134de7c0027748a4aec85caac6c\nURALCAMPUS_SOURCE:inu
+ eco:teacher:b8a5d927-22ae-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

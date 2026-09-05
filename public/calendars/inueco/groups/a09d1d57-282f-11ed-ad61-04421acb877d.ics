@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: МЗ-301/02
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:69c4a4a2cf2952eac8c871ada793895e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/02\nПара: 6 пара\nДополните
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:69c4a4a2cf2952eac8c
+ 871ada793895e\nURALCAMPUS_SOURCE:inueco:group:a09d1d57-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:70f04ed1c83204704ac5e44b91cd1f7e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/02\nПара: 7 пара\nДополните
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:70f04ed1c83204704ac
+ 5e44b91cd1f7e\nURALCAMPUS_SOURCE:inueco:group:a09d1d57-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7ae2ad7d99e728a3f6067cceed49aeeb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/02\nПара: 8 пара\nДополните
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:7ae2ad7d99e728a3f60
+ 67cceed49aeeb\nURALCAMPUS_SOURCE:inueco:group:a09d1d57-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f55e30fcb74597ca56d3e9994a23f075@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/02\nПара: 6 пара\nДополните
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:f55e30fcb74597ca56d
+ 3e9994a23f075\nURALCAMPUS_SOURCE:inueco:group:a09d1d57-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6917f6a50ec94170359b2c5b1c9df6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/02\nПара: 7 пара\nДополните
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:fe6917f6a50ec941703
+ 59b2c5b1c9df6\nURALCAMPUS_SOURCE:inueco:group:a09d1d57-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6503dd9ff3c20c9530efd4beff6a7f35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/02\nПара: 8 пара\nДополните
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:6503dd9ff3c20c9530e
+ fd4beff6a7f35\nURALCAMPUS_SOURCE:inueco:group:a09d1d57-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+END:VCALENDAR

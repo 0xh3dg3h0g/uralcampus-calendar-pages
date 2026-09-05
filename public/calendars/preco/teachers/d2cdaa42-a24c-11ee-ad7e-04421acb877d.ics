@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Крапивина Дарья С
+ ергеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8a65e3a4a6465b80dff240f420620151@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Дарья Сергеевна\
+ nПара: 3 пара\nДополнительно: ПД-248\, ПД-248А\
+ nURALCAMPUS_SYNC_ID:8a65e3a4a6465b80dff240f420620151\nURALCAMPUS_SOURCE:p
+ reco:teacher:d2cdaa42-a24c-11ee-ad7e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe45ba7123ececdf3a23f4fcec1323a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Дарья Сергеевна\
+ nПара: 4 пара\nДополнительно: ПД-248\, ПД-248А\
+ nURALCAMPUS_SYNC_ID:3fe45ba7123ececdf3a23f4fcec1323a\nURALCAMPUS_SOURCE:p
+ reco:teacher:d2cdaa42-a24c-11ee-ad7e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8b60d68b89d91e1db20aa9c2948b646b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Дарья Сергеевна\
+ nПара: 3 пара\nДополнительно: ПД-248\, ПД-248А\
+ nURALCAMPUS_SYNC_ID:8b60d68b89d91e1db20aa9c2948b646b\nURALCAMPUS_SOURCE:p
+ reco:teacher:d2cdaa42-a24c-11ee-ad7e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:46cdd591c60a47fac51f13413b6fc610@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Дарья Сергеевна\
+ nПара: 4 пара\nДополнительно: ПД-248\, ПД-248А\
+ nURALCAMPUS_SYNC_ID:46cdd591c60a47fac51f13413b6fc610\nURALCAMPUS_SOURCE:p
+ reco:teacher:d2cdaa42-a24c-11ee-ad7e-04421acb877d
+END:VEVENT
+END:VCALENDAR

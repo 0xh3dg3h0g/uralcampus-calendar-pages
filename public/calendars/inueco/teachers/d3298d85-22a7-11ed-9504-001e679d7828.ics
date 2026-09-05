@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Сергеичева Ирина 
+ Анатольевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:081274577c48bb24cfecd7c67c0f0cd9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Таможенная статистика (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сергеичева Ирина Анат
+ ольевна\nПара: 3 пара\nДополнительно: ТД-30
+ 6\nURALCAMPUS_SYNC_ID:081274577c48bb24cfecd7c67c0f0cd9\nURALCAMPUS_SOURCE
+ :inueco:teacher:d3298d85-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:936897e5c6be743a4fc098c3da26f23b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Таможенная статистика (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сергеичева Ирина Анат
+ ольевна\nПара: 4 пара\nДополнительно: ТД-30
+ 6\nURALCAMPUS_SYNC_ID:936897e5c6be743a4fc098c3da26f23b\nURALCAMPUS_SOURCE
+ :inueco:teacher:d3298d85-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d600cfb44abb9060af147a808388f771@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Таможенная статистика (Лекция)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сергеичева Ирина Анат
+ ольевна\nПара: 4 пара\nДополнительно: ТД-30
+ 6\nURALCAMPUS_SYNC_ID:d600cfb44abb9060af147a808388f771\nURALCAMPUS_SOURCE
+ :inueco:teacher:d3298d85-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:0ab3e2ed8273d2c88d6a1fe88febe31a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Таможенная статистика (Лекция)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сергеичева Ирина Анат
+ ольевна\nПара: 5 пара\nДополнительно: ТДЗ-
+ 301\nURALCAMPUS_SYNC_ID:0ab3e2ed8273d2c88d6a1fe88febe31a\nURALCAMPUS_SOUR
+ CE:inueco:teacher:d3298d85-22a7-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

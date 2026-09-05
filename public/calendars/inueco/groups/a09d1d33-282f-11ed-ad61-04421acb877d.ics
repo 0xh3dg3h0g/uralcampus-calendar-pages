@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: И-107а
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1a87f6f7aa0062115eadf98cdd8a76f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T152000
+DTEND;TZID=Asia/Yekaterinburg:20260905T165000
+SUMMARY:Безопасность жизнедеятельности (Ле
+ кция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 5 пара\nДополнитель
+ но: Коваленко Н.С.\nURALCAMPUS_SYNC_ID:1a87f6f7aa0062115eadf
+ 98cdd8a76f4\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:45072dcfdc99690fe04d6fa053144810@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T170000
+DTEND;TZID=Asia/Yekaterinburg:20260905T181000
+SUMMARY:Физическая культура и спорт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 6 пара\nДополнитель
+ но: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:45072dcfdc99690fe04d
+ 6fa053144810\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bd8143f763c99b70024c5d5f9f7db953@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Мультимедиа технологии и компьютер
+ ная графика (Лекция)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 1 пара\nДополнитель
+ но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:bd8143f763c99b70024c5d5f9f7db
+ 953\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:440a7df5e58868c55ffc9c58b61c38e4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Мультимедиа технологии и компьютер
+ ная графика (Лекция)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 2 пара\nДополнитель
+ но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:440a7df5e58868c55ffc9c58b61c3
+ 8e4\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:943d3bdb1a727b6c2a4d55d626c4b214@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 2 пара\nДополнитель
+ но: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:943d3bdb1a727b6c2a4d55
+ d626c4b214\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:da6121b9ead88599f94975b3efda596d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Оздоровительная рекреационная двиг
+ ательная активность (Практика)
+LOCATION:ауд. 504\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 3 пара\nДополнитель
+ но: Васильев С. А.\nURALCAMPUS_SYNC_ID:da6121b9ead88599f94975
+ b3efda596d\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e1388aff4bd293bd95c547c3bdcd51f1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 4 пара\nДополнитель
+ но: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:e1388aff4bd293bd95c54
+ 7c3bdcd51f1\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee47342acda955abbae923b764763e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 5 пара\nДополнитель
+ но: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:9ee47342acda955abbae9
+ 23b764763e2\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:29cc8506e6756f6d7ab3031183372305@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Правоведение (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 1 пара\nДополнитель
+ но: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:29cc8506e6756f6d7a
+ b3031183372305\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:40957f0594e8a18db2ff723d2c6b996a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 2 пара\nДополнитель
+ но: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:40957f0594e8a18db2ff72
+ 3d2c6b996a\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10973983bf8570790bb63c798a066044@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 1 пара\nДополнитель
+ но: Казаченок Ю. В.\nURALCAMPUS_SYNC_ID:10973983bf8570790bb6
+ 3c798a066044\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ff668307e55148efe052373724257a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Мероприятие\, посвященное Дню прогр
+ аммиста
+LOCATION:ауд. 509\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 2 пара\nДополнитель
+ но: Кузюков Е.В.\nURALCAMPUS_SYNC_ID:a9ff668307e55148efe052373
+ 724257a\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:f61a438a352ad9e3f6ab7329188163ac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Безопасность жизнедеятельности (Ле
+ кция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 1 пара\nДополнитель
+ но: Коваленко Н.С.\nURALCAMPUS_SYNC_ID:f61a438a352ad9e3f6ab7
+ 329188163ac\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6d1f6ff70db2e231c583168a2b9e9d5e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Физическая культура и спорт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 2 пара\nДополнитель
+ но: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:6d1f6ff70db2e231c583
+ 168a2b9e9d5e\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR

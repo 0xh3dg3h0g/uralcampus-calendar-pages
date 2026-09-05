@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: П-440\, П-440А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0a32106d830134e364d15eb5fd917a8f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 3 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:0a32106d830134e364d15eb5fd9
+ 17a8f\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c7b3fcdbb66cf00ea6454195431cac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 4 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:a8c7b3fcdbb66cf00ea64541954
+ 31cac\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:94d762e306a25590f05479a4c7c59794@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 5 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:94d762e306a25590f05479a4c7c
+ 59794\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ba83127fc28c45e38abdeaaf14b8010b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 6 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:ba83127fc28c45e38abdeaaf14b
+ 8010b\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:50a808ef50dab4b4b6bd739a9e0a99f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Разработка мобильных приложений (Ау
+ диторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 1 пара\nДополнитель
+ но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:50a808ef50dab4b4b6bd739a9e0a9
+ 9f2\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cf5b676db15569b35c52f5a31025f9d1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Разработка мобильных приложений (Ау
+ диторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 2 пара\nДополнитель
+ но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:cf5b676db15569b35c52f5a31025f
+ 9d1\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:58545742921a600096a8b0e3962bd9e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Разработка мобильных приложений (Ау
+ диторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 3 пара\nДополнитель
+ но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:58545742921a600096a8b0e3962bd
+ 9e2\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5e43b1d895088a6f41b977c300c90011@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 4 пара\nДополнитель
+ но: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:5e43b1d895088a6f41b97
+ 7c300c90011\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0c437b00d0d53d96801d7f4cfd06bbed@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Предпринимательская деятельности (
+ Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 1 пара\nДополнитель
+ но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:0c437b00d0d53d96801
+ d7f4cfd06bbed\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7e0727f2b006fcc20ff7d23d8e02ad09@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Системное программирование (Аудито
+ рные занятия)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 2 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:7e0727f2b006fcc20ff7d
+ 23d8e02ad09\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:024364b6749d2466b1a1dd3512128ebd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 3 пара\nДополнитель
+ но: Владимирова К.П.\nURALCAMPUS_SYNC_ID:024364b6749d2466b
+ 1a1dd3512128ebd\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5edf7a6511e80573383937182bc7ac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 4 пара\nДополнитель
+ но: Моторина Л.А.\nURALCAMPUS_SYNC_ID:dc5edf7a6511e8057338393
+ 7182bc7ac\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ec10c1d0d48e313b72be6d8c2e021278@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Системное программирование (Аудито
+ рные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 4 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:ec10c1d0d48e313b72be6
+ d8c2e021278\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c1083eb576b58105fc4ef4cccf738a18@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Поддержка и тестирование программн
+ ых модулей (Аудиторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 5 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:c1083eb576b58105fc4ef
+ 4cccf738a18\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:28c3890bc6ae4457f9335e872305a241@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Системное программирование (Аудито
+ рные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-440\, П-440А\nПара: 6 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:28c3890bc6ae4457f9335
+ e872305a241\nURALCAMPUS_SOURCE:preco:group:faf2d7a0-f8fd-11ec-ad59-04421a
+ cb877d
+END:VEVENT
+END:VCALENDAR

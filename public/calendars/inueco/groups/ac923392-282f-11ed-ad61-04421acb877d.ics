@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗ-401
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:111c841d3a89091870216ed92d0d94e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401\nПара: 6 пара\nДополнитель
+ но: Васильев В.А.\nURALCAMPUS_SYNC_ID:111c841d3a89091870216ed
+ 92d0d94e8\nURALCAMPUS_SOURCE:inueco:group:ac923392-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f033e4891e7aea1feefc6ab1fe97365b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401\nПара: 7 пара\nДополнитель
+ но: Васильев В.А.\nURALCAMPUS_SYNC_ID:f033e4891e7aea1feefc6ab
+ 1fe97365b\nURALCAMPUS_SOURCE:inueco:group:ac923392-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2fde75caa6c98841be415188f2a33f10@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Трудовое право (Практика)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401\nПара: 8 пара\nДополнитель
+ но: Васильев В.А.\nURALCAMPUS_SYNC_ID:2fde75caa6c98841be41518
+ 8f2a33f10\nURALCAMPUS_SOURCE:inueco:group:ac923392-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:534bf127a2f21d438d2a3f3e668ce6ac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401\nПара: 6 пара\nДополнитель
+ но: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:534bf127a2f21d438d2a3f3e6
+ 68ce6ac\nURALCAMPUS_SOURCE:inueco:group:ac923392-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:3bfa5bd6b253556e431e7816d6da9800@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401\nПара: 7 пара\nДополнитель
+ но: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:3bfa5bd6b253556e431e7816d
+ 6da9800\nURALCAMPUS_SOURCE:inueco:group:ac923392-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:93ebb9d0a98cb79b401d488377dccdb9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Уголовно-исполнительное право (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401\nПара: 8 пара\nДополнитель
+ но: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:93ebb9d0a98cb79b401d48837
+ 7dccdb9\nURALCAMPUS_SOURCE:inueco:group:ac923392-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+END:VCALENDAR

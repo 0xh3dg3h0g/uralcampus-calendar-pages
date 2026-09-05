@@ -1,0 +1,323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Жигулев Владимир 
+ Игоревич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:27e092be3afe8a024bce1b94f6dfbf54@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 3 пара\nДополнительно: 148к\nURALCAMPUS_SYNC
+ _ID:27e092be3afe8a024bce1b94f6dfbf54\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc56a06283cc1cfc244b92a169a69d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 4 пара\nДополнительно: 145к\nURALCAMPUS_SYNC
+ _ID:1bc56a06283cc1cfc244b92a169a69d6\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ef114e138fc57b240de8435088aa902a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 5 пара\nДополнительно: П-440к\, П-440Ак\
+ nURALCAMPUS_SYNC_ID:ef114e138fc57b240de8435088aa902a\nURALCAMPUS_SOURCE:p
+ reco:teacher:c3e52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2e1bb7348b36eff0de4ee348d6d4a2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 2 пара\nДополнительно: 133к\nURALCAMPUS_SYNC
+ _ID:2a2e1bb7348b36eff0de4ee348d6d4a2\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1ce57b7733cdde3fc9562b1c4bad9d6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 3 пара\nДополнительно: 133к\nURALCAMPUS_SYNC
+ _ID:1ce57b7733cdde3fc9562b1c4bad9d6c\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4f0d1cc2a71d77f0026ef5c1c88d5186@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Менеджмент в профессиональной деят
+ ельности (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 4 пара\nДополнительно: П-341к\, П-341Ак\
+ nURALCAMPUS_SYNC_ID:4f0d1cc2a71d77f0026ef5c1c88d5186\nURALCAMPUS_SOURCE:p
+ reco:teacher:c3e52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78b4eadaba18c81314fdf73e5202652a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Менеджмент в профессиональной деят
+ ельности (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 5 пара\nДополнительно: П-340к\nURALCAMPUS_S
+ YNC_ID:78b4eadaba18c81314fdf73e5202652a\nURALCAMPUS_SOURCE:preco:teacher:
+ c3e52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:960a5694f4beee2b56f7507fda5af973@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 1 пара\nДополнительно: 156к\nURALCAMPUS_SYNC
+ _ID:960a5694f4beee2b56f7507fda5af973\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e3c43d120ad94eced337bde0834343f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 2 пара\nДополнительно: 150к\nURALCAMPUS_SYNC
+ _ID:e3c43d120ad94eced337bde0834343f2\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3dcd251569ab850d2756d1da7d540deb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 3 пара\nДополнительно: 150к\nURALCAMPUS_SYNC
+ _ID:3dcd251569ab850d2756d1da7d540deb\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ea32a60e73bc7cf3ac5d4d6b492f6162@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 4 пара\nДополнительно: 157к\nURALCAMPUS_SYNC
+ _ID:ea32a60e73bc7cf3ac5d4d6b492f6162\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:33d7cee99aeb1714be2c647df26ffa67@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 5 пара\nДополнительно: 146к\nURALCAMPUS_SYNC
+ _ID:33d7cee99aeb1714be2c647df26ffa67\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f847d7d916b957adef55cc91a86c296b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 1 пара\nДополнительно: 156к\nURALCAMPUS_SYNC
+ _ID:f847d7d916b957adef55cc91a86c296b\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5ff7e1a1b6f2015cf78d59cf20ac53c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 2 пара\nДополнительно: 148к\nURALCAMPUS_SYNC
+ _ID:5ff7e1a1b6f2015cf78d59cf20ac53c2\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:79885efe30738ead6059aecd6261825b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 3 пара\nДополнительно: 156к\nURALCAMPUS_SYNC
+ _ID:79885efe30738ead6059aecd6261825b\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2014ad29eac1bb3f56ef62af663249f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 4 пара\nДополнительно: 147к\nURALCAMPUS_SYNC
+ _ID:2014ad29eac1bb3f56ef62af663249f2\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:486cb1c78ef27fff3b46fac3c781b415@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 5 пара\nДополнительно: 147к\nURALCAMPUS_SYNC
+ _ID:486cb1c78ef27fff3b46fac3c781b415\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1b39dc1f0554befd25cc405663f6cefb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 6 пара\nДополнительно: 149к\nURALCAMPUS_SYNC
+ _ID:1b39dc1f0554befd25cc405663f6cefb\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7bb016d296bebe95392758fea0dd3b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 1 пара\nДополнительно: ОЛ-350к\nURALCAMPUS
+ _SYNC_ID:3d7bb016d296bebe95392758fea0dd3b\nURALCAMPUS_SOURCE:preco:teache
+ r:c3e52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3cc95234ae8a3568651323dbadb056cc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 2 пара\nДополнительно: 150к\nURALCAMPUS_SYNC
+ _ID:3cc95234ae8a3568651323dbadb056cc\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a457d8ac7eebcae1061ef8bf8fd77d25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 3 пара\nДополнительно: 157к\nURALCAMPUS_SYNC
+ _ID:a457d8ac7eebcae1061ef8bf8fd77d25\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d97b6323442cee0133ea8bd26c731b49@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 4 пара\nДополнительно: 147к\nURALCAMPUS_SYNC
+ _ID:d97b6323442cee0133ea8bd26c731b49\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:00c45987cdda7d8ce13fc00fac400b2a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 5 пара\nДополнительно: 149к\nURALCAMPUS_SYNC
+ _ID:00c45987cdda7d8ce13fc00fac400b2a\nURALCAMPUS_SOURCE:preco:teacher:c3e
+ 52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

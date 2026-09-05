@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Кузюков Егор Вале
+ рьевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4711bfca17b81fff3d05e8ca8484fc7d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Мероприятие\, посвященное Дню прогр
+ аммиста
+LOCATION:ауд. 509\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кузюков Егор Валерьев
+ ич\nПара: 2 пара\nДополнительно: И-107\, И-107а
+ \, И-207\nURALCAMPUS_SYNC_ID:4711bfca17b81fff3d05e8ca8484fc7d\nURALCAMPU
+ S_SOURCE:inueco:teacher:104464e5-a82c-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

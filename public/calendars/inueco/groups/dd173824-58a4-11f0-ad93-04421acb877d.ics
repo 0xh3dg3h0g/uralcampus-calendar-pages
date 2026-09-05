@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗ-201/12а
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0be74b04516cb61321f94246fe55b4fa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T134000
+DTEND;TZID=Asia/Yekaterinburg:20260905T151000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/12а\nПара: 4 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:0be74b04516cb6132
+ 1f94246fe55b4fa\nURALCAMPUS_SOURCE:inueco:group:dd173824-58a4-11f0-ad93-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8e43dc30617ac4e49bb141de76bbdb0d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T152000
+DTEND;TZID=Asia/Yekaterinburg:20260905T165000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/12а\nПара: 5 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:8e43dc30617ac4e49
+ bb141de76bbdb0d\nURALCAMPUS_SOURCE:inueco:group:dd173824-58a4-11f0-ad93-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:be85968212365ec076ce4209bdce99f0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/12а\nПара: 6 пара\nДополнит
+ ельно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:be85968212365
+ ec076ce4209bdce99f0\nURALCAMPUS_SOURCE:inueco:group:dd173824-58a4-11f0-ad
+ 93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0b22d5eb14362c81c3213ad8bc8ef0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/12а\nПара: 7 пара\nДополнит
+ ельно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:6a0b22d5eb143
+ 62c81c3213ad8bc8ef0\nURALCAMPUS_SOURCE:inueco:group:dd173824-58a4-11f0-ad
+ 93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe9f57d4f9059bf93f544231ceae6db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Профессиональная этика юриста (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/12а\nПара: 8 пара\nДополнит
+ ельно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:2fe9f57d4f905
+ 9bf93f544231ceae6db\nURALCAMPUS_SOURCE:inueco:group:dd173824-58a4-11f0-ad
+ 93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bd52e9900c8340d76dcce45e6a8fdfcf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/12а\nПара: 5 пара\nДополнит
+ ельно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:bd52e9900c8340
+ d76dcce45e6a8fdfcf\nURALCAMPUS_SOURCE:inueco:group:dd173824-58a4-11f0-ad9
+ 3-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8daf19f6b7619d13991d3f62529973a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/12а\nПара: 6 пара\nДополнит
+ ельно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:8daf19f6b7619d
+ 13991d3f62529973a6\nURALCAMPUS_SOURCE:inueco:group:dd173824-58a4-11f0-ad9
+ 3-04421acb877d
+END:VEVENT
+END:VCALENDAR

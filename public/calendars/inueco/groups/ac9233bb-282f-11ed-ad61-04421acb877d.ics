@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗ-501/03
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:12c1713881cb067fce5ad53dadc3e84a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Предпринимательское право (Практик
+ а)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/03\nПара: 1 пара\nДополните
+ льно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:12c1713881cb06
+ 7fce5ad53dadc3e84a\nURALCAMPUS_SOURCE:inueco:group:ac9233bb-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bc0355818911e07bf851f00718b957ab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Предпринимательское право (Практик
+ а)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/03\nПара: 2 пара\nДополните
+ льно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:bc0355818911e0
+ 7bf851f00718b957ab\nURALCAMPUS_SOURCE:inueco:group:ac9233bb-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9ea693d30f6837880f965f5e65c4fea6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Криминалистика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/03\nПара: 6 пара\nДополните
+ льно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:9ea693d30f6837880f
+ 965f5e65c4fea6\nURALCAMPUS_SOURCE:inueco:group:ac9233bb-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b07c52625f378fcbf1140762b61042@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Криминалистика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/03\nПара: 7 пара\nДополните
+ льно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:b0b07c52625f378fcb
+ f1140762b61042\nURALCAMPUS_SOURCE:inueco:group:ac9233bb-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a8e968b491cfafe4f448f3aafb7cee93@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Международное частное право (Практи
+ ка)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/03\nПара: 7 пара\nДополните
+ льно: Винникова Р.В.\nURALCAMPUS_SYNC_ID:a8e968b491cfafe4f
+ 448f3aafb7cee93\nURALCAMPUS_SOURCE:inueco:group:ac9233bb-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cfc27c99ff71db982bab5f1f3df61fc6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Международное частное право (Практи
+ ка)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/03\nПара: 8 пара\nДополните
+ льно: Винникова Р.В.\nURALCAMPUS_SYNC_ID:cfc27c99ff71db982
+ bab5f1f3df61fc6\nURALCAMPUS_SOURCE:inueco:group:ac9233bb-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2b61ab92143af01f3a01f1aa8a6100@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Криминалистика (Лекция)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/03\nПара: 3 пара\nДополните
+ льно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:8c2b61ab92143af01f
+ 3a01f1aa8a6100\nURALCAMPUS_SOURCE:inueco:group:ac9233bb-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d5d743cb29c7e547367a538d843685f6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Криминалистика (Лекция)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/03\nПара: 4 пара\nДополните
+ льно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:d5d743cb29c7e54736
+ 7a538d843685f6\nURALCAMPUS_SOURCE:inueco:group:ac9233bb-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

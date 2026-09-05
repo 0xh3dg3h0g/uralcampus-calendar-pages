@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Арапова Ольга Юрь
+ евна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2df12153e2929f005bd883ba70e93589@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Уголовно-исполнительное право (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 6 пара\nДополнительно: ЮЗ-401/01\, ЮЗ-40
+ 1/02\, ЮЗ-401/03\, ЮЗ-401/05\nURALCAMPUS_SYNC_ID:2df12153e2929f005bd8
+ 83ba70e93589\nURALCAMPUS_SOURCE:inueco:teacher:869e9c71-3fdc-11ed-ad62-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3c9d57f9993120a73e9ac5d6b812aeac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 7 пара\nДополнительно: ЮЗ-401/12\, ЮЗ-40
+ 1/13\, ЮЗ-401/13а\, ЮЗД-401\, ЮЗ-401/01\, ЮЗ-401/02\, ЮЗ-401/
+ 03\, ЮЗ-401/04\, ЮЗ-401/04а\, ЮЗ-401/05\, ЮЗ-401/06\, ЮЗ-401/0
+ 7\, ЮЗ-401/07б\, ЮЗ-401/08\, ЮЗ-401/09\, ЮЗ-401/11\nURALCAMPUS_S
+ YNC_ID:3c9d57f9993120a73e9ac5d6b812aeac\nURALCAMPUS_SOURCE:inueco:teacher
+ :869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8cb5aebe5326399df07099b66c7790@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Уголовно-исполнительное право (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 8 пара\nДополнительно: ЮЗ-401/04\, ЮЗ-40
+ 1/04а\, ЮЗ-401/06\, ЮЗ-401/07\, ЮЗ-401/07б\, ЮЗ-401/08\, ЮЗ-4
+ 01/09\, ЮЗ-401/11\, ЮЗ-401/12\, ЮЗ-401/13\, ЮЗ-401/13а\, ЮЗД-
+ 401\nURALCAMPUS_SYNC_ID:4a8cb5aebe5326399df07099b66c7790\nURALCAMPUS_SOUR
+ CE:inueco:teacher:869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd0c04ce0f5d36360eaba5499c01330@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 3 пара\nДополнительно: Ю-401\nURALCAMPUS_SY
+ NC_ID:3fd0c04ce0f5d36360eaba5499c01330\nURALCAMPUS_SOURCE:inueco:teacher:
+ 869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:85a35adba4e92b624cf3bd136e8ecb79@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 4 пара\nДополнительно: Ю-401\nURALCAMPUS_SY
+ NC_ID:85a35adba4e92b624cf3bd136e8ecb79\nURALCAMPUS_SOURCE:inueco:teacher:
+ 869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:84edc5665d1b01ebc9c0d4929547241f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 6 пара\nДополнительно: ЮЗ-401\nURALCAMPUS_
+ SYNC_ID:84edc5665d1b01ebc9c0d4929547241f\nURALCAMPUS_SOURCE:inueco:teache
+ r:869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad3b2c561856a30aa241d35339032be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 7 пара\nДополнительно: ЮЗ-401\nURALCAMPUS_
+ SYNC_ID:6ad3b2c561856a30aa241d35339032be\nURALCAMPUS_SOURCE:inueco:teache
+ r:869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ec273f78e4b6dedcdfc18ca5cbbd1c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Уголовно-исполнительное право (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 8 пара\nДополнительно: ЮЗ-401\nURALCAMPUS_
+ SYNC_ID:e4ec273f78e4b6dedcdfc18ca5cbbd1c\nURALCAMPUS_SOURCE:inueco:teache
+ r:869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+END:VCALENDAR

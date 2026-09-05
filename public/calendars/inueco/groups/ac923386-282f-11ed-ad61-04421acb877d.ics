@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗ-201/06
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d5ed3682e800a19eabda9edf9a1e95c1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T134000
+DTEND;TZID=Asia/Yekaterinburg:20260905T151000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/06\nПара: 4 пара\nДополните
+ льно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:d5ed3682e800a19eabd
+ a9edf9a1e95c1\nURALCAMPUS_SOURCE:inueco:group:ac923386-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c5290b626101b0e50823ff21cd26f92e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T152000
+DTEND;TZID=Asia/Yekaterinburg:20260905T165000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/06\nПара: 5 пара\nДополните
+ льно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:c5290b626101b0e5082
+ 3ff21cd26f92e\nURALCAMPUS_SOURCE:inueco:group:ac923386-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9f4820120fd9945652dc7c8b76774a87@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/06\nПара: 6 пара\nДополните
+ льно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:9f4820120fd9945
+ 652dc7c8b76774a87\nURALCAMPUS_SOURCE:inueco:group:ac923386-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d0899c8ed08975290ac466a5f26c8a98@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/06\nПара: 7 пара\nДополните
+ льно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:d0899c8ed089752
+ 90ac466a5f26c8a98\nURALCAMPUS_SOURCE:inueco:group:ac923386-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:537dba2de22fb8dd06f490bedf24b0bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/06\nПара: 5 пара\nДополните
+ льно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:537dba2de22fb8dd
+ 06f490bedf24b0bd\nURALCAMPUS_SOURCE:inueco:group:ac923386-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6795aa68fd03e016fef91537713fa64e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-201/06\nПара: 6 пара\nДополните
+ льно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:6795aa68fd03e016
+ fef91537713fa64e\nURALCAMPUS_SOURCE:inueco:group:ac923386-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+END:VCALENDAR

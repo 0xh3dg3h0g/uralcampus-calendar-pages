@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Пономарева Ольга 
+ Анатольевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8deadcd68ac45a62920d7401a292cc81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Метрология (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 6 пара\nДополнительно: ЭЛЗ-
+ 301/02\, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05
+ а\, ЭлЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, 
+ ЭЛЗ-301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-
+ 301/13А\, ЭЛЗу-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗ
+ у-301/07б\, ЭЛЗу-301/12\nURALCAMPUS_SYNC_ID:8deadcd68ac45a62920d740
+ 1a292cc81\nURALCAMPUS_SOURCE:inueco:teacher:1756e3e6-713f-11ed-ad68-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d54395bf9f8bf99092e530e9329f80ba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Средства механизации строительства
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 7 пара\nДополнительно: СЗД
+ у-301\, СЗу-301/04а\, СЗу-301/05\, СЗу-301/06\, СЗу-301/07\
+ , СЗу-301/07б\, СЗу-301/13\nURALCAMPUS_SYNC_ID:d54395bf9f8bf99092e
+ 530e9329f80ba\nURALCAMPUS_SOURCE:inueco:teacher:1756e3e6-713f-11ed-ad68-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b79384c84c4e28a2a3d9f02324ae6e9c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Средства механизации строительства
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 8 пара\nДополнительно: СЗД
+ у-301\, СЗу-301/04а\, СЗу-301/05\, СЗу-301/06\, СЗу-301/07\
+ , СЗу-301/07б\, СЗу-301/13\nURALCAMPUS_SYNC_ID:b79384c84c4e28a2a3d
+ 9f02324ae6e9c\nURALCAMPUS_SOURCE:inueco:teacher:1756e3e6-713f-11ed-ad68-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:100e574e962cd3b36c1252911ea79944@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Средства механизации строительства
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 6 пара\nДополнительно: СЗУ-
+ 301\nURALCAMPUS_SYNC_ID:100e574e962cd3b36c1252911ea79944\nURALCAMPUS_SOUR
+ CE:inueco:teacher:1756e3e6-713f-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:691ec0e64e0ea6d92a180f315b308c49@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Средства механизации строительства
+  (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 7 пара\nДополнительно: СЗУ-
+ 301\nURALCAMPUS_SYNC_ID:691ec0e64e0ea6d92a180f315b308c49\nURALCAMPUS_SOUR
+ CE:inueco:teacher:1756e3e6-713f-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:11464be0420b8475443745f8ad0e1384@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Средства механизации строительства
+  (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 8 пара\nДополнительно: СЗУ-
+ 301\nURALCAMPUS_SYNC_ID:11464be0420b8475443745f8ad0e1384\nURALCAMPUS_SOUR
+ CE:inueco:teacher:1756e3e6-713f-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3e8709f6f2ee0811185ad52b7f254fcd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Метрология (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 1 пара\nДополнительно: ЭЛЗ-
+ 301/02\, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05
+ а\, ЭлЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, 
+ ЭЛЗ-301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-
+ 301/13А\, ЭЛЗу-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗ
+ у-301/07б\, ЭЛЗу-301/12\nURALCAMPUS_SYNC_ID:3e8709f6f2ee0811185ad52
+ b7f254fcd\nURALCAMPUS_SOURCE:inueco:teacher:1756e3e6-713f-11ed-ad68-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6144ae128bb4a1bd611e9d8e66f1139e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Метрология (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 2 пара\nДополнительно: ЭЛЗ-
+ 301/02\, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05
+ а\, ЭлЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, 
+ ЭЛЗ-301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-
+ 301/13А\, ЭЛЗу-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗ
+ у-301/07б\, ЭЛЗу-301/12\nURALCAMPUS_SYNC_ID:6144ae128bb4a1bd611e9d8
+ e66f1139e\nURALCAMPUS_SOURCE:inueco:teacher:1756e3e6-713f-11ed-ad68-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a33228c83f0e2b93b7d702100af4cfdd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Метрология (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пономарева Ольга Анат
+ ольевна\nПара: 3 пара\nДополнительно: ЭЛЗ-
+ 301/02\, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05
+ а\, ЭлЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, 
+ ЭЛЗ-301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-
+ 301/13А\, ЭЛЗу-301/06\, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗ
+ у-301/07б\, ЭЛЗу-301/12\nURALCAMPUS_SYNC_ID:a33228c83f0e2b93b7d7021
+ 00af4cfdd\nURALCAMPUS_SOURCE:inueco:teacher:1756e3e6-713f-11ed-ad68-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

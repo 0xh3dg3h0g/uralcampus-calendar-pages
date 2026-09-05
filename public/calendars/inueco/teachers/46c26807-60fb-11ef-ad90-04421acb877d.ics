@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Боброва Анна Влад
+ имировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:968654f3661c1d6f8f78d6f3d2308157@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Таможенные операции (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 2 пара\nДополнительно: ТД-306\nURA
+ LCAMPUS_SYNC_ID:968654f3661c1d6f8f78d6f3d2308157\nURALCAMPUS_SOURCE:inuec
+ o:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dd2754ffbf92c80c66d24f79069dfd17@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Таможенные операции (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 3 пара\nДополнительно: ТД-306\nURA
+ LCAMPUS_SYNC_ID:dd2754ffbf92c80c66d24f79069dfd17\nURALCAMPUS_SOURCE:inuec
+ o:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:15efebdbcef46676d32486b1b7d677e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Таможенные платежи (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 4 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:15efebdbcef46676d32486b1b7d677e8\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:90879be292b471f38ae276fe1ff60665@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Таможенные платежи (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 5 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:90879be292b471f38ae276fe1ff60665\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:575578791bb2f31763e9d07888809766@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Таможенные платежи (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 6 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:575578791bb2f31763e9d07888809766\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fd512b4ca9943c0374fceefce824f416@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Таможенные платежи (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 7 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:fd512b4ca9943c0374fceefce824f416\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2bdc4185a5975f2efa76ce9716a710@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Таможенные операции (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 2 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:2a2bdc4185a5975f2efa76ce9716a710\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:45119f4b1a9b8ae42c862f78618dc573@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Таможенные операции (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 3 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:45119f4b1a9b8ae42c862f78618dc573\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b31ad8fc93bb040699b9ee6b1988d84e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Таможенные операции (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 4 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:b31ad8fc93bb040699b9ee6b1988d84e\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4904603a6bfd3f9b69574edb929ba1e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Таможенные операции (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 5 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:4904603a6bfd3f9b69574edb929ba1e2\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5033e792d8142296217ca2ef1c8654@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Таможенные операции (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Боброва Анна Владимир
+ овна\nПара: 6 пара\nДополнительно: ТДЗ-301\nU
+ RALCAMPUS_SYNC_ID:dc5033e792d8142296217ca2ef1c8654\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26807-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

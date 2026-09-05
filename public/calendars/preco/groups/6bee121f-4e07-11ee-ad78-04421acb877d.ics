@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: Б-364\, Б-364А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:55562f23e991b3ad54d46e42f9fa117c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Организация кредитной работы (Аудит
+ орные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-364\, Б-364А\nПара: 3 пара\nДополнитель
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:55562f23e991b3ad54d46e4
+ 2f9fa117c\nURALCAMPUS_SOURCE:preco:group:6bee121f-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1b8ca0f20a2265b5ad8fa8a0873540@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Организация кредитной работы (Аудит
+ орные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-364\, Б-364А\nПара: 4 пара\nДополнитель
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:4c1b8ca0f20a2265b5ad8fa
+ 8a0873540\nURALCAMPUS_SOURCE:preco:group:6bee121f-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

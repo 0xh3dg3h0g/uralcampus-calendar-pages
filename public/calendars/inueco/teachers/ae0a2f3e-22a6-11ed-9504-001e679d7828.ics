@@ -1,0 +1,375 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Пасешник Наталья 
+ Петровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4332481933e4cf99c93474db6d8024bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Логистика и управление цепями поста
+ вок (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 2 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:4332481933e4cf99c93474db6d8024bf\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4c18bf9b35effaa9694e4f354cdb4d2a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Логистика и управление цепями поста
+ вок (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 3 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:4c18bf9b35effaa9694e4f354cdb4d2a\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d689b0634e1293a2eb00f72d0dbda5db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Логистика и управление цепями поста
+ вок (Практика)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 4 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:d689b0634e1293a2eb00f72d0dbda5db\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e16d98e9cae7db3024d995d3e71339a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Логистика и управление цепями поста
+ вок (Практика)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 5 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:e16d98e9cae7db3024d995d3e71339a9\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e738cd173eef3ec4bba17d3928480c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Логистика и управление цепями поста
+ вок (Практика)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 6 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:e5e738cd173eef3ec4bba17d3928480c\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d64978b401e30470e3f0fcba848ad1e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Логистика и управление цепями поста
+ вок (Экзамен)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 7 пара\nДополнительно: ТТПЗ-301\
+ nURALCAMPUS_SYNC_ID:d64978b401e30470e3f0fcba848ad1e5\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4ffc97cc513c5b7d7b556908043f94ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Логистика (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 4 пара\nДополнительно: ТД-406\nURA
+ LCAMPUS_SYNC_ID:4ffc97cc513c5b7d7b556908043f94ca\nURALCAMPUS_SOURCE:inuec
+ o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4684817e4c24964aa92b712ab7e5be31@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Логистика (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 5 пара\nДополнительно: ТД-406\nURA
+ LCAMPUS_SYNC_ID:4684817e4c24964aa92b712ab7e5be31\nURALCAMPUS_SOURCE:inuec
+ o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6da5d5ca202836aaa86beec925945c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 6 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:9d6da5d5ca202836aaa86beec925945c\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:5ee8f926a4dff8e2188ad24b20e208e4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 7 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:5ee8f926a4dff8e2188ad24b20e208e4\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:55ca256c1bd57f4ca454e254ddc635d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 8 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:55ca256c1bd57f4ca454e254ddc635d4\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c73795b95465ea0330b330de2789a888@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Таможенный менеджмент (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 2 пара\nДополнительно: ТД-406\nURA
+ LCAMPUS_SYNC_ID:c73795b95465ea0330b330de2789a888\nURALCAMPUS_SOURCE:inuec
+ o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac2e975d4fe6b90adfbf6d9d8b646bc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Таможенный менеджмент (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 3 пара\nДополнительно: ТД-406\nURA
+ LCAMPUS_SYNC_ID:0ac2e975d4fe6b90adfbf6d9d8b646bc\nURALCAMPUS_SOURCE:inuec
+ o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:386edaef71a5f85cdebb7f11e167c784@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Основы таможенного дела (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 4 пара\nДополнительно: ТД-206\nURA
+ LCAMPUS_SYNC_ID:386edaef71a5f85cdebb7f11e167c784\nURALCAMPUS_SOURCE:inuec
+ o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:68dfda2de898a665c2e80ec1484403b4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Основы таможенного дела (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 5 пара\nДополнительно: ТД-206\nURA
+ LCAMPUS_SYNC_ID:68dfda2de898a665c2e80ec1484403b4\nURALCAMPUS_SOURCE:inuec
+ o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6123d2107a31129e3a37b2b8aceff878@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Методы принятия управленческих реш
+ ений (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 6 пара\nДополнительно: ГМУЗ-301\
+ nURALCAMPUS_SYNC_ID:6123d2107a31129e3a37b2b8aceff878\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:aae6b32fe21a3f25878a3e28abea3646@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Методы принятия управленческих реш
+ ений (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 7 пара\nДополнительно: ГМУЗ-301\
+ nURALCAMPUS_SYNC_ID:aae6b32fe21a3f25878a3e28abea3646\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e58f5fd17c0e28af950dcd54b606bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Методы принятия управленческих реш
+ ений (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 8 пара\nДополнительно: ГМУЗ-301\
+ nURALCAMPUS_SYNC_ID:e5e58f5fd17c0e28af950dcd54b606bd\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ff8b17d29013d66fee653b7dd53df0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Логистика (Лекция)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 4 пара\nДополнительно: ТД-406\nURA
+ LCAMPUS_SYNC_ID:c1ff8b17d29013d66fee653b7dd53df0\nURALCAMPUS_SOURCE:inuec
+ o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:92420915faff1e13a2720c2acd57770e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Логистика (Лекция)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 5 пара\nДополнительно: ТД-406\nURA
+ LCAMPUS_SYNC_ID:92420915faff1e13a2720c2acd57770e\nURALCAMPUS_SOURCE:inuec
+ o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:60a02b9ada2b401fa856fc16ab24ce9e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 6 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:60a02b9ada2b401fa856fc16ab24ce9e\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e78a4fd35f1de7ee88f43d16313dfb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 7 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:e6e78a4fd35f1de7ee88f43d16313dfb\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:ef739700e05af40b1e1f8747549e1cd2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 8 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:ef739700e05af40b1e1f8747549e1cd2\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a2083413cce9e704f4b547bf4513191e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Методы принятия управленческих реш
+ ений (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 6 пара\nДополнительно: ГМУЗ-301\
+ nURALCAMPUS_SYNC_ID:a2083413cce9e704f4b547bf4513191e\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:866208fd03f050090420d65cb73a5d4d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Методы принятия управленческих реш
+ ений (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 7 пара\nДополнительно: ГМУЗ-301\
+ nURALCAMPUS_SYNC_ID:866208fd03f050090420d65cb73a5d4d\nURALCAMPUS_SOURCE:i
+ nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

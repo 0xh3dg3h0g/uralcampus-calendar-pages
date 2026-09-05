@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: П-370\, П-370А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:354f647ba9484257693d19814fabcdcf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Стандартизация\,сертификация и техн
+ ическое документоведение (Аудиторные з
+ анятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-370\, П-370А\nПара: 3 пара\nДополнитель
+ но: Бобнев С.В.\nURALCAMPUS_SYNC_ID:354f647ba9484257693d19814fa
+ bcdcf\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5f59855db9f06a3bbea91d2e8de542@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Безопасность жизнедеятельности (Ау
+ диторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-370\, П-370А\nПара: 4 пара\nДополнитель
+ но: Тукуева Е.В.\nURALCAMPUS_SYNC_ID:cb5f59855db9f06a3bbea91d2
+ e8de542\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+END:VCALENDAR

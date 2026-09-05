@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Бахарева Светлана
+  Васильевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5dcbf1b968adf5650b8e7677797df614@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Рисунок (Лекция)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 1 пара\nДополнительно: А-210\
+ nURALCAMPUS_SYNC_ID:5dcbf1b968adf5650b8e7677797df614\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9d4834964babf5c2a46b6d8df07642@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Рисунок (Лекция)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 2 пара\nДополнительно: А-210\
+ nURALCAMPUS_SYNC_ID:8f9d4834964babf5c2a46b6d8df07642\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:9f9a24c35915b2e7a202372474b9546c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Рисунок (Лекция)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 3 пара\nДополнительно: А-310\
+ nURALCAMPUS_SYNC_ID:9f9a24c35915b2e7a202372474b9546c\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a67ad3f154e5b2aa2179fb986c2b81ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Рисунок (Лекция)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 4 пара\nДополнительно: А-310\
+ nURALCAMPUS_SYNC_ID:a67ad3f154e5b2aa2179fb986c2b81ff\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:0e08b42414d1020e5fac721fccb96311@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:История декоративно-прикладного ис
+ кусства (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 4 пара\nДополнительно: Д-305\
+ nURALCAMPUS_SYNC_ID:0e08b42414d1020e5fac721fccb96311\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f6085cdb3430d7a7c8de608f4df26b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:История декоративно-прикладного ис
+ кусства (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 5 пара\nДополнительно: Д-305\
+ nURALCAMPUS_SYNC_ID:b6f6085cdb3430d7a7c8de608f4df26b\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c9027ffcf857f02aab993221a4032691@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Академический рисунок (Практика)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 6 пара\nДополнительно: ДЗ-20
+ 1\nURALCAMPUS_SYNC_ID:c9027ffcf857f02aab993221a4032691\nURALCAMPUS_SOURCE
+ :inueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:74a506d2e2e88cbe898edf7fb1499960@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Академический рисунок (Практика)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 7 пара\nДополнительно: ДЗ-20
+ 1\nURALCAMPUS_SYNC_ID:74a506d2e2e88cbe898edf7fb1499960\nURALCAMPUS_SOURCE
+ :inueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:ab2a1af58a13a4ea3cdfd908c5bdab18@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:История графического дизайна и рекл
+ амы (Лекция)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 8 пара\nДополнительно: ДЗ-20
+ 1\nURALCAMPUS_SYNC_ID:ab2a1af58a13a4ea3cdfd908c5bdab18\nURALCAMPUS_SOURCE
+ :inueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:80eebfec44ad8c6dee8b5cb339d61881@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Академический рисунок (Практика)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 3 пара\nДополнительно: Д-205\
+ nURALCAMPUS_SYNC_ID:80eebfec44ad8c6dee8b5cb339d61881\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba0d9fd1b472cd96a7514651c36009a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Академический рисунок (Практика)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 4 пара\nДополнительно: Д-205\
+ nURALCAMPUS_SYNC_ID:5ba0d9fd1b472cd96a7514651c36009a\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:7c1ab81b3e7789297f7f26d61fde05ed@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:История графического дизайна и рекл
+ амы (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 3 пара\nДополнительно: Д-205\
+ nURALCAMPUS_SYNC_ID:7c1ab81b3e7789297f7f26d61fde05ed\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f14d9af7473dacfc53cbd6e5d476dccd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:История декоративно-прикладного ис
+ кусства (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 4 пара\nДополнительно: Д-305\
+ nURALCAMPUS_SYNC_ID:f14d9af7473dacfc53cbd6e5d476dccd\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:557fda256eeab880ca56d4183bc58735@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Академический рисунок (Практика)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 5 пара\nДополнительно: Д-305\
+ nURALCAMPUS_SYNC_ID:557fda256eeab880ca56d4183bc58735\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3a27f4ffd8cc1dd1f7d661b95d085582@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Академический рисунок (Практика)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 6 пара\nДополнительно: Д-305\
+ nURALCAMPUS_SYNC_ID:3a27f4ffd8cc1dd1f7d661b95d085582\nURALCAMPUS_SOURCE:i
+ nueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:28be8d5485f06c223bcd2b4ce45ad34e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Рисунок (Лекция)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 7 пара\nДополнительно: АЗ-30
+ 1\nURALCAMPUS_SYNC_ID:28be8d5485f06c223bcd2b4ce45ad34e\nURALCAMPUS_SOURCE
+ :inueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c1300b0be440d64f42da0aa4d95a790b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Рисунок (Лекция)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Бахарева Светлана Вас
+ ильевна\nПара: 8 пара\nДополнительно: АЗ-30
+ 1\nURALCAMPUS_SYNC_ID:c1300b0be440d64f42da0aa4d95a790b\nURALCAMPUS_SOURCE
+ :inueco:teacher:db1ed319-22ab-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

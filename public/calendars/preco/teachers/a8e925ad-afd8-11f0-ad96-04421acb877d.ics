@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Балыкова Ольга Вл
+ адимировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4ab2a567d367266e64ceadc76d4304b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 2 пара\nДополнительно: 108\nURALCAMPUS_S
+ YNC_ID:4ab2a567d367266e64ceadc76d4304b7\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:301f179043ac3004cb474f0749cccdf7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 3 пара\nДополнительно: 102\nURALCAMPUS_S
+ YNC_ID:301f179043ac3004cb474f0749cccdf7\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8b4a48e92b3bd6a3f9e9a539cc9a4a99@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 4 пара\nДополнительно: 100\nURALCAMPUS_S
+ YNC_ID:8b4a48e92b3bd6a3f9e9a539cc9a4a99\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:088e0f1a7880296f4d14348ae5e9868a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T153000
+DTEND;TZID=Asia/Yekaterinburg:20260905T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 5 пара\nДополнительно: 101\nURALCAMPUS_S
+ YNC_ID:088e0f1a7880296f4d14348ae5e9868a\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:edc0510ff0978efc3086b5d9e2293c35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T171000
+DTEND;TZID=Asia/Yekaterinburg:20260905T182000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 6 пара\nДополнительно: 109\nURALCAMPUS_S
+ YNC_ID:edc0510ff0978efc3086b5d9e2293c35\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fc08b757d42f0974ced46ded126dcdde@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 3 пара\nДополнительно: 101\nURALCAMPUS_S
+ YNC_ID:fc08b757d42f0974ced46ded126dcdde\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9c13e828f50dd1203bd157629befe446@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 4 пара\nДополнительно: 101\nURALCAMPUS_S
+ YNC_ID:9c13e828f50dd1203bd157629befe446\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:601eccde44496b0f2c95a509285ca9ef@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 5 пара\nДополнительно: 100\nURALCAMPUS_S
+ YNC_ID:601eccde44496b0f2c95a509285ca9ef\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6c31c3f4099a97025c7f1a3376fcc643@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 6 пара\nДополнительно: 103\nURALCAMPUS_S
+ YNC_ID:6c31c3f4099a97025c7f1a3376fcc643\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c60e01ea4c31a01e50419158658bd0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 1 пара\nДополнительно: 143к\nURALCAMPUS
+ _SYNC_ID:f2c60e01ea4c31a01e50419158658bd0\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aba8cfd8cded96159908567caf5b0cc5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 2 пара\nДополнительно: 148к\nURALCAMPUS
+ _SYNC_ID:aba8cfd8cded96159908567caf5b0cc5\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd21c0fca3c92b5370767fca53e062f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 3 пара\nДополнительно: 146к\nURALCAMPUS
+ _SYNC_ID:3cd21c0fca3c92b5370767fca53e062f\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:485c6b5dc40b0601b82a7bfd5ea7a11d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 4 пара\nДополнительно: 141к\nURALCAMPUS
+ _SYNC_ID:485c6b5dc40b0601b82a7bfd5ea7a11d\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:984d463e8d05e803188ab6b173709148@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 5 пара\nДополнительно: 145к\nURALCAMPUS
+ _SYNC_ID:984d463e8d05e803188ab6b173709148\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0367a02ba557ee867b729bfd0b16690e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 2 пара\nДополнительно: 142к\nURALCAMPUS
+ _SYNC_ID:0367a02ba557ee867b729bfd0b16690e\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc6701fc88e14de51c6bf296f6f88a1c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 3 пара\nДополнительно: 147к\nURALCAMPUS
+ _SYNC_ID:dc6701fc88e14de51c6bf296f6f88a1c\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4382b98f31a61fc5c9825c0ca9ada874@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 4 пара\nДополнительно: 149к\nURALCAMPUS
+ _SYNC_ID:4382b98f31a61fc5c9825c0ca9ada874\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fd6949651692355eeacda0df89214722@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 2 пара\nДополнительно: 100\nURALCAMPUS_S
+ YNC_ID:fd6949651692355eeacda0df89214722\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:57437f7995a3e4422387b4fcb497cb0c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 3 пара\nДополнительно: 110\nURALCAMPUS_S
+ YNC_ID:57437f7995a3e4422387b4fcb497cb0c\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:383edffe7ad847341be2c80f82d7cee0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 5 пара\nДополнительно: 104\nURALCAMPUS_S
+ YNC_ID:383edffe7ad847341be2c80f82d7cee0\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:689b58aab99a59d1df1ed44f0ec24de8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 6 пара\nДополнительно: 105\nURALCAMPUS_S
+ YNC_ID:689b58aab99a59d1df1ed44f0ec24de8\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:77f13a4b48240fdafadd634dc1b7366d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 1 пара\nДополнительно: 150к\nURALCAMPUS
+ _SYNC_ID:77f13a4b48240fdafadd634dc1b7366d\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9c58ed31b2c79d6383516450bf91b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 2 пара\nДополнительно: 144к\nURALCAMPUS
+ _SYNC_ID:ad9c58ed31b2c79d6383516450bf91b7\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bf2b7c45651ca5dbd1ed597ea4dd98d3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 3 пара\nДополнительно: 156к\nURALCAMPUS
+ _SYNC_ID:bf2b7c45651ca5dbd1ed597ea4dd98d3\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1783e012437e2c540f201f5caf673294@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 4 пара\nДополнительно: 157к\nURALCAMPUS
+ _SYNC_ID:1783e012437e2c540f201f5caf673294\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5b59b8b47fe58dfddf8ae5951a86a011@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 2 пара\nДополнительно: 108\nURALCAMPUS_S
+ YNC_ID:5b59b8b47fe58dfddf8ae5951a86a011\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cab9c64535264175e2ba57718dce4159@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 3 пара\nДополнительно: 102\nURALCAMPUS_S
+ YNC_ID:cab9c64535264175e2ba57718dce4159\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:249ec1281379ff5042bffe42b394d88c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T135000
+DTEND;TZID=Asia/Yekaterinburg:20260912T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 4 пара\nДополнительно: 100\nURALCAMPUS_S
+ YNC_ID:249ec1281379ff5042bffe42b394d88c\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3a6c38e8ba081e9ed028a00c699b34@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T153000
+DTEND;TZID=Asia/Yekaterinburg:20260912T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 5 пара\nДополнительно: 101\nURALCAMPUS_S
+ YNC_ID:1d3a6c38e8ba081e9ed028a00c699b34\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d74c2e59bec78b783b8d465d31e66f49@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T171000
+DTEND;TZID=Asia/Yekaterinburg:20260912T182000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 6 пара\nДополнительно: 109\nURALCAMPUS_S
+ YNC_ID:d74c2e59bec78b783b8d465d31e66f49\nURALCAMPUS_SOURCE:preco:teacher:
+ a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

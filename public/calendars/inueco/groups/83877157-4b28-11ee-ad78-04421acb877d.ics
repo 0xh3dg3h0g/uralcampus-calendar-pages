@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЭЗ-201/13
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e2b8ca6e2279e56a241e38fe2f540b48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 6 пара\nДополните
+ льно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:e2b8ca6e2279e56a241e
+ 38fe2f540b48\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eb783dbd9e6b5eea6774d4c171750662@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 7 пара\nДополните
+ льно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:eb783dbd9e6b5eea6774
+ d4c171750662\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f01ded47dcae4b3895bf62d6b3b95fb3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Макроэкономика (Практика)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 8 пара\nДополните
+ льно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:f01ded47dcae4b3895bf
+ 62d6b3b95fb3\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4b123626ffbbd671426b1131805c9684@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Математический анализ данных и инте
+ ллектуальные системы (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 6 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:4b123626ffbbd67142
+ 6b1131805c9684\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2fbd558f2f6a4e1ffd9d0a1ad60faa1c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Математический анализ данных и инте
+ ллектуальные системы (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 7 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:2fbd558f2f6a4e1ffd
+ 9d0a1ad60faa1c\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

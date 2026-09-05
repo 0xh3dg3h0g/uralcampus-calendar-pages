@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: Д-405
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a15cb4ad9cd0affcd5be7ba4defe5aab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 3 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:a15cb4ad9cd0affcd5be7b
+ a4defe5aab\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eb0e63bb014643c37d3470f534309b93@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 4 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:eb0e63bb014643c37d3470
+ f534309b93\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:121f5adf89a25808f133c4435a5c755a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 5 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:121f5adf89a25808f133c4
+ 435a5c755a\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:48a1ef910693d8699ee5f496106bd011@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Визуальное исследование бренда (Лек
+ ция)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 1 пара\nДополнительн
+ о: Зайкова О.Н.\nURALCAMPUS_SYNC_ID:48a1ef910693d8699ee5f496106
+ bd011\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:d145ae844b74002b8f2444270aea08a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Визуальное исследование бренда (Лек
+ ция)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 2 пара\nДополнительн
+ о: Зайкова О.Н.\nURALCAMPUS_SYNC_ID:d145ae844b74002b8f2444270ae
+ a08a5\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:508aa8b97552bfe8926f6ad97cf0c459@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Визуальное исследование бренда (Пра
+ ктика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 3 пара\nДополнительн
+ о: Зайкова О.Н.\nURALCAMPUS_SYNC_ID:508aa8b97552bfe8926f6ad97cf
+ 0c459\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:e64ca79b550ca4c66516366c6b918587@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Визуальное исследование бренда (Пра
+ ктика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 4 пара\nДополнительн
+ о: Зайкова О.Н.\nURALCAMPUS_SYNC_ID:e64ca79b550ca4c66516366c6b9
+ 18587\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:66046b5d153d6a93945deed877d1c537@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 1 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:66046b5d153d6a93945dee
+ d877d1c537\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:90a1b053a8a6f21add5c2ce007797295@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 2 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:90a1b053a8a6f21add5c2c
+ e007797295\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ab37f0c758a5b490a4e6bef6fe1ba080@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 3 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:ab37f0c758a5b490a4e6be
+ f6fe1ba080\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9ae5bd644c7f96d638c5e3a573322331@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-405\nПара: 4 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:9ae5bd644c7f96d638c5e3
+ a573322331\nURALCAMPUS_SOURCE:inueco:group:a09d1d20-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+END:VCALENDAR

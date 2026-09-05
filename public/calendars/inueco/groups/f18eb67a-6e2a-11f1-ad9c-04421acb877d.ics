@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ТТПЗ-301/06
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d8543a8495dbf81d96f52b9da1b60731@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Транспортная и складская логистика 
+ (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 7 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:d8543a8495dbf81d9
+ 6f52b9da1b60731\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f85dfc52781d654d9847694ca474ca1a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T195000
+DTEND;TZID=Asia/Yekaterinburg:20260907T205000
+SUMMARY:Транспортная и складская логистика 
+ (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 8 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:f85dfc52781d654d9
+ 847694ca474ca1a\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8d907bfcc5f854b141142f03a22d0f50@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Общая электротехника и электроника 
+ (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 5 пара\nДополни
+ тельно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:8d907bfcc5f854b1
+ 41142f03a22d0f50\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3414d329cd8f2afda8371ba6c249c73f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Общая электротехника и электроника 
+ (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 6 пара\nДополни
+ тельно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:3414d329cd8f2afd
+ a8371ba6c249c73f\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:deae2442eed293ee2a62949dcc44677d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Транспортная и складская логистика 
+ (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 7 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:deae2442eed293ee2
+ a62949dcc44677d\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c46b8d1ab9f1c3404d9b0e7957ae6f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Транспортная и складская логистика 
+ (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 8 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:d4c46b8d1ab9f1c34
+ 04d9b0e7957ae6f\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a3a62dc68b3dd589e0d428bbd574f8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 5 пара\nДополни
+ тельно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:e4a3a62dc68b
+ 3dd589e0d428bbd574f8\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-a
+ d9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc753cf3c4030d9f3fbe9a3f4353450@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 6 пара\nДополни
+ тельно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:ecc753cf3c40
+ 30d9f3fbe9a3f4353450\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-a
+ d9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3f336667ef22dc5080c1358489358c3b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 7 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:3f336667ef22dc508
+ 0c1358489358c3b\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:74eca74a49a3d8bf79aaa779b7760908@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 8 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:74eca74a49a3d8bf7
+ 9aaa779b7760908\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5674b43390ab2bb99484f8460ad28557@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Теория транспортных процессов и сис
+ тем (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 5 пара\nДополни
+ тельно: Огнев И.И.\nURALCAMPUS_SYNC_ID:5674b43390ab2bb99484f
+ 8460ad28557\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bcdf6d1cc8975b7e9f9605b68331375f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Теория транспортных процессов и сис
+ тем (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 6 пара\nДополни
+ тельно: Огнев И.И.\nURALCAMPUS_SYNC_ID:bcdf6d1cc8975b7e9f960
+ 5b68331375f\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6cecdd811d5bb616b1d9787598919cd5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 7 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:6cecdd811d5bb616b
+ 1d9787598919cd5\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b36a07bd66c62b4fc2603958a66eaffd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 8 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:b36a07bd66c62b4fc
+ 2603958a66eaffd\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:65903621f30b2bea0266cafb072c60f8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 7 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:65903621f30b2bea0
+ 266cafb072c60f8\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c349a0a6b74fd8516adf32052a562a96@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 8 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:c349a0a6b74fd8516
+ adf32052a562a96\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2e05354076893780e2eda207a9a32bed@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T152000
+DTEND;TZID=Asia/Yekaterinburg:20260912T165000
+SUMMARY:Транспортная инфраструктура (Лекци
+ я)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 5 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:2e05354076893780e
+ 2eda207a9a32bed\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c589a6153867463a7d57fe066d8a66dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:Транспортная инфраструктура (Лекци
+ я)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 6 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:c589a6153867463a7
+ d57fe066d8a66dd\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:058bf314931233b1ce81d87bc505a933@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T182000
+DTEND;TZID=Asia/Yekaterinburg:20260912T193000
+SUMMARY:Транспортная инфраструктура (Лекци
+ я)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/06\nПара: 7 пара\nДополни
+ тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:058bf314931233b1c
+ e81d87bc505a933\nURALCAMPUS_SOURCE:inueco:group:f18eb67a-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+END:VCALENDAR

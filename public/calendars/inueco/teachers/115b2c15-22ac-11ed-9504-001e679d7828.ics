@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Буров Алексей Ген
+ надьевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:12cd800d18474908f5df4e0a1246e28f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Планировка\, благоустройство\, ландш
+ афт населенных мест (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буров Алексей Геннадь
+ евич\nПара: 4 пара\nДополнительно: А-410\nURALC
+ AMPUS_SYNC_ID:12cd800d18474908f5df4e0a1246e28f\nURALCAMPUS_SOURCE:inueco:
+ teacher:115b2c15-22ac-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2574579ab900e37bfd8b54828c53a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Планировка\, благоустройство\, ландш
+ афт территорий (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буров Алексей Геннадь
+ евич\nПара: 5 пара\nДополнительно: А-310\nURALC
+ AMPUS_SYNC_ID:cc2574579ab900e37bfd8b54828c53a9\nURALCAMPUS_SOURCE:inueco:
+ teacher:115b2c15-22ac-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a002c98929765e09e63409961164d417@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Планировка\, благоустройство\, ландш
+ афт территорий (Лекция)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буров Алексей Геннадь
+ евич\nПара: 6 пара\nДополнительно: АЗ-301\nURA
+ LCAMPUS_SYNC_ID:a002c98929765e09e63409961164d417\nURALCAMPUS_SOURCE:inuec
+ o:teacher:115b2c15-22ac-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

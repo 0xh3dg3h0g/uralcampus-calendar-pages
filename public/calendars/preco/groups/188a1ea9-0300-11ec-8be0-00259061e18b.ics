@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: 130к
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:245201274e6c966913ffc3dd04ea9fb1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 4 пара\nДополнительно: Сат
+ аева М.Р.\nURALCAMPUS_SYNC_ID:245201274e6c966913ffc3dd04ea9fb1\nURA
+ LCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:70c3b317829ab44c53e2932527f9460e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 419\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 5 пара\nДополнительно: Кур
+ ова К.В.\nURALCAMPUS_SYNC_ID:70c3b317829ab44c53e2932527f9460e\nURALC
+ AMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:e468a92d299cd7e08e014232c66c2d43@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 6 пара\nДополнительно: Тим
+ охин Е.А.\nURALCAMPUS_SYNC_ID:e468a92d299cd7e08e014232c66c2d43\nURA
+ LCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c706d28a70b067c8aa063f2eea500908@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 1 пара\nДополнительно: Шал
+ гина С.В.\nURALCAMPUS_SYNC_ID:c706d28a70b067c8aa063f2eea500908\nURA
+ LCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:88038ed645e1f516b22e00bcc57e25c0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 2 пара\nДополнительно: Тим
+ охин Е.А.\nURALCAMPUS_SYNC_ID:88038ed645e1f516b22e00bcc57e25c0\nURA
+ LCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c454d974661f192ed51c023e122c01d1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 3 пара\nДополнительно: Пре
+ дигер Ю.О.\nURALCAMPUS_SYNC_ID:c454d974661f192ed51c023e122c01d1\nU
+ RALCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:fe8d0568765267ad2d1dc635bd6b0b08@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 3 пара\nДополнительно: Кор
+ балев И.А.\nURALCAMPUS_SYNC_ID:fe8d0568765267ad2d1dc635bd6b0b08\nU
+ RALCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:dd32de159a37ef95a46af467e8ec61a0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 4 пара\nДополнительно: Стр
+ унина Е.Ф.\nURALCAMPUS_SYNC_ID:dd32de159a37ef95a46af467e8ec61a0\nU
+ RALCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:f7b7107d265baf3ea7894636146d65a7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 5 пара\nДополнительно: Тют
+ ин А.А.\nURALCAMPUS_SYNC_ID:f7b7107d265baf3ea7894636146d65a7\nURALCAM
+ PUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c796f178698426da1fd46a1087bd3adf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 6 пара\nДополнительно: Нов
+ окрещенов Д.В.\nURALCAMPUS_SYNC_ID:c796f178698426da1fd46a1087b
+ d3adf\nURALCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:35a8f607534c0195be39151f17d9d7b1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 4 пара\nДополнительно: Тим
+ охин Е.А.\nURALCAMPUS_SYNC_ID:35a8f607534c0195be39151f17d9d7b1\nURA
+ LCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ec59848ada3d55deec3dd4f86040eb42@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 5 пара\nДополнительно: Пат
+ раков Н.И.\nURALCAMPUS_SYNC_ID:ec59848ada3d55deec3dd4f86040eb42\nU
+ RALCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:25698845c52cfb87b5da1d97c3c68956@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 6 пара\nДополнительно: Важ
+ енина Е.В.\nURALCAMPUS_SYNC_ID:25698845c52cfb87b5da1d97c3c68956\nU
+ RALCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:87735846da53387790c13efffa790bd7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 3 пара\nДополнительно: Кож
+ евникова Е.Б.\nURALCAMPUS_SYNC_ID:87735846da53387790c13efffa790
+ bd7\nURALCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:6e64f42eecc6b8d945dcb7d943256c13@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130к\nПара: 4 пара\nДополнительно: Стр
+ унина Е.Ф.\nURALCAMPUS_SYNC_ID:6e64f42eecc6b8d945dcb7d943256c13\nU
+ RALCAMPUS_SOURCE:preco:group:188a1ea9-0300-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

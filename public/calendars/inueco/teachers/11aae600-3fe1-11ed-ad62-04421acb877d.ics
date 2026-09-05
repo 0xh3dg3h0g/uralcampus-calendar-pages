@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Шкрабов Николай И
+ горевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0cdd387e35ffdb878fd61094daf174aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 7 пара\nДополнительно: ДЗ-501\nURALC
+ AMPUS_SYNC_ID:0cdd387e35ffdb878fd61094daf174aa\nURALCAMPUS_SOURCE:inueco:
+ teacher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:75abb5ac9ed6e1a32dba2567caf09636@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 8 пара\nДополнительно: ДЗ-501\nURALC
+ AMPUS_SYNC_ID:75abb5ac9ed6e1a32dba2567caf09636\nURALCAMPUS_SOURCE:inueco:
+ teacher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e0d514a2b56c4b4444c8f60c2b4182@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Графический дизайн в мультимедиа (Л
+ екция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 4 пара\nДополнительно: Д-205\nURALCAM
+ PUS_SYNC_ID:d3e0d514a2b56c4b4444c8f60c2b4182\nURALCAMPUS_SOURCE:inueco:te
+ acher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5e5733b73dd2b4f9cbbb0e9a0a65cb31@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Графический дизайн в мультимедиа (Л
+ екция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 5 пара\nДополнительно: Д-205\nURALCAM
+ PUS_SYNC_ID:5e5733b73dd2b4f9cbbb0e9a0a65cb31\nURALCAMPUS_SOURCE:inueco:te
+ acher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad0a94e4aec1f5c7feb6481bccabd05f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 6 пара\nДополнительно: ДЗ-501\nURALC
+ AMPUS_SYNC_ID:ad0a94e4aec1f5c7feb6481bccabd05f\nURALCAMPUS_SOURCE:inueco:
+ teacher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8297718e9d18fe70fb03e16fa5d0f3ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 7 пара\nДополнительно: ДЗ-501\nURALC
+ AMPUS_SYNC_ID:8297718e9d18fe70fb03e16fa5d0f3ca\nURALCAMPUS_SOURCE:inueco:
+ teacher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6d0cd790948f2dc6902e4e05a81c9816@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 8 пара\nДополнительно: ДЗ-501\nURALC
+ AMPUS_SYNC_ID:6d0cd790948f2dc6902e4e05a81c9816\nURALCAMPUS_SOURCE:inueco:
+ teacher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+END:VCALENDAR

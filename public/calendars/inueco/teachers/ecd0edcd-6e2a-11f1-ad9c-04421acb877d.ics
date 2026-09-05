@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Задорожная Вера А
+ лександровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:64121fbc19db6c4c7319422326ec36d9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 1 пара\nДополнительно: СП
+ Д-112\nURALCAMPUS_SYNC_ID:64121fbc19db6c4c7319422326ec36d9\nURALCAMPUS_S
+ OURCE:inueco:teacher:ecd0edcd-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c32d229461a69bab683adfbfa5a69573@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Авторское право и защита интеллекту
+ альной собственности (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 4 пара\nДополнительно: Д-20
+ 5\nURALCAMPUS_SYNC_ID:c32d229461a69bab683adfbfa5a69573\nURALCAMPUS_SOURCE
+ :inueco:teacher:ecd0edcd-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:910eaeb5049bf185ee207b08201d6385@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Авторское право и защита интеллекту
+ альной собственности (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 5 пара\nДополнительно: Д-20
+ 5\nURALCAMPUS_SYNC_ID:910eaeb5049bf185ee207b08201d6385\nURALCAMPUS_SOURCE
+ :inueco:teacher:ecd0edcd-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:54cba7b11866c440539f1e35e403f47f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 6 пара\nДополнительно: ЮЗ-
+ 201/01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, ЮЗ-2
+ 01/05а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\, Ю
+ З-201/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, Ю
+ З-201/13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:54cba7b11866c4
+ 40539f1e35e403f47f\nURALCAMPUS_SOURCE:inueco:teacher:ecd0edcd-6e2a-11f1-a
+ d9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:05ba0226053d042b99888454bdcc7318@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 7 пара\nДополнительно: ЮЗ-
+ 201/01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, ЮЗ-2
+ 01/05а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\, Ю
+ З-201/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, Ю
+ З-201/13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:05ba0226053d04
+ 2b99888454bdcc7318\nURALCAMPUS_SOURCE:inueco:teacher:ecd0edcd-6e2a-11f1-a
+ d9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:227cb7fc001d3fcb58377812c71b33cd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Профессиональная этика юриста (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 8 пара\nДополнительно: ЮЗ-
+ 201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\, ЮЗ-201/08\, ЮЗ-201/11\, ЮЗ
+ -201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, ЮЗ-201/13а\, ЮЗ-201/16\, Ю
+ ЗД-201\nURALCAMPUS_SYNC_ID:227cb7fc001d3fcb58377812c71b33cd\nURALCAMPUS
+ _SOURCE:inueco:teacher:ecd0edcd-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

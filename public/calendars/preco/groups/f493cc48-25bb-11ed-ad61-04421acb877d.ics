@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ОЛ-250к
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:068bb8900971ba65584768da8385340a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 1 пара\nДополнительно: 
+ Добарских Н.Б.\nURALCAMPUS_SYNC_ID:068bb8900971ba65584768da838
+ 5340a\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:923f55fd893d47cd270e5e67b77a28ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 2 пара\nДополнительно: 
+ Добарских Н.Б.\nURALCAMPUS_SYNC_ID:923f55fd893d47cd270e5e67b77
+ a28ca\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9cabb1d927a8954dd5171573560ab7c5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 3 пара\nДополнительно: 
+ Добарских Н.Б.\nURALCAMPUS_SYNC_ID:9cabb1d927a8954dd5171573560
+ ab7c5\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:11d3e276c8065214e734b3c8c10f9c8d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Документационное обеспечение управ
+ ления (Аудиторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 4 пара\nДополнительно: 
+ Варлакова Н.И.\nURALCAMPUS_SYNC_ID:11d3e276c8065214e734b3c8c10
+ f9c8d\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:38bf878f0c3d0c6c5e518f9a8fe75955@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Основы логистической деятельности (
+ Аудиторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 5 пара\nДополнительно: 
+ Швейкерт М.И.\nURALCAMPUS_SYNC_ID:38bf878f0c3d0c6c5e518f9a8fe75
+ 955\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f3cb4adb1bdc32823e14d3096d27a6dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 6 пара\nДополнительно: 
+ Воронцов М.В.\nURALCAMPUS_SYNC_ID:f3cb4adb1bdc32823e14d3096d27a
+ 6dd\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e94be5d896803257e2d963214ed7d187@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 4 пара\nДополнительно: 
+ Швейкерт М.И.\nURALCAMPUS_SYNC_ID:e94be5d896803257e2d963214ed7d
+ 187\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e709258cae7b5dfc622f72c652a80e39@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 5 пара\nДополнительно: 
+ Швейкерт М.И.\nURALCAMPUS_SYNC_ID:e709258cae7b5dfc622f72c652a80
+ e39\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:401734c1ca70dee8765670f740f20e63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Статистика (Аудиторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 6 пара\nДополнительно: 
+ Добарских Н.Б.\nURALCAMPUS_SYNC_ID:401734c1ca70dee8765670f740f
+ 20e63\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:93fe07b94345f50aa578a2aae8e32b38@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Информационное обеспечение логисти
+ ческих процессов (Аудиторные занятия)
+LOCATION:ауд. 419\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 1 пара\nДополнительно: 
+ Курова К.В.\nURALCAMPUS_SYNC_ID:93fe07b94345f50aa578a2aae8e32b38\
+ nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:be3a09158a9ae21543de08b9744b508f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 2 пара\nДополнительно: 
+ Ещеркина Л.В.\nURALCAMPUS_SYNC_ID:be3a09158a9ae21543de08b9744b5
+ 08f\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fc92b93409d4e2145bde9faf2e7ccb48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Документационное обеспечение управ
+ ления (Аудиторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 1 пара\nДополнительно: 
+ Варлакова Н.И.\nURALCAMPUS_SYNC_ID:fc92b93409d4e2145bde9faf2e7
+ ccb48\nURALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9cda024b6dd8c499343875cb4bb4b797@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-250к\nПара: 2 пара\nДополнительно: 
+ Тютин А.А.\nURALCAMPUS_SYNC_ID:9cda024b6dd8c499343875cb4bb4b797\nU
+ RALCAMPUS_SOURCE:preco:group:f493cc48-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

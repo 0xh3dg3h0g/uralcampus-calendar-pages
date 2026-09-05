@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: П-410\,П-410А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6168bf22119ed5f768d52e2f3a597810@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Разработка мобильных приложений (Ау
+ диторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 4 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:6168bf22119ed5f768d52e2f3a5
+ 97810\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a13dbbb15ded7b8ab3f6253ff4371c2a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Разработка мобильных приложений (Ау
+ диторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 5 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:a13dbbb15ded7b8ab3f6253ff43
+ 71c2a\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:39a727eee81a1c16c45de3439a1d78fc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Разработка мобильных приложений (Ау
+ диторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 6 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:39a727eee81a1c16c45de3439a1
+ d78fc\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:865617465824dc622fbcdb1d5893fa48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Системное программирование (Аудито
+ рные занятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 4 пара\nДополнитель
+ но: Семянников И.М.\nURALCAMPUS_SYNC_ID:865617465824dc622fb
+ cdb1d5893fa48\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:874130bfb2b34b1f197244b2c8d787fe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Предпринимательская деятельности (
+ Аудиторные занятия)
+LOCATION:ауд. 402\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 5 пара\nДополнитель
+ но: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:874130bfb2b34b1f197244b2c
+ 8d787fe\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e52
+ 85
+END:VEVENT
+BEGIN:VEVENT
+UID:dc94b3bf871e077ff8110c3fd82ee837@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 1 пара\nДополнитель
+ но: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:dc94b3bf871e077ff8110c3fd
+ 82ee837\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e52
+ 85
+END:VEVENT
+BEGIN:VEVENT
+UID:acde6b620e497b61ce6c1b5d34b740b8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 505\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 2 пара\nДополнитель
+ но: Попова К.С.\nURALCAMPUS_SYNC_ID:acde6b620e497b61ce6c1b5d34b
+ 740b8\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd66ca9ea599783f55bdb9783468fa1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 3 пара\nДополнитель
+ но: Низамова В.А.\nURALCAMPUS_SYNC_ID:3fd66ca9ea599783f55bdb9
+ 783468fa1\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7d47f7c4888fac72138d22485dd4c367@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 4 пара\nДополнитель
+ но: Низамова В.А.\nURALCAMPUS_SYNC_ID:7d47f7c4888fac72138d224
+ 85dd4c367\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:73d75b4785da1b5b24bd9d8c49a78eb4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 5 пара\nДополнитель
+ но: Низамова В.А.\nURALCAMPUS_SYNC_ID:73d75b4785da1b5b24bd9d8
+ c49a78eb4\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:c0603047651ba42daf7193b41669c5b8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-410\,П-410А\nПара: 6 пара\nДополнитель
+ но: Низамова В.А.\nURALCAMPUS_SYNC_ID:c0603047651ba42daf7193b
+ 41669c5b8\nURALCAMPUS_SOURCE:preco:group:f1816659-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+END:VCALENDAR

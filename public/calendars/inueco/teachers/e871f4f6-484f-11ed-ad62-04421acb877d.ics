@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Согрина Наталья С
+ ергеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9f42abb744a00528bdd647f9a297962c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Согрина Наталья Серге
+ евна\nПара: 7 пара\nДополнительно: ГМУЗ-501\
+ nURALCAMPUS_SYNC_ID:9f42abb744a00528bdd647f9a297962c\nURALCAMPUS_SOURCE:i
+ nueco:teacher:e871f4f6-484f-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ea5cdba31c893504eff50b8af803ea25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Согрина Наталья Серге
+ евна\nПара: 8 пара\nДополнительно: ГМУЗ-501\
+ nURALCAMPUS_SYNC_ID:ea5cdba31c893504eff50b8af803ea25\nURALCAMPUS_SOURCE:i
+ nueco:teacher:e871f4f6-484f-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f4034ecd72ccfd13190e5723a6549c86@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Согрина Наталья Серге
+ евна\nПара: 7 пара\nДополнительно: ГМУЗ-501/
+ 02\, ГМУЗ-501/03\, ГМУЗ-501/04\, ГМУЗ-501/04а\, ГМУЗ-501
+ /05\, ГМУЗ-501/06\, ГМУЗ-501/07а\, ГМУЗ-501/09\, ГМУЗ-50
+ 1/10\, ГМУЗ-501/11\, ГМУЗ-501/12\, ГМУЗ-501/13\, ГМУЗ-501
+ /13А\, ГМУЗД-501\nURALCAMPUS_SYNC_ID:f4034ecd72ccfd13190e5723a6549c
+ 86\nURALCAMPUS_SOURCE:inueco:teacher:e871f4f6-484f-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:28e62457d5a649d9df652d16ec473a25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Согрина Наталья Серге
+ евна\nПара: 8 пара\nДополнительно: ГМУЗ-501/
+ 02\, ГМУЗ-501/03\, ГМУЗ-501/04\, ГМУЗ-501/04а\, ГМУЗ-501
+ /05\, ГМУЗ-501/06\, ГМУЗ-501/07а\, ГМУЗ-501/09\, ГМУЗ-50
+ 1/10\, ГМУЗ-501/11\, ГМУЗ-501/12\, ГМУЗ-501/13\, ГМУЗ-501
+ /13А\, ГМУЗД-501\nURALCAMPUS_SYNC_ID:28e62457d5a649d9df652d16ec473a
+ 25\nURALCAMPUS_SOURCE:inueco:teacher:e871f4f6-484f-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:92e22dc2df05c88a37e579182246a7a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Согрина Наталья Серге
+ евна\nПара: 7 пара\nДополнительно: ГМУЗ-501\
+ nURALCAMPUS_SYNC_ID:92e22dc2df05c88a37e579182246a7a8\nURALCAMPUS_SOURCE:i
+ nueco:teacher:e871f4f6-484f-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:292ec477fae2170c644937fb7a624685@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Согрина Наталья Серге
+ евна\nПара: 8 пара\nДополнительно: ГМУЗ-501\
+ nURALCAMPUS_SYNC_ID:292ec477fae2170c644937fb7a624685\nURALCAMPUS_SOURCE:i
+ nueco:teacher:e871f4f6-484f-11ed-ad62-04421acb877d
+END:VEVENT
+END:VCALENDAR

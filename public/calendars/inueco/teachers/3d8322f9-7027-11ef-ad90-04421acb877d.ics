@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Терещук Сергей Вя
+ чеславович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a42f323e441c7807b0adff533197d27e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Сергей Вячесл
+ авович\nПара: 6 пара\nДополнительно: СЗ-201/
+ 02\, СЗ-201/03\, СЗ-201/04\, СЗ-201/04а\, СЗ-201/05\, СЗ-201/0
+ 6\, СЗ-201/07\, СЗ-201/07б\, СЗ-201/08\, СЗ-201/11\, СЗ-201/12
+ \, СЗ-201/12а\, СЗ-201/13\, СЗД-201\, СЗДу-201\, СЗу-201/0
+ 2\, СЗу-201/04\, СЗу-201/04а\, СЗу-201/05\, СЗу-201/06\, С
+ Зу-201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nURALCAMPUS
+ _SYNC_ID:a42f323e441c7807b0adff533197d27e\nURALCAMPUS_SOURCE:inueco:teach
+ er:3d8322f9-7027-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a82d6eca7ade6adc73fa55762403bc99@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Сергей Вячесл
+ авович\nПара: 7 пара\nДополнительно: СЗ-201/
+ 02\, СЗ-201/03\, СЗ-201/04\, СЗ-201/04а\, СЗ-201/05\, СЗ-201/0
+ 6\, СЗ-201/07\, СЗ-201/07б\, СЗ-201/08\, СЗ-201/11\, СЗ-201/12
+ \, СЗ-201/12а\, СЗ-201/13\, СЗД-201\, СЗДу-201\, СЗу-201/0
+ 2\, СЗу-201/04\, СЗу-201/04а\, СЗу-201/05\, СЗу-201/06\, С
+ Зу-201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nURALCAMPUS
+ _SYNC_ID:a82d6eca7ade6adc73fa55762403bc99\nURALCAMPUS_SOURCE:inueco:teach
+ er:3d8322f9-7027-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:358de01c85ef62f0c2b54f346f793768@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Организация\, планирование и управл
+ ение строительством (Лекция)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Сергей Вячесл
+ авович\nПара: 6 пара\nДополнительно: СЗ-401\
+ nURALCAMPUS_SYNC_ID:358de01c85ef62f0c2b54f346f793768\nURALCAMPUS_SOURCE:i
+ nueco:teacher:3d8322f9-7027-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7ebea64e4d4567146d4bd810509d0494@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Организация\, планирование и управл
+ ение строительством (Лекция)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Сергей Вячесл
+ авович\nПара: 7 пара\nДополнительно: СЗ-401\
+ nURALCAMPUS_SYNC_ID:7ebea64e4d4567146d4bd810509d0494\nURALCAMPUS_SOURCE:i
+ nueco:teacher:3d8322f9-7027-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1382c4592deb350493826276874946@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Организация\, планирование и управл
+ ение строительством (Практика)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Сергей Вячесл
+ авович\nПара: 8 пара\nДополнительно: СЗ-401\
+ nURALCAMPUS_SYNC_ID:bb1382c4592deb350493826276874946\nURALCAMPUS_SOURCE:i
+ nueco:teacher:3d8322f9-7027-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9c904f293aa481fc6716970d33582176@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Сергей Вячесл
+ авович\nПара: 6 пара\nДополнительно: СЗ-201\
+ , СЗУ-201\nURALCAMPUS_SYNC_ID:9c904f293aa481fc6716970d33582176\nURALCA
+ MPUS_SOURCE:inueco:teacher:3d8322f9-7027-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fcc45277c5bfafb3ed02de2350d84f1a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Сопротивление материалов (Практика)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Сергей Вячесл
+ авович\nПара: 7 пара\nДополнительно: СЗ-201\
+ , СЗУ-201\nURALCAMPUS_SYNC_ID:fcc45277c5bfafb3ed02de2350d84f1a\nURALCA
+ MPUS_SOURCE:inueco:teacher:3d8322f9-7027-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:585ec93636ab31267653aad191e06066@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Сопротивление материалов (Практика)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Сергей Вячесл
+ авович\nПара: 8 пара\nДополнительно: СЗ-201\
+ , СЗУ-201\nURALCAMPUS_SYNC_ID:585ec93636ab31267653aad191e06066\nURALCA
+ MPUS_SOURCE:inueco:teacher:3d8322f9-7027-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

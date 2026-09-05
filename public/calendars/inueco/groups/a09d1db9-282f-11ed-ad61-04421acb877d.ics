@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: СЗу-401/06
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d2c0d6912c5131a28f6279e5a9fdb6ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T170000
+DTEND;TZID=Asia/Yekaterinburg:20260905T181000
+SUMMARY:Основы технической эксплуатации об
+ ъектов строительства (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-401/06\nПара: 6 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:d2c0d6912c5131a28f627
+ 9e5a9fdb6ca\nURALCAMPUS_SOURCE:inueco:group:a09d1db9-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ebad97f2f30a966b934f5de68e1c5c97@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T182000
+DTEND;TZID=Asia/Yekaterinburg:20260905T193000
+SUMMARY:Основы технической эксплуатации об
+ ъектов строительства (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-401/06\nПара: 7 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:ebad97f2f30a966b934f5
+ de68e1c5c97\nURALCAMPUS_SOURCE:inueco:group:a09d1db9-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:851c69bc1cc1b2cde9248e762320d4c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Технология ремонтных и восстановит
+ ельных работ (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-401/06\nПара: 6 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:851c69bc1cc1b2cde9248
+ e762320d4c7\nURALCAMPUS_SOURCE:inueco:group:a09d1db9-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:500b39e806da5909915d0c450c849fa0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Технология ремонтных и восстановит
+ ельных работ (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-401/06\nПара: 7 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:500b39e806da5909915d0
+ c450c849fa0\nURALCAMPUS_SOURCE:inueco:group:a09d1db9-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:01f38e763d635432ca88d864a66c7053@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T195000
+DTEND;TZID=Asia/Yekaterinburg:20260907T205000
+SUMMARY:Технология ремонтных и восстановит
+ ельных работ (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-401/06\nПара: 8 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:01f38e763d635432ca88d
+ 864a66c7053\nURALCAMPUS_SOURCE:inueco:group:a09d1db9-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed0e9c76f5230e6abc42d17342a244e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Основы технической эксплуатации об
+ ъектов строительства (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-401/06\nПара: 6 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:9ed0e9c76f5230e6abc42
+ d17342a244e\nURALCAMPUS_SOURCE:inueco:group:a09d1db9-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b83b3e96ebbeb9b36760f24c0766193c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Основы технической эксплуатации об
+ ъектов строительства (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-401/06\nПара: 7 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:b83b3e96ebbeb9b36760f
+ 24c0766193c\nURALCAMPUS_SOURCE:inueco:group:a09d1db9-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ab5c24026ddd8d109260aa5c90597efe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Основы технической эксплуатации об
+ ъектов строительства (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-401/06\nПара: 8 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:ab5c24026ddd8d109260a
+ a5c90597efe\nURALCAMPUS_SOURCE:inueco:group:a09d1db9-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

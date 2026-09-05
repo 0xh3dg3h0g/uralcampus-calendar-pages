@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: Д-205
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:abd78d43d5f09e92f6141173720e49c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Техника графики (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 2 пара\nДополнительн
+ о: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:abd78d43d5f09e92f61411
+ 73720e49c4\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7b86bb3ed70f9fd65816a1e77483aba5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Техника графики (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 3 пара\nДополнительн
+ о: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:7b86bb3ed70f9fd65816a1
+ e77483aba5\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:27975aaf288d667b76bce314f0f12e53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Авторское право и защита интеллекту
+ альной собственности (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 4 пара\nДополнительн
+ о: Задорожная В.А.\nURALCAMPUS_SYNC_ID:27975aaf288d667b76bce
+ 314f0f12e53\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d9c8c3ccc62d69ded8a431b33491db60@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Авторское право и защита интеллекту
+ альной собственности (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 5 пара\nДополнительн
+ о: Задорожная В.А.\nURALCAMPUS_SYNC_ID:d9c8c3ccc62d69ded8a43
+ 1b33491db60\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f594a382b9c709ece50870b7ab3c8877@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Академическая живопись (Практика)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 1 пара\nДополнительн
+ о: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:f594a382b9c709ece50870
+ b7ab3c8877\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:58ad54df3a4cdd05ec533af1a09278b0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Академическая живопись (Практика)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 2 пара\nДополнительн
+ о: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:58ad54df3a4cdd05ec533a
+ f1a09278b0\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:27a288ffe9f770f9e38118c873fd9d81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 3 пара\nДополнительн
+ о: Савицкая А.Е.\nURALCAMPUS_SYNC_ID:27a288ffe9f770f9e38118c87
+ 3fd9d81\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:66515d44f7566b3bbefd13d18395960f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Академический рисунок (Практика)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 3 пара\nДополнительн
+ о: Бахарева С. В.\nURALCAMPUS_SYNC_ID:66515d44f7566b3bbefd13d1
+ 8395960f\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ff7418f08ca12b1e02ab0ad269bf9aad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Академический рисунок (Практика)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 4 пара\nДополнительн
+ о: Бахарева С. В.\nURALCAMPUS_SYNC_ID:ff7418f08ca12b1e02ab0ad2
+ 69bf9aad\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d1bde097478c542c13c32e012d7d510f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Оздоровительная рекреационная двиг
+ ательная активность (Практика)
+LOCATION:ауд. 407\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 5 пара\nДополнительн
+ о: Васильев С. А.\nURALCAMPUS_SYNC_ID:d1bde097478c542c13c32e01
+ 2d7d510f\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e9176533c3b4768480a824628e2297@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 2 пара\nДополнительн
+ о: Савицкая А.Е.\nURALCAMPUS_SYNC_ID:b9e9176533c3b4768480a8246
+ 28e2297\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e58aca60f2d00d5a1236833b0baee4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:История графического дизайна и рекл
+ амы (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 3 пара\nДополнительн
+ о: Бахарева С. В.\nURALCAMPUS_SYNC_ID:c1e58aca60f2d00d5a123683
+ 3b0baee4\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f935b612f88b40131a84c34c9a5e6990@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Графический дизайн в мультимедиа (Л
+ екция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 4 пара\nДополнительн
+ о: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:f935b612f88b40131a84c34c9a5
+ e6990\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:a325ee7ae019aa7ff4b1b4e8d7eaa97e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Графический дизайн в мультимедиа (Л
+ екция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Д-205\nПара: 5 пара\nДополнительн
+ о: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:a325ee7ae019aa7ff4b1b4e8d7e
+ aa97e\nURALCAMPUS_SOURCE:inueco:group:a09d1d1e-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+END:VCALENDAR

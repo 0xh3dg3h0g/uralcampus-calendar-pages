@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: АЗ-201
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0b2fc013b3f363e7f1a7cba7ce50946d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:История искусств и архитектуры (Лек
+ ция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-201\nПара: 6 пара\nДополнитель
+ но: Лаврова К.Б.\nURALCAMPUS_SYNC_ID:0b2fc013b3f363e7f1a7cba7c
+ e50946d\nURALCAMPUS_SOURCE:inueco:group:9ae7f8cc-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:a4cd80bd72016c132c05a9b5e3069ae0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Теория архитектуры (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-201\nПара: 7 пара\nДополнитель
+ но: Лаврова К.Б.\nURALCAMPUS_SYNC_ID:a4cd80bd72016c132c05a9b5e
+ 3069ae0\nURALCAMPUS_SOURCE:inueco:group:9ae7f8cc-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:232026296d2dee31b114f804f7257204@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Практика)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-201\nПара: 7 пара\nДополнитель
+ но: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:232026296d2dee31b114f804f
+ 7257204\nURALCAMPUS_SOURCE:inueco:group:9ae7f8cc-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:fab584327b13ebc439da54a0cb9e7c3d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Практика)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-201\nПара: 8 пара\nДополнитель
+ но: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:fab584327b13ebc439da54a0c
+ b9e7c3d\nURALCAMPUS_SOURCE:inueco:group:9ae7f8cc-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+END:VCALENDAR

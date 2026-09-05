@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Васильев Валерий 
+ Александрович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:23f05fdcd8fe457c4627201d192af60d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 3 пара\nДополнительно: С
+ ПДЗ-301\nURALCAMPUS_SYNC_ID:23f05fdcd8fe457c4627201d192af60d\nURALCAMP
+ US_SOURCE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:69f5997a246d2dae4a5e79686a8baa29@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 4 пара\nДополнительно: С
+ ПДЗ-301\nURALCAMPUS_SYNC_ID:69f5997a246d2dae4a5e79686a8baa29\nURALCAMP
+ US_SOURCE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:556e37e813e8edaccffcd0eddec5c2ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 1 пара\nДополнительно: Ю-
+ 301\nURALCAMPUS_SYNC_ID:556e37e813e8edaccffcd0eddec5c2ee\nURALCAMPUS_SOUR
+ CE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f220f932e719c4b8cc9f08dc9c2333e9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 2 пара\nДополнительно: Ю-
+ 301\nURALCAMPUS_SYNC_ID:f220f932e719c4b8cc9f08dc9c2333e9\nURALCAMPUS_SOUR
+ CE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2347933b1a0c97eeadb80b4881a2ef69@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Трудовое право (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 3 пара\nДополнительно: С
+ ПДЗ-301\nURALCAMPUS_SYNC_ID:2347933b1a0c97eeadb80b4881a2ef69\nURALCAMP
+ US_SOURCE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea58dcd73d9334a2ea13d8b1735140b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Трудовое право (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 4 пара\nДополнительно: С
+ ПДЗ-301\nURALCAMPUS_SYNC_ID:0ea58dcd73d9334a2ea13d8b1735140b\nURALCAMP
+ US_SOURCE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:66a51ab9944f0a6a6ecbe47bfc4a9bb4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 6 пара\nДополнительно: Ю
+ З-401\nURALCAMPUS_SYNC_ID:66a51ab9944f0a6a6ecbe47bfc4a9bb4\nURALCAMPUS_S
+ OURCE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9689b432bd4b5dc23da6f04af71ccb23@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 7 пара\nДополнительно: Ю
+ З-401\nURALCAMPUS_SYNC_ID:9689b432bd4b5dc23da6f04af71ccb23\nURALCAMPUS_S
+ OURCE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:90386ae8f0953796b23a7171f90ee358@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Трудовое право (Практика)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Васильев Валерий Алек
+ сандрович\nПара: 8 пара\nДополнительно: Ю
+ З-401\nURALCAMPUS_SYNC_ID:90386ae8f0953796b23a7171f90ee358\nURALCAMPUS_S
+ OURCE:inueco:teacher:63c198dd-3fdb-11ed-ad62-04421acb877d
+END:VEVENT
+END:VCALENDAR

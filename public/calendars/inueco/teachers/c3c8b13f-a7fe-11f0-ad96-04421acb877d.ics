@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Дегтярева Наталья
+  Владимировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:78e5c551b072666cc04726a429622236@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 6 пара\nДополнительно: С
+ З-401/01\, СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, С
+ З-401/05а\, СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, С
+ З-401/12\, СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:78e5c551b072666c
+ c04726a429622236\nURALCAMPUS_SOURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad9
+ 6-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b16091cc390d5d8be558cf70377da143@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 7 пара\nДополнительно: С
+ З-401/01\, СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, С
+ З-401/05а\, СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, С
+ З-401/12\, СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:b16091cc390d5d8b
+ e558cf70377da143\nURALCAMPUS_SOURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad9
+ 6-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b2af1ad4d8bfec850e6aa3a4f950478e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 8 пара\nДополнительно: С
+ З-401/01\, СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, С
+ З-401/05а\, СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, С
+ З-401/12\, СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:b2af1ad4d8bfec85
+ 0e6aa3a4f950478e\nURALCAMPUS_SOURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad9
+ 6-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ae141a8b72a67bae0f827b2f3083b1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Информационные технологии расчета 
+ строительных конструкций (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 7 пара\nДополнительно: С
+ З-301\nURALCAMPUS_SYNC_ID:d7ae141a8b72a67bae0f827b2f3083b1\nURALCAMPUS_S
+ OURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2704fafb61695a8f4c566b6f79b3a2aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Информационные технологии расчета 
+ строительных конструкций (Лаб.)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 8 пара\nДополнительно: С
+ З-301\nURALCAMPUS_SYNC_ID:2704fafb61695a8f4c566b6f79b3a2aa\nURALCAMPUS_S
+ OURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a7331aad565959c719017c8f01b78c4d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Строительная механика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 6 пара\nДополнительно: С
+ З-301/01\, СЗ-301/02\, СЗ-301/03\, СЗ-301/04\, СЗ-301/04а\, С
+ З-301/05\, СЗ-301/06\, СЗ-301/07\, СЗ-301/07а\, СЗ-301/12\, С
+ З-301/12а\, СЗ-301/13\, СЗ-301/13А\, СЗД-301\nURALCAMPUS_SYNC_I
+ D:a7331aad565959c719017c8f01b78c4d\nURALCAMPUS_SOURCE:inueco:teacher:c3c8
+ b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ebb3597e021f7f5f043c4bfb88f37868@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Строительная механика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 7 пара\nДополнительно: С
+ З-301/01\, СЗ-301/02\, СЗ-301/03\, СЗ-301/04\, СЗ-301/04а\, С
+ З-301/05\, СЗ-301/06\, СЗ-301/07\, СЗ-301/07а\, СЗ-301/12\, С
+ З-301/12а\, СЗ-301/13\, СЗ-301/13А\, СЗД-301\nURALCAMPUS_SYNC_I
+ D:ebb3597e021f7f5f043c4bfb88f37868\nURALCAMPUS_SOURCE:inueco:teacher:c3c8
+ b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a961e8a8f5a5e28ebaa7c947e677e51b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Строительная механика (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 8 пара\nДополнительно: С
+ З-301/01\, СЗ-301/02\, СЗ-301/03\, СЗ-301/04\, СЗ-301/04а\, С
+ З-301/05\, СЗ-301/06\, СЗ-301/07\, СЗ-301/07а\, СЗ-301/12\, С
+ З-301/12а\, СЗ-301/13\, СЗ-301/13А\, СЗД-301\nURALCAMPUS_SYNC_I
+ D:a961e8a8f5a5e28ebaa7c947e677e51b\nURALCAMPUS_SOURCE:inueco:teacher:c3c8
+ b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ddb8f23a123603a596dbeeca6286aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 6 пара\nДополнительно: С
+ З-401\nURALCAMPUS_SYNC_ID:d3ddb8f23a123603a596dbeeca6286aa\nURALCAMPUS_S
+ OURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f51e796762def61df786317cdcb4e846@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 7 пара\nДополнительно: С
+ З-401\nURALCAMPUS_SYNC_ID:f51e796762def61df786317cdcb4e846\nURALCAMPUS_S
+ OURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b14f7d4b833049709b0a281a1ad67d42@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 8 пара\nДополнительно: С
+ З-401\nURALCAMPUS_SYNC_ID:b14f7d4b833049709b0a281a1ad67d42\nURALCAMPUS_S
+ OURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

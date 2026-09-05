@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Панова Лилия Влад
+ имировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f3c4bacd19287990300de6fdb67f34ab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панова Лилия Владимировна\
+ nПара: 3 пара\nДополнительно: 100\nURALCAMPUS_SYNC_I
+ D:f3c4bacd19287990300de6fdb67f34ab\nURALCAMPUS_SOURCE:preco:teacher:f91a6
+ 5b3-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:05ff349c7f4ff09581c9eff883865eaa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панова Лилия Владимировна\
+ nПара: 4 пара\nДополнительно: 109\nURALCAMPUS_SYNC_I
+ D:05ff349c7f4ff09581c9eff883865eaa\nURALCAMPUS_SOURCE:preco:teacher:f91a6
+ 5b3-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:5a3dab69adbda1a3f4db9c6765342879@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панова Лилия Владимировна\
+ nПара: 5 пара\nДополнительно: 102\nURALCAMPUS_SYNC_I
+ D:5a3dab69adbda1a3f4db9c6765342879\nURALCAMPUS_SOURCE:preco:teacher:f91a6
+ 5b3-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:61d1cdefb57dfe6dc6278ec464144cd9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панова Лилия Владимировна\
+ nПара: 1 пара\nДополнительно: 101\nURALCAMPUS_SYNC_I
+ D:61d1cdefb57dfe6dc6278ec464144cd9\nURALCAMPUS_SOURCE:preco:teacher:f91a6
+ 5b3-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:54c91bb605c10131076f8641db8c080f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панова Лилия Владимировна\
+ nПара: 2 пара\nДополнительно: 109\nURALCAMPUS_SYNC_I
+ D:54c91bb605c10131076f8641db8c080f\nURALCAMPUS_SOURCE:preco:teacher:f91a6
+ 5b3-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b39d3cb5973ddedd783c23df5f0892f7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панова Лилия Владимировна\
+ nПара: 3 пара\nДополнительно: 110\nURALCAMPUS_SYNC_I
+ D:b39d3cb5973ddedd783c23df5f0892f7\nURALCAMPUS_SOURCE:preco:teacher:f91a6
+ 5b3-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd26988aad32e95313a09f93b17aded@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панова Лилия Владимировна\
+ nПара: 4 пара\nДополнительно: 108\nURALCAMPUS_SYNC_I
+ D:7fd26988aad32e95313a09f93b17aded\nURALCAMPUS_SOURCE:preco:teacher:f91a6
+ 5b3-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3a8df5f53c2655f5695c16ea8da9cd68@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панова Лилия Владимировна\
+ nПара: 5 пара\nДополнительно: 102\nURALCAMPUS_SYNC_I
+ D:3a8df5f53c2655f5695c16ea8da9cd68\nURALCAMPUS_SOURCE:preco:teacher:f91a6
+ 5b3-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

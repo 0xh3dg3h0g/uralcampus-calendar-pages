@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: НК-256к\, НК-256Ак
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:610fae175ed5c70a413df0e6aabe2d2f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Практический курс английского язык
+ а (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 1 пара\nДополни
+ тельно: Баландина И.Д.\nURALCAMPUS_SYNC_ID:610fae175ed5c
+ 70a413df0e6aabe2d2f\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad7
+ 7-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3d9115b23e49249ab9fcca755f669bcc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Английская грамматика (Аудиторные з
+ анятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 2 пара\nДополни
+ тельно: Баландина И.Д.\nURALCAMPUS_SYNC_ID:3d9115b23e492
+ 49ab9fcca755f669bcc\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad7
+ 7-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:227c1115e1fbc9f7fafc9c6f603fd9bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Возрастная анатомия\, физиология и г
+ игиена (Аудиторные занятия)
+LOCATION:ауд. 103\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 3 пара\nДополни
+ тельно: Ежова В.С.\nURALCAMPUS_SYNC_ID:227c1115e1fbc9f7fafc9
+ c6f603fd9bb\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:437e8ac63b270ce1fd5bb75159cab910@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Возрастная анатомия\, физиология и г
+ игиена (Аудиторные занятия)
+LOCATION:ауд. 103\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 4 пара\nДополни
+ тельно: Ежова В.С.\nURALCAMPUS_SYNC_ID:437e8ac63b270ce1fd5bb
+ 75159cab910\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d7f0c662ac4a563653ef6146f704ce55@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Основы педагогики (Аудиторные занят
+ ия)
+LOCATION:ауд. 222\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 1 пара\nДополни
+ тельно: Салун А.Р.\nURALCAMPUS_SYNC_ID:d7f0c662ac4a563653ef6
+ 146f704ce55\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5fd2cf854c54f442182add5a7dc0e059@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Основы педагогики (Аудиторные занят
+ ия)
+LOCATION:ауд. 222\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 2 пара\nДополни
+ тельно: Салун А.Р.\nURALCAMPUS_SYNC_ID:5fd2cf854c54f442182ad
+ d5a7dc0e059\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2dce5cfab7e1df98c717951e88cc90be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Теоретические основы организации о
+ бучения в начальных классах (Аудиторные
+  занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 1 пара\nДополни
+ тельно: Салун А.Р.\nURALCAMPUS_SYNC_ID:2dce5cfab7e1df98c7179
+ 51e88cc90be\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:752811e0d4ee44375eeaea83997c8c36@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 2 пара\nДополни
+ тельно: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:752811e0d4ee44375
+ eeaea83997c8c36\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1c7bad2b0f8f12e81c4292ad36884b3f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 1 пара\nДополни
+ тельно: Медведева Д.С.\nURALCAMPUS_SYNC_ID:1c7bad2b0f8f1
+ 2e81c4292ad36884b3f\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad7
+ 7-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb48318fc3158fe909aada372579d04@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Естествознание с методикой препода
+ вания (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 2 пара\nДополни
+ тельно: Салун А.Р.\nURALCAMPUS_SYNC_ID:1bb48318fc3158fe909aa
+ da372579d04\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bf12d750b5e37c1b41eb78be415d034a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Естествознание с методикой препода
+ вания (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 3 пара\nДополни
+ тельно: Салун А.Р.\nURALCAMPUS_SYNC_ID:bf12d750b5e37c1b41eb7
+ 8be415d034a\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:61025cd82f9fa48152a05a3b1d710f4c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Основы языкознания (Аудиторные заня
+ тия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 1 пара\nДополни
+ тельно: Ещеркина Л.В.\nURALCAMPUS_SYNC_ID:61025cd82f9fa48
+ 152a05a3b1d710f4c\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8e381ee9cd86d07078997b1772e3af4b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 2 пара\nДополни
+ тельно: Воронцов М.В.\nURALCAMPUS_SYNC_ID:8e381ee9cd86d07
+ 078997b1772e3af4b\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:25d03fc6e7e6cde8d53fe3059af7603e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 302\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 3 пара\nДополни
+ тельно: Воронцов М.В.\nURALCAMPUS_SYNC_ID:25d03fc6e7e6cde
+ 8d53fe3059af7603e\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a4f80399d6c9ce1fcd9c4df6cb706156@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 402\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: НК-256к\, НК-256Ак\nПара: 4 пара\nДополни
+ тельно: Курова К.В.\nURALCAMPUS_SYNC_ID:a4f80399d6c9ce1fcd9
+ c4df6cb706156\nURALCAMPUS_SOURCE:preco:group:8072bf2c-3c0e-11ee-ad77-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Новокшонова Нина 
+ Александровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5b779bad0fe94ac7509fd5b53131ae5f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 1 пара\nДополнительно: Ю-
+ 301\nURALCAMPUS_SYNC_ID:5b779bad0fe94ac7509fd5b53131ae5f\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:81ed113c2b50c87b56bc29c569c7bdbc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Гражданское право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 1 пара\nДополнительно: С
+ ПД-212\nURALCAMPUS_SYNC_ID:81ed113c2b50c87b56bc29c569c7bdbc\nURALCAMPUS
+ _SOURCE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e3be021140b3c34b81df7636c148922a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 2 пара\nДополнительно: С
+ ПД-212\, Ю-201\nURALCAMPUS_SYNC_ID:e3be021140b3c34b81df7636c148922a\nU
+ RALCAMPUS_SOURCE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:08ba565edb4b5cf3ec55bd9015d9eafb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Гражданское право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 3 пара\nДополнительно: Ю-
+ 201\nURALCAMPUS_SYNC_ID:08ba565edb4b5cf3ec55bd9015d9eafb\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:78db684702c09b06dadf24748ff51741@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Гражданское право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 4 пара\nДополнительно: Ю-
+ 201\nURALCAMPUS_SYNC_ID:78db684702c09b06dadf24748ff51741\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:326fbd712de8f5f7bee657af1a6dcd71@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 1 пара\nДополнительно: С
+ ПДЗ-301\nURALCAMPUS_SYNC_ID:326fbd712de8f5f7bee657af1a6dcd71\nURALCAMP
+ US_SOURCE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3649579b639b453c7823d92fd9dd41ef@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 2 пара\nДополнительно: С
+ ПДЗ-301\nURALCAMPUS_SYNC_ID:3649579b639b453c7823d92fd9dd41ef\nURALCAMP
+ US_SOURCE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ТД-206
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0f82112c1964385020b32c530e315299@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 2 пара\nДополнитель
+ но: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:0f82112c1964385020b32c53
+ 0e315299\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:afe0acc5c00d3d56693f82dca06a8ec4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 3 пара\nДополнитель
+ но: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:afe0acc5c00d3d56693f82dc
+ a06a8ec4\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e498fc71e36c904087639df37ae6ba25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Теория государственного управления
+  (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 1 пара\nДополнитель
+ но: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:e498fc71e36c904087639d
+ f37ae6ba25\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:04c719f4e4dd439aac68794e4a29f3d3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Теория государственного управления
+  (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 2 пара\nДополнитель
+ но: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:04c719f4e4dd439aac6879
+ 4e4a29f3d3\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e076fa56e341963e48dc3c03814ad542@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Общий менеджмент (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 2 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:e076fa56e341963e48dc
+ 3c03814ad542\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3caa3d8407b9d4c3e4d8e2fa790c42b0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Общий менеджмент (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 3 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:3caa3d8407b9d4c3e4d8
+ e2fa790c42b0\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce2dc0f74256c29f2d60109cb95704d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Товароведение и экспертиза в таможе
+ нном деле (продовольственные и непродов
+ ольственные товары) (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 4 пара\nДополнитель
+ но: Салахова Е.А.\nURALCAMPUS_SYNC_ID:ce2dc0f74256c29f2d60109
+ cb95704d8\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aa4f4a1ebbf0cd9f0c12315130cfae3a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Основы таможенного дела (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 4 пара\nДополнитель
+ но: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:aa4f4a1ebbf0cd9f0c12315
+ 130cfae3a\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0f5a4398eab761c35c347ffa4834a32b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Основы таможенного дела (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 5 пара\nДополнитель
+ но: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:0f5a4398eab761c35c347ff
+ a4834a32b\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3a40fd033fd7b065fc5d351538dbed3b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Товароведение и экспертиза в таможе
+ нном деле (продовольственные и непродов
+ ольственные товары) (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 2 пара\nДополнитель
+ но: Салахова Е.А.\nURALCAMPUS_SYNC_ID:3a40fd033fd7b065fc5d351
+ 538dbed3b\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b9014623d8a6f63ba0387ee61bb573f1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Товароведение и экспертиза в таможе
+ нном деле (продовольственные и непродов
+ ольственные товары) (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 3 пара\nДополнитель
+ но: Салахова Е.А.\nURALCAMPUS_SYNC_ID:b9014623d8a6f63ba0387ee
+ 61bb573f1\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:db96663864a4c4a26b2c6e51b2da1657@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Товароведение и экспертиза в таможе
+ нном деле (продовольственные и непродов
+ ольственные товары) (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 4 пара\nДополнитель
+ но: Салахова Е.А.\nURALCAMPUS_SYNC_ID:db96663864a4c4a26b2c6e5
+ 1b2da1657\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1b3c852b0dd284564dc941f4c6f66f10@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 1 пара\nДополнитель
+ но: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:1b3c852b0dd284564dc941f4
+ c6f66f10\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c315aca2d070896a10b40f33a483c7ec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Макроэкономика (Практика)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 2 пара\nДополнитель
+ но: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:c315aca2d070896a10b40f33
+ a483c7ec\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:312074039f55ed81657e2e97afc16bf4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Основы внешнеэкономической деятель
+ ности (Лекция)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 2 пара\nДополнитель
+ но: Сенчихина И.А.\nURALCAMPUS_SYNC_ID:312074039f55ed81657e2
+ e97afc16bf4\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7426d1b049d143a7b02a71bf16a190f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Основы внешнеэкономической деятель
+ ности (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 3 пара\nДополнитель
+ но: Сенчихина И.А.\nURALCAMPUS_SYNC_ID:7426d1b049d143a7b02a7
+ 1bf16a190f5\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b68d10309aa09949db71054a39cb9343@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Основы внешнеэкономической деятель
+ ности (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 4 пара\nДополнитель
+ но: Сенчихина И.А.\nURALCAMPUS_SYNC_ID:b68d10309aa09949db710
+ 54a39cb9343\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: МЗДу-201
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8256c5fa35c6486b20b190f3dbb0c28e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗДу-201\nПара: 6 пара\nДополните
+ льно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:8256c5fa35c6486b
+ 20b190f3dbb0c28e\nURALCAMPUS_SOURCE:inueco:group:a69991b9-1878-11f1-ad98-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:22033da22c84e1aaff3934ee7630dfa2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗДу-201\nПара: 7 пара\nДополните
+ льно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:22033da22c84e1aa
+ ff3934ee7630dfa2\nURALCAMPUS_SOURCE:inueco:group:a69991b9-1878-11f1-ad98-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcd4c288d32022aa0b4d6424b97557a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Математический анализ данных и инте
+ ллектуальные системы (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗДу-201\nПара: 6 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:9fcd4c288d32022aa0
+ b4d6424b97557a\nURALCAMPUS_SOURCE:inueco:group:a69991b9-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:393e64f5b11eed11fc884860c54b3961@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Математический анализ данных и инте
+ ллектуальные системы (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗДу-201\nПара: 7 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:393e64f5b11eed11fc
+ 884860c54b3961\nURALCAMPUS_SOURCE:inueco:group:a69991b9-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

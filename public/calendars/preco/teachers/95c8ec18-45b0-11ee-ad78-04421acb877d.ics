@@ -1,0 +1,536 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Низамова Валерия 
+ Алексеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a30149423add35129d5ef12b7d055fa4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 1 пара\nДополнительно: ПД-318\,ПД-31
+ 8А\nURALCAMPUS_SYNC_ID:a30149423add35129d5ef12b7d055fa4\nURALCAMPUS_SOUR
+ CE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6feaf2cf14e39de08bee6b0a6199444@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 2 пара\nДополнительно: ПД-318\,ПД-31
+ 8А\nURALCAMPUS_SYNC_ID:b6feaf2cf14e39de08bee6b0a6199444\nURALCAMPUS_SOUR
+ CE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5481a198c79e8316407bdc7297eb13b3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 3 пара\nДополнительно: ПД-319\nURALCAM
+ PUS_SYNC_ID:5481a198c79e8316407bdc7297eb13b3\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d2539f7e52b7916e1168d57b3076a254@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 4 пара\nДополнительно: ПД-319\nURALCAM
+ PUS_SYNC_ID:d2539f7e52b7916e1168d57b3076a254\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2f67f8b53334d7e3c55a218b0feffabf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T153000
+DTEND;TZID=Asia/Yekaterinburg:20260905T170000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 5 пара\nДополнительно: П-210\nURALCAMPU
+ S_SYNC_ID:2f67f8b53334d7e3c55a218b0feffabf\nURALCAMPUS_SOURCE:preco:teach
+ er:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3ceb9214f4c74eeabcadfbcaeb97ebf6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T171000
+DTEND;TZID=Asia/Yekaterinburg:20260905T182000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 6 пара\nДополнительно: П-210\nURALCAMPU
+ S_SYNC_ID:3ceb9214f4c74eeabcadfbcaeb97ebf6\nURALCAMPUS_SOURCE:preco:teach
+ er:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6f629a943e71053b4b5722d691826d2f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:WEB-технологии (Аудиторные занятия)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 1 пара\nДополнительно: П-340к\nURALCAM
+ PUS_SYNC_ID:6f629a943e71053b4b5722d691826d2f\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0491cdcb0faaca30ba418e32f82900@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:WEB-технологии (Аудиторные занятия)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 2 пара\nДополнительно: П-340к\nURALCAM
+ PUS_SYNC_ID:9b0491cdcb0faaca30ba418e32f82900\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad897fa58aa2f335a54489657460683@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 3 пара\nДополнительно: П-341к\, П-341
+ Ак\nURALCAMPUS_SYNC_ID:6ad897fa58aa2f335a54489657460683\nURALCAMPUS_SOU
+ RCE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dd40a799ab2e173638b16f655e0eb706@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 4 пара\nДополнительно: П-341к\, П-341
+ Ак\nURALCAMPUS_SYNC_ID:dd40a799ab2e173638b16f655e0eb706\nURALCAMPUS_SOU
+ RCE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cc26cb519aea870a5994de20d31744fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 5 пара\nДополнительно: П-341к\, П-341
+ Ак\nURALCAMPUS_SYNC_ID:cc26cb519aea870a5994de20d31744fb\nURALCAMPUS_SOU
+ RCE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1b2b5e7cb1c459c686d0be69abe836@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 6 пара\nДополнительно: П-341к\, П-341
+ Ак\nURALCAMPUS_SYNC_ID:ca1b2b5e7cb1c459c686d0be69abe836\nURALCAMPUS_SOU
+ RCE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dd71671104381d7b7c7263818d239c0b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 1 пара\nДополнительно: П-240к\nURALCAM
+ PUS_SYNC_ID:dd71671104381d7b7c7263818d239c0b\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b0bf7646f7efcec34fc94962d933354f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 2 пара\nДополнительно: П-240к\nURALCAM
+ PUS_SYNC_ID:b0bf7646f7efcec34fc94962d933354f\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5bfcfe33bc2b040510e4a0f418eb36d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 3 пара\nДополнительно: П-340к\nURALCAM
+ PUS_SYNC_ID:5bfcfe33bc2b040510e4a0f418eb36d2\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:026babe2727ec825c4ae7215b87b2d95@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 4 пара\nДополнительно: П-340к\nURALCAM
+ PUS_SYNC_ID:026babe2727ec825c4ae7215b87b2d95\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fa25990a524c6980c964dd8509ff5613@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 5 пара\nДополнительно: 138к\nURALCAMPUS
+ _SYNC_ID:fa25990a524c6980c964dd8509ff5613\nURALCAMPUS_SOURCE:preco:teache
+ r:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7274f24848fc43543a0e50c5b763245d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 6 пара\nДополнительно: П-340к\nURALCAM
+ PUS_SYNC_ID:7274f24848fc43543a0e50c5b763245d\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:965b773618280a2ddec282e0b729cd9b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 3 пара\nДополнительно: ПД-348к\nURALC
+ AMPUS_SYNC_ID:965b773618280a2ddec282e0b729cd9b\nURALCAMPUS_SOURCE:preco:t
+ eacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:274a4ccde6bef77873471e608ae813de@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 4 пара\nДополнительно: ПД-348к\nURALC
+ AMPUS_SYNC_ID:274a4ccde6bef77873471e608ae813de\nURALCAMPUS_SOURCE:preco:t
+ eacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e92558fe8b701337c8f4553fc04b27c1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 5 пара\nДополнительно: ПД-349к\, ПД
+ -349Ак\nURALCAMPUS_SYNC_ID:e92558fe8b701337c8f4553fc04b27c1\nURALCAMPUS
+ _SOURCE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78ef6530261f8d4200ebf0b6d36d785a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 6 пара\nДополнительно: ПД-349к\, ПД
+ -349Ак\nURALCAMPUS_SYNC_ID:78ef6530261f8d4200ebf0b6d36d785a\nURALCAMPUS
+ _SOURCE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab7b569bf9346811d3d58af6a60bde2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 2 пара\nДополнительно: П-240к\nURALCAM
+ PUS_SYNC_ID:8ab7b569bf9346811d3d58af6a60bde2\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e7dd11d1bf7834761811d6fc55d568@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 3 пара\nДополнительно: П-240к\nURALCAM
+ PUS_SYNC_ID:b7e7dd11d1bf7834761811d6fc55d568\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3a67540c4b26cc45439bfcad2a4eb2c3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 4 пара\nДополнительно: П-340к\nURALCAM
+ PUS_SYNC_ID:3a67540c4b26cc45439bfcad2a4eb2c3\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0908423374abd42c366ed3f5d952e87a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 1 пара\nДополнительно: П-210\nURALCAMPU
+ S_SYNC_ID:0908423374abd42c366ed3f5d952e87a\nURALCAMPUS_SOURCE:preco:teach
+ er:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cadc2a9d6f02b3292a1863b554c84754@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 2 пара\nДополнительно: П-210\nURALCAMPU
+ S_SYNC_ID:cadc2a9d6f02b3292a1863b554c84754\nURALCAMPUS_SOURCE:preco:teach
+ er:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:638b2d43200678a8867c71ac4f82b951@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 3 пара\nДополнительно: П-410\,П-410А\
+ nURALCAMPUS_SYNC_ID:638b2d43200678a8867c71ac4f82b951\nURALCAMPUS_SOURCE:p
+ reco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dbc84f8d0d434bc8e84b04fba7cfac8d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 4 пара\nДополнительно: П-410\,П-410А\
+ nURALCAMPUS_SYNC_ID:dbc84f8d0d434bc8e84b04fba7cfac8d\nURALCAMPUS_SOURCE:p
+ reco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:74e55f32129bc02c1a9f9e0306b9b375@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 5 пара\nДополнительно: П-410\,П-410А\
+ nURALCAMPUS_SYNC_ID:74e55f32129bc02c1a9f9e0306b9b375\nURALCAMPUS_SOURCE:p
+ reco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d4f879a53fe0f3b7a0b9347ffc7a4a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 6 пара\nДополнительно: П-410\,П-410А\
+ nURALCAMPUS_SYNC_ID:b6d4f879a53fe0f3b7a0b9347ffc7a4a\nURALCAMPUS_SOURCE:p
+ reco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5adf95c5799027bb808b9d9116c0f5da@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 1 пара\nДополнительно: ПД-318\,ПД-31
+ 8А\nURALCAMPUS_SYNC_ID:5adf95c5799027bb808b9d9116c0f5da\nURALCAMPUS_SOUR
+ CE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbc7c0855dee2d3d8b43f4022728194@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 2 пара\nДополнительно: ПД-318\,ПД-31
+ 8А\nURALCAMPUS_SYNC_ID:7bbc7c0855dee2d3d8b43f4022728194\nURALCAMPUS_SOUR
+ CE:preco:teacher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b94c6e7e4a5b1a3411b348f3d116d269@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 3 пара\nДополнительно: ПД-319\nURALCAM
+ PUS_SYNC_ID:b94c6e7e4a5b1a3411b348f3d116d269\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:da31a7ccc9bcd8413f5a0c28cbc328a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T135000
+DTEND;TZID=Asia/Yekaterinburg:20260912T152000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 4 пара\nДополнительно: ПД-319\nURALCAM
+ PUS_SYNC_ID:da31a7ccc9bcd8413f5a0c28cbc328a8\nURALCAMPUS_SOURCE:preco:tea
+ cher:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4a4ca8a7db7696bd00267e2135508210@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T153000
+DTEND;TZID=Asia/Yekaterinburg:20260912T170000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 5 пара\nДополнительно: П-210\nURALCAMPU
+ S_SYNC_ID:4a4ca8a7db7696bd00267e2135508210\nURALCAMPUS_SOURCE:preco:teach
+ er:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0819ffee0b6576a919b8e806fc69fffb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T171000
+DTEND;TZID=Asia/Yekaterinburg:20260912T182000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Низамова Валерия Алексеев
+ на\nПара: 6 пара\nДополнительно: П-210\nURALCAMPU
+ S_SYNC_ID:0819ffee0b6576a919b8e806fc69fffb\nURALCAMPUS_SOURCE:preco:teach
+ er:95c8ec18-45b0-11ee-ad78-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Зязев Евгений Вла
+ димирович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d06dc986c1fee364ff74dde015f24b3e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Инженерная и компьютерная графика (
+ Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зязев Евгений Владими
+ рович\nПара: 4 пара\nДополнительно: ЭЛЗ-301\
+ nURALCAMPUS_SYNC_ID:d06dc986c1fee364ff74dde015f24b3e\nURALCAMPUS_SOURCE:i
+ nueco:teacher:15ce6479-22ad-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:83b80528e210ea9049ae6186d5f856e7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Инженерная и компьютерная графика (
+ Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зязев Евгений Владими
+ рович\nПара: 5 пара\nДополнительно: С-216\nURA
+ LCAMPUS_SYNC_ID:83b80528e210ea9049ae6186d5f856e7\nURALCAMPUS_SOURCE:inuec
+ o:teacher:15ce6479-22ad-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4b01ee99dd758b5b91f2951c23150a4d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Инженерная и компьютерная графика (
+ Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зязев Евгений Владими
+ рович\nПара: 6 пара\nДополнительно: С-216\nURA
+ LCAMPUS_SYNC_ID:4b01ee99dd758b5b91f2951c23150a4d\nURALCAMPUS_SOURCE:inuec
+ o:teacher:15ce6479-22ad-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:5d85375840fad80d484872d384449a5e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Инженерная и компьютерная графика (
+ Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зязев Евгений Владими
+ рович\nПара: 7 пара\nДополнительно: ЭЛЗ-301/
+ 02\, ЭЛЗ-301/03\, ЭЛЗ-301/04\, ЭЛЗ-301/04а\, ЭЛЗ-301/05а\, 
+ ЭлЗ-301/06\, ЭЛЗ-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, ЭЛ
+ З-301/11\, ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-301/
+ 13А\nURALCAMPUS_SYNC_ID:5d85375840fad80d484872d384449a5e\nURALCAMPUS_SOU
+ RCE:inueco:teacher:15ce6479-22ad-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:7b230a7e597f30acb44c681af9c5efd5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Инженерная и компьютерная графика (
+ Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зязев Евгений Владими
+ рович\nПара: 8 пара\nДополнительно: СЗ-201/02
+ \, СЗ-201/03\, СЗ-201/04\, СЗ-201/04а\, СЗ-201/05\, СЗ-201/06\
+ , СЗ-201/07\, СЗ-201/07б\, СЗ-201/08\, СЗ-201/11\, СЗ-201/12\,
+  СЗ-201/12а\, СЗ-201/13\, СЗД-201\, СЗДу-201\, СЗу-201/02\
+ , СЗу-201/04\, СЗу-201/04а\, СЗу-201/05\, СЗу-201/06\, СЗ
+ у-201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nURALCAMPUS_S
+ YNC_ID:7b230a7e597f30acb44c681af9c5efd5\nURALCAMPUS_SOURCE:inueco:teacher
+ :15ce6479-22ad-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

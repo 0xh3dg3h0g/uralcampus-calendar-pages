@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Чераева Ольга Але
+ ксандровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4bc51f10a9e3d09eabb0214d36949458@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 2 пара\nДополнительно: 141к\nURALCAMPUS
+ _SYNC_ID:4bc51f10a9e3d09eabb0214d36949458\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:95ad46bb18af15aaf718e4611beeeb5c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 2 пара\nДополнительно: 149к\nURALCAMPUS
+ _SYNC_ID:95ad46bb18af15aaf718e4611beeeb5c\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cd5ec24b3d7c0217edaa458e7be177c9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 3 пара\nДополнительно: 147к\nURALCAMPUS
+ _SYNC_ID:cd5ec24b3d7c0217edaa458e7be177c9\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:41c33ac3734523d98e5667cdd0c6b786@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 4 пара\nДополнительно: 147к\nURALCAMPUS
+ _SYNC_ID:41c33ac3734523d98e5667cdd0c6b786\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2e237a2655f319abec0850ae85c994@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 1 пара\nДополнительно: 145к\nURALCAMPUS
+ _SYNC_ID:2b2e237a2655f319abec0850ae85c994\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9e2e01cebbb0fa093454d736ab22651c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 2 пара\nДополнительно: 147к\nURALCAMPUS
+ _SYNC_ID:9e2e01cebbb0fa093454d736ab22651c\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ed2f57ff631a7df4337c565f82e590b2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 3 пара\nДополнительно: 148к\nURALCAMPUS
+ _SYNC_ID:ed2f57ff631a7df4337c565f82e590b2\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3f18eca3916f0e8320053497ae3e42da@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 1 пара\nДополнительно: 146к\nURALCAMPUS
+ _SYNC_ID:3f18eca3916f0e8320053497ae3e42da\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a1001b85302050430d0a3a39d5764238@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 2 пара\nДополнительно: 150к\nURALCAMPUS
+ _SYNC_ID:a1001b85302050430d0a3a39d5764238\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c57f344bed0b6fafccb66ff52f0d60fa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 3 пара\nДополнительно: 149к\nURALCAMPUS
+ _SYNC_ID:c57f344bed0b6fafccb66ff52f0d60fa\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b174cc2da16b1b092fe41971abb2a576@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 1 пара\nДополнительно: 148к\nURALCAMPUS
+ _SYNC_ID:b174cc2da16b1b092fe41971abb2a576\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:25c9bf6ce6e0b6f97bb68af686b22596@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 3 пара\nДополнительно: 142к\nURALCAMPUS
+ _SYNC_ID:25c9bf6ce6e0b6f97bb68af686b22596\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fb692a72c393127dc3d224399ed4005c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чераева Ольга Александров
+ на\nПара: 4 пара\nДополнительно: 149к\nURALCAMPUS
+ _SYNC_ID:fb692a72c393127dc3d224399ed4005c\nURALCAMPUS_SOURCE:preco:teache
+ r:7ed841f1-a110-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

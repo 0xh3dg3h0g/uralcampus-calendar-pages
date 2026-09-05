@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Ещеркина Людмила 
+ Владимировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f1460387d42a05578bd4de928e2a56cf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 4 пара\nДополнительно: А-11
+ 0\nURALCAMPUS_SYNC_ID:f1460387d42a05578bd4de928e2a56cf\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e9cae4dc07d437f77d57c614008bae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 2 пара\nДополнительно: С-11
+ 6\nURALCAMPUS_SYNC_ID:e0e9cae4dc07d437f77d57c614008bae\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:5bdbdf7d2b236d67a371a138a44f9f53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Основы языкознания (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 3 пара\nДополнительно: ЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:5bdbdf7d2b236d67a371a138a44f9f53\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:72e879c4ac52ed580a4f7899c7048272@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Основы языкознания (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 4 пара\nДополнительно: ЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:72e879c4ac52ed580a4f7899c7048272\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:94bac42d8d73b7d3cc6d12be9a979b0c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Основы языкознания (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 5 пара\nДополнительно: ЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:94bac42d8d73b7d3cc6d12be9a979b0c\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:975068aab640a077c2ad1c920aac2823@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Основы языкознания (Практика)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 1 пара\nДополнительно: ЛЗ-
+ 301\nURALCAMPUS_SYNC_ID:975068aab640a077c2ad1c920aac2823\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f324d16c228d801e32cb8e83fe691cf3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Лексикология (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 2 пара\nДополнительно: Л-31
+ 1\nURALCAMPUS_SYNC_ID:f324d16c228d801e32cb8e83fe691cf3\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3428460d64b78492650f7be107e503@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Лексикология (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 3 пара\nДополнительно: Л-31
+ 1\nURALCAMPUS_SYNC_ID:6f3428460d64b78492650f7be107e503\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd6ef2363adcd887c4f813d16a3b65c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Основы языкознания (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 4 пара\nДополнительно: Л-31
+ 1\nURALCAMPUS_SYNC_ID:1bd6ef2363adcd887c4f813d16a3b65c\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:7d73a58e77d26c26121ad8fd33e4a538@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Основы языкознания (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 5 пара\nДополнительно: Л-31
+ 1\nURALCAMPUS_SYNC_ID:7d73a58e77d26c26121ad8fd33e4a538\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

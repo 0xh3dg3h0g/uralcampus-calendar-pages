@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ПД-319
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d04ac6b803886c46630b4d12acea43ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 3 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:d04ac6b803886c46630b4d12acea43f
+ f\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:97657c81f17614775a2d2dcb21bfd12a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 4 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:97657c81f17614775a2d2dcb21bfd12
+ a\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:822b0024b9bb1522ff3743812b65d37f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы медицинской подготовки (Ауди
+ торные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 3 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:822b0024b9bb1522ff3743812b65d
+ 37f\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d28695f92206daeafd26e0db765e81c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы медицинской подготовки (Ауди
+ торные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 4 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:d28695f92206daeafd26e0db765e8
+ 1c2\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b719b4cce7c9729b772723733d275e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 5 пара\nДополнительно: П
+ опова К.С.\nURALCAMPUS_SYNC_ID:e0b719b4cce7c9729b772723733d275e\nU
+ RALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d54deeace68b7a0e86446ca3f15eb4f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 1 пара\nДополнительно: Р
+ астегняева Е.Г.\nURALCAMPUS_SYNC_ID:d54deeace68b7a0e86446ca3f
+ 15eb4f4\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:803b896456cb6f0001b46a80f92d9e2f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 2 пара\nДополнительно: Р
+ астегняева Е.Г.\nURALCAMPUS_SYNC_ID:803b896456cb6f0001b46a80f
+ 92d9e2f\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:b26d50aa10c7a46a34e36d8969bcdd94@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 3 пара\nДополнительно: Р
+ астегняева Е.Г.\nURALCAMPUS_SYNC_ID:b26d50aa10c7a46a34e36d896
+ 9bcdd94\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:a006864a43f5df4632aa8c5b49082d49@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Основы медицинской подготовки (Ауди
+ торные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 4 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:a006864a43f5df4632aa8c5b49082
+ d49\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f76ecc2e66a96029b33dc4b9d051ae7b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 4 пара\nДополнительно: Р
+ астегняева Е.Г.\nURALCAMPUS_SYNC_ID:f76ecc2e66a96029b33dc4b9d
+ 051ae7b\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:755ea66843fdd88bd83974f04fb8dcc4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 5 пара\nДополнительно: Р
+ астегняева Е.Г.\nURALCAMPUS_SYNC_ID:755ea66843fdd88bd83974f04
+ fb8dcc4\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:a73a971db65ae065800c752aec068e25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 6 пара\nДополнительно: Р
+ астегняева Е.Г.\nURALCAMPUS_SYNC_ID:a73a971db65ae065800c752ae
+ c068e25\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:658728e3e66dfa28a02c8529899eaa3f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 1 пара\nДополнительно: Р
+ астегняева Е.Г.\nURALCAMPUS_SYNC_ID:658728e3e66dfa28a02c85298
+ 99eaa3f\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8d03db2f9dc019b03cd046798e5de5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 2 пара\nДополнительно: Р
+ астегняева Е.Г.\nURALCAMPUS_SYNC_ID:ef8d03db2f9dc019b03cd0467
+ 98e5de5\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:5d4dfbac744c1a68df89444bf7206bee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 3 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:5d4dfbac744c1a68df89444bf7206be
+ e\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2f699420bc49f873aa059fd099043539@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T135000
+DTEND;TZID=Asia/Yekaterinburg:20260912T152000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 4 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:2f699420bc49f873aa059fd09904353
+ 9\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+END:VCALENDAR

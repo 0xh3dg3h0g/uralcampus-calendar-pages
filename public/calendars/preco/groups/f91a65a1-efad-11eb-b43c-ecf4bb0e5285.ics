@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: Ю-238\, Ю-238А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d0bed3047871928fd12bba0e5bfc1c81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 1 пара\nДополнитель
+ но: Орлова Д.Н.\nURALCAMPUS_SYNC_ID:d0bed3047871928fd12bba0e5bf
+ c1c81\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:0c087d7c3da21bbb21065e8b8a4c6f13@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 2 пара\nДополнитель
+ но: Моторина Л.А.\nURALCAMPUS_SYNC_ID:0c087d7c3da21bbb21065e8
+ b8a4c6f13\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9414e0050fa3b43f0e3c90cdae3760af@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 1 пара\nДополнитель
+ но: Курова К.В.\nURALCAMPUS_SYNC_ID:9414e0050fa3b43f0e3c90cdae3
+ 760af\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7eed747b0fb4c2580671375468abe6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 2 пара\nДополнитель
+ но: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:ef7eed747b0fb4c258067
+ 1375468abe6\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:91a08e42485f4d323606dc36f4ef557a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 3 пара\nДополнитель
+ но: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:91a08e42485f4d323606d
+ c36f4ef557a\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:47eec7e96186b72c172712ec12f02550@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 1 пара\nДополнитель
+ но: Орлова Д.Н.\nURALCAMPUS_SYNC_ID:47eec7e96186b72c172712ec12f
+ 02550\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:94e7e39f3203fec7c17b03ca777751ab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 2 пара\nДополнитель
+ но: Нифантова Т.А.\nURALCAMPUS_SYNC_ID:94e7e39f3203fec7c17b0
+ 3ca777751ab\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:29b4c6966b2e16e31df15e4a1083990f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 3 пара\nДополнитель
+ но: Владимирова К.П.\nURALCAMPUS_SYNC_ID:29b4c6966b2e16e31
+ df15e4a1083990f\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ec
+ f4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:d60488075ad1cc975856a196c01cd20b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 4 пара\nДополнитель
+ но: Нифантова Т.А.\nURALCAMPUS_SYNC_ID:d60488075ad1cc975856a
+ 196c01cd20b\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ae7c22d15027436943e625a2f13c41@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 5 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:b5ae7c22d15027436943e62
+ 5a2f13c41\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:388a34a3d8717524d4dbb4fd883213c3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 1 пара\nДополнитель
+ но: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:388a34a3d8717524d4dbb
+ 4fd883213c3\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:cee03c0ca7cb547abe0cfb5fe0acde2b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Конституционное право (Аудиторные з
+ анятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 2 пара\nДополнитель
+ но: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:cee03c0ca7cb547abe0cf
+ b5fe0acde2b\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b0439210caff6048f7108274a01891b4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Конституционное право (Аудиторные з
+ анятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-238\, Ю-238А\nПара: 3 пара\nДополнитель
+ но: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:b0439210caff6048f7108
+ 274a01891b4\nURALCAMPUS_SOURCE:preco:group:f91a65a1-efad-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Киреева Фирюза Зу
+ фаровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d2827dbfcfd103fe91e9f7a35b6e7717@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 1 пара\nДополнительно: ГС-176\nURALCAMPUS_SY
+ NC_ID:d2827dbfcfd103fe91e9f7a35b6e7717\nURALCAMPUS_SOURCE:preco:teacher:2
+ e018551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9fbdbc6001ec68adfee8da03b23d84f0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 2 пара\nДополнительно: ПД-178\nURALCAMPUS_SY
+ NC_ID:9fbdbc6001ec68adfee8da03b23d84f0\nURALCAMPUS_SOURCE:preco:teacher:2
+ e018551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6be71e7640efa8a06159a21573cabfc4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 3 пара\nДополнительно: П-170\nURALCAMPUS_SYNC
+ _ID:6be71e7640efa8a06159a21573cabfc4\nURALCAMPUS_SOURCE:preco:teacher:2e0
+ 18551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+END:VCALENDAR

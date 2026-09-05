@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: А-410
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5aac78bc7b70cfd290aadbc1b2391524@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Комплексное формирование архитекту
+ рных объектов (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 2 пара\nДополнительн
+ о: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:5aac78bc7b70cfd290aadbc1b23
+ 91524\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:4a3de89964183d4bbfb1cb563201608a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Комплексное формирование архитекту
+ рных объектов (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 3 пара\nДополнительн
+ о: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:4a3de89964183d4bbfb1cb56320
+ 1608a\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:a66494ed2306b389274ac3cb85b3b42b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Архитектурное проектирование (осно
+ вное) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 4 пара\nДополнительн
+ о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:a66494ed2306b389274ac3cb85
+ b3b42b\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:531c3796ed9200f5633a33770353bfe3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Новейшая архитектура (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 5 пара\nДополнительн
+ о: Лаврова К.Б.\nURALCAMPUS_SYNC_ID:531c3796ed9200f5633a3377035
+ 3bfe3\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:67968bf3430cb3e4a091a2ffbf959c11@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Компьютерное моделирование в архит
+ ектуре и дизайне среды (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 2 пара\nДополнительн
+ о: Исламова В.Р.\nURALCAMPUS_SYNC_ID:67968bf3430cb3e4a091a2ffb
+ f959c11\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:0d0c3289afa2309d490fd54c4ecb162f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Компьютерное моделирование в архит
+ ектуре и дизайне среды (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 3 пара\nДополнительн
+ о: Исламова В.Р.\nURALCAMPUS_SYNC_ID:0d0c3289afa2309d490fd54c4
+ ecb162f\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7ba941b86b34b5d4a25090d9b9194e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Предпроектный и проектный анализ (Л
+ екция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 3 пара\nДополнительн
+ о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:bd7ba941b86b34b5d4a25090d9
+ b9194e\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a64ccb5747d89d5f409d010ae9b8be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Планировка\, благоустройство\, ландш
+ афт населенных мест (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 4 пара\nДополнительн
+ о: Буров А. Г.\nURALCAMPUS_SYNC_ID:d2a64ccb5747d89d5f409d010ae9b8
+ be\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:227682b7746f53f39771025afdae5b2a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Инженерное оборудование зданий (Лек
+ ция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 5 пара\nДополнительн
+ о: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:227682b7746f53f39771025a
+ fdae5b2a\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f4551eccd1ed7dc635f29473f3e2bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Архитектурное проектирование (осно
+ вное) (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 1 пара\nДополнительн
+ о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:c2f4551eccd1ed7dc635f29473
+ f3e2bf\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:8899cedc6a5b87ea72aa4d2971e9f2df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Архитектурное проектирование (осно
+ вное) (Практика)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 2 пара\nДополнительн
+ о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:8899cedc6a5b87ea72aa4d2971
+ e9f2df\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:97c95fa341b368c7a95ed9eff716c6cf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Архитектурное проектирование (осно
+ вное) (Практика)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 3 пара\nДополнительн
+ о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:97c95fa341b368c7a95ed9eff7
+ 16c6cf\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:d4efdea5e6075b756b038482424bd448@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Архитектурное проектирование (осно
+ вное) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 1 пара\nДополнительн
+ о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:d4efdea5e6075b756b03848242
+ 4bd448\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:396dbbf06c85f84564051958ac2326e0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Архитектурное проектирование (осно
+ вное) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 2 пара\nДополнительн
+ о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:396dbbf06c85f84564051958ac
+ 2326e0\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:ee798377b4d95e30a762699d678e7ab9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Архитектурное проектирование (осно
+ вное) (Практика)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 3 пара\nДополнительн
+ о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:ee798377b4d95e30a762699d67
+ 8e7ab9\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:ea74a5c136511784e7f15721eb1d2ca7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Комплексное формирование архитекту
+ рных объектов (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 2 пара\nДополнительн
+ о: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:ea74a5c136511784e7f15721eb1
+ d2ca7\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:3ab308ff951cee24699c5e601fd1345b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Комплексное формирование архитекту
+ рных объектов (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 3 пара\nДополнительн
+ о: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:3ab308ff951cee24699c5e601fd
+ 1345b\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: СЗу-201/13
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d4db47bd1c053170d44a9dd36d81aae7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/13\nПара: 2 пара\nДополнит
+ ельно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:d4db47bd1c053170d4
+ 4a9dd36d81aae7\nURALCAMPUS_SOURCE:inueco:group:4bbcb70d-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c630ad29b30573ab9cc9b37eaeddaf9a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/13\nПара: 3 пара\nДополнит
+ ельно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:c630ad29b30573ab9c
+ c9b37eaeddaf9a\nURALCAMPUS_SOURCE:inueco:group:4bbcb70d-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:570160ec7c7c13c82323b0e32a872b47@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/13\nПара: 6 пара\nДополнит
+ ельно: Терещук С.В.\nURALCAMPUS_SYNC_ID:570160ec7c7c13c8232
+ 3b0e32a872b47\nURALCAMPUS_SOURCE:inueco:group:4bbcb70d-60fb-11ef-ad90-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe71fe52bebdaa8b329bb980a56c910@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/13\nПара: 7 пара\nДополнит
+ ельно: Терещук С.В.\nURALCAMPUS_SYNC_ID:ffe71fe52bebdaa8b32
+ 9bb980a56c910\nURALCAMPUS_SOURCE:inueco:group:4bbcb70d-60fb-11ef-ad90-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34a1b23ef04ad21a8b1c078731f82a3b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Инженерная и компьютерная графика (
+ Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/13\nПара: 8 пара\nДополнит
+ ельно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:34a1b23ef04ad21a8b1c07
+ 8731f82a3b\nURALCAMPUS_SOURCE:inueco:group:4bbcb70d-60fb-11ef-ad90-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce0bd6de77a90a4c8561171b7c969da7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/13\nПара: 3 пара\nДополнит
+ ельно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:ce0bd6de77a90a4c85
+ 61171b7c969da7\nURALCAMPUS_SOURCE:inueco:group:4bbcb70d-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:08d4363a66dd0d65a8616f26aa1576e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T134000
+DTEND;TZID=Asia/Yekaterinburg:20260912T151000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/13\nПара: 4 пара\nДополнит
+ ельно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:08d4363a66dd0d65a8
+ 616f26aa1576e5\nURALCAMPUS_SOURCE:inueco:group:4bbcb70d-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

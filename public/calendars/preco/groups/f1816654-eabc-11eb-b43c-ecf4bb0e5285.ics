@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ОЛ-320\, ОЛ-320А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c1f2b5893f27fa174e5e56f9d061b924@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 1 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:c1f2b5893f27fa1
+ 74e5e56f9d061b924\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9604c9f7fc91ba921764690a77a8a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Бухгалтерский учёт логистических о
+ пераций (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 2 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:2f9604c9f7fc91b
+ a921764690a77a8a3\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f83583b2c1af4079911ea0661313fe65@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Бухгалтерский учёт логистических о
+ пераций (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 3 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:f83583b2c1af407
+ 9911ea0661313fe65\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a7fe55c3262fe19e275523ee06c6656c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы планирования логистических 
+ операций (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 3 пара\nДополните
+ льно: Важенина Е.В.\nURALCAMPUS_SYNC_ID:a7fe55c3262fe19e275
+ 523ee06c6656c\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:26cf87d27de8e2b8c05cca6a5379074a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы планирования логистических 
+ операций (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 4 пара\nДополните
+ льно: Важенина Е.В.\nURALCAMPUS_SYNC_ID:26cf87d27de8e2b8c05
+ cca6a5379074a\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7a001afb9d2d6d12cbe9b691dc0ac2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Основы планирования логистических 
+ операций (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 5 пара\nДополните
+ льно: Важенина Е.В.\nURALCAMPUS_SYNC_ID:fd7a001afb9d2d6d12c
+ be9b691dc0ac2\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7d0ede6d17c352e68d577ee0499fbf3e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 6 пара\nДополните
+ льно: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:7d0ede6d17c352e68d577
+ ee0499fbf3e\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3b17734e38d202b650f0ea91ba9cdef1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Оценка эффективности и контроль лог
+ истических систем (Аудиторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 1 пара\nДополните
+ льно: Важенина Е.В.\nURALCAMPUS_SYNC_ID:3b17734e38d202b650f
+ 0ea91ba9cdef1\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:d235b4549036ec6f91828fe6f5841d19@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Оценка эффективности и контроль лог
+ истических систем (Аудиторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 2 пара\nДополните
+ льно: Важенина Е.В.\nURALCAMPUS_SYNC_ID:d235b4549036ec6f918
+ 28fe6f5841d19\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:acfc21237430af194b73dbf4ca31604a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Оценка эффективности и контроль лог
+ истических систем (Аудиторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 3 пара\nДополните
+ льно: Важенина Е.В.\nURALCAMPUS_SYNC_ID:acfc21237430af194b7
+ 3dbf4ca31604a\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9a7b913c490d75172394e3ac8e9c3553@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Оценка эффективности и контроль лог
+ истических систем (Аудиторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 4 пара\nДополните
+ льно: Важенина Е.В.\nURALCAMPUS_SYNC_ID:9a7b913c490d7517239
+ 4e3ac8e9c3553\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:63c7cd30a684ae3bb6b7d43f249e16a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 2 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:63c7cd30a684ae3bb6b7d
+ 43f249e16a3\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:068c9e5e805faabc9c2890a569531161@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 3 пара\nДополните
+ льно: Попова К.С.\nURALCAMPUS_SYNC_ID:068c9e5e805faabc9c2890a
+ 569531161\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4bb0e
+ 5285
+END:VEVENT
+BEGIN:VEVENT
+UID:40c94d888b421d9cc2e0798137011ab2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Основы маркетинга (Аудиторные занят
+ ия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 1 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:40c94d888b421d9cc2e07
+ 98137011ab2\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ad00823179c3c188dc632b35c9a674@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Основы маркетинга (Аудиторные занят
+ ия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 2 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:a6ad00823179c3c188dc6
+ 32b35c9a674\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:01a0ca95799c021010d6d827382be476@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
+DTEND;TZID=Asia/Yekaterinburg:20260912T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 1 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:01a0ca95799c021
+ 010d6d827382be476\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:8825a4cf0bb041aa7907588d5f7e155d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Бухгалтерский учёт логистических о
+ пераций (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-320\, ОЛ-320А\nПара: 2 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:8825a4cf0bb041a
+ a7907588d5f7e155d\nURALCAMPUS_SOURCE:preco:group:f1816654-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR
