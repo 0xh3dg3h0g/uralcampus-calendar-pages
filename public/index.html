@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Расписание Урал Кампус</title>
+    <meta name="description" content="Подписка на расписание групп и преподавателей Урал Кампус в формате ICS.">
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace" aria-labelledby="page-title">
+        <div class="intro">
+          <p class="eyebrow">Урал Кампус</p>
+          <h1 id="page-title">Ссылка на расписание</h1>
+          <p class="lead">Выберите группу или преподавателя и добавьте календарь по URL. Файлы обновляются ежедневно.</p>
+        </div>
+
+        <div class="layout">
+          <form class="picker" id="picker" autocomplete="off">
+            <label class="field">
+              <span>Учреждение</span>
+              <select id="institution"></select>
+            </label>
+
+            <div class="segmented" role="tablist" aria-label="Тип расписания">
+              <button type="button" class="segment active" data-type="group">Группа</button>
+              <button type="button" class="segment" data-type="teacher">Преподаватель</button>
+            </div>
+
+            <label class="field">
+              <span>Поиск</span>
+              <input id="search" type="search" placeholder="Название, ФИО или GUID">
+            </label>
+
+            <label class="field">
+              <span>Найденные варианты</span>
+              <select id="entries" size="12"></select>
+            </label>
+          </form>
+
+          <section class="result" aria-live="polite">
+            <div class="status" id="status">Загружаю список расписаний...</div>
+
+            <div class="selected hidden" id="selected">
+              <div>
+                <p class="type-label" id="selected-type"></p>
+                <h2 id="selected-name"></h2>
+                <p class="meta" id="selected-meta"></p>
+              </div>
+
+              <label class="field link-field">
+                <span>URL для подписки</span>
+                <input id="calendar-url" readonly>
+              </label>
+
+              <div class="actions">
+                <button class="primary" id="copy" type="button">Скопировать URL</button>
+                <a class="button" id="open-ics" href="#">Открыть ICS</a>
+                <a class="button" id="webcal" href="#">webcal</a>
+              </div>
+
+              <div class="provider-links">
+                <a id="google" href="#" target="_blank" rel="noreferrer">Добавить в Google Calendar</a>
+                <a id="outlook" href="#" target="_blank" rel="noreferrer">Добавить в Outlook</a>
+                <a id="archive" href="#" target="_blank" rel="noreferrer">Архив старых событий</a>
+              </div>
+            </div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="assets/app.js"></script>
+  </body>
+</html>
