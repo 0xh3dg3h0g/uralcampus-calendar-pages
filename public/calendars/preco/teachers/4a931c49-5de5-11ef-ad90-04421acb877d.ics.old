@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Брызгалова 
+ Елена Анатольевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c72920c7582ff738418ba51888f9b6c3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Брызгалова Елена Анатолье
+ вна\nПара: 2 пара\nДополнительно: СД/оз-322А
+ \nURALCAMPUS_SYNC_ID:c72920c7582ff738418ba51888f9b6c3\nURALCAMPUS_SOURCE:
+ preco:teacher:4a931c49-5de5-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce69c8c7af6a49b1d9edf5e5ecc95841@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Брызгалова Елена Анатолье
+ вна\nПара: 1 пара\nДополнительно: СД/оз-322А
+ \nURALCAMPUS_SYNC_ID:ce69c8c7af6a49b1d9edf5e5ecc95841\nURALCAMPUS_SOURCE:
+ preco:teacher:4a931c49-5de5-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:df5dfa6e4ea9e998131d42e67882224a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Брызгалова Елена Анатолье
+ вна\nПара: 3 пара\nДополнительно: СД/оз-322А
+ \nURALCAMPUS_SYNC_ID:df5dfa6e4ea9e998131d42e67882224a\nURALCAMPUS_SOURCE:
+ preco:teacher:4a931c49-5de5-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e347bdbe3278e5fcf80bed9fa3a47d6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Брызгалова Елена Анатолье
+ вна\nПара: 4 пара\nДополнительно: СД/оз-322А
+ \nURALCAMPUS_SYNC_ID:e347bdbe3278e5fcf80bed9fa3a47d6c\nURALCAMPUS_SOURCE:
+ preco:teacher:4a931c49-5de5-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

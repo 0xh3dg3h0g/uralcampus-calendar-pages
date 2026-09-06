@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Гарипов Роб
+ ерт Ильизаревич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:05c883795d5e747b29473e8882a549f3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Гарипов Роберт Ильиза
+ ревич\nПара: 3 пара\nДополнительно: ТД-206\nU
+ RALCAMPUS_SYNC_ID:05c883795d5e747b29473e8882a549f3\nURALCAMPUS_SOURCE:inu
+ eco:teacher:d3ec7641-22a1-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:ce787e48694344eee1743ecb47405522@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Гарипов Роберт Ильиза
+ ревич\nПара: 2 пара\nДополнительно: ТД-206\nU
+ RALCAMPUS_SYNC_ID:ce787e48694344eee1743ecb47405522\nURALCAMPUS_SOURCE:inu
+ eco:teacher:d3ec7641-22a1-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Д-412
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1a792836e837c8b158b8d9af2ff312cb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-412\nПара: 3 пара\nДополнительно: Еп
+ ифанов Д.А.\nURALCAMPUS_SYNC_ID:1a792836e837c8b158b8d9af2ff312cb\
+ nURALCAMPUS_SOURCE:preco:group:96091a64-5ee3-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5cd606f0cd8eff174124b745b8d8fa01@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-412\nПара: 2 пара\nДополнительно: Еп
+ ифанов Д.А.\nURALCAMPUS_SYNC_ID:5cd606f0cd8eff174124b745b8d8fa01\
+ nURALCAMPUS_SOURCE:preco:group:96091a64-5ee3-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cc5c295dcd28dac1c62b6a1c5181fdc8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-412\nПара: 1 пара\nДополнительно: Еп
+ ифанов Д.А.\nURALCAMPUS_SYNC_ID:cc5c295dcd28dac1c62b6a1c5181fdc8\
+ nURALCAMPUS_SOURCE:preco:group:96091a64-5ee3-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

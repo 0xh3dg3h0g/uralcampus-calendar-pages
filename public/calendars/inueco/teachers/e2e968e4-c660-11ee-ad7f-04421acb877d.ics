@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Фабрика Тамара Ал
+ ександровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:46c8aac9447b07fc7b71b4bdb0c86c82@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Налоговое право (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Фабрика Тамара Алекса
+ ндровна\nПара: 6 пара\nДополнительно: Ю-401\
+ nURALCAMPUS_SYNC_ID:46c8aac9447b07fc7b71b4bdb0c86c82\nURALCAMPUS_SOURCE:i
+ nueco:teacher:e2e968e4-c660-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:97709e96ca866e9154c9942c20f8dc56@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Налоговое право (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Фабрика Тамара Алекса
+ ндровна\nПара: 7 пара\nДополнительно: Ю-401\
+ nURALCAMPUS_SYNC_ID:97709e96ca866e9154c9942c20f8dc56\nURALCAMPUS_SOURCE:i
+ nueco:teacher:e2e968e4-c660-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:da2195664e49836dfd9ae0d3a60278c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
+DTEND;TZID=Asia/Yekaterinburg:20260911T170000
+SUMMARY:Налоговое право (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Фабрика Тамара Алекса
+ ндровна\nПара: 5 пара\nДополнительно: ЭБ-50
+ 8\nURALCAMPUS_SYNC_ID:da2195664e49836dfd9ae0d3a60278c7\nURALCAMPUS_SOURCE
+ :inueco:teacher:e2e968e4-c660-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0c4ffa10b9ac28d5ceea38ae192c2d8a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
+DTEND;TZID=Asia/Yekaterinburg:20260911T182000
+SUMMARY:Налоговое право (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Фабрика Тамара Алекса
+ ндровна\nПара: 6 пара\nДополнительно: ЭБ-50
+ 8\nURALCAMPUS_SYNC_ID:0c4ffa10b9ac28d5ceea38ae192c2d8a\nURALCAMPUS_SOURCE
+ :inueco:teacher:e2e968e4-c660-11ee-ad7f-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ТД-106
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10a8db2968e98e18d1ba6274ec737ca9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T152000
+DTEND;TZID=Asia/Yekaterinburg:20260905T165000
+SUMMARY:Безопасность жизнедеятельности (Ле
+ кция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-106\nПара: 5 пара\nДополнитель
+ но: Коваленко Н.С.\nURALCAMPUS_SYNC_ID:10a8db2968e98e18d1ba6
+ 274ec737ca9\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:97d0a9115b7b359945797948a17cfdcc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Экономический потенциал территории
+  и регионалистика (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-106\nПара: 3 пара\nДополнитель
+ но: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:97d0a9115b7b359945797948a
+ 17cfdcc\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1255b5fba93157b3dc98a849b801a2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T170000
+DTEND;TZID=Asia/Yekaterinburg:20260905T181000
+SUMMARY:Физическая культура и спорт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-106\nПара: 6 пара\nДополнитель
+ но: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:ad1255b5fba93157b3dc
+ 98a849b801a2\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d6151ef15e508ddb836278b1fc52aea0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Экономический потенциал территории
+  и регионалистика (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-106\nПара: 2 пара\nДополнитель
+ но: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:d6151ef15e508ddb836278b1f
+ c52aea0\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+END:VCALENDAR

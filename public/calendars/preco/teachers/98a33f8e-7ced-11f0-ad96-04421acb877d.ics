@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:79036f1491749ebf9c34a4b260466c62@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
-DTEND;TZID=Asia/Yekaterinburg:20260905T100000
-SUMMARY:Рисунок и живопись (Аудиторные заня
- тия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дубровина Ольга Николаевн
- а\nПара: 1 пара\nДополнительно: ТИК-224\nURALCAM
- PUS_SYNC_ID:79036f1491749ebf9c34a4b260466c62\nURALCAMPUS_SOURCE:preco:tea
- cher:98a33f8e-7ced-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0c5a23c5cabe4267ae43f387a005ceb0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
-DTEND;TZID=Asia/Yekaterinburg:20260905T114000
-SUMMARY:Рисунок и живопись (Аудиторные заня
- тия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дубровина Ольга Николаевн
- а\nПара: 2 пара\nДополнительно: ТИК-224\nURALCAM
- PUS_SYNC_ID:0c5a23c5cabe4267ae43f387a005ceb0\nURALCAMPUS_SOURCE:preco:tea
- cher:98a33f8e-7ced-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8f707c49b3d7ce49876edd677e7dd874@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
-DTEND;TZID=Asia/Yekaterinburg:20260905T133000
-SUMMARY:Рисунок и живопись (Аудиторные заня
- тия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дубровина Ольга Николаевн
- а\nПара: 3 пара\nДополнительно: ТИК-224\nURALCAM
- PUS_SYNC_ID:8f707c49b3d7ce49876edd677e7dd874\nURALCAMPUS_SOURCE:preco:tea
- cher:98a33f8e-7ced-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ae3d24f323ea012e86f3d6ef7f4544d2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
-DTEND;TZID=Asia/Yekaterinburg:20260905T152000
-SUMMARY:Живопись с основами цветоведения (А
- удиторные занятия)
-LOCATION:ауд. 102\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дубровина Ольга Николаевн
- а\nПара: 4 пара\nДополнительно: Д-342\nURALCAMPUS_
- SYNC_ID:ae3d24f323ea012e86f3d6ef7f4544d2\nURALCAMPUS_SOURCE:preco:teacher
- :98a33f8e-7ced-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:6dcab0748602c1e31c377b03099d8906@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
@@ -103,20 +47,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :98a33f8e-7ced-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:41bdb1c8d0356688282211deb9d6bd94@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
-DTEND;TZID=Asia/Yekaterinburg:20260908T152000
-SUMMARY:Живопись с основами цветоведения (А
- удиторные занятия)
-LOCATION:ауд. 101\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дубровина Ольга Николаевн
- а\nПара: 4 пара\nДополнительно: Д-212\, Д-212А\n
- URALCAMPUS_SYNC_ID:41bdb1c8d0356688282211deb9d6bd94\nURALCAMPUS_SOURCE:pr
- eco:teacher:98a33f8e-7ced-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:0c19f13a7d49b699ade277ca332e7d1a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
@@ -143,6 +73,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 4 пара\nДополнительно: Д-212А (2)\nURALC
  AMPUS_SYNC_ID:dab1629699e2dbd4422639ac913d7a67\nURALCAMPUS_SOURCE:preco:t
  eacher:98a33f8e-7ced-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:41bdb1c8d0356688282211deb9d6bd94@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Живопись с основами цветоведения (А
+ удиторные занятия)
+LOCATION:ауд. 101\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дубровина Ольга Николаевн
+ а\nПара: 4 пара\nДополнительно: Д-212\, Д-212А\n
+ URALCAMPUS_SYNC_ID:41bdb1c8d0356688282211deb9d6bd94\nURALCAMPUS_SOURCE:pr
+ eco:teacher:98a33f8e-7ced-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:682a465b90ab101b0f438fbaf74cc3f9@uralcampus-calendar-pages

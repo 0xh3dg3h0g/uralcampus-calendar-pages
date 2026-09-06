@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЮЗ-501/07б
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:205bb573c9ed4879ed71d6e9a4e7f0d0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T134000
+DTEND;TZID=Asia/Yekaterinburg:20260905T151000
+SUMMARY:Предпринимательское право (Практик
+ а)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/07б\nПара: 4 пара\nДополнит
+ ельно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:205bb573c9ed
+ 4879ed71d6e9a4e7f0d0\nURALCAMPUS_SOURCE:inueco:group:ac9233b1-282f-11ed-a
+ d61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f4a4b1734a096e433dbf429f81cf6d76@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Предпринимательское право (Практик
+ а)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501/07б\nПара: 3 пара\nДополнит
+ ельно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:f4a4b1734a09
+ 6e433dbf429f81cf6d76\nURALCAMPUS_SOURCE:inueco:group:ac9233b1-282f-11ed-a
+ d61-04421acb877d
+END:VEVENT
+END:VCALENDAR

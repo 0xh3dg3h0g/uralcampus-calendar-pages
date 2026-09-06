@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Надеждина О
+ льга Аркадьевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:38229acdcbb029e2415f09c001807c3b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 1 пара\nДополнительно: Ю-239к\, Ю-239А
+ к\nURALCAMPUS_SYNC_ID:38229acdcbb029e2415f09c001807c3b\nURALCAMPUS_SOURC
+ E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d12ca9a678928ddcee4633b1239c456c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 2 пара\nДополнительно: Ю-239к\, Ю-239А
+ к\nURALCAMPUS_SYNC_ID:d12ca9a678928ddcee4633b1239c456c\nURALCAMPUS_SOURC
+ E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e855848b3d3ee9737db7974acf625a6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 4 пара\nДополнительно: 133к\nURALCAMPUS_S
+ YNC_ID:e855848b3d3ee9737db7974acf625a6c\nURALCAMPUS_SOURCE:preco:teacher:
+ a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f223f2430320c41814e549430aa13fb5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 3 пара\nДополнительно: Ф-232к\, Ф-232А
+ к\nURALCAMPUS_SYNC_ID:f223f2430320c41814e549430aa13fb5\nURALCAMPUS_SOURC
+ E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

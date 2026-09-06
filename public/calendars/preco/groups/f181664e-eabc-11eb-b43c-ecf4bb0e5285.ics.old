@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-218\, ПД-218А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d0220f403ebf3522532843f273ab572a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-218\, ПД-218А\nПара: 1 пара\nДополните
+ льно: Сазонова И.А.\nURALCAMPUS_SYNC_ID:d0220f403ebf3522532
+ 843f273ab572a\nURALCAMPUS_SOURCE:preco:group:f181664e-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b335b267ecc482f8e3f8d5d49a6a7a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-218\, ПД-218А\nПара: 2 пара\nДополните
+ льно: Сазонова И.А.\nURALCAMPUS_SYNC_ID:f5b335b267ecc482f8e
+ 3f8d5d49a6a7a\nURALCAMPUS_SOURCE:preco:group:f181664e-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+END:VCALENDAR

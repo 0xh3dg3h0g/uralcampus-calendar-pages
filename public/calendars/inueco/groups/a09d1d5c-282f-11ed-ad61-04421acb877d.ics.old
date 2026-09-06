@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: МЗ-501/01а
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:21dd1d637ce5bc102c9fe878a3e14d47@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T170000
+DTEND;TZID=Asia/Yekaterinburg:20260905T181000
+SUMMARY:Реинжиниринг бизнеса (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501/01а\nПара: 6 пара\nДополнит
+ ельно: Лобанов В. С.\nURALCAMPUS_SYNC_ID:21dd1d637ce5bc102c
+ 9fe878a3e14d47\nURALCAMPUS_SOURCE:inueco:group:a09d1d5c-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b703ff740b654ea0fcbcc8a63a6f904d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T194000
+DTEND;TZID=Asia/Yekaterinburg:20260905T205000
+SUMMARY:Реинжиниринг бизнеса (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501/01а\nПара: 8 пара\nДополнит
+ ельно: Лобанов В. С.\nURALCAMPUS_SYNC_ID:b703ff740b654ea0fc
+ bcc8a63a6f904d\nURALCAMPUS_SOURCE:inueco:group:a09d1d5c-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:db99091b000772bfd1cc0d5fa3fe1c6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T182000
+DTEND;TZID=Asia/Yekaterinburg:20260905T193000
+SUMMARY:Реинжиниринг бизнеса (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501/01а\nПара: 7 пара\nДополнит
+ ельно: Лобанов В. С.\nURALCAMPUS_SYNC_ID:db99091b000772bfd1
+ cc0d5fa3fe1c6b\nURALCAMPUS_SOURCE:inueco:group:a09d1d5c-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

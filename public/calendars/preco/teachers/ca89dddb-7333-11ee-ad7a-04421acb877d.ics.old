@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Шалгина Све
+ тлана Викторовна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5fa8aa47b0754db82f0dda212ad3f427@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шалгина Светлана Викторов
+ на\nПара: 4 пара\nДополнительно: 138к\nURALCAMPUS
+ _SYNC_ID:5fa8aa47b0754db82f0dda212ad3f427\nURALCAMPUS_SOURCE:preco:teache
+ r:ca89dddb-7333-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a64d4ed867319b76cdf0d3f201ec209a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шалгина Светлана Викторов
+ на\nПара: 1 пара\nДополнительно: 133к\nURALCAMPUS
+ _SYNC_ID:a64d4ed867319b76cdf0d3f201ec209a\nURALCAMPUS_SOURCE:preco:teache
+ r:ca89dddb-7333-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c4905b14cc450c5675f8316d2090853c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шалгина Светлана Викторов
+ на\nПара: 2 пара\nДополнительно: 133к\nURALCAMPUS
+ _SYNC_ID:c4905b14cc450c5675f8316d2090853c\nURALCAMPUS_SOURCE:preco:teache
+ r:ca89dddb-7333-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce23e3c474fbde2c9cb17a13aa14dcfc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шалгина Светлана Викторов
+ на\nПара: 3 пара\nДополнительно: 134к\nURALCAMPUS
+ _SYNC_ID:ce23e3c474fbde2c9cb17a13aa14dcfc\nURALCAMPUS_SOURCE:preco:teache
+ r:ca89dddb-7333-11ee-ad7a-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Каримова Ка
+ рина Равильевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0fa39540d18d12b919c491ca2e58d000@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Каримова Карина Равильевн
+ а\nПара: 1 пара\nДополнительно: Ф-302\, Ф-302А\n
+ URALCAMPUS_SYNC_ID:0fa39540d18d12b919c491ca2e58d000\nURALCAMPUS_SOURCE:pr
+ eco:teacher:4f348036-7ced-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:652cf994332fa1e8293cfe8f7b088e5b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Каримова Карина Равильевн
+ а\nПара: 2 пара\nДополнительно: Ф-302\, Ф-302А\n
+ URALCAMPUS_SYNC_ID:652cf994332fa1e8293cfe8f7b088e5b\nURALCAMPUS_SOURCE:pr
+ eco:teacher:4f348036-7ced-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78343facf8bc09d5a3904d013685c4f7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Розничная торговля лекарственными 
+ препаратами и отпуск лекарственных пре
+ паратов и товаров аптечного (Аудиторные
+  занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Каримова Карина Равильевн
+ а\nПара: 3 пара\nДополнительно: Ф-302\, Ф-302А\n
+ URALCAMPUS_SYNC_ID:78343facf8bc09d5a3904d013685c4f7\nURALCAMPUS_SOURCE:pr
+ eco:teacher:4f348036-7ced-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

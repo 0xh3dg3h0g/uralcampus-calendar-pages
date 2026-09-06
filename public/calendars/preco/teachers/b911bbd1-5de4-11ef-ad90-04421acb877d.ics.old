@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Багинская Е
+ катерина Олеговна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:31e56dc5214bfa7010e6712dcc103833@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Багинская Екатерина Олего
+ вна\nПара: 2 пара\nДополнительно: СД-322\nURALC
+ AMPUS_SYNC_ID:31e56dc5214bfa7010e6712dcc103833\nURALCAMPUS_SOURCE:preco:t
+ eacher:b911bbd1-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6a56f4a498077e0b119eb5eec3a1caaa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Багинская Екатерина Олего
+ вна\nПара: 1 пара\nДополнительно: СД-322\nURALC
+ AMPUS_SYNC_ID:6a56f4a498077e0b119eb5eec3a1caaa\nURALCAMPUS_SOURCE:preco:t
+ eacher:b911bbd1-5de4-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Епишков Его
+ р Николаевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:034fc701f42d90d2b692e8da7d5fcb22@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 2 пара\nДополнительно: СЗ-201/02\, С
+ З-201/03\, СЗ-201/04\, СЗ-201/04а\, СЗ-201/05\, СЗ-201/06\, С
+ З-201/07\, СЗ-201/07б\, СЗ-201/08\, СЗ-201/11\, СЗ-201/12\, С
+ З-201/12а\, СЗ-201/13\, СЗД-201\, СЗДу-201\, СЗу-201/02\, 
+ СЗу-201/04\, СЗу-201/04а\, СЗу-201/05\, СЗу-201/06\, СЗу-
+ 201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nURALCAMPUS_SYNC
+ _ID:034fc701f42d90d2b692e8da7d5fcb22\nURALCAMPUS_SOURCE:inueco:teacher:61
+ 1fff86-22b2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:be90073142d55485604884425c98eb04@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 3 пара\nДополнительно: СЗ-201/02\, С
+ З-201/03\, СЗ-201/04\, СЗ-201/04а\, СЗ-201/05\, СЗ-201/06\, С
+ З-201/07\, СЗ-201/07б\, СЗ-201/08\, СЗ-201/11\, СЗ-201/12\, С
+ З-201/12а\, СЗ-201/13\, СЗД-201\, СЗДу-201\, СЗу-201/02\, 
+ СЗу-201/04\, СЗу-201/04а\, СЗу-201/05\, СЗу-201/06\, СЗу-
+ 201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nURALCAMPUS_SYNC
+ _ID:be90073142d55485604884425c98eb04\nURALCAMPUS_SOURCE:inueco:teacher:61
+ 1fff86-22b2-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

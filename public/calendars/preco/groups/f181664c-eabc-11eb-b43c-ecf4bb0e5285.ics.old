@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ОЛ-220\, ОЛ-220А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:383d8ecbcc0f69a79ffabe68de32d0ef@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T153000
+DTEND;TZID=Asia/Yekaterinburg:20260905T170000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 5 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:383d8ecbcc0f69a
+ 79ffabe68de32d0ef\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:71c4be1e4e29cd8c23689d18031ac483@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Логистика закупок (Аудиторные занят
+ ия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-220\, ОЛ-220А\nПара: 4 пара\nДополните
+ льно: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:71c4be1e4e29cd8
+ c23689d18031ac483\nURALCAMPUS_SOURCE:preco:group:f181664c-eabc-11eb-b43c-
+ ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

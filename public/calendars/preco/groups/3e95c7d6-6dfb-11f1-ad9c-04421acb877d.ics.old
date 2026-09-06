@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЗИ-444\, ЗИ-444А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11b32d35926fb7211efbb06a4c5adaf5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Территориальное планирование (Ауди
+ торные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-444\, ЗИ-444А\nПара: 3 пара\nДополните
+ льно: Чкалова Э.В.\nURALCAMPUS_SYNC_ID:11b32d35926fb7211efbb
+ 06a4c5adaf5\nURALCAMPUS_SOURCE:preco:group:3e95c7d6-6dfb-11f1-ad9c-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:790c27ee5c9df24bf13f2022365ff9cb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Выполнение комплекса работ в рамках
+  мониторинга состояния земель (Аудиторн
+ ые занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-444\, ЗИ-444А\nПара: 4 пара\nДополните
+ льно: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:790c27ee5c9df24bf13
+ f2022365ff9cb\nURALCAMPUS_SOURCE:preco:group:3e95c7d6-6dfb-11f1-ad9c-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc53778012afe6bacd21dc82d7f7bdd3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Территориальное планирование (Ауди
+ торные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-444\, ЗИ-444А\nПара: 1 пара\nДополните
+ льно: Чкалова Э.В.\nURALCAMPUS_SYNC_ID:dc53778012afe6bacd21d
+ c82d7f7bdd3\nURALCAMPUS_SOURCE:preco:group:3e95c7d6-6dfb-11f1-ad9c-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e2fdccfc181d82afd435594d61c1c4df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Территориальное планирование (Ауди
+ торные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-444\, ЗИ-444А\nПара: 2 пара\nДополните
+ льно: Чкалова Э.В.\nURALCAMPUS_SYNC_ID:e2fdccfc181d82afd4355
+ 94d61c1c4df\nURALCAMPUS_SOURCE:preco:group:3e95c7d6-6dfb-11f1-ad9c-04421a
+ cb877d
+END:VEVENT
+END:VCALENDAR

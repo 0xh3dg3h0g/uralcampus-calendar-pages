@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-319
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:97657c81f17614775a2d2dcb21bfd12a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 4 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:97657c81f17614775a2d2dcb21bfd12
+ a\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d04ac6b803886c46630b4d12acea43ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-319\nПара: 3 пара\nДополнительно: Н
+ изамова В.А.\nURALCAMPUS_SYNC_ID:d04ac6b803886c46630b4d12acea43f
+ f\nURALCAMPUS_SOURCE:preco:group:61f7fe76-d16f-11ef-ad92-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Дружинин Вл
+ адимир Александрович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:74165b023d516669e936ec6fbd25b87c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дружинин Владимир Алексан
+ дрович\nПара: 3 пара\nДополнительно: 100\nURAL
+ CAMPUS_SYNC_ID:74165b023d516669e936ec6fbd25b87c\nURALCAMPUS_SOURCE:preco:
+ teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:845bef6277a1ce95e91ee1a658a8180a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T135000
+DTEND;TZID=Asia/Yekaterinburg:20260905T152000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дружинин Владимир Алексан
+ дрович\nПара: 4 пара\nДополнительно: 108\nURAL
+ CAMPUS_SYNC_ID:845bef6277a1ce95e91ee1a658a8180a\nURALCAMPUS_SOURCE:preco:
+ teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:dd40eb8c1a59dae201748689705ad553@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дружинин Владимир Алексан
+ дрович\nПара: 2 пара\nДополнительно: 102\nURAL
+ CAMPUS_SYNC_ID:dd40eb8c1a59dae201748689705ad553\nURALCAMPUS_SOURCE:preco:
+ teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f59ad9b9d6a3511fab50d4e99170f3c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дружинин Владимир Алексан
+ дрович\nПара: 1 пара\nДополнительно: 110\nURAL
+ CAMPUS_SYNC_ID:f59ad9b9d6a3511fab50d4e99170f3c7\nURALCAMPUS_SOURCE:preco:
+ teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

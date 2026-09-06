@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: МЗ-401/11
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:380a7627fa7464a6e2b7b006e2f64517@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T170000
+DTEND;TZID=Asia/Yekaterinburg:20260905T181000
+SUMMARY:Стратегический менеджмент (Практик
+ а)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-401/11\nПара: 6 пара\nДополните
+ льно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:380a7627fa7464a6e2
+ b7b006e2f64517\nURALCAMPUS_SOURCE:inueco:group:a69991b5-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:386898dacc7ab6d8c51f57cdffe09fb6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T134000
+DTEND;TZID=Asia/Yekaterinburg:20260905T151000
+SUMMARY:Стратегический менеджмент (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-401/11\nПара: 4 пара\nДополните
+ льно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:386898dacc7ab6d8c5
+ 1f57cdffe09fb6\nURALCAMPUS_SOURCE:inueco:group:a69991b5-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e94b9f514f1ff9662ad79866395f09c8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T152000
+DTEND;TZID=Asia/Yekaterinburg:20260905T165000
+SUMMARY:Стратегический менеджмент (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-401/11\nПара: 5 пара\nДополните
+ льно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:e94b9f514f1ff9662a
+ d79866395f09c8\nURALCAMPUS_SOURCE:inueco:group:a69991b5-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

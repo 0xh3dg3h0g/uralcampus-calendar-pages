@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Струнина Ел
+ ена Фёдоровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:29461cafe350e37b1309be56eac8c77e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Струнина Елена Фёдоровна\n
+ Пара: 3 пара\nДополнительно: 137к\nURALCAMPUS_SYNC_
+ ID:29461cafe350e37b1309be56eac8c77e\nURALCAMPUS_SOURCE:preco:teacher:ed99
+ b8cc-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:729085f92bd07b3450e0f32c91875081@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Струнина Елена Фёдоровна\n
+ Пара: 2 пара\nДополнительно: 131к\nURALCAMPUS_SYNC_
+ ID:729085f92bd07b3450e0f32c91875081\nURALCAMPUS_SOURCE:preco:teacher:ed99
+ b8cc-0308-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

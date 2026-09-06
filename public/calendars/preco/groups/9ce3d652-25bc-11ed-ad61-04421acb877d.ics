@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: СД-352к
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0e9ef1faa9de332091e75087f088797f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 3 пара\nДополнительно: 
+ Малова Т.А.\nURALCAMPUS_SYNC_ID:0e9ef1faa9de332091e75087f088797f\
+ nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6fac945aaa89043c5b00166e85e594c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 4 пара\nДополнительно: 
+ Тютин А.А.\nURALCAMPUS_SYNC_ID:b6fac945aaa89043c5b00166e85e594c\nU
+ RALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:88acc737d951f90a72832c8626bfa837@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Общий уход за пациентами (Аудиторны
+ е занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 5 пара\nДополнительно: 
+ Брызгалова Е.А.\nURALCAMPUS_SYNC_ID:88acc737d951f90a72832c862
+ 6bfa837\nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:a447ec39bf47c94731e5ce6e2151968f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Общий уход за пациентами (Аудиторны
+ е занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 6 пара\nДополнительно: 
+ Брызгалова Е.А.\nURALCAMPUS_SYNC_ID:a447ec39bf47c94731e5ce6e2
+ 151968f\nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:7792bf7676fe08991cd57758e0f0387f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 2 пара\nДополнительно: 
+ Иванов В.С.\nURALCAMPUS_SYNC_ID:7792bf7676fe08991cd57758e0f0387f\
+ nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aa6dd59e2e65e124e3f4439c0e0f4fc4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 3 пара\nДополнительно: 
+ Иванов В.С.\nURALCAMPUS_SYNC_ID:aa6dd59e2e65e124e3f4439c0e0f4fc4\
+ nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b846a0106f65dc4606ff9ca1de136fdb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 4 пара\nДополнительно: 
+ Колбин Н.В.\nURALCAMPUS_SYNC_ID:b846a0106f65dc4606ff9ca1de136fdb\
+ nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bede53a2a1be788798f6b3986d703bc1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 3 пара\nДополнительно: 
+ Иванов В.С.\nURALCAMPUS_SYNC_ID:bede53a2a1be788798f6b3986d703bc1\
+ nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:37681444577fbdb4f7e214250cd345c3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 4 пара\nДополнительно: 
+ Иванов В.С.\nURALCAMPUS_SYNC_ID:37681444577fbdb4f7e214250cd345c3\
+ nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6b51bfed21d14d348dba52b613aa62c9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 1 пара\nДополнительно: 
+ Важенина Е.В.\nURALCAMPUS_SYNC_ID:6b51bfed21d14d348dba52b613aa6
+ 2c9\nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5680d9627e54a672028fdba0d9c9bd74@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 2 пара\nДополнительно: 
+ Иванов В.С.\nURALCAMPUS_SYNC_ID:5680d9627e54a672028fdba0d9c9bd74\
+ nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2d8ff0b9fba6e9f517fe08ff4b2a8615@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 1 пара\nДополнительно: 
+ Ежова В.С.\nURALCAMPUS_SYNC_ID:2d8ff0b9fba6e9f517fe08ff4b2a8615\nU
+ RALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d7e327d970914d6d5a2bbdd799c72844@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 2 пара\nДополнительно: 
+ Колбин Н.В.\nURALCAMPUS_SYNC_ID:d7e327d970914d6d5a2bbdd799c72844\
+ nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

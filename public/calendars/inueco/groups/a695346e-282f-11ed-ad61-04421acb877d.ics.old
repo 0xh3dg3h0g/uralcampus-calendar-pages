@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЗ-401/03
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1d4fe0c688a0742dd68f6c055e995259@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T134000
+DTEND;TZID=Asia/Yekaterinburg:20260905T151000
+SUMMARY:Лабораторный практикум по аудиту (П
+ рактика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-401/03\nПара: 4 пара\nДополните
+ льно: Маркина Ю. В.\nURALCAMPUS_SYNC_ID:1d4fe0c688a0742dd68f
+ 6c055e995259\nURALCAMPUS_SOURCE:inueco:group:a695346e-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:56d02256cb1064e6b86ef462761aed8d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Лабораторный практикум по аудиту (П
+ рактика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-401/03\nПара: 3 пара\nДополните
+ льно: Маркина Ю. В.\nURALCAMPUS_SYNC_ID:56d02256cb1064e6b86e
+ f462761aed8d\nURALCAMPUS_SOURCE:inueco:group:a695346e-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4fae39455e0bd605cc433fd1652e14@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T152000
+DTEND;TZID=Asia/Yekaterinburg:20260905T165000
+SUMMARY:Лабораторный практикум по аудиту (П
+ рактика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-401/03\nПара: 5 пара\nДополните
+ льно: Маркина Ю. В.\nURALCAMPUS_SYNC_ID:8c4fae39455e0bd605cc
+ 433fd1652e14\nURALCAMPUS_SOURCE:inueco:group:a695346e-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ed8b9e2c43f91ac224b5ebb837fc37f7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T170000
+DTEND;TZID=Asia/Yekaterinburg:20260905T181000
+SUMMARY:Лабораторный практикум по аудиту (П
+ рактика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-401/03\nПара: 6 пара\nДополните
+ льно: Маркина Ю. В.\nURALCAMPUS_SYNC_ID:ed8b9e2c43f91ac224b5
+ ebb837fc37f7\nURALCAMPUS_SOURCE:inueco:group:a695346e-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR
