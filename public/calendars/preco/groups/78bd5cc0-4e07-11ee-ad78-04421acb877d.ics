@@ -17,4 +17,33 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:4111a5c336909f5f3eafa943b15c3637@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы экономики организации\, мене
+ джмента и маркетинга (Аудиторные заняти
+ я)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-374\, ЗИ-374А\nПара: 4 пара\nДополните
+ льно: Койшина Е.А.\nURALCAMPUS_SYNC_ID:4111a5c336909f5f3eafa
+ 943b15c3637\nURALCAMPUS_SOURCE:preco:group:78bd5cc0-4e07-11ee-ad78-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6fa53fd4dcde65d895de8e53e440fa5c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-374\, ЗИ-374А\nПара: 5 пара\nДополните
+ льно: Смаков Л.М.\nURALCAMPUS_SYNC_ID:6fa53fd4dcde65d895de8e5
+ 3e440fa5c\nURALCAMPUS_SOURCE:preco:group:78bd5cc0-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
 END:VCALENDAR

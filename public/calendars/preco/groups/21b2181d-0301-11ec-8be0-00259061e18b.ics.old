@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: 134к
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:baa721db3706ac29e9d28912d410bd4d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T101000
+DTEND;TZID=Asia/Yekaterinburg:20260905T114000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 134к\nПара: 2 пара\nДополнительно: Сат
+ аева М.Р.\nURALCAMPUS_SYNC_ID:baa721db3706ac29e9d28912d410bd4d\nURA
+ LCAMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c3b3da80d0b2cc72a13182bd0cf51e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T120000
+DTEND;TZID=Asia/Yekaterinburg:20260905T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 134к\nПара: 3 пара\nДополнительно: Шал
+ гина С.В.\nURALCAMPUS_SYNC_ID:d1c3b3da80d0b2cc72a13182bd0cf51e\nURA
+ LCAMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f2aeb82548ab700c19fe267cbd8b9b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260905T083000
+DTEND;TZID=Asia/Yekaterinburg:20260905T100000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 134к\nПара: 1 пара\nДополнительно: Сат
+ аева М.Р.\nURALCAMPUS_SYNC_ID:e0f2aeb82548ab700c19fe267cbd8b9b\nURA
+ LCAMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR
