@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: СПД-212
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:78a6f407d912ae19ecc7f601f6108eb9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Римское право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 6 пара\nДополнител
+ ьно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:78a6f407d912ae19
+ ecc7f601f6108eb9\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a420c9c45f6f6964a201d4842303d5ea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Правовая статистика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 4 пара\nДополнител
+ ьно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:a420c9c45f6f6964
+ a201d4842303d5ea\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e27fc29974e7538406582f13ea64a18a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Правовая статистика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 5 пара\nДополнител
+ ьно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:e27fc29974e75384
+ 06582f13ea64a18a\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+END:VCALENDAR

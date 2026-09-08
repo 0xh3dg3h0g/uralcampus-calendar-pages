@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: П-211
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1e2c5afbe72c1edd869119376626c2e4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-211\nПара: 4 пара\nДополнительно: Се
+ мянников И.М.\nURALCAMPUS_SYNC_ID:1e2c5afbe72c1edd869119376626c
+ 2e4\nURALCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:532076715d1cf74389ef1d2eeaa4fb67@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-211\nПара: 6 пара\nДополнительно: Се
+ мянников И.М.\nURALCAMPUS_SYNC_ID:532076715d1cf74389ef1d2eeaa4f
+ b67\nURALCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8490737c576592b4e810c03b4aa5b5ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-211\nПара: 5 пара\nДополнительно: Се
+ мянников И.М.\nURALCAMPUS_SYNC_ID:8490737c576592b4e810c03b4aa5b
+ 5ff\nURALCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Важенина Ек
+ атерина Владимировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4f532f53046153b4523dc8d35f8389a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Основы планирования логистических 
+ операций (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Важенина Екатерина Владим
+ ировна\nПара: 5 пара\nДополнительно: ОЛ-320\
+ , ОЛ-320А\nURALCAMPUS_SYNC_ID:4f532f53046153b4523dc8d35f8389a3\nURALCA
+ MPUS_SOURCE:preco:teacher:f7c1492b-5c09-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:7533bb9112969c5b7b35f44c1903150c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Важенина Екатерина Владим
+ ировна\nПара: 2 пара\nДополнительно: 102\nURAL
+ CAMPUS_SYNC_ID:7533bb9112969c5b7b35f44c1903150c\nURALCAMPUS_SOURCE:preco:
+ teacher:f7c1492b-5c09-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:792bcc31ff36938aaa484e1a691a8549@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы планирования логистических 
+ операций (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Важенина Екатерина Владим
+ ировна\nПара: 4 пара\nДополнительно: ОЛ-320\
+ , ОЛ-320А\nURALCAMPUS_SYNC_ID:792bcc31ff36938aaa484e1a691a8549\nURALCA
+ MPUS_SOURCE:preco:teacher:f7c1492b-5c09-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:9b8006ec72f51f1adb1e642eb15ec9a4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы планирования логистических 
+ операций (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Важенина Екатерина Владим
+ ировна\nПара: 3 пара\nДополнительно: ОЛ-320\
+ , ОЛ-320А\nURALCAMPUS_SYNC_ID:9b8006ec72f51f1adb1e642eb15ec9a4\nURALCA
+ MPUS_SOURCE:preco:teacher:f7c1492b-5c09-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:e909ba9b9472b9ef3b0b983d996ad275@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Деловые и профессиональные коммуни
+ кации (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Важенина Екатерина Владим
+ ировна\nПара: 1 пара\nДополнительно: ТИК-22
+ 4\nURALCAMPUS_SYNC_ID:e909ba9b9472b9ef3b0b983d996ad275\nURALCAMPUS_SOURCE
+ :preco:teacher:f7c1492b-5c09-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

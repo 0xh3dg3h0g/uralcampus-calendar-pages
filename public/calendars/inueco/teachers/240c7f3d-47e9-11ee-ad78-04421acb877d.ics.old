@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Худолей Юли
+ я Евгеньевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2ebf0383a44049f58777fe0498577842@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:История и география стран второго и
+ ностранного языка (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Худолей Юлия Евгеньев
+ на\nПара: 1 пара\nДополнительно: Л-311\nURALCAMPU
+ S_SYNC_ID:2ebf0383a44049f58777fe0498577842\nURALCAMPUS_SOURCE:inueco:teac
+ her:240c7f3d-47e9-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c589a301a6c6c526ad597946494f7ee7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Практический курс второго иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Худолей Юлия Евгеньев
+ на\nПара: 2 пара\nДополнительно: Л-311\nURALCAMPU
+ S_SYNC_ID:c589a301a6c6c526ad597946494f7ee7\nURALCAMPUS_SOURCE:inueco:teac
+ her:240c7f3d-47e9-11ee-ad78-04421acb877d
+END:VEVENT
+END:VCALENDAR

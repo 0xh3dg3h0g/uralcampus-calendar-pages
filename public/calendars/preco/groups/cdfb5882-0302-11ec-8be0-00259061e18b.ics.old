@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: 130
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20f047c8a7529d9f4aa9361b520b2fb8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130\nПара: 6 пара\nДополнительно: Влад
+ имирова К.П.\nURALCAMPUS_SYNC_ID:20f047c8a7529d9f4aa9361b520b2fb
+ 8\nURALCAMPUS_SOURCE:preco:group:cdfb5882-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:2778498a8fcb47eabda0f4265b71141e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130\nПара: 5 пара\nДополнительно: Гера
+ симова К.Е.\nURALCAMPUS_SYNC_ID:2778498a8fcb47eabda0f4265b71141e\
+ nURALCAMPUS_SOURCE:preco:group:cdfb5882-0302-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Орлова Дарь
+ я Николаевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1306786d828571c5c19ee05e698b157a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Орлова Дарья Николаевна\nП
+ ара: 3 пара\nДополнительно: 132\nURALCAMPUS_SYNC_ID:1
+ 306786d828571c5c19ee05e698b157a\nURALCAMPUS_SOURCE:preco:teacher:10e66d9c
+ -3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc5cc3eedcfd4eff0815adeaba0f85f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Орлова Дарья Николаевна\nП
+ ара: 5 пара\nДополнительно: 134\nURALCAMPUS_SYNC_ID:2
+ cc5cc3eedcfd4eff0815adeaba0f85f\nURALCAMPUS_SOURCE:preco:teacher:10e66d9c
+ -3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:61f017808e41bfbce52916f566801fa9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Орлова Дарья Николаевна\nП
+ ара: 4 пара\nДополнительно: 132\nURALCAMPUS_SYNC_ID:6
+ 1f017808e41bfbce52916f566801fa9\nURALCAMPUS_SOURCE:preco:teacher:10e66d9c
+ -3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:648543dbc753fd188d79f2b0fb5f4c02@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Орлова Дарья Николаевна\nП
+ ара: 2 пара\nДополнительно: 135\nURALCAMPUS_SYNC_ID:6
+ 48543dbc753fd188d79f2b0fb5f4c02\nURALCAMPUS_SOURCE:preco:teacher:10e66d9c
+ -3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:90422b3b4fbad65849beb5e859e027ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Орлова Дарья Николаевна\nП
+ ара: 6 пара\nДополнительно: 136\nURALCAMPUS_SYNC_ID:9
+ 0422b3b4fbad65849beb5e859e027ee\nURALCAMPUS_SOURCE:preco:teacher:10e66d9c
+ -3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c31f7004efeafdc043c59188608b7054@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 304\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Орлова Дарья Николаевна\nП
+ ара: 1 пара\nДополнительно: Ю-238\, Ю-238А\nURALCA
+ MPUS_SYNC_ID:c31f7004efeafdc043c59188608b7054\nURALCAMPUS_SOURCE:preco:te
+ acher:10e66d9c-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+END:VCALENDAR

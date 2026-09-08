@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Медведева Д
+ арья Сергеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:19007585ab08482e59c76b546daaa4ab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Медведева Дарья Сергеевна\
+ nПара: 1 пара\nДополнительно: 146к\nURALCAMPUS_SYNC
+ _ID:19007585ab08482e59c76b546daaa4ab\nURALCAMPUS_SOURCE:preco:teacher:9de
+ fa757-6dfc-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2a678ed92f43e436edc1907ee9a378d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Медведева Дарья Сергеевна\
+ nПара: 2 пара\nДополнительно: 143к\nURALCAMPUS_SYNC
+ _ID:2a678ed92f43e436edc1907ee9a378d6\nURALCAMPUS_SOURCE:preco:teacher:9de
+ fa757-6dfc-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8e28f64507fc88793a1f83d555a132a1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Медведева Дарья Сергеевна\
+ nПара: 3 пара\nДополнительно: ПД-348к\nURALCAMPUS
+ _SYNC_ID:8e28f64507fc88793a1f83d555a132a1\nURALCAMPUS_SOURCE:preco:teache
+ r:9defa757-6dfc-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9842fb91296ccc9afc481379786cfa50@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Медведева Дарья Сергеевна\
+ nПара: 4 пара\nДополнительно: 156к\nURALCAMPUS_SYNC
+ _ID:9842fb91296ccc9afc481379786cfa50\nURALCAMPUS_SOURCE:preco:teacher:9de
+ fa757-6dfc-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

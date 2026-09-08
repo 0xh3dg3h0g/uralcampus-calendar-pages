@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Де Карвальо
+  Гомес Анжело
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:76647eeedb824e9352c97e5883ec46d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Де Карвальо Гомес Анж
+ ело\nПара: 1 пара\nДополнительно: ЛЗ-301\nURALC
+ AMPUS_SYNC_ID:76647eeedb824e9352c97e5883ec46d4\nURALCAMPUS_SOURCE:inueco:
+ teacher:46c269d2-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:83399325b4ed329342373ac8d1cf3318@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Де Карвальо Гомес Анж
+ ело\nПара: 2 пара\nДополнительно: ЛЗ-301\nURALC
+ AMPUS_SYNC_ID:83399325b4ed329342373ac8d1cf3318\nURALCAMPUS_SOURCE:inueco:
+ teacher:46c269d2-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

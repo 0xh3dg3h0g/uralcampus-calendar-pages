@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Ф-162
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:05962f4adca393c78d528cf7f4eab359@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-162\nПара: 3 пара\nДополнительно: Яз
+ аева А.Ф.\nURALCAMPUS_SYNC_ID:05962f4adca393c78d528cf7f4eab359\nURA
+ LCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6d22575ddbe5759fc3964a16786893b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-162\nПара: 1 пара\nДополнительно: Бо
+ бнев С.В.\nURALCAMPUS_SYNC_ID:6d22575ddbe5759fc3964a16786893b7\nURA
+ LCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c15ab6fbad0bc52a2d9a4f7b2f91ff2e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-162\nПара: 2 пара\nДополнительно: См
+ аков Л.М.\nURALCAMPUS_SYNC_ID:c15ab6fbad0bc52a2d9a4f7b2f91ff2e\nURA
+ LCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+END:VCALENDAR

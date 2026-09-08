@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ТДЗ-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8350e0019366d7ceadd0f694d1ea7f14@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Таможенные платежи (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 7 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:8350e0019366d7ceadd0f69
+ 4d1ea7f14\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b73354d9daef8a88a662d2ad25ddeb9f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Таможенные платежи (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 6 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:b73354d9daef8a88a662d2a
+ d25ddeb9f\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c8134c36c539afe0964c402dd79c2ebe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Таможенные платежи (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 4 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:c8134c36c539afe0964c402
+ dd79c2ebe\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ecda7a2ad2d5465167e5e8876dccdb6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Таможенные платежи (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-301\nПара: 5 пара\nДополнител
+ ьно: Боброва А.В.\nURALCAMPUS_SYNC_ID:ecda7a2ad2d5465167e5e88
+ 76dccdb6c\nURALCAMPUS_SOURCE:inueco:group:a695340e-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+END:VCALENDAR

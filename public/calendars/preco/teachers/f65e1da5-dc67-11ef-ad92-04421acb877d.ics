@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:3b96dc5ab211abbb38fe0fd6be8da0e4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сафиханова Марина Петровн
+ а\nПара: 4 пара\nДополнительно: ПД-478\, ПД-478
+ А\nURALCAMPUS_SYNC_ID:3b96dc5ab211abbb38fe0fd6be8da0e4\nURALCAMPUS_SOURC
+ E:preco:teacher:f65e1da5-dc67-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b949703c40e631216357ff138fef30a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сафиханова Марина Петровн
+ а\nПара: 5 пара\nДополнительно: ПД-478\, ПД-478
+ А\nURALCAMPUS_SYNC_ID:b949703c40e631216357ff138fef30a3\nURALCAMPUS_SOURC
+ E:preco:teacher:f65e1da5-dc67-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR

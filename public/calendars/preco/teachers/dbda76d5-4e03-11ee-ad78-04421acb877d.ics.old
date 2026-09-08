@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Копытцев Се
+ ргей Михайлович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:08a9b122127cd46d0598d20e630a72b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Экономика отрасли (Аудиторные занят
+ ия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Копытцев Сергей Михайлови
+ ч\nПара: 1 пара\nДополнительно: П-270\nURALCAMPUS_
+ SYNC_ID:08a9b122127cd46d0598d20e630a72b7\nURALCAMPUS_SOURCE:preco:teacher
+ :dbda76d5-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd2e207b6c557538bd0914c19e6934e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Основы банковского дела (Аудиторные
+  занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Копытцев Сергей Михайлови
+ ч\nПара: 2 пара\nДополнительно: Б-264\, Б-264А\n
+ URALCAMPUS_SYNC_ID:0cd2e207b6c557538bd0914c19e6934e\nURALCAMPUS_SOURCE:pr
+ eco:teacher:dbda76d5-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2115ff4ba5b6acaf4a3067421f196596@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Основы предпринимательской деятель
+ ности (Аудиторные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Копытцев Сергей Михайлови
+ ч\nПара: 5 пара\nДополнительно: ГС-476\, ГС-476
+ А\nURALCAMPUS_SYNC_ID:2115ff4ba5b6acaf4a3067421f196596\nURALCAMPUS_SOURC
+ E:preco:teacher:dbda76d5-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2764dd4e598a1b3c070d6a2bb88a29ce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Организация кредитной работы (Аудит
+ орные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Копытцев Сергей Михайлови
+ ч\nПара: 4 пара\nДополнительно: Б-364\, Б-364А\n
+ URALCAMPUS_SYNC_ID:2764dd4e598a1b3c070d6a2bb88a29ce\nURALCAMPUS_SOURCE:pr
+ eco:teacher:dbda76d5-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2d8c67471b73addacc9a7c7cd178db5d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Организация кредитной работы (Аудит
+ орные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Копытцев Сергей Михайлови
+ ч\nПара: 3 пара\nДополнительно: Б-364\, Б-364А\n
+ URALCAMPUS_SYNC_ID:2d8c67471b73addacc9a7c7cd178db5d\nURALCAMPUS_SOURCE:pr
+ eco:teacher:dbda76d5-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+END:VCALENDAR

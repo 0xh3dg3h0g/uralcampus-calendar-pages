@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Шнайдер Мар
+ ия Евгеньевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3e09f26428a8cac23d5674c53606fd3f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шнайдер Мария Евгеньевна\n
+ Пара: 5 пара\nДополнительно: ПД-378\, ПД-378А\n
+ URALCAMPUS_SYNC_ID:3e09f26428a8cac23d5674c53606fd3f\nURALCAMPUS_SOURCE:pr
+ eco:teacher:c7788733-a847-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ae6d21087e091868c7d22ab348b39c35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шнайдер Мария Евгеньевна\n
+ Пара: 4 пара\nДополнительно: ПД-378\, ПД-378А\n
+ URALCAMPUS_SYNC_ID:ae6d21087e091868c7d22ab348b39c35\nURALCAMPUS_SOURCE:pr
+ eco:teacher:c7788733-a847-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

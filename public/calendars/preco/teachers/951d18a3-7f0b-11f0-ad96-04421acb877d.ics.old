@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Паньжина Ма
+ ргарита Константиновна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7b50b1c7eae9941a7b459e04e4a28b17@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Аудиторные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Паньжина Маргарита Конста
+ нтиновна\nПара: 1 пара\nДополнительно: ЗИ-
+ 444\, ЗИ-444А\nURALCAMPUS_SYNC_ID:7b50b1c7eae9941a7b459e04e4a28b17\nUR
+ ALCAMPUS_SOURCE:preco:teacher:951d18a3-7f0b-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fafb22b332ebe46e1e1179d2ad04fd63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Определение кадастровой стоимости 
+ объектов недвижимости (Аудиторные заня
+ тия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Паньжина Маргарита Конста
+ нтиновна\nПара: 2 пара\nДополнительно: ЗИ-
+ 444\, ЗИ-444А\nURALCAMPUS_SYNC_ID:fafb22b332ebe46e1e1179d2ad04fd63\nUR
+ ALCAMPUS_SOURCE:preco:teacher:951d18a3-7f0b-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

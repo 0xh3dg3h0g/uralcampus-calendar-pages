@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Егорова Тат
+ ьяна Анатольевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:89cea5fba558a9124ba4e9378622f066@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Русский язык с методикой преподаван
+ ия (Аудиторные занятия)
+LOCATION:ауд. 222\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Егорова Татьяна Анатольев
+ на\nПара: 2 пара\nДополнительно: НК-356к\, НК
+ -356Ак\nURALCAMPUS_SYNC_ID:89cea5fba558a9124ba4e9378622f066\nURALCAMPUS
+ _SOURCE:preco:teacher:d1139a6b-3cd4-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aa80faa7b7e5ec07c91b364b691f5132@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Теоретические основы начального ку
+ рса математики с методикой преподавани
+ я (Аудиторные занятия)
+LOCATION:ауд. 222\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Егорова Татьяна Анатольев
+ на\nПара: 1 пара\nДополнительно: НК-356к\, НК
+ -356Ак\nURALCAMPUS_SYNC_ID:aa80faa7b7e5ec07c91b364b691f5132\nURALCAMPUS
+ _SOURCE:preco:teacher:d1139a6b-3cd4-11ee-ad77-04421acb877d
+END:VEVENT
+END:VCALENDAR

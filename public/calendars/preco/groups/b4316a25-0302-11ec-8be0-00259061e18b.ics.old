@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Ф-332к\, Ф-332Ак
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2a05568e96a55c33c079ffe00970955e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-332к\, Ф-332Ак\nПара: 1 пара\nДополните
+ льно: Куцко Т.Р.\nURALCAMPUS_SYNC_ID:2a05568e96a55c33c079ffe00
+ 970955e\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061e1
+ 8b
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3931bbd2236709b7b1bec867dfa635@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-332к\, Ф-332Ак\nПара: 3 пара\nДополните
+ льно: Куцко Т.Р.\nURALCAMPUS_SYNC_ID:4c3931bbd2236709b7b1bec86
+ 7dfa635\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061e1
+ 8b
+END:VEVENT
+BEGIN:VEVENT
+UID:91f150695f5f33906d24a217ce93b793@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-332к\, Ф-332Ак\nПара: 2 пара\nДополните
+ льно: Куцко Т.Р.\nURALCAMPUS_SYNC_ID:91f150695f5f33906d24a217c
+ e93b793\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061e1
+ 8b
+END:VEVENT
+BEGIN:VEVENT
+UID:ea39a8b457bf2dd79ca73f53f7103d1b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-332к\, Ф-332Ак\nПара: 4 пара\nДополните
+ льно: Малова Т.А.\nURALCAMPUS_SYNC_ID:ea39a8b457bf2dd79ca73f5
+ 3f7103d1b\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061
+ e18b
+END:VEVENT
+END:VCALENDAR

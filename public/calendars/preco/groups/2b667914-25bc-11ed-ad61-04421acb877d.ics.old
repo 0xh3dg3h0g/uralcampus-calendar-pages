@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-348к
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:510a773a8cb11c69f2243a577081395e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-348к\nПара: 4 пара\nДополнительно: 
+ Низамова Н.Г.\nURALCAMPUS_SYNC_ID:510a773a8cb11c69f2243a5770813
+ 95e\nURALCAMPUS_SOURCE:preco:group:2b667914-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8a905b91b45568d944ba4d3c3ebf6178@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-348к\nПара: 3 пара\nДополнительно: 
+ Медведева Д.С.\nURALCAMPUS_SYNC_ID:8a905b91b45568d944ba4d3c3eb
+ f6178\nURALCAMPUS_SOURCE:preco:group:2b667914-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

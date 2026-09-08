@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ГС-476\, ГС-476А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:433fd96b826228b03e703c848eb8e498@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Реализация технологических процесс
+ ов эксплуатации систем газораспределни
+ я и газопотребления (Аудиторные занятия
+ )
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-476\, ГС-476А\nПара: 4 пара\nДополните
+ льно: Бобнев С.В.\nURALCAMPUS_SYNC_ID:433fd96b826228b03e703c8
+ 48eb8e498\nURALCAMPUS_SOURCE:preco:group:95145103-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f86fe2c57fa4dfcbbbce08a27a7391@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Основы предпринимательской деятель
+ ности (Аудиторные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-476\, ГС-476А\nПара: 5 пара\nДополните
+ льно: Копытцев С.М.\nURALCAMPUS_SYNC_ID:a0f86fe2c57fa4dfcbb
+ bce08a27a7391\nURALCAMPUS_SOURCE:preco:group:95145103-4e07-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR

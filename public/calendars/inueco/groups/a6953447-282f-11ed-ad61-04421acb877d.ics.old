@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭБ-508
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0eceec093557e98125cdba50afcae686@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Экономические преступления: квалиф
+ икация и расследование (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 1 пара\nДополнитель
+ но: Дробот С. А.\nURALCAMPUS_SYNC_ID:0eceec093557e98125cdba50af
+ cae686\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:331780c359f12159d4b39526e5980450@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Криминалистика (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 4 пара\nДополнитель
+ но: Макашова Т. П.\nURALCAMPUS_SYNC_ID:331780c359f12159d4b395
+ 26e5980450\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3b6ccfadbf206f01da5214d4d3194820@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Экономические преступления: квалиф
+ икация и расследование (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 2 пара\nДополнитель
+ но: Дробот С. А.\nURALCAMPUS_SYNC_ID:3b6ccfadbf206f01da5214d4d3
+ 194820\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:8c3577cfbbf455c4dc4e8369aa032285@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Криминалистика (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБ-508\nПара: 3 пара\nДополнитель
+ но: Макашова Т. П.\nURALCAMPUS_SYNC_ID:8c3577cfbbf455c4dc4e83
+ 69aa032285\nURALCAMPUS_SOURCE:inueco:group:a6953447-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+END:VCALENDAR

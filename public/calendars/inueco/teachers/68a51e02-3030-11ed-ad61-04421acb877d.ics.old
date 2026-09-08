@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Ветрова Алл
+ а Васильевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2bcf796f5ae2d71d580d795e450d50b1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Архитектурное проектирование (осно
+ вное) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 4 пара\nДополнительно: А-410\nURALCAMPU
+ S_SYNC_ID:2bcf796f5ae2d71d580d795e450d50b1\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:387b2892db674cb65968de4b323860bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Практика)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 3 пара\nДополнительно: А-310\nURALCAMPU
+ S_SYNC_ID:387b2892db674cb65968de4b323860bf\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdca8145875627806d05672711a3584@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 1 пара\nДополнительно: А-310\nURALCAMPU
+ S_SYNC_ID:cfdca8145875627806d05672711a3584\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ff205d88c72d22b12593fa037425c8ce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 2 пара\nДополнительно: А-310\nURALCAMPU
+ S_SYNC_ID:ff205d88c72d22b12593fa037425c8ce\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

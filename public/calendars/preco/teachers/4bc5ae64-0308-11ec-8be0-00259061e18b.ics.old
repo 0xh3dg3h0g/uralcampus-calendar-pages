@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Золотова Ек
+ атерина Петровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:134763dc1c775fd0454e5c4757d8c894@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 2 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:134763dc1c775fd0454e5c4757d8c894\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:13fe55fe74eb993bf267e99c233c0e51@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 4 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:13fe55fe74eb993bf267e99c233c0e51\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:9a6dab7f3953de650da658d900610ec5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 3 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:9a6dab7f3953de650da658d900610ec5\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e29833539077bf2ad67876dac92588@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 1 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:a0e29833539077bf2ad67876dac92588\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

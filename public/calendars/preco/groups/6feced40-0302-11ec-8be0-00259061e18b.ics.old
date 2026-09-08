@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-248к\, ПД-248Ак
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3f4f267a6bd110e84553ea4483204219@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 4 пара\nДополни
+ тельно: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:3f4f267a6bd110e84
+ 553ea4483204219\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be0-00
+ 259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd91834403287edc59779e8767995fa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 321\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248к\, ПД-248Ак\nПара: 5 пара\nДополни
+ тельно: Надеждина О.А.\nURALCAMPUS_SYNC_ID:5bd9183440328
+ 7edc59779e8767995fa\nURALCAMPUS_SOURCE:preco:group:6feced40-0302-11ec-8be
+ 0-00259061e18b
+END:VEVENT
+END:VCALENDAR

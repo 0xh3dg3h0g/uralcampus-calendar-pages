@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-219\, ПД-219А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:058c7cf5fab4486d18eb53b4b9103b66@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:058c7cf5fab4486d18eb5
+ 3b4b9103b66\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:636d6816fdd1b4b2483dafe90673cedd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 2 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:636d6816fdd1b4b2483da
+ fe90673cedd\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:6ff4e5439724d3f1a2a541679f033cc6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 3 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:6ff4e5439724d3f1a2a54
+ 1679f033cc6\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b79e082b6a505cf0cd15d24f532739dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 5 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:b79e082b6a505cf0cd15d
+ 24f532739dd\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+END:VCALENDAR

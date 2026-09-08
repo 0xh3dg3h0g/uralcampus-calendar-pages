@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Кокшарова А
+ рина Дмитриевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7e6f568094135ee9e3550ff83d9577af@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 3 пара\nДополнительно: ПД-218\, ПД-218
+ А\nURALCAMPUS_SYNC_ID:7e6f568094135ee9e3550ff83d9577af\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9de45c1e25ff640b3c85fa1898a7e0b5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 4 пара\nДополнительно: Ю-208\, Ю-208А\n
+ URALCAMPUS_SYNC_ID:9de45c1e25ff640b3c85fa1898a7e0b5\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c829d76705466d2304548641c4bb7cc0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 2 пара\nДополнительно: П-310\, П-310А\n
+ URALCAMPUS_SYNC_ID:c829d76705466d2304548641c4bb7cc0\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eedac248482206438c62f589d8a6c66b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 1 пара\nДополнительно: П-310\, П-310А\n
+ URALCAMPUS_SYNC_ID:eedac248482206438c62f589d8a6c66b\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

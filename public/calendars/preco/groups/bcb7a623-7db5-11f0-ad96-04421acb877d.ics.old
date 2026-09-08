@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Д-212\, Д-212А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:70b97c74eb7a154e7f8e2279e64f37f0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Рисунок с основами перспективы (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212\, Д-212А\nПара: 1 пара\nДополнитель
+ но: Лопяткина И.Б.\nURALCAMPUS_SYNC_ID:70b97c74eb7a154e7f8e2
+ 279e64f37f0\nURALCAMPUS_SOURCE:preco:group:bcb7a623-7db5-11f0-ad96-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8333be2766a173973d915446594c9337@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Пропедевтика (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212\, Д-212А\nПара: 3 пара\nДополнитель
+ но: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:8333be2766a173973d9154465
+ 94c9337\nURALCAMPUS_SOURCE:preco:group:bcb7a623-7db5-11f0-ad96-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b106fac5d60f1da25df2c13b6c4a3b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Рисунок с основами перспективы (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-212\, Д-212А\nПара: 2 пара\nДополнитель
+ но: Лопяткина И.Б.\nURALCAMPUS_SYNC_ID:f5b106fac5d60f1da25df
+ 2c13b6c4a3b\nURALCAMPUS_SOURCE:preco:group:bcb7a623-7db5-11f0-ad96-04421a
+ cb877d
+END:VEVENT
+END:VCALENDAR

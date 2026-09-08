@@ -18,40 +18,77 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1aecb7528d7f53481922afea87fc7e17@uralcampus-calendar-pages
+UID:cb290166cf69eb8fb871fe84f0471f92@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
-DTEND;TZID=Asia/Yekaterinburg:20260907T100000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 4а\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
+DTEND;TZID=Asia/Yekaterinburg:20260908T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 1 пара\nДополнительно: Лу
- кманова С.В.\nURALCAMPUS_SYNC_ID:1aecb7528d7f53481922afea87fc7e1
- 7\nURALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:256b4efc63c85f1e01f90785c905e6ff@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
-DTEND;TZID=Asia/Yekaterinburg:20260907T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 7\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 2 пара\nДополнительно: Ту
- куева Е.В.\nURALCAMPUS_SYNC_ID:256b4efc63c85f1e01f90785c905e6ff\nU
+ уппа: Б-164\nПара: 1 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:cb290166cf69eb8fb871fe84f0471f92\nU
  RALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:ba6f71d8e21afa9b7a3e8f0b4c77e0c7@uralcampus-calendar-pages
+UID:8dac54f2bc43fc60c3bcc97ec19e71c7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
-DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-164\nПара: 2 пара\nДополнительно: См
+ аков Л.М.\nURALCAMPUS_SYNC_ID:8dac54f2bc43fc60c3bcc97ec19e71c7\nURA
+ LCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:27cd4f58f31c998d9bf69c01c2982a89@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-164\nПара: 3 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:27cd4f58f31c998d9bf69c01c2982a89\
+ nURALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:948d54530eeda81fb7726be680b03261@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
+DTEND;TZID=Asia/Yekaterinburg:20260909T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-164\nПара: 1 пара\nДополнительно: Бо
+ бнев С.В.\nURALCAMPUS_SYNC_ID:948d54530eeda81fb7726be680b03261\nURA
+ LCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:63c94ecf8c052329c4bfcb9a3f005434@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
+DTEND;TZID=Asia/Yekaterinburg:20260909T114000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-164\nПара: 2 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:63c94ecf8c052329c4bfcb9a3f005434\nU
+ RALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:db94f97ad0aa4c26c21fa40273408f9b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
 SUMMARY:Физическая культура (Аудиторные зан
  ятия)
 LOCATION:ауд. Спортзал\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Б-164\nПара: 3 пара\nДополнительно: См
- аков Л.М.\nURALCAMPUS_SYNC_ID:ba6f71d8e21afa9b7a3e8f0b4c77e0c7\nURA
+ аков Л.М.\nURALCAMPUS_SYNC_ID:db94f97ad0aa4c26c21fa40273408f9b\nURA
  LCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

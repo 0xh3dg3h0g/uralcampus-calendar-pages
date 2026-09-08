@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: СПДЗ-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:41458ec0204137ba189fa287973d5954@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Семейное право (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПДЗ-301\nПара: 1 пара\nДополните
+ льно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:41458ec0204137ba18
+ 9fa287973d5954\nURALCAMPUS_SOURCE:inueco:group:a080b6fe-0c54-11ef-ad86-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce4bcb6d86a4f9acdc92b05237e0ea77@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПДЗ-301\nПара: 3 пара\nДополните
+ льно: Васильев В.А.\nURALCAMPUS_SYNC_ID:ce4bcb6d86a4f9acdc9
+ 2b05237e0ea77\nURALCAMPUS_SOURCE:inueco:group:a080b6fe-0c54-11ef-ad86-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:db27d210bbe9d2332afaa6a616ace8ad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Трудовое право (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПДЗ-301\nПара: 4 пара\nДополните
+ льно: Васильев В.А.\nURALCAMPUS_SYNC_ID:db27d210bbe9d2332af
+ aa6a616ace8ad\nURALCAMPUS_SOURCE:inueco:group:a080b6fe-0c54-11ef-ad86-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f4fb98462dc48f9595e8633a5b6bc418@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Семейное право (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПДЗ-301\nПара: 2 пара\nДополните
+ льно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:f4fb98462dc48f9595
+ e8633a5b6bc418\nURALCAMPUS_SOURCE:inueco:group:a080b6fe-0c54-11ef-ad86-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

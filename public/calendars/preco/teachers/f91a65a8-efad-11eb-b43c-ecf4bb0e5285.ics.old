@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Зенова Ирин
+ а Александровна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2541c66898acb5274e1e656c459063f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 4 пара\nДополнительно: 110\nURALCAMPUS_SYN
+ C_ID:2541c66898acb5274e1e656c459063f4\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:301bb6e6e1fc3445e4f6404e2a589ca5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 2 пара\nДополнительно: 108\nURALCAMPUS_SYN
+ C_ID:301bb6e6e1fc3445e4f6404e2a589ca5\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb18eb207f3f1518921e3621767ec9e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Зенова Ирина Александровн
+ а\nПара: 3 пара\nДополнительно: 109\nURALCAMPUS_SYN
+ C_ID:fdb18eb207f3f1518921e3621767ec9e\nURALCAMPUS_SOURCE:preco:teacher:f9
+ 1a65a8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

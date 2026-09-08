@@ -18,4 +18,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:dbfcd4563c65509f8d9930064c046815@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смирнова Наталья Васильев
+ на\nПара: 5 пара\nДополнительно: П-270\nURALCAMPU
+ S_SYNC_ID:dbfcd4563c65509f8d9930064c046815\nURALCAMPUS_SOURCE:preco:teach
+ er:6e01dbee-8987-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

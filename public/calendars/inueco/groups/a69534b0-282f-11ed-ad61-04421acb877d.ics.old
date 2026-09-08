@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЛЗ-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0e9ee8b38677a6054c508afe7924e797@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301\nПара: 6 пара\nДополнител
+ ьно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:0e9ee8b38677a6054c
+ 508afe7924e797\nURALCAMPUS_SOURCE:inueco:group:a69534b0-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10d46418569c312f55d85e3b482e9247@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301\nПара: 5 пара\nДополнител
+ ьно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:10d46418569c312f55
+ d85e3b482e9247\nURALCAMPUS_SOURCE:inueco:group:a69534b0-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:65f2b880fbb11b337157082baabb6113@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301\nПара: 7 пара\nДополнител
+ ьно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:65f2b880fbb11b3371
+ 57082baabb6113\nURALCAMPUS_SOURCE:inueco:group:a69534b0-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:87bfb12cbb0098b55f33a0fab7caaa22@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T195000
+DTEND;TZID=Asia/Yekaterinburg:20260907T205000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301\nПара: 8 пара\nДополнител
+ ьно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:87bfb12cbb0098b55f
+ 33a0fab7caaa22\nURALCAMPUS_SOURCE:inueco:group:a69534b0-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-248\, ПД-248А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0c9ee5d1f4858be82f78d11d1b537ec8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248\, ПД-248А\nПара: 4 пара\nДополните
+ льно: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:0c9ee5d1f4858be82
+ f78d11d1b537ec8\nURALCAMPUS_SOURCE:preco:group:58026e2f-5ded-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e63304b1af05f5502c23c143f6eb7654@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-248\, ПД-248А\nПара: 5 пара\nДополните
+ льно: Филиппова Ю.В.\nURALCAMPUS_SYNC_ID:e63304b1af05f5502
+ c23c143f6eb7654\nURALCAMPUS_SOURCE:preco:group:58026e2f-5ded-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

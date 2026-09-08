@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЛЗу-301/06
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:16b59cfe22f8a4b7a793b52d09ef8165@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Электроника (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-301/06\nПара: 6 пара\nДополни
+ тельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:16b59cfe
+ 22f8a4b7a793b52d09ef8165\nURALCAMPUS_SOURCE:inueco:group:dd173822-58a4-11
+ f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:20db33d140e8a9c45a86f0651642cfde@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-301/06\nПара: 3 пара\nДополни
+ тельно: Белов А.В.\nURALCAMPUS_SYNC_ID:20db33d140e8a9c45a86f
+ 0651642cfde\nURALCAMPUS_SOURCE:inueco:group:dd173822-58a4-11f0-ad93-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4419713fe9cb283ba9ae13fb23b6848b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Электрические станции и подстанции 
+ (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-301/06\nПара: 5 пара\nДополни
+ тельно: Белов А.В.\nURALCAMPUS_SYNC_ID:4419713fe9cb283ba9ae1
+ 3fb23b6848b\nURALCAMPUS_SOURCE:inueco:group:dd173822-58a4-11f0-ad93-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:664a4b4baa3dca2fce7ea3d723baa8c9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-301/06\nПара: 4 пара\nДополни
+ тельно: Белов А.В.\nURALCAMPUS_SYNC_ID:664a4b4baa3dca2fce7ea
+ 3d723baa8c9\nURALCAMPUS_SOURCE:inueco:group:dd173822-58a4-11f0-ad93-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7f685d159820fa69ffa4cc5001c7be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T183000
+DTEND;TZID=Asia/Yekaterinburg:20260907T194000
+SUMMARY:Электроника (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-301/06\nПара: 7 пара\nДополни
+ тельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:7d7f685d
+ 159820fa69ffa4cc5001c7be\nURALCAMPUS_SOURCE:inueco:group:dd173822-58a4-11
+ f0-ad93-04421acb877d
+END:VEVENT
+END:VCALENDAR

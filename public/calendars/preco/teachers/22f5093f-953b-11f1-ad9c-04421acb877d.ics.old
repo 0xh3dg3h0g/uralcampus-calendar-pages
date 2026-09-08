@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Александро
+ ва Юлия Ивановна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7794442a3015e61d71e1dd1953d32dc6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Александрова Юлия Ивановн
+ а\nПара: 2 пара\nДополнительно: 144к\nURALCAMPUS_S
+ YNC_ID:7794442a3015e61d71e1dd1953d32dc6\nURALCAMPUS_SOURCE:preco:teacher:
+ 22f5093f-953b-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9bdf323c3c21326622293fe9951bbdd9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Александрова Юлия Ивановн
+ а\nПара: 1 пара\nДополнительно: 143к\nURALCAMPUS_S
+ YNC_ID:9bdf323c3c21326622293fe9951bbdd9\nURALCAMPUS_SOURCE:preco:teacher:
+ 22f5093f-953b-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d06ff1206846705e6c86614cbb0e593c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Александрова Юлия Ивановн
+ а\nПара: 5 пара\nДополнительно: 109\nURALCAMPUS_SYN
+ C_ID:d06ff1206846705e6c86614cbb0e593c\nURALCAMPUS_SOURCE:preco:teacher:22
+ f5093f-953b-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f92247953a3fcd5f807139970b468a35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Александрова Юлия Ивановн
+ а\nПара: 4 пара\nДополнительно: 109\nURALCAMPUS_SYN
+ C_ID:f92247953a3fcd5f807139970b468a35\nURALCAMPUS_SOURCE:preco:teacher:22
+ f5093f-953b-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

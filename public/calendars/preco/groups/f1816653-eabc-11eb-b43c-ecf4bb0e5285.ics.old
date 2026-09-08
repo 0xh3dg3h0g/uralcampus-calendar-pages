@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Д-242
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7c257186aabdaf81594ffe766b4e62d1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Пропедевтика (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-242\nПара: 5 пара\nДополнительно: Шк
+ рабов Н.И.\nURALCAMPUS_SYNC_ID:7c257186aabdaf81594ffe766b4e62d1\nU
+ RALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:94027dfaf0ef9d4b21d067d133f713a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности(подгруппа:Д-242(2)) (Аудитор
+ ные занятия)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-242\nПара: 3 пара\nДополнительно: Мо
+ торина Л.А.\nURALCAMPUS_SYNC_ID:94027dfaf0ef9d4b21d067d133f713a6\
+ nURALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ea24e69bca359f48c5f34f1e984e1000@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Пропедевтика (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-242\nПара: 4 пара\nДополнительно: Шк
+ рабов Н.И.\nURALCAMPUS_SYNC_ID:ea24e69bca359f48c5f34f1e984e1000\nU
+ RALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

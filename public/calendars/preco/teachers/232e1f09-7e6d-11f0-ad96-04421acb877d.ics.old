@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Предигер Юл
+ ия Олеговна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:43b833b92a89a2229692f94417cb7416@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Предигер Юлия Олеговна\nПа
+ ра: 4 пара\nДополнительно: 142к\nURALCAMPUS_SYNC_ID:4
+ 3b833b92a89a2229692f94417cb7416\nURALCAMPUS_SOURCE:preco:teacher:232e1f09
+ -7e6d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5417ca2e5952800bb7bca4ff33f3a366@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Предигер Юлия Олеговна\nПа
+ ра: 5 пара\nДополнительно: 156к\nURALCAMPUS_SYNC_ID:5
+ 417ca2e5952800bb7bca4ff33f3a366\nURALCAMPUS_SOURCE:preco:teacher:232e1f09
+ -7e6d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:81f1bed7090633fa5c2e086ef221744e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Предигер Юлия Олеговна\nПа
+ ра: 3 пара\nДополнительно: 141к\nURALCAMPUS_SYNC_ID:8
+ 1f1bed7090633fa5c2e086ef221744e\nURALCAMPUS_SOURCE:preco:teacher:232e1f09
+ -7e6d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:af19fde15b38a7f981ae15663f6efed0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Предигер Юлия Олеговна\nПа
+ ра: 6 пара\nДополнительно: 148к\nURALCAMPUS_SYNC_ID:a
+ f19fde15b38a7f981ae15663f6efed0\nURALCAMPUS_SOURCE:preco:teacher:232e1f09
+ -7e6d-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

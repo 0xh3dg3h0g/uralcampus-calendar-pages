@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Б-334\, Б-334А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:59f29d6b81ab7d9f8182adcaaa3fa041@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Выполнение работ по профессии 20002 Аг
+ ент банка (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-334\, Б-334А\nПара: 2 пара\nДополнитель
+ но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:59f29d6b81ab7d9f818
+ 2adcaaa3fa041\nURALCAMPUS_SOURCE:preco:group:e95504bb-7f20-11f0-ad96-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0cb7bed94d802a845a25832c231387@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Выполнение работ по профессии 20002 Аг
+ ент банка (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-334\, Б-334А\nПара: 3 пара\nДополнитель
+ но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:7b0cb7bed94d802a845
+ a25832c231387\nURALCAMPUS_SOURCE:preco:group:e95504bb-7f20-11f0-ad96-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dedd68344e592fed20060a3b58cb4162@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Выполнение работ по профессии 20002 Аг
+ ент банка (Аудиторные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-334\, Б-334А\nПара: 1 пара\nДополнитель
+ но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:dedd68344e592fed200
+ 60a3b58cb4162\nURALCAMPUS_SOURCE:preco:group:e95504bb-7f20-11f0-ad96-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR

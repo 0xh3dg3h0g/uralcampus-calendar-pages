@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Ю-368\, Ю-368А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:70925a99af8173f4f577206eb97cb214@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Гражданский процесс (Аудиторные зан
+ ятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-368\, Ю-368А\nПара: 5 пара\nДополнитель
+ но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:70925a99af8173f4f577206
+ eb97cb214\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fbcefb717d4340a4207be12e985b1b26@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Гражданский процесс (Аудиторные зан
+ ятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-368\, Ю-368А\nПара: 6 пара\nДополнитель
+ но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:fbcefb717d4340a4207be12
+ e985b1b26\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

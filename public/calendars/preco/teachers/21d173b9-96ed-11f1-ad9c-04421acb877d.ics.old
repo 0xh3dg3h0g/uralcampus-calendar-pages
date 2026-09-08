@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Попова Ксен
+ ия Сергеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0acfd00abe4c98324b445e3c08892375@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Попова Ксения Сергеевна\nП
+ ара: 2 пара\nДополнительно: 101\nURALCAMPUS_SYNC_ID:0
+ acfd00abe4c98324b445e3c08892375\nURALCAMPUS_SOURCE:preco:teacher:21d173b9
+ -96ed-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:21a226e9a2b63bb8c2507342f2bf1a3c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Попова Ксения Сергеевна\nП
+ ара: 5 пара\nДополнительно: ПД-319\nURALCAMPUS_SYNC
+ _ID:21a226e9a2b63bb8c2507342f2bf1a3c\nURALCAMPUS_SOURCE:preco:teacher:21d
+ 173b9-96ed-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:629e69c949c9431ca421506be954fec8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Попова Ксения Сергеевна\nП
+ ара: 4 пара\nДополнительно: 104\nURALCAMPUS_SYNC_ID:6
+ 29e69c949c9431ca421506be954fec8\nURALCAMPUS_SOURCE:preco:teacher:21d173b9
+ -96ed-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:827db4c81c045db2621ec12c856ee9ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Попова Ксения Сергеевна\nП
+ ара: 1 пара\nДополнительно: Д-412\nURALCAMPUS_SYNC_I
+ D:827db4c81c045db2621ec12c856ee9ee\nURALCAMPUS_SOURCE:preco:teacher:21d17
+ 3b9-96ed-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fd6faeec0ba694566dd5dd920a3195d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Попова Ксения Сергеевна\nП
+ ара: 3 пара\nДополнительно: 102\nURALCAMPUS_SYNC_ID:f
+ d6faeec0ba694566dd5dd920a3195d6\nURALCAMPUS_SOURCE:preco:teacher:21d173b9
+ -96ed-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

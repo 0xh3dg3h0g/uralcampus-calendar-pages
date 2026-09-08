@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:942671591aa7939e1014318009557a4e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
-DTEND;TZID=Asia/Yekaterinburg:20260907T100000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 419\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 134к\nПара: 1 пара\nДополнительно: Кур
- ова К.В.\nURALCAMPUS_SYNC_ID:942671591aa7939e1014318009557a4e\nURALC
- AMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:2ec1356f279bb53b0a85f980151b4d88@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
-DTEND;TZID=Asia/Yekaterinburg:20260907T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 134к\nПара: 2 пара\nДополнительно: Вор
- онцов М.В.\nURALCAMPUS_SYNC_ID:2ec1356f279bb53b0a85f980151b4d88\nU
- RALCAMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:e7f12c4d3bfbe758a4fbe264a3f77bfa@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
@@ -76,6 +52,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 134к\nПара: 3 пара\nДополнительно: Кож
  евникова Е.Б.\nURALCAMPUS_SYNC_ID:bcbcddd18146873a652dd078bec20
  893\nURALCAMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6227ba81d03aba7510196864d346d7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 134к\nПара: 3 пара\nДополнительно: Тют
+ ин А.А.\nURALCAMPUS_SYNC_ID:ed6227ba81d03aba7510196864d346d7\nURALCAM
+ PUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:fbaacbf8dbcfc03d97c7ae007a42c378@uralcampus-calendar-pages
@@ -116,30 +106,28 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  RALCAMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:81da6cc285893e2c7e870af4f815e51a@uralcampus-calendar-pages
+UID:a02b81bcdddfc07f63de62a7979a692c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
-SUMMARY:География (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Русский язык (Аудиторные занятия)
 LOCATION:ауд. 422\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 134к\nПара: 3 пара\nДополнительно: Пат
- раков Н.И.\nURALCAMPUS_SYNC_ID:81da6cc285893e2c7e870af4f815e51a\nU
+ уппа: 134к\nПара: 1 пара\nДополнительно: Стр
+ унина Е.Ф.\nURALCAMPUS_SYNC_ID:a02b81bcdddfc07f63de62a7979a692c\nU
  RALCAMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:394a25dc9170b592fa928a7d13a458ee@uralcampus-calendar-pages
+UID:aef76e1e8676eea1055d87f20e06de0c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
-DTEND;TZID=Asia/Yekaterinburg:20260910T152000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Комсомольский просп
- ект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 134к\nПара: 4 пара\nДополнительно: Тют
- ин А.А.\nURALCAMPUS_SYNC_ID:394a25dc9170b592fa928a7d13a458ee\nURALCAM
- PUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
+ уппа: 134к\nПара: 2 пара\nДополнительно: Пат
+ раков Н.И.\nURALCAMPUS_SYNC_ID:aef76e1e8676eea1055d87f20e06de0c\nU
+ RALCAMPUS_SOURCE:preco:group:21b2181d-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:c607823458f11a3f3a5fd3ca1876c293@uralcampus-calendar-pages

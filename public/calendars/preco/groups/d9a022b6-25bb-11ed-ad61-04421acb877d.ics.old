@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: П-240к
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3f2d4c0f4bbad8665b39cb2602e717eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T171000
+DTEND;TZID=Asia/Yekaterinburg:20260907T182000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 6 пара\nДополнительно: К
+ арепина А.Д.\nURALCAMPUS_SYNC_ID:3f2d4c0f4bbad8665b39cb2602e717e
+ b\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:46f31af3c8d06c72f6aad81fba101d52@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 4 пара\nДополнительно: В
+ оронцов М.В.\nURALCAMPUS_SYNC_ID:46f31af3c8d06c72f6aad81fba101d5
+ 2\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:62004f1b1363465a1d07399409416f6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T153000
+DTEND;TZID=Asia/Yekaterinburg:20260907T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 5 пара\nДополнительно: Т
+ ютин А.А.\nURALCAMPUS_SYNC_ID:62004f1b1363465a1d07399409416f6e\nURA
+ LCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:94510ee3160ffc50bc32b564def07c86@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240к\nПара: 3 пара\nДополнительно: В
+ оронцов М.В.\nURALCAMPUS_SYNC_ID:94510ee3160ffc50bc32b564def07c8
+ 6\nURALCAMPUS_SOURCE:preco:group:d9a022b6-25bb-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

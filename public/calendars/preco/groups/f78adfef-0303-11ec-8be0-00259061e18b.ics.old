@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: З-344\, З-344А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:03ba60197e36f00b2bb8c9ef6eb86a92@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T120000
+DTEND;TZID=Asia/Yekaterinburg:20260907T133000
+SUMMARY:Здания и сооружения (Аудиторные зан
+ ятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 3 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:03ba60197e36f00b2bb8c9e
+ f6eb86a92\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:0af030c362ae122a716d23ea4b9b9ce1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T083000
+DTEND;TZID=Asia/Yekaterinburg:20260907T100000
+SUMMARY:Здания и сооружения (Аудиторные зан
+ ятия)
+LOCATION:ауд. 310\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 1 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:0af030c362ae122a716d23e
+ a4b9b9ce1\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:70d3611c5d76186df4bd77581471b7b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T101000
+DTEND;TZID=Asia/Yekaterinburg:20260907T114000
+SUMMARY:Здания и сооружения (Аудиторные зан
+ ятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 2 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:70d3611c5d76186df4bd775
+ 81471b7b7\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-00259061
+ e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:aa61d84e5ddeeebeb4873ffd298edb92@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260907T135000
+DTEND;TZID=Asia/Yekaterinburg:20260907T152000
+SUMMARY:Основы экономики организации\, мене
+ джмента и маркетинга (Аудиторные заняти
+ я)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: З-344\, З-344А\nПара: 4 пара\nДополнитель
+ но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:aa61d84e5ddeeebeb48
+ 73ffd298edb92\nURALCAMPUS_SOURCE:preco:group:f78adfef-0303-11ec-8be0-0025
+ 9061e18b
+END:VEVENT
+END:VCALENDAR
