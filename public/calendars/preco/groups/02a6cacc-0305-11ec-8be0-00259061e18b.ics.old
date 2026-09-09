@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-449
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:188d1e5af431330702c51f6bbd21f39f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 4 пара\nДополнительно: В
+ ладимирова К.П.\nURALCAMPUS_SYNC_ID:188d1e5af431330702c51f6bb
+ d21f39f\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e1
+ 8b
+END:VEVENT
+BEGIN:VEVENT
+UID:7db3c1ec45135a25db93a28a727203d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
+DTEND;TZID=Asia/Yekaterinburg:20260908T170000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 5 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:7db3c1ec45135a25db93a28a72720
+ 3d8\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:9ea413384440cd54641af4c0f7328f90@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 6 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:9ea413384440cd54641af4c0f7328
+ f90\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+END:VCALENDAR

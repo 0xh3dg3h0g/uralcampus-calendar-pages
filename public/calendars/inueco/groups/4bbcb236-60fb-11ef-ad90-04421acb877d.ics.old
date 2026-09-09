@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: СЗ-301/04а
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:057d65799b90b4fed2d93ebe5f9699ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Сметное дело в строительстве (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/04а\nПара: 8 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:057d65799b90b4fed2d93
+ ebe5f9699ca\nURALCAMPUS_SOURCE:inueco:group:4bbcb236-60fb-11ef-ad90-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd014ae9258f10495e3bc54fdde734c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Сметное дело в строительстве (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/04а\nПара: 6 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:1fd014ae9258f10495e3b
+ c54fdde734c\nURALCAMPUS_SOURCE:inueco:group:4bbcb236-60fb-11ef-ad90-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d389cb27cb3575a70d6242b74fa9a69b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Сметное дело в строительстве (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/04а\nПара: 7 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:d389cb27cb3575a70d624
+ 2b74fa9a69b\nURALCAMPUS_SOURCE:inueco:group:4bbcb236-60fb-11ef-ad90-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

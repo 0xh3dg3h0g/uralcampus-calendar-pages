@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЗу-401/07
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0abb949a8fb8736ed5a0e8e74a941139@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Контроль и ревизия (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/07\nПара: 6 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:0abb949a8fb873
+ 6ed5a0e8e74a941139\nURALCAMPUS_SOURCE:inueco:group:a69991f8-1878-11f1-ad9
+ 8-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2b036380e55ffa657c8d0ed8141f2abd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Контроль и ревизия (Практика)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/07\nПара: 8 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:2b036380e55ffa
+ 657c8d0ed8141f2abd\nURALCAMPUS_SOURCE:inueco:group:a69991f8-1878-11f1-ad9
+ 8-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc994fa938ce78454ffc0759ed90f7d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Контроль и ревизия (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/07\nПара: 7 пара\nДополнит
+ ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:6fc994fa938ce7
+ 8454ffc0759ed90f7d\nURALCAMPUS_SOURCE:inueco:group:a69991f8-1878-11f1-ad9
+ 8-04421acb877d
+END:VEVENT
+END:VCALENDAR

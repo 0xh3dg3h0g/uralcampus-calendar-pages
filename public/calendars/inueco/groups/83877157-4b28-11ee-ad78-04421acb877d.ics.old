@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЗ-201/13
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2e943101e53afb13c67b8845b66bd4dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Статистика (теория статистики\, соци
+ ально-экономическая статистика) (Лекция
+ )
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 7 пара\nДополните
+ льно: Сергеичева И. А.\nURALCAMPUS_SYNC_ID:2e943101e53afb
+ 13c67b8845b66bd4dc\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad7
+ 8-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e09c74bd0c4a9ac98439cd25230783@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Статистика (теория статистики\, соци
+ ально-экономическая статистика) (Практи
+ ка)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 8 пара\nДополните
+ льно: Сергеичева И. А.\nURALCAMPUS_SYNC_ID:a4e09c74bd0c4a
+ 9ac98439cd25230783\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad7
+ 8-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d37de96ccd758be4ea1d06aa34fd795d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Статистика (теория статистики\, соци
+ ально-экономическая статистика) (Лекция
+ )
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 6 пара\nДополните
+ льно: Сергеичева И. А.\nURALCAMPUS_SYNC_ID:d37de96ccd758b
+ e4ea1d06aa34fd795d\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad7
+ 8-04421acb877d
+END:VEVENT
+END:VCALENDAR

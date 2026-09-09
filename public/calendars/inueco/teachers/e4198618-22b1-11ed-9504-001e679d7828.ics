@@ -18,30 +18,4 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:c04fe88f821959a2c68252b81f07a0cf@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
-DTEND;TZID=Asia/Yekaterinburg:20260908T114000
-SUMMARY:Химия (Лекция)
-LOCATION:ауд. 208\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Батовская Екатерина К
- онстантиновна\nПара: 2 пара\nДополнитель
- но: З-113\nURALCAMPUS_SYNC_ID:c04fe88f821959a2c68252b81f07a0cf\nURALCA
- MPUS_SOURCE:inueco:teacher:e4198618-22b1-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:811f1f04a795b6b005ebec8d04f49955@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
-DTEND;TZID=Asia/Yekaterinburg:20260908T133000
-SUMMARY:Химия (Лекция)
-LOCATION:ауд. 108\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Батовская Екатерина К
- онстантиновна\nПара: 3 пара\nДополнитель
- но: С-216\nURALCAMPUS_SYNC_ID:811f1f04a795b6b005ebec8d04f49955\nURALCA
- MPUS_SOURCE:inueco:teacher:e4198618-22b1-11ed-9504-001e679d7828
-END:VEVENT
 END:VCALENDAR

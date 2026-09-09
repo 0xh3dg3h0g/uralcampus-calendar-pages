@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Варлакова Н
+ аталья Ивановна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:22cf4a379c586aec185d0d5098535be0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
+DTEND;TZID=Asia/Yekaterinburg:20260908T152000
+SUMMARY:Документационное обеспечение управ
+ ления (Аудиторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Варлакова Наталья Ивановн
+ а\nПара: 4 пара\nДополнительно: ОЛ-250к\nURALCAM
+ PUS_SYNC_ID:22cf4a379c586aec185d0d5098535be0\nURALCAMPUS_SOURCE:preco:tea
+ cher:f91a65b8-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR

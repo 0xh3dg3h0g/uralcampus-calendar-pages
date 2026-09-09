@@ -19,58 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9fd7559849bd4777814ed2e2e5f596f2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
-DTEND;TZID=Asia/Yekaterinburg:20260908T100000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 212\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Коростина Елизавета Алекс
- андровна\nПара: 1 пара\nДополнительно: 149к
- \nURALCAMPUS_SYNC_ID:9fd7559849bd4777814ed2e2e5f596f2\nURALCAMPUS_SOURCE:
- preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:07332c30e4b1a6d73b73732f513f6c90@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
-DTEND;TZID=Asia/Yekaterinburg:20260908T114000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 322\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Коростина Елизавета Алекс
- андровна\nПара: 2 пара\nДополнительно: 143к
- \nURALCAMPUS_SYNC_ID:07332c30e4b1a6d73b73732f513f6c90\nURALCAMPUS_SOURCE:
- preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:3ee87b3431a089041b4d20acce8843f6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
-DTEND;TZID=Asia/Yekaterinburg:20260908T133000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 312\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Коростина Елизавета Алекс
- андровна\nПара: 3 пара\nДополнительно: 141к
- \nURALCAMPUS_SYNC_ID:3ee87b3431a089041b4d20acce8843f6\nURALCAMPUS_SOURCE:
- preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9e6a4416b6094756241ac435253cbce6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
-DTEND;TZID=Asia/Yekaterinburg:20260908T152000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 419\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Коростина Елизавета Алекс
- андровна\nПара: 4 пара\nДополнительно: 142к
- \nURALCAMPUS_SYNC_ID:9e6a4416b6094756241ac435253cbce6\nURALCAMPUS_SOURCE:
- preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:0cdda5adbc83e049a4ea5960e1e1ef48@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
@@ -293,6 +241,45 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:f1f3d61d9cfcd2282711c698e22b28ce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
+DTEND;TZID=Asia/Yekaterinburg:20260916T133000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 139к
+ \nURALCAMPUS_SYNC_ID:f1f3d61d9cfcd2282711c698e22b28ce\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:80ee2581d7d883679b3f0b7829ed677a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 137к
+ \nURALCAMPUS_SYNC_ID:80ee2581d7d883679b3f0b7829ed677a\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:803a78a191969b13ad200342561d1998@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
+DTEND;TZID=Asia/Yekaterinburg:20260916T170000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 5 пара\nДополнительно: 138к
+ \nURALCAMPUS_SYNC_ID:803a78a191969b13ad200342561d1998\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:6b7a9cbb97dce52b60a0dcba6781d1e5@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
@@ -342,6 +329,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Коростина Елизавета Алекс
  андровна\nПара: 5 пара\nДополнительно: 157к
  \nURALCAMPUS_SYNC_ID:ba42ad839d05e80bee111e1df1451fb1\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7523aa3864711897dc4aaec99a16ee07@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T101000
+DTEND;TZID=Asia/Yekaterinburg:20260918T114000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 2 пара\nДополнительно: 134к
+ \nURALCAMPUS_SYNC_ID:7523aa3864711897dc4aaec99a16ee07\nURALCAMPUS_SOURCE:
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -462,6 +463,45 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:9175f1809cbd142d46a2f34f189e5950@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 139к
+ \nURALCAMPUS_SYNC_ID:9175f1809cbd142d46a2f34f189e5950\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8cb89023fe4ecece3789e210b80ef2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
+DTEND;TZID=Asia/Yekaterinburg:20260923T152000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 137к
+ \nURALCAMPUS_SYNC_ID:8e8cb89023fe4ecece3789e210b80ef2\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9ac3d4984fb304956713f0287f5865b8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
+DTEND;TZID=Asia/Yekaterinburg:20260923T170000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 5 пара\nДополнительно: 138к
+ \nURALCAMPUS_SYNC_ID:9ac3d4984fb304956713f0287f5865b8\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:907f9e52aaccb919495b1c098ea770d1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
@@ -511,6 +551,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Коростина Елизавета Алекс
  андровна\nПара: 5 пара\nДополнительно: 157к
  \nURALCAMPUS_SYNC_ID:6df627175b3379f80d0601eccbfde1ef\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d0f227183c362834003caf2ba4c26694@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
+DTEND;TZID=Asia/Yekaterinburg:20260925T114000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 2 пара\nДополнительно: 134к
+ \nURALCAMPUS_SYNC_ID:d0f227183c362834003caf2ba4c26694\nURALCAMPUS_SOURCE:
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

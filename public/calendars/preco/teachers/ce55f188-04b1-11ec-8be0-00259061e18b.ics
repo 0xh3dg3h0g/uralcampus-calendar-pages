@@ -19,84 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1d751bc1970ef61379d36ca04480f6fb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
-DTEND;TZID=Asia/Yekaterinburg:20260908T100000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Евгений Анатольев
- ич\nПара: 1 пара\nДополнительно: 134к\nURALCAMPUS
- _SYNC_ID:1d751bc1970ef61379d36ca04480f6fb\nURALCAMPUS_SOURCE:preco:teache
- r:ce55f188-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:954f6c392822747f223a4d103efaaf74@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
-DTEND;TZID=Asia/Yekaterinburg:20260908T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 411\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Евгений Анатольев
- ич\nПара: 2 пара\nДополнительно: 130к\nURALCAMPUS
- _SYNC_ID:954f6c392822747f223a4d103efaaf74\nURALCAMPUS_SOURCE:preco:teache
- r:ce55f188-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:04855f94776b068bbef23ef61f7376ba@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
-DTEND;TZID=Asia/Yekaterinburg:20260908T133000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Евгений Анатольев
- ич\nПара: 3 пара\nДополнительно: 132к\nURALCAMPUS
- _SYNC_ID:04855f94776b068bbef23ef61f7376ba\nURALCAMPUS_SOURCE:preco:teache
- r:ce55f188-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:db6f5f4876d2ea3671a879fbeb4f7085@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
-DTEND;TZID=Asia/Yekaterinburg:20260908T152000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Евгений Анатольев
- ич\nПара: 4 пара\nДополнительно: 138к\nURALCAMPUS
- _SYNC_ID:db6f5f4876d2ea3671a879fbeb4f7085\nURALCAMPUS_SOURCE:preco:teache
- r:ce55f188-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:6ace42a8e26c7e87e58bc66e436e67ec@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
-DTEND;TZID=Asia/Yekaterinburg:20260908T170000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 411\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Евгений Анатольев
- ич\nПара: 5 пара\nДополнительно: Ю-238к\, Ю-238
- Ак\nURALCAMPUS_SYNC_ID:6ace42a8e26c7e87e58bc66e436e67ec\nURALCAMPUS_SOU
- RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:fd8d9a96cf515d5430f2b54217b256b1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
-DTEND;TZID=Asia/Yekaterinburg:20260908T182000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Евгений Анатольев
- ич\nПара: 6 пара\nДополнительно: 139к\nURALCAMPUS
- _SYNC_ID:fd8d9a96cf515d5430f2b54217b256b1\nURALCAMPUS_SOURCE:preco:teache
- r:ce55f188-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:84c3e9f41ab0f690430b097e61041c04@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
@@ -331,6 +253,163 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:ce55f188-04b1-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
+UID:c5772df1d271a2cb60f3153f514cb2db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T083000
+DTEND;TZID=Asia/Yekaterinburg:20260914T100000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 1 пара\nДополнительно: Ю-239к\, Ю-239
+ Ак\nURALCAMPUS_SYNC_ID:c5772df1d271a2cb60f3153f514cb2db\nURALCAMPUS_SOU
+ RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:26effc00a09b2acc452f16ea0272d54c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
+DTEND;TZID=Asia/Yekaterinburg:20260914T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 2 пара\nДополнительно: 136к\nURALCAMPUS
+ _SYNC_ID:26effc00a09b2acc452f16ea0272d54c\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:21c9ba65860af0c3eea26695a66b7a2b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T120000
+DTEND;TZID=Asia/Yekaterinburg:20260914T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 130к\nURALCAMPUS
+ _SYNC_ID:21c9ba65860af0c3eea26695a66b7a2b\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:97cd3fc21ac4bf8aea2ee530c269a04d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T135000
+DTEND;TZID=Asia/Yekaterinburg:20260914T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: Ф-232к\, Ф-232
+ Ак\nURALCAMPUS_SYNC_ID:97cd3fc21ac4bf8aea2ee530c269a04d\nURALCAMPUS_SOU
+ RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bc34ea4fc19f114e2d4b71ab090bc26e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T153000
+DTEND;TZID=Asia/Yekaterinburg:20260914T170000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: 131к\nURALCAMPUS
+ _SYNC_ID:bc34ea4fc19f114e2d4b71ab090bc26e\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a20c2d2dcc4ecca0a60b586c9f78df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T171000
+DTEND;TZID=Asia/Yekaterinburg:20260914T182000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 130к\nURALCAMPUS
+ _SYNC_ID:d1a20c2d2dcc4ecca0a60b586c9f78df\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:67e3775765865d3e9d9745819b84f1b4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
+DTEND;TZID=Asia/Yekaterinburg:20260915T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 1 пара\nДополнительно: 134к\nURALCAMPUS
+ _SYNC_ID:67e3775765865d3e9d9745819b84f1b4\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:7b2724a62b0998083113e52c9acfcc10@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T101000
+DTEND;TZID=Asia/Yekaterinburg:20260915T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 2 пара\nДополнительно: 134к\nURALCAMPUS
+ _SYNC_ID:7b2724a62b0998083113e52c9acfcc10\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:abd6c9ca3280668fd32d310e4b4aa058@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
+DTEND;TZID=Asia/Yekaterinburg:20260915T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 131к\nURALCAMPUS
+ _SYNC_ID:abd6c9ca3280668fd32d310e4b4aa058\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:8d7eab005723bc79468fc514e69d3f83@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
+DTEND;TZID=Asia/Yekaterinburg:20260915T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: 138к\nURALCAMPUS
+ _SYNC_ID:8d7eab005723bc79468fc514e69d3f83\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ae39da8c43b516e93352f141d3e7a5df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T153000
+DTEND;TZID=Asia/Yekaterinburg:20260915T170000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: Ю-238к\, Ю-238
+ Ак\nURALCAMPUS_SYNC_ID:ae39da8c43b516e93352f141d3e7a5df\nURALCAMPUS_SOU
+ RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:cf75760694c37bd5f2809a565c3470a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T171000
+DTEND;TZID=Asia/Yekaterinburg:20260915T182000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 139к\nURALCAMPUS
+ _SYNC_ID:cf75760694c37bd5f2809a565c3470a6\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:27c8921af68e9a743d428b3b5d6336a7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T083000
@@ -357,6 +436,358 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  _SOURCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
+UID:22871a1023aa66f54c7e9f014a993d44@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
+DTEND;TZID=Asia/Yekaterinburg:20260916T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 135к\nURALCAMPUS
+ _SYNC_ID:22871a1023aa66f54c7e9f014a993d44\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:9a1f5661484f9315fa065513324c616b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: 131к\nURALCAMPUS
+ _SYNC_ID:9a1f5661484f9315fa065513324c616b\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:87bf3216668a2a650227e4fb47580ff5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
+DTEND;TZID=Asia/Yekaterinburg:20260916T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: 137к\nURALCAMPUS
+ _SYNC_ID:87bf3216668a2a650227e4fb47580ff5\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:3013e8b111e13f2dfad8575852878c1c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T171000
+DTEND;TZID=Asia/Yekaterinburg:20260916T182000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 130к\nURALCAMPUS
+ _SYNC_ID:3013e8b111e13f2dfad8575852878c1c\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:997da59b312ea59291af803a772c389f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 1 пара\nДополнительно: 137к\nURALCAMPUS
+ _SYNC_ID:997da59b312ea59291af803a772c389f\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b962aa0973911693f7492742370d36@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 2 пара\nДополнительно: Э-230к\, Э-230
+ Ак\nURALCAMPUS_SYNC_ID:a5b962aa0973911693f7492742370d36\nURALCAMPUS_SOU
+ RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:262c9d6506a9b123a34e4fee267697d3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 138к\nURALCAMPUS
+ _SYNC_ID:262c9d6506a9b123a34e4fee267697d3\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:3f09203b162b365e0559c4e460180b5c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
+DTEND;TZID=Asia/Yekaterinburg:20260917T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: 131к\nURALCAMPUS
+ _SYNC_ID:3f09203b162b365e0559c4e460180b5c\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1b395cfb8fe816589019ef8b525d82@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T153000
+DTEND;TZID=Asia/Yekaterinburg:20260917T170000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: 135к\nURALCAMPUS
+ _SYNC_ID:ee1b395cfb8fe816589019ef8b525d82\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:f6dddbe8efb1d0e766934b1e2c29e65f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T171000
+DTEND;TZID=Asia/Yekaterinburg:20260917T182000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 132к\nURALCAMPUS
+ _SYNC_ID:f6dddbe8efb1d0e766934b1e2c29e65f\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:30e25eb1c3b42053c5fc033c73387618@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
+DTEND;TZID=Asia/Yekaterinburg:20260918T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 1 пара\nДополнительно: 135к\nURALCAMPUS
+ _SYNC_ID:30e25eb1c3b42053c5fc033c73387618\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a972db2d82a113139a7ed363f3307613@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T101000
+DTEND;TZID=Asia/Yekaterinburg:20260918T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 2 пара\nДополнительно: 132к\nURALCAMPUS
+ _SYNC_ID:a972db2d82a113139a7ed363f3307613\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4f83880a5e750fc34eb7d4313ea4d7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T120000
+DTEND;TZID=Asia/Yekaterinburg:20260918T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 138к\nURALCAMPUS
+ _SYNC_ID:fb4f83880a5e750fc34eb7d4313ea4d7\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a751d82492a9c76b4af8ee51dc839d86@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T135000
+DTEND;TZID=Asia/Yekaterinburg:20260918T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: 136к\nURALCAMPUS
+ _SYNC_ID:a751d82492a9c76b4af8ee51dc839d86\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:695b8282ce849334a39369fdd04625e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T153000
+DTEND;TZID=Asia/Yekaterinburg:20260918T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: 137к\nURALCAMPUS
+ _SYNC_ID:695b8282ce849334a39369fdd04625e8\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ce090c6b154ed23f48f813ab08443d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T171000
+DTEND;TZID=Asia/Yekaterinburg:20260918T182000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 136к\nURALCAMPUS
+ _SYNC_ID:c1ce090c6b154ed23f48f813ab08443d\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc6e83b02d6312962e3cf5e24a761f3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
+DTEND;TZID=Asia/Yekaterinburg:20260921T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 2 пара\nДополнительно: 136к\nURALCAMPUS
+ _SYNC_ID:dfc6e83b02d6312962e3cf5e24a761f3\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:f9dd7e7b48af57836e2b695fecf108ec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T120000
+DTEND;TZID=Asia/Yekaterinburg:20260921T133000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: Ю-239к\, Ю-239
+ Ак\nURALCAMPUS_SYNC_ID:f9dd7e7b48af57836e2b695fecf108ec\nURALCAMPUS_SOU
+ RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab202a6e17b5984879303e65025b6f1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T135000
+DTEND;TZID=Asia/Yekaterinburg:20260921T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: Ф-232к\, Ф-232
+ Ак\nURALCAMPUS_SYNC_ID:9ab202a6e17b5984879303e65025b6f1\nURALCAMPUS_SOU
+ RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf266d0d85af8f379ce55d154ed796e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T153000
+DTEND;TZID=Asia/Yekaterinburg:20260921T170000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: 131к\nURALCAMPUS
+ _SYNC_ID:eaf266d0d85af8f379ce55d154ed796e\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:949456fadaf9b83c09eff2407b6c86a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T171000
+DTEND;TZID=Asia/Yekaterinburg:20260921T182000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 130к\nURALCAMPUS
+ _SYNC_ID:949456fadaf9b83c09eff2407b6c86a3\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:81bfa8edc7cde36bbc7ba0be7de30ff4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 1 пара\nДополнительно: 134к\nURALCAMPUS
+ _SYNC_ID:81bfa8edc7cde36bbc7ba0be7de30ff4\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:09b0eb23a71a6c888f8b335abfa0e8d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 2 пара\nДополнительно: 130к\nURALCAMPUS
+ _SYNC_ID:09b0eb23a71a6c888f8b335abfa0e8d4\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:cc97d74da15103215e4b1b84503dd19e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 132к\nURALCAMPUS
+ _SYNC_ID:cc97d74da15103215e4b1b84503dd19e\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ffdaea4c994bf04b667395b5154af02c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T135000
+DTEND;TZID=Asia/Yekaterinburg:20260922T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: 138к\nURALCAMPUS
+ _SYNC_ID:ffdaea4c994bf04b667395b5154af02c\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bb0266dfa4cd7b85f703bd17024a5e0f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T153000
+DTEND;TZID=Asia/Yekaterinburg:20260922T170000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: Ю-238к\, Ю-238
+ Ак\nURALCAMPUS_SYNC_ID:bb0266dfa4cd7b85f703bd17024a5e0f\nURALCAMPUS_SOU
+ RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:87f9004ba57b45d6423998c49c783c5a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T171000
+DTEND;TZID=Asia/Yekaterinburg:20260922T182000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 139к\nURALCAMPUS
+ _SYNC_ID:87f9004ba57b45d6423998c49c783c5a\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:fc0b96a852cd8daad6110336bbc7fe2b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
@@ -381,5 +812,213 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ич\nПара: 2 пара\nДополнительно: ПД-249к\, ПД
  -249Ак\nURALCAMPUS_SYNC_ID:6eb1709f82a4dee2c51737e573e35c74\nURALCAMPUS
  _SOURCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:34cf8628b1a97807e93f42d7e81c553d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 135к\nURALCAMPUS
+ _SYNC_ID:34cf8628b1a97807e93f42d7e81c553d\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:daf9d3f8c222b9467b68528c15424d76@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
+DTEND;TZID=Asia/Yekaterinburg:20260923T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: 131к\nURALCAMPUS
+ _SYNC_ID:daf9d3f8c222b9467b68528c15424d76\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:2c06231677c6634039ec57a6998d6fc2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
+DTEND;TZID=Asia/Yekaterinburg:20260923T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: 137к\nURALCAMPUS
+ _SYNC_ID:2c06231677c6634039ec57a6998d6fc2\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:8973df6550ac006bac4f75a58ff549da@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
+DTEND;TZID=Asia/Yekaterinburg:20260923T182000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 138к\nURALCAMPUS
+ _SYNC_ID:8973df6550ac006bac4f75a58ff549da\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:e1848ac96030ab517e139c48cfe1b66c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
+DTEND;TZID=Asia/Yekaterinburg:20260924T100000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 1 пара\nДополнительно: 137к\nURALCAMPUS
+ _SYNC_ID:e1848ac96030ab517e139c48cfe1b66c\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c31a7c3cec804c622f3de2332286f760@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
+DTEND;TZID=Asia/Yekaterinburg:20260924T114000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 2 пара\nДополнительно: Э-230к\, Э-230
+ Ак\nURALCAMPUS_SYNC_ID:c31a7c3cec804c622f3de2332286f760\nURALCAMPUS_SOU
+ RCE:preco:teacher:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:55254fd869364cfae286af70b3e0abc7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
+DTEND;TZID=Asia/Yekaterinburg:20260924T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 139к\nURALCAMPUS
+ _SYNC_ID:55254fd869364cfae286af70b3e0abc7\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:02a2e96addfc622a8d3072494c197577@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
+DTEND;TZID=Asia/Yekaterinburg:20260924T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: 130к\nURALCAMPUS
+ _SYNC_ID:02a2e96addfc622a8d3072494c197577\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc96c4e39611993d66991d1df1d5b57@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T153000
+DTEND;TZID=Asia/Yekaterinburg:20260924T170000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: 135к\nURALCAMPUS
+ _SYNC_ID:6fc96c4e39611993d66991d1df1d5b57\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb0e67ad96aa47f1c5e4f7b67828534@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T171000
+DTEND;TZID=Asia/Yekaterinburg:20260924T182000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 132к\nURALCAMPUS
+ _SYNC_ID:dbb0e67ad96aa47f1c5e4f7b67828534\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:487b4e5cf5f7b12a634c3f644c1214da@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
+DTEND;TZID=Asia/Yekaterinburg:20260925T100000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 1 пара\nДополнительно: 135к\nURALCAMPUS
+ _SYNC_ID:487b4e5cf5f7b12a634c3f644c1214da\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:78595ded5e03c9c5cb962ce3dda96a15@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
+DTEND;TZID=Asia/Yekaterinburg:20260925T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 2 пара\nДополнительно: 132к\nURALCAMPUS
+ _SYNC_ID:78595ded5e03c9c5cb962ce3dda96a15\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:6b70ec3a6fd2d9197b79f74d3291cba3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T120000
+DTEND;TZID=Asia/Yekaterinburg:20260925T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 3 пара\nДополнительно: 138к\nURALCAMPUS
+ _SYNC_ID:6b70ec3a6fd2d9197b79f74d3291cba3\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a2773f1dc0cf3adc94e4a31e53524826@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T135000
+DTEND;TZID=Asia/Yekaterinburg:20260925T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 4 пара\nДополнительно: 136к\nURALCAMPUS
+ _SYNC_ID:a2773f1dc0cf3adc94e4a31e53524826\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:90c95636befaf6b22c335a6fe5fa3298@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T153000
+DTEND;TZID=Asia/Yekaterinburg:20260925T170000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 5 пара\nДополнительно: 137к\nURALCAMPUS
+ _SYNC_ID:90c95636befaf6b22c335a6fe5fa3298\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f889c08f1ded3a891e4e629bf7c10c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T171000
+DTEND;TZID=Asia/Yekaterinburg:20260925T182000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Евгений Анатольев
+ ич\nПара: 6 пара\nДополнительно: 136к\nURALCAMPUS
+ _SYNC_ID:c0f889c08f1ded3a891e4e629bf7c10c\nURALCAMPUS_SOURCE:preco:teache
+ r:ce55f188-04b1-11ec-8be0-00259061e18b
 END:VEVENT
 END:VCALENDAR

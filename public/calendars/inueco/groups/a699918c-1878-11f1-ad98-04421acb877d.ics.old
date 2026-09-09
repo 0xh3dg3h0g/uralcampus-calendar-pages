@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: МЗ-201/08
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:95fd3c6f0cbab3e68ab63b9f04571f30@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-201/08\nПара: 7 пара\nДополните
+ льно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:95fd3c6f0cbab3e6
+ 8ab63b9f04571f30\nURALCAMPUS_SOURCE:inueco:group:a699918c-1878-11f1-ad98-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd1cb5119c890cb6c7eecfc14e021cf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-201/08\nПара: 6 пара\nДополните
+ льно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:9dd1cb5119c890cb
+ 6c7eecfc14e021cf\nURALCAMPUS_SOURCE:inueco:group:a699918c-1878-11f1-ad98-
+ 04421acb877d
+END:VEVENT
+END:VCALENDAR

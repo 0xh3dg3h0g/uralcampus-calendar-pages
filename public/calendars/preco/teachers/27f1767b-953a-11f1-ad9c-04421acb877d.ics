@@ -19,84 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b90686d8f4db45c34983a7f62c422219@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
-DTEND;TZID=Asia/Yekaterinburg:20260908T100000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 320\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Воронцов Михаил Викторови
- ч\nПара: 1 пара\nДополнительно: 146к\nURALCAMPUS_S
- YNC_ID:b90686d8f4db45c34983a7f62c422219\nURALCAMPUS_SOURCE:preco:teacher:
- 27f1767b-953a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:fcb59ed6a631ecfb6b9a07767a0717bd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
-DTEND;TZID=Asia/Yekaterinburg:20260908T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 312\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Воронцов Михаил Викторови
- ч\nПара: 2 пара\nДополнительно: 141к\nURALCAMPUS_S
- YNC_ID:fcb59ed6a631ecfb6b9a07767a0717bd\nURALCAMPUS_SOURCE:preco:teacher:
- 27f1767b-953a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0bf745e7628d2a730484a619c4290417@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
-DTEND;TZID=Asia/Yekaterinburg:20260908T133000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 322\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Воронцов Михаил Викторови
- ч\nПара: 3 пара\nДополнительно: 143к\nURALCAMPUS_S
- YNC_ID:0bf745e7628d2a730484a619c4290417\nURALCAMPUS_SOURCE:preco:teacher:
- 27f1767b-953a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:76c65633a34baa97c21f229bbf1e01b2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
-DTEND;TZID=Asia/Yekaterinburg:20260908T152000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 320\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Воронцов Михаил Викторови
- ч\nПара: 4 пара\nДополнительно: 145к\nURALCAMPUS_S
- YNC_ID:76c65633a34baa97c21f229bbf1e01b2\nURALCAMPUS_SOURCE:preco:teacher:
- 27f1767b-953a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0122f6498428b43f6b80e8f992867a87@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T153000
-DTEND;TZID=Asia/Yekaterinburg:20260908T170000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 419\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Воронцов Михаил Викторови
- ч\nПара: 5 пара\nДополнительно: 142к\nURALCAMPUS_S
- YNC_ID:0122f6498428b43f6b80e8f992867a87\nURALCAMPUS_SOURCE:preco:teacher:
- 27f1767b-953a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:44b8b6529ea41411234f684492e77f07@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
-DTEND;TZID=Asia/Yekaterinburg:20260908T182000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 313\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Воронцов Михаил Викторови
- ч\nПара: 6 пара\nДополнительно: ОЛ-250к\nURALCAM
- PUS_SYNC_ID:44b8b6529ea41411234f684492e77f07\nURALCAMPUS_SOURCE:preco:tea
- cher:27f1767b-953a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:962200140bcdd585857d3b7ac2a043c4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
@@ -266,6 +188,59 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  OURCE:preco:teacher:27f1767b-953a-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:0d4b1f803725c33c53d03e748a849ca3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
+DTEND;TZID=Asia/Yekaterinburg:20260914T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 2 пара\nДополнительно: 134к\nURALCAMPUS_S
+ YNC_ID:0d4b1f803725c33c53d03e748a849ca3\nURALCAMPUS_SOURCE:preco:teacher:
+ 27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:046254380fc4a52a6ed6917b6290a47b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T120000
+DTEND;TZID=Asia/Yekaterinburg:20260914T133000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 3 пара\nДополнительно: П-240к\nURALCAMPU
+ S_SYNC_ID:046254380fc4a52a6ed6917b6290a47b\nURALCAMPUS_SOURCE:preco:teach
+ er:27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fb1fcf1d081588dd3a3ab07aa5f0e11c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T135000
+DTEND;TZID=Asia/Yekaterinburg:20260914T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 4 пара\nДополнительно: П-240к\nURALCAMPU
+ S_SYNC_ID:fb1fcf1d081588dd3a3ab07aa5f0e11c\nURALCAMPUS_SOURCE:preco:teach
+ er:27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7f51b0aeda6f22445f0dc02ea1721d43@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T153000
+DTEND;TZID=Asia/Yekaterinburg:20260914T170000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 5 пара\nДополнительно: СД-253к\, СД-2
+ 53Ак\nURALCAMPUS_SYNC_ID:7f51b0aeda6f22445f0dc02ea1721d43\nURALCAMPUS_S
+ OURCE:preco:teacher:27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:1099c4102aec564a301c631c87592c3f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
@@ -329,6 +304,32 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ч\nПара: 5 пара\nДополнительно: 142к\nURALCAMPUS_S
  YNC_ID:fe7710a2c6ac8eb6aad4b4e0310dd62f\nURALCAMPUS_SOURCE:preco:teacher:
  27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:48a741ed96baa8bdb9806aa6299186c6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T171000
+DTEND;TZID=Asia/Yekaterinburg:20260915T182000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 6 пара\nДополнительно: ОЛ-250к\nURALCAM
+ PUS_SYNC_ID:48a741ed96baa8bdb9806aa6299186c6\nURALCAMPUS_SOURCE:preco:tea
+ cher:27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1d9457bdddac49361afed7e15887f0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
+DTEND;TZID=Asia/Yekaterinburg:20260916T114000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 2 пара\nДополнительно: СД-252к\nURALCAM
+ PUS_SYNC_ID:2b1d9457bdddac49361afed7e15887f0\nURALCAMPUS_SOURCE:preco:tea
+ cher:27f1767b-953a-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:5e7be4d79bf1c01e8dbe664d231b4475@uralcampus-calendar-pages
@@ -487,6 +488,59 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  OURCE:preco:teacher:27f1767b-953a-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:a0851a44454ed3d792405e51952c379b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
+DTEND;TZID=Asia/Yekaterinburg:20260921T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 2 пара\nДополнительно: 134к\nURALCAMPUS_S
+ YNC_ID:a0851a44454ed3d792405e51952c379b\nURALCAMPUS_SOURCE:preco:teacher:
+ 27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:74928c8c4ea358b5057cc196670e2c5f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T120000
+DTEND;TZID=Asia/Yekaterinburg:20260921T133000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 3 пара\nДополнительно: П-240к\nURALCAMPU
+ S_SYNC_ID:74928c8c4ea358b5057cc196670e2c5f\nURALCAMPUS_SOURCE:preco:teach
+ er:27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a536e1134e46d9d6544c04a5af309646@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T135000
+DTEND;TZID=Asia/Yekaterinburg:20260921T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 4 пара\nДополнительно: П-240к\nURALCAMPU
+ S_SYNC_ID:a536e1134e46d9d6544c04a5af309646\nURALCAMPUS_SOURCE:preco:teach
+ er:27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c9870293fa08bfd0b1354da7cc813968@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T153000
+DTEND;TZID=Asia/Yekaterinburg:20260921T170000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 5 пара\nДополнительно: СД-253к\, СД-2
+ 53Ак\nURALCAMPUS_SYNC_ID:c9870293fa08bfd0b1354da7cc813968\nURALCAMPUS_S
+ OURCE:preco:teacher:27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:dec9c96c8a18c10a7762ce9f49a3d3d3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
@@ -550,6 +604,32 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ч\nПара: 5 пара\nДополнительно: 142к\nURALCAMPUS_S
  YNC_ID:ea210c597924047043192e83136d5373\nURALCAMPUS_SOURCE:preco:teacher:
  27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2bcc5f7ae5a55c196e615577165a6fd4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T171000
+DTEND;TZID=Asia/Yekaterinburg:20260922T182000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 6 пара\nДополнительно: ОЛ-250к\nURALCAM
+ PUS_SYNC_ID:2bcc5f7ae5a55c196e615577165a6fd4\nURALCAMPUS_SOURCE:preco:tea
+ cher:27f1767b-953a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1aac87405a187c51a062d049ba9ecfda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
+DTEND;TZID=Asia/Yekaterinburg:20260923T114000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Воронцов Михаил Викторови
+ ч\nПара: 2 пара\nДополнительно: СД-252к\nURALCAM
+ PUS_SYNC_ID:1aac87405a187c51a062d049ba9ecfda\nURALCAMPUS_SOURCE:preco:tea
+ cher:27f1767b-953a-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a3bd96dc6563519f312f25a6706b01@uralcampus-calendar-pages

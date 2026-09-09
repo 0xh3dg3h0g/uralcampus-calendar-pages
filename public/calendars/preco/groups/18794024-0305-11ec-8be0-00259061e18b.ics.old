@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Д-442\, Д-442А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:af575d3e2392cf22e44db394aab8d74a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-442\, Д-442А\nПара: 2 пара\nДополнитель
+ но: Епифанов Д.А.\nURALCAMPUS_SYNC_ID:af575d3e2392cf22e44db39
+ 4aab8d74a\nURALCAMPUS_SOURCE:preco:group:18794024-0305-11ec-8be0-00259061
+ e18b
+END:VEVENT
+END:VCALENDAR

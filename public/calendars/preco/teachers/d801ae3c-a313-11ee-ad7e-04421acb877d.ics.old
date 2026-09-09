@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Иванов Вяче
+ слав Сергеевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1209a0e43fd3d4a9e357e85ee39b747b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T101000
+DTEND;TZID=Asia/Yekaterinburg:20260908T114000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иванов Вячеслав Сергеевич\
+ nПара: 2 пара\nДополнительно: СД-352к\nURALCAMPUS
+ _SYNC_ID:1209a0e43fd3d4a9e357e85ee39b747b\nURALCAMPUS_SOURCE:preco:teache
+ r:d801ae3c-a313-11ee-ad7e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:12c854a87bca2921dcb8e938a6dfcf99@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иванов Вячеслав Сергеевич\
+ nПара: 3 пара\nДополнительно: СД-352к\nURALCAMPUS
+ _SYNC_ID:12c854a87bca2921dcb8e938a6dfcf99\nURALCAMPUS_SOURCE:preco:teache
+ r:d801ae3c-a313-11ee-ad7e-04421acb877d
+END:VEVENT
+END:VCALENDAR

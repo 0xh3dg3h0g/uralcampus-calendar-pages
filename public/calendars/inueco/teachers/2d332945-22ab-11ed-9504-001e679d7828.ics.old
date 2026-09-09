@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Алабугин Ал
+ ександр Николаевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7375ff7de5eb8218a63625d71bd26b06@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 7 пара\nДополнительно: СЗ
+ Ду-301\, СЗу-301/04а\, СЗу-301/05\, СЗу-301/06\, СЗу-301/0
+ 7\, СЗу-301/07б\, СЗу-301/13\nURALCAMPUS_SYNC_ID:7375ff7de5eb8218a
+ 63625d71bd26b06\nURALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504
+ -001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:de20572be34d69380f72c5c59720725c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 6 пара\nДополнительно: СЗ
+ Ду-301\, СЗу-301/04а\, СЗу-301/05\, СЗу-301/06\, СЗу-301/0
+ 7\, СЗу-301/07б\, СЗу-301/13\nURALCAMPUS_SYNC_ID:de20572be34d69380
+ f72c5c59720725c\nURALCAMPUS_SOURCE:inueco:teacher:2d332945-22ab-11ed-9504
+ -001e679d7828
+END:VEVENT
+END:VCALENDAR

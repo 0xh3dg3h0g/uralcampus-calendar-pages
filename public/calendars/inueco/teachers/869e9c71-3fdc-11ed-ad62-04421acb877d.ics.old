@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Арапова Оль
+ га Юрьевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:90b7cd19dc6bec2ee13b4ddb5493c8e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 7 пара\nДополнительно: ЮЗ-401/01\, ЮЗ-40
+ 1/02\, ЮЗ-401/03\, ЮЗ-401/04\, ЮЗ-401/04а\, ЮЗ-401/05\, ЮЗ-401
+ /06\, ЮЗ-401/07\, ЮЗ-401/07б\, ЮЗ-401/08\, ЮЗ-401/09\, ЮЗ-401/
+ 11\, ЮЗ-401/12\, ЮЗ-401/13\, ЮЗ-401/13а\, ЮЗД-401\nURALCAMPUS_S
+ YNC_ID:90b7cd19dc6bec2ee13b4ddb5493c8e5\nURALCAMPUS_SOURCE:inueco:teacher
+ :869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c14afe155eba8bbd7d3272c46bec6759@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Уголовно-исполнительное право (Прак
+ тика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 8 пара\nДополнительно: ЮЗ-401/04\, ЮЗ-40
+ 1/04а\, ЮЗ-401/06\, ЮЗ-401/07\, ЮЗ-401/07б\, ЮЗ-401/08\, ЮЗ-4
+ 01/09\, ЮЗ-401/11\, ЮЗ-401/12\, ЮЗ-401/13\, ЮЗ-401/13а\, ЮЗД-
+ 401\nURALCAMPUS_SYNC_ID:c14afe155eba8bbd7d3272c46bec6759\nURALCAMPUS_SOUR
+ CE:inueco:teacher:869e9c71-3fdc-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ffed51feba7403df892c553ddb4843@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Уголовно-исполнительное право (Прак
+ тика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Арапова Ольга Юрьевна
+ \nПара: 6 пара\nДополнительно: ЮЗ-401/01\, ЮЗ-40
+ 1/02\, ЮЗ-401/03\, ЮЗ-401/05\nURALCAMPUS_SYNC_ID:e5ffed51feba7403df89
+ 2c553ddb4843\nURALCAMPUS_SOURCE:inueco:teacher:869e9c71-3fdc-11ed-ad62-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

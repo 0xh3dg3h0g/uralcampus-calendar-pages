@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a9da5bdfc8bdececb73bfb0c41e955c9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T083000
-DTEND;TZID=Asia/Yekaterinburg:20260908T100000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Владимирова Кристина Павл
- овна\nПара: 1 пара\nДополнительно: Д-342\nURALC
- AMPUS_SYNC_ID:a9da5bdfc8bdececb73bfb0c41e955c9\nURALCAMPUS_SOURCE:preco:t
- eacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:afc5375b7cb4c4370c7bb4c3d5b8d2fb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
-DTEND;TZID=Asia/Yekaterinburg:20260908T133000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Владимирова Кристина Павл
- овна\nПара: 3 пара\nДополнительно: 131\nURALCAMP
- US_SYNC_ID:afc5375b7cb4c4370c7bb4c3d5b8d2fb\nURALCAMPUS_SOURCE:preco:teac
- her:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f0a274294448980d18b631c7fc59b86f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T135000
-DTEND;TZID=Asia/Yekaterinburg:20260908T152000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Владимирова Кристина Павл
- овна\nПара: 4 пара\nДополнительно: ПД-449\nURA
- LCAMPUS_SYNC_ID:f0a274294448980d18b631c7fc59b86f\nURALCAMPUS_SOURCE:preco
- :teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f7cbaaa267c1c6b7da2473fa11cf561b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
-DTEND;TZID=Asia/Yekaterinburg:20260908T182000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Владимирова Кристина Павл
- овна\nПара: 6 пара\nДополнительно: З-344\, З-3
- 44А\nURALCAMPUS_SYNC_ID:f7cbaaa267c1c6b7da2473fa11cf561b\nURALCAMPUS_SOU
- RCE:preco:teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:417b232c837e34de3bfa6bbf6c5b37a5@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T083000
@@ -131,6 +75,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  _SOURCE:preco:teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:2579740a4067edcc26f07be2c34e47e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Владимирова Кристина Павл
+ овна\nПара: 5 пара\nДополнительно: Д-212\, Д-2
+ 12А\nURALCAMPUS_SYNC_ID:2579740a4067edcc26f07be2c34e47e2\nURALCAMPUS_SOU
+ RCE:preco:teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:899e9f3142445f0ed18e612c753ff935@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
@@ -157,20 +115,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  овна\nПара: 5 пара\nДополнительно: Д-212А (2)\
  nURALCAMPUS_SYNC_ID:07e57310d1f7adfa2dfbfa444fc86c6e\nURALCAMPUS_SOURCE:p
  reco:teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:2579740a4067edcc26f07be2c34e47e2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
-DTEND;TZID=Asia/Yekaterinburg:20260909T170000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Владимирова Кристина Павл
- овна\nПара: 5 пара\nДополнительно: Д-212\, Д-2
- 12А\nURALCAMPUS_SYNC_ID:2579740a4067edcc26f07be2c34e47e2\nURALCAMPUS_SOU
- RCE:preco:teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:9c8200a6ffd6732eaf5e7975495e6d18@uralcampus-calendar-pages

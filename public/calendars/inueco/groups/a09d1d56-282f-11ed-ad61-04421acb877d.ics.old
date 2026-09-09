@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: МЗ-301/01а
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1a41764f30646a951e1bcbd418994315@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/01а\nПара: 8 пара\nДополнит
+ ельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:1a41764f30646a951
+ e1bcbd418994315\nURALCAMPUS_SOURCE:inueco:group:a09d1d56-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:217098d354f82c8013fd51dcee5496f1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/01а\nПара: 6 пара\nДополнит
+ ельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:217098d354f82c801
+ 3fd51dcee5496f1\nURALCAMPUS_SOURCE:inueco:group:a09d1d56-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9d80aafb297f36d6e91624e7ceeaa2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/01а\nПара: 7 пара\nДополнит
+ ельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:ba9d80aafb297f36d
+ 6e91624e7ceeaa2\nURALCAMPUS_SOURCE:inueco:group:a09d1d56-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+END:VCALENDAR

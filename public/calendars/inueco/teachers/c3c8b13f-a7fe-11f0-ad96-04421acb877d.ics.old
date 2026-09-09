@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Дегтярева Н
+ аталья Владимировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1fa779c6f43bcf57c26c9ba787df2950@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T183000
+DTEND;TZID=Asia/Yekaterinburg:20260908T194000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 7 пара\nДополнительно: С
+ З-401/01\, СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, С
+ З-401/05а\, СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, С
+ З-401/12\, СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:1fa779c6f43bcf57
+ c26c9ba787df2950\nURALCAMPUS_SOURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad9
+ 6-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9e9d69d02e4a97c9223f9511e119e5b6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T171000
+DTEND;TZID=Asia/Yekaterinburg:20260908T182000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 6 пара\nДополнительно: С
+ З-401/01\, СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, С
+ З-401/05а\, СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, С
+ З-401/12\, СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:9e9d69d02e4a97c9
+ 223f9511e119e5b6\nURALCAMPUS_SOURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad9
+ 6-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e624afac8f0fd97bd7b89c0f61353ab1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T195000
+DTEND;TZID=Asia/Yekaterinburg:20260908T205000
+SUMMARY:Методы проектирования зданий и соор
+ ужений (Практика)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 8 пара\nДополнительно: С
+ З-401/01\, СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, С
+ З-401/05а\, СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, С
+ З-401/12\, СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:e624afac8f0fd97b
+ d7b89c0f61353ab1\nURALCAMPUS_SOURCE:inueco:teacher:c3c8b13f-a7fe-11f0-ad9
+ 6-04421acb877d
+END:VEVENT
+END:VCALENDAR

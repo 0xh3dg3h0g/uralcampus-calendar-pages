@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Корчагина Д
+ иана Таиповна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:165f6f440ce99e85302b5ee420e0965c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260908T120000
+DTEND;TZID=Asia/Yekaterinburg:20260908T133000
+SUMMARY:Административный процесс (Аудиторн
+ ые занятия)
+LOCATION:ауд. 419\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Корчагина Диана Таиповна\n
+ Пара: 3 пара\nДополнительно: Ю-338к\, Ю-338Ак\n
+ URALCAMPUS_SYNC_ID:165f6f440ce99e85302b5ee420e0965c\nURALCAMPUS_SOURCE:pr
+ eco:teacher:f91a65bc-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+END:VCALENDAR
