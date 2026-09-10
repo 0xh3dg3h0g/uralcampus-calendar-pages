@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Савицкая Ал
+ ёна Евгеньевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:21ce149ebbd66744df14d2940d0da93c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савицкая Алёна Евгень
+ евна\nПара: 3 пара\nДополнительно: Д-205\nURALC
+ AMPUS_SYNC_ID:21ce149ebbd66744df14d2940d0da93c\nURALCAMPUS_SOURCE:inueco:
+ teacher:a50dcbbc-8faa-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ДЗ-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:03ddbc6303a5a11251cb0b0432101ea9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 8 пара\nДополнитель
+ но: Плеханова О.А.\nURALCAMPUS_SYNC_ID:03ddbc6303a5a11251cb0
+ b0432101ea9\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd4eb4c592469e577a7d971a52438fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 7 пара\nДополнитель
+ но: Плеханова О.А.\nURALCAMPUS_SYNC_ID:1dd4eb4c592469e577a7d
+ 971a52438fb\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bab73bbc0bcb459eb66b2700e0ff40aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 6 пара\nДополнитель
+ но: Плеханова О.А.\nURALCAMPUS_SYNC_ID:bab73bbc0bcb459eb66b2
+ 700e0ff40aa\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

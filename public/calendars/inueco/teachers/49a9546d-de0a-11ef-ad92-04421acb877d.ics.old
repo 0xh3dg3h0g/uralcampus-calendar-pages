@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Орлов Павел
+  Алексеевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:28de228c5a77fc1d8703c4784517addc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Муниципальное управление и местное 
+ самоуправление (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Орлов Павел Алексееви
+ ч\nПара: 7 пара\nДополнительно: ГМУм-104\nURALC
+ AMPUS_SYNC_ID:28de228c5a77fc1d8703c4784517addc\nURALCAMPUS_SOURCE:inueco:
+ teacher:49a9546d-de0a-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7c5c1ee3a42749f92fae8cb86645fc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Муниципальное управление и местное 
+ самоуправление (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Орлов Павел Алексееви
+ ч\nПара: 8 пара\nДополнительно: ГМУм-104\nURALC
+ AMPUS_SYNC_ID:9e7c5c1ee3a42749f92fae8cb86645fc\nURALCAMPUS_SOURCE:inueco:
+ teacher:49a9546d-de0a-11ef-ad92-04421acb877d
+END:VEVENT
+END:VCALENDAR

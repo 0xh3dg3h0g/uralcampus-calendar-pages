@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0cdd387e35ffdb878fd61094daf174aa@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
-DTEND;TZID=Asia/Yekaterinburg:20260909T194000
-SUMMARY:Основы производственного мастерств
- а (Практика)
-LOCATION:ауд. 301\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Шкрабов Николай Игоре
- вич\nПара: 7 пара\nДополнительно: ДЗ-501\nURALC
- AMPUS_SYNC_ID:0cdd387e35ffdb878fd61094daf174aa\nURALCAMPUS_SOURCE:inueco:
- teacher:11aae600-3fe1-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:75abb5ac9ed6e1a32dba2567caf09636@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
-DTEND;TZID=Asia/Yekaterinburg:20260909T205000
-SUMMARY:Основы производственного мастерств
- а (Практика)
-LOCATION:ауд. 301\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Шкрабов Николай Игоре
- вич\nПара: 8 пара\nДополнительно: ДЗ-501\nURALC
- AMPUS_SYNC_ID:75abb5ac9ed6e1a32dba2567caf09636\nURALCAMPUS_SOURCE:inueco:
- teacher:11aae600-3fe1-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:d3e0d514a2b56c4b4444c8f60c2b4182@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
@@ -115,5 +87,61 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  вич\nПара: 8 пара\nДополнительно: ДЗ-501\nURALC
  AMPUS_SYNC_ID:6d0cd790948f2dc6902e4e05a81c9816\nURALCAMPUS_SOURCE:inueco:
  teacher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1852bf4e3ba32116dfae64cde1d9c7f7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T171000
+DTEND;TZID=Asia/Yekaterinburg:20260917T182000
+SUMMARY:Конструирование в графическом диза
+ йне (Лекция)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 6 пара\nДополнительно: Д-405\nURALCAM
+ PUS_SYNC_ID:1852bf4e3ba32116dfae64cde1d9c7f7\nURALCAMPUS_SOURCE:inueco:te
+ acher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7d904673b1a17a4352814274f6c8c0cc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T183000
+DTEND;TZID=Asia/Yekaterinburg:20260917T194000
+SUMMARY:Конструирование в графическом диза
+ йне (Лекция)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 7 пара\nДополнительно: Д-405\nURALCAM
+ PUS_SYNC_ID:7d904673b1a17a4352814274f6c8c0cc\nURALCAMPUS_SOURCE:inueco:te
+ acher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:83ff67e0f30cedb2fac7f9944442596d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T135000
+DTEND;TZID=Asia/Yekaterinburg:20260918T152000
+SUMMARY:Графический дизайн в мультимедиа (Л
+ екция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 4 пара\nДополнительно: Д-205\nURALCAM
+ PUS_SYNC_ID:83ff67e0f30cedb2fac7f9944442596d\nURALCAMPUS_SOURCE:inueco:te
+ acher:11aae600-3fe1-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae5ac870916b4317acd4a96c3208378@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T153000
+DTEND;TZID=Asia/Yekaterinburg:20260918T170000
+SUMMARY:Графический дизайн в мультимедиа (Л
+ екция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шкрабов Николай Игоре
+ вич\nПара: 5 пара\nДополнительно: Д-205\nURALCAM
+ PUS_SYNC_ID:6ae5ac870916b4317acd4a96c3208378\nURALCAMPUS_SOURCE:inueco:te
+ acher:11aae600-3fe1-11ed-ad62-04421acb877d
 END:VEVENT
 END:VCALENDAR

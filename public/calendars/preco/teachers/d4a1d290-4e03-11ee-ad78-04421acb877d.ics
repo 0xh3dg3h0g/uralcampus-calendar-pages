@@ -19,17 +19,42 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:893e9ad6b32d29f50359bf1794cf4363@uralcampus-calendar-pages
+UID:a4ef3b220b267bbd53063b408899435c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
-DTEND;TZID=Asia/Yekaterinburg:20260909T152000
-SUMMARY:Менеджмент в профессиональной деят
- ельности (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Страхование (Аудиторные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Койшина Екатерина Алимовн
+ а\nПара: 1 пара\nДополнительно: Б-364\, Б-364А\n
+ URALCAMPUS_SYNC_ID:a4ef3b220b267bbd53063b408899435c\nURALCAMPUS_SOURCE:pr
+ eco:teacher:d4a1d290-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4acb754368ce0de0461ab75719f361af@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Койшина Екатерина Алимовн
+ а\nПара: 2 пара\nДополнительно: Б-264\, Б-264А\n
+ URALCAMPUS_SYNC_ID:4acb754368ce0de0461ab75719f361af\nURALCAMPUS_SOURCE:pr
+ eco:teacher:d4a1d290-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:24f2e2e4971533254b98e72a1803eee3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:История России (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Койшина Екатерина Алимовн
- а\nПара: 4 пара\nДополнительно: П-370\, П-370А\n
- URALCAMPUS_SYNC_ID:893e9ad6b32d29f50359bf1794cf4363\nURALCAMPUS_SOURCE:pr
+ а\nПара: 3 пара\nДополнительно: Б-264\, Б-264А\n
+ URALCAMPUS_SYNC_ID:24f2e2e4971533254b98e72a1803eee3\nURALCAMPUS_SOURCE:pr
  eco:teacher:d4a1d290-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

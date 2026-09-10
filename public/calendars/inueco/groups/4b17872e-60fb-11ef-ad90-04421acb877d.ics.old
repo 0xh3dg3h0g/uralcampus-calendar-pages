@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ГМУм-104
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1018085a46666b78e71c52026e61237d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Региональная экономика (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУм-104\nПара: 5 пара\nДополните
+ льно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:1018085a46666b78e7
+ 1c52026e61237d\nURALCAMPUS_SOURCE:inueco:group:4b17872e-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2fa8a8ae2ba150c20a295b1c7491f105@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Муниципальное управление и местное 
+ самоуправление (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУм-104\nПара: 8 пара\nДополните
+ льно: Орлов П.А.\nURALCAMPUS_SYNC_ID:2fa8a8ae2ba150c20a295b1c7
+ 491f105\nURALCAMPUS_SOURCE:inueco:group:4b17872e-60fb-11ef-ad90-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5e168708d6dd622440fed728ec3905@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Муниципальное управление и местное 
+ самоуправление (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУм-104\nПара: 7 пара\nДополните
+ льно: Орлов П.А.\nURALCAMPUS_SYNC_ID:8d5e168708d6dd622440fed72
+ 8ec3905\nURALCAMPUS_SOURCE:inueco:group:4b17872e-60fb-11ef-ad90-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e3bb8a818a034a85937546c20320b0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Региональная экономика (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУм-104\nПара: 6 пара\nДополните
+ льно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:c9e3bb8a818a034a85
+ 937546c20320b0\nURALCAMPUS_SOURCE:inueco:group:4b17872e-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

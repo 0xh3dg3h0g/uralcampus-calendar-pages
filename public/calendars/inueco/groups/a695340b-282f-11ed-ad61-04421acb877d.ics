@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:727a2e679828d0187a0d789fb10b30a9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
-DTEND;TZID=Asia/Yekaterinburg:20260909T152000
-SUMMARY:Контракты и внешнеторговая докумен
- тация (Лекция)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-506\nПара: 4 пара\nДополнитель
- но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:727a2e679828d0187a0d789fb1
- 0b30a9\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
-UID:83cf9ac9884cccb763e25e060e523a1f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
-DTEND;TZID=Asia/Yekaterinburg:20260909T170000
-SUMMARY:Контракты и внешнеторговая докумен
- тация (Лекция)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-506\nПара: 5 пара\nДополнитель
- но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:83cf9ac9884cccb763e25e060e
- 523a1f\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
 UID:13c39b7c00ed34ec171740eada49812c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
@@ -114,5 +86,31 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  но: Василенко Л. А.\nURALCAMPUS_SYNC_ID:07c40cca2c77ca19a3ad
  fe3f3b80fa66\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-0442
  1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9c424205edc9006e212258ffe1948024@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:Антикризисное управление (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 4 пара\nДополнитель
+ но: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:9c424205edc9006e212258ffe
+ 1948024\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:29472da9493d257fd377c47ffd390735@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
+DTEND;TZID=Asia/Yekaterinburg:20260916T170000
+SUMMARY:Антикризисное управление (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 5 пара\nДополнитель
+ но: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:29472da9493d257fd377c47ff
+ d390735\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb8
+ 77d
 END:VEVENT
 END:VCALENDAR

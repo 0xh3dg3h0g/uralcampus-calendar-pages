@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Козлова Тат
+ ьяна Олеговна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1f75a23a8fdeb39c86217139773f3cb9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Козлова Татьяна Олего
+ вна\nПара: 8 пара\nДополнительно: ТТПЗ-301/02
+ \, ТТПЗ-301/03\, ТТПЗ-301а/04\, ТТПЗ-301а/06\nURALCAMPUS_SY
+ NC_ID:1f75a23a8fdeb39c86217139773f3cb9\nURALCAMPUS_SOURCE:inueco:teacher:
+ f5fb8cd5-fb91-11ed-ad74-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:35bce3ac1601d8f708957f0a87491f04@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Техника транспорта\, обслуживание и 
+ ремонт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Козлова Татьяна Олего
+ вна\nПара: 7 пара\nДополнительно: ТТПЗ-301/02
+ \, ТТПЗ-301/03\, ТТПЗ-301а/04\, ТТПЗ-301а/06\nURALCAMPUS_SY
+ NC_ID:35bce3ac1601d8f708957f0a87491f04\nURALCAMPUS_SOURCE:inueco:teacher:
+ f5fb8cd5-fb91-11ed-ad74-04421acb877d
+END:VEVENT
+END:VCALENDAR

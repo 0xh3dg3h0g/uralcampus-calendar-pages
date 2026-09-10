@@ -19,33 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3adf50b68db23f3105539451cddd6533@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T101000
-DTEND;TZID=Asia/Yekaterinburg:20260909T114000
-SUMMARY:Основы профессии (Лекция)
-LOCATION:ауд. 206\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Ветрова Алла Васильев
- на\nПара: 2 пара\nДополнительно: А-110\nURALCAMPU
- S_SYNC_ID:3adf50b68db23f3105539451cddd6533\nURALCAMPUS_SOURCE:inueco:teac
- her:68a51e02-3030-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:23e2da6af3ab65e8d4bc18c395230f4a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
-DTEND;TZID=Asia/Yekaterinburg:20260909T133000
-SUMMARY:Предпроектный и проектный анализ (Л
- екция)
-LOCATION:ауд. 108\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Ветрова Алла Васильев
- на\nПара: 3 пара\nДополнительно: А-410\nURALCAMPU
- S_SYNC_ID:23e2da6af3ab65e8d4bc18c395230f4a\nURALCAMPUS_SOURCE:inueco:teac
- her:68a51e02-3030-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:b619493fb28eb3af7638399873b7200b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
@@ -127,6 +100,75 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ветрова Алла Васильев
  на\nПара: 3 пара\nДополнительно: А-410\nURALCAMPU
  S_SYNC_ID:00dc41cf5d0efe6fb5cbff4136280a30\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce92d931f898baf0fe12a43baf9b67aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T083000
+DTEND;TZID=Asia/Yekaterinburg:20260914T100000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 1 пара\nДополнительно: А-210\nURALCAMPU
+ S_SYNC_ID:ce92d931f898baf0fe12a43baf9b67aa\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:173b9304f332149c4fb31e4b41bd86ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
+DTEND;TZID=Asia/Yekaterinburg:20260914T114000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 2 пара\nДополнительно: А-310\nURALCAMPU
+ S_SYNC_ID:173b9304f332149c4fb31e4b41bd86ee\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:901852c5281364b0a4c2775a483171fc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T120000
+DTEND;TZID=Asia/Yekaterinburg:20260914T133000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 3 пара\nДополнительно: А-310\nURALCAMPU
+ S_SYNC_ID:901852c5281364b0a4c2775a483171fc\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7a35b9a6ee4772cee165093e517dd9ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T135000
+DTEND;TZID=Asia/Yekaterinburg:20260914T152000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Практика)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 4 пара\nДополнительно: А-310\nURALCAMPU
+ S_SYNC_ID:7a35b9a6ee4772cee165093e517dd9ee\nURALCAMPUS_SOURCE:inueco:teac
+ her:68a51e02-3030-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:26f92b9d2f7a86700b98d4e84e684fe7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T101000
+DTEND;TZID=Asia/Yekaterinburg:20260918T114000
+SUMMARY:Основы профессии (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ветрова Алла Васильев
+ на\nПара: 2 пара\nДополнительно: А-110\nURALCAMPU
+ S_SYNC_ID:26f92b9d2f7a86700b98d4e84e684fe7\nURALCAMPUS_SOURCE:inueco:teac
  her:68a51e02-3030-11ed-ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Варлакова Н
+ аталья Ивановна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:33f3a9823f142d4e23a9575e0c12a6bc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Документационное обеспечение и дел
+ опроизводство в государственном и муни
+ ципальном управлении (Лекция)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Варлакова Наталья Ива
+ новна\nПара: 7 пара\nДополнительно: ГМУЗ-40
+ 1\nURALCAMPUS_SYNC_ID:33f3a9823f142d4e23a9575e0c12a6bc\nURALCAMPUS_SOURCE
+ :inueco:teacher:ee3bbf08-8f0b-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:947cda16ca64c7ed43878468fba1e472@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Документационное обеспечение и дел
+ опроизводство в государственном и муни
+ ципальном управлении (Лекция)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Варлакова Наталья Ива
+ новна\nПара: 6 пара\nДополнительно: ГМУЗ-40
+ 1\nURALCAMPUS_SYNC_ID:947cda16ca64c7ed43878468fba1e472\nURALCAMPUS_SOURCE
+ :inueco:teacher:ee3bbf08-8f0b-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a52a0e0abf21c5ad9afffb8871c1772d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Документационное обеспечение и дел
+ опроизводство в государственном и муни
+ ципальном управлении (Лекция)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Варлакова Наталья Ива
+ новна\nПара: 8 пара\nДополнительно: ГМУЗ-40
+ 1\nURALCAMPUS_SYNC_ID:a52a0e0abf21c5ad9afffb8871c1772d\nURALCAMPUS_SOURCE
+ :inueco:teacher:ee3bbf08-8f0b-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

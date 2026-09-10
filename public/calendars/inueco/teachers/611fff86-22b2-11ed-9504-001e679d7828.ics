@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dfc58ec5c81d5aba92639a5cbd08bfc0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
-DTEND;TZID=Asia/Yekaterinburg:20260909T194000
-SUMMARY:Общая электротехника и электроника 
- (Лекция)
-LOCATION:ауд. 108\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Епишков Егор Николаев
- ич\nПара: 7 пара\nДополнительно: ТТПЗ-301\nURA
- LCAMPUS_SYNC_ID:dfc58ec5c81d5aba92639a5cbd08bfc0\nURALCAMPUS_SOURCE:inuec
- o:teacher:611fff86-22b2-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:7a9dc8f003adad34047852fab4105af0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
-DTEND;TZID=Asia/Yekaterinburg:20260909T205000
-SUMMARY:Общая электротехника и электроника 
- (Лекция)
-LOCATION:ауд. 108\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Епишков Егор Николаев
- ич\nПара: 8 пара\nДополнительно: ТТПЗ-301\nURA
- LCAMPUS_SYNC_ID:7a9dc8f003adad34047852fab4105af0\nURALCAMPUS_SOURCE:inuec
- o:teacher:611fff86-22b2-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:1b48a08c0028b015a505c423bbbee2d1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
@@ -107,5 +79,31 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nURALCAMPUS_SYNC
  _ID:a735c8feff282eda00409c513e969337\nURALCAMPUS_SOURCE:inueco:teacher:61
  1fff86-22b2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6cab096fe5ec3e597564f0d5af940383@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T083000
+DTEND;TZID=Asia/Yekaterinburg:20260919T100000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 1 пара\nДополнительно: И-207\, С-216\n
+ URALCAMPUS_SYNC_ID:6cab096fe5ec3e597564f0d5af940383\nURALCAMPUS_SOURCE:in
+ ueco:teacher:611fff86-22b2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:277c7569b0711a0f17bcd7a2bba5e28f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T101000
+DTEND;TZID=Asia/Yekaterinburg:20260919T114000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 2 пара\nДополнительно: И-207\, С-216\n
+ URALCAMPUS_SYNC_ID:277c7569b0711a0f17bcd7a2bba5e28f\nURALCAMPUS_SOURCE:in
+ ueco:teacher:611fff86-22b2-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ГМУЗ-401
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:03a7c4b796ca90fa9935e1204bab00d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Документационное обеспечение и дел
+ опроизводство в государственном и муни
+ ципальном управлении (Лекция)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-401\nПара: 8 пара\nДополните
+ льно: Варлакова Н.И.\nURALCAMPUS_SYNC_ID:03a7c4b796ca90fa9
+ 935e1204bab00d4\nURALCAMPUS_SOURCE:inueco:group:a09d1cea-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:62b96ec64ceb4e8055f7f663cb1e2b15@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Документационное обеспечение и дел
+ опроизводство в государственном и муни
+ ципальном управлении (Лекция)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-401\nПара: 6 пара\nДополните
+ льно: Варлакова Н.И.\nURALCAMPUS_SYNC_ID:62b96ec64ceb4e805
+ 5f7f663cb1e2b15\nURALCAMPUS_SOURCE:inueco:group:a09d1cea-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c498eceee22727865cd57d9b5d9650b0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Документационное обеспечение и дел
+ опроизводство в государственном и муни
+ ципальном управлении (Лекция)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-401\nПара: 7 пара\nДополните
+ льно: Варлакова Н.И.\nURALCAMPUS_SYNC_ID:c498eceee22727865
+ cd57d9b5d9650b0\nURALCAMPUS_SOURCE:inueco:group:a09d1cea-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+END:VCALENDAR

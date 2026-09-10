@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:be51e99ee3365fe6f3a67826370177f9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Уголовный процесс (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Янин Михаил Геннадьев
+ ич\nПара: 1 пара\nДополнительно: Ю-301\nURALCAMPU
+ S_SYNC_ID:be51e99ee3365fe6f3a67826370177f9\nURALCAMPUS_SOURCE:inueco:teac
+ her:75abd49b-22a8-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c3f062384c369c7fb75b004c611f3d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Уголовный процесс (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Янин Михаил Геннадьев
+ ич\nПара: 2 пара\nДополнительно: Ю-301\nURALCAMPU
+ S_SYNC_ID:f3c3f062384c369c7fb75b004c611f3d\nURALCAMPUS_SOURCE:inueco:teac
+ her:75abd49b-22a8-11ed-9504-001e679d7828
+END:VEVENT
 END:VCALENDAR

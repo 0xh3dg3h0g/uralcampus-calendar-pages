@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Булавинцев
+ а Наталья Андреевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4bbdf6d4c2a64885a0eda36d29ee3b79@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T120000
+DTEND;TZID=Asia/Yekaterinburg:20260909T133000
+SUMMARY:Введение в специальность (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 3 пара\nДополнительно: СП
+ Д-112\nURALCAMPUS_SYNC_ID:4bbdf6d4c2a64885a0eda36d29ee3b79\nURALCAMPUS_S
+ OURCE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6800e21ab15b4cc6e9d4ba737171de3f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T135000
+DTEND;TZID=Asia/Yekaterinburg:20260909T152000
+SUMMARY:Введение в специальность (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 4 пара\nДополнительно: СП
+ Д-112\nURALCAMPUS_SYNC_ID:6800e21ab15b4cc6e9d4ba737171de3f\nURALCAMPUS_S
+ OURCE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d949bb4c799000eaa4d819f84f69b140@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T153000
+DTEND;TZID=Asia/Yekaterinburg:20260909T170000
+SUMMARY:Судебная экономическая экспертиза (
+ Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 5 пара\nДополнительно: ЭБ-
+ 508\nURALCAMPUS_SYNC_ID:d949bb4c799000eaa4d819f84f69b140\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e36fae41145a65d483fa2d8a343fb1a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Судебная экономическая экспертиза (
+ Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 6 пара\nДополнительно: ЭБ-
+ 508\nURALCAMPUS_SYNC_ID:e36fae41145a65d483fa2d8a343fb1a3\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+END:VCALENDAR

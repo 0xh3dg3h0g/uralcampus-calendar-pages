@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЗ-201
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2386373c014b9d33d5d876e0255ebce5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Макроэкономика (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201\nПара: 8 пара\nДополнитель
+ но: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:2386373c014b9d33d5d876e0
+ 255ebce5\nURALCAMPUS_SOURCE:inueco:group:a695345a-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:667bffac16f5b503b718d0588b041893@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201\nПара: 7 пара\nДополнитель
+ но: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:667bffac16f5b503b718d058
+ 8b041893\nURALCAMPUS_SOURCE:inueco:group:a695345a-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:db42711e4f8d3336ec5644c965fc5a0c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T171000
+DTEND;TZID=Asia/Yekaterinburg:20260909T182000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201\nПара: 6 пара\nДополнитель
+ но: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:db42711e4f8d3336ec5644c9
+ 65fc5a0c\nURALCAMPUS_SOURCE:inueco:group:a695345a-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

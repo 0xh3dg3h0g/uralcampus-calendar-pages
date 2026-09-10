@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ДЗ-501
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:aaae291631380ee3f3d3bb29fcf346c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T183000
+DTEND;TZID=Asia/Yekaterinburg:20260909T194000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-501\nПара: 7 пара\nДополнитель
+ но: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:aaae291631380ee3f3d3bb29f
+ cf346c4\nURALCAMPUS_SOURCE:inueco:group:5cc3f0fe-5894-11f0-ad93-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:d13f3f7174f808071c98f4aa842c29bc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260909T195000
+DTEND;TZID=Asia/Yekaterinburg:20260909T205000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-501\nПара: 8 пара\nДополнитель
+ но: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:d13f3f7174f808071c98f4aa8
+ 42c29bc\nURALCAMPUS_SOURCE:inueco:group:5cc3f0fe-5894-11f0-ad93-04421acb8
+ 77d
+END:VEVENT
+END:VCALENDAR
