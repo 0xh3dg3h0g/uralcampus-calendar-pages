@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Горюнов Вла
+ димир Евгеньевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20353cbcff42c3ad89eeadc978fc50d3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Правовое регулирование информацион
+ ной безопасности (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горюнов Владимир Евге
+ ньевич\nПара: 3 пара\nДополнительно: СПД-21
+ 2\nURALCAMPUS_SYNC_ID:20353cbcff42c3ad89eeadc978fc50d3\nURALCAMPUS_SOURCE
+ :inueco:teacher:a1941963-248f-11ee-ad76-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef873ad37a5dd043ca2ff028ad56abc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Оперативно-розыскная деятельность 
+ в сфере экономической безопасности (Пра
+ ктика)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горюнов Владимир Евге
+ ньевич\nПара: 6 пара\nДополнительно: ЭБ-508\
+ nURALCAMPUS_SYNC_ID:3ef873ad37a5dd043ca2ff028ad56abc\nURALCAMPUS_SOURCE:i
+ nueco:teacher:a1941963-248f-11ee-ad76-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:456fcf436cb945e2a1051fba784d4f20@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Оперативно-розыскная деятельность 
+ в сфере экономической безопасности (Пра
+ ктика)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горюнов Владимир Евге
+ ньевич\nПара: 5 пара\nДополнительно: ЭБ-508\
+ nURALCAMPUS_SYNC_ID:456fcf436cb945e2a1051fba784d4f20\nURALCAMPUS_SOURCE:i
+ nueco:teacher:a1941963-248f-11ee-ad76-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4f8e1dbaabc60719ebd73bc0842bf6fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Оперативно-розыскная деятельность 
+ в сфере экономической безопасности (Лек
+ ция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горюнов Владимир Евге
+ ньевич\nПара: 4 пара\nДополнительно: ЭБ-508\
+ nURALCAMPUS_SYNC_ID:4f8e1dbaabc60719ebd73bc0842bf6fb\nURALCAMPUS_SOURCE:i
+ nueco:teacher:a1941963-248f-11ee-ad76-04421acb877d
+END:VEVENT
+END:VCALENDAR

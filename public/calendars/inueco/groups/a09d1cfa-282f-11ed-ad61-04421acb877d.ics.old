@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ГМУЗ-501/07а
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c3369cdc02e43436af71c8e2fb2e8159@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-501/07а\nПара: 8 пара\nДополн
+ ительно: Согрина Н.С.\nURALCAMPUS_SYNC_ID:c3369cdc02e4343
+ 6af71c8e2fb2e8159\nURALCAMPUS_SOURCE:inueco:group:a09d1cfa-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c538f22d8e5d5c77cf54b48dc15c8567@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-501/07а\nПара: 7 пара\nДополн
+ ительно: Согрина Н.С.\nURALCAMPUS_SYNC_ID:c538f22d8e5d5c7
+ 7cf54b48dc15c8567\nURALCAMPUS_SOURCE:inueco:group:a09d1cfa-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -18,29 +18,39 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:19c2634cdaed40a9e94b0fff5a190d41@uralcampus-calendar-pages
+UID:fcd49ee4de15f21132c39fabee72d52c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
-DTEND;TZID=Asia/Yekaterinburg:20260910T100000
-SUMMARY:Введение в специальность (Аудиторны
- е занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
+DTEND;TZID=Asia/Yekaterinburg:20260911T100000
+SUMMARY:История (Аудиторные занятия)
 LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-178\nПара: 1 пара\nДополнительно: С
- афиханова М.П.\nURALCAMPUS_SYNC_ID:19c2634cdaed40a9e94b0fff5a1
- 90d41\nURALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877d
+ уппа: ПД-178\nПара: 1 пара\nДополнительно: Т
+ укуева Е.В.\nURALCAMPUS_SYNC_ID:fcd49ee4de15f21132c39fabee72d52c\
+ nURALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b81e690ed0624ef324490faf3fc11f44@uralcampus-calendar-pages
+UID:221ccf58773fe55f196688817e83fc71@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
-DTEND;TZID=Asia/Yekaterinburg:20260910T114000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
+DTEND;TZID=Asia/Yekaterinburg:20260911T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-178\nПара: 2 пара\nДополнительно: С
- маков Л.М.\nURALCAMPUS_SYNC_ID:b81e690ed0624ef324490faf3fc11f44\nU
+ уппа: ПД-178\nПара: 2 пара\nДополнительно: М
+ алышева С.И.\nURALCAMPUS_SYNC_ID:221ccf58773fe55f196688817e83fc7
+ 1\nURALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f76c6220b8d45388ddaabe6f3802134b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-178\nПара: 3 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:f76c6220b8d45388ddaabe6f3802134b\nU
  RALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -19,42 +19,16 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6e43e9d52ab8c22c0ca493ee048ecc3a@uralcampus-calendar-pages
+UID:9a2dbc1cc8892ecd75b9380d74bff107@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
-DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
+DTEND;TZID=Asia/Yekaterinburg:20260914T114000
 SUMMARY:Уголовное право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
+LOCATION:ауд. 217\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ефименко Евгения Нико
- лаевна\nПара: 1 пара\nДополнительно: СПД-21
- 2\nURALCAMPUS_SYNC_ID:6e43e9d52ab8c22c0ca493ee048ecc3a\nURALCAMPUS_SOURCE
- :inueco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:a01afdc1332dde8d7812718a7e5dbdcb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
-DTEND;TZID=Asia/Yekaterinburg:20260910T114000
-SUMMARY:Уголовное право (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Ефименко Евгения Нико
- лаевна\nПара: 2 пара\nДополнительно: СПД-21
- 2\, Ю-201\nURALCAMPUS_SYNC_ID:a01afdc1332dde8d7812718a7e5dbdcb\nURALCAMP
- US_SOURCE:inueco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:9e86f54d4586b3f1f9b04840a6674c96@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
-SUMMARY:Уголовное право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Ефименко Евгения Нико
- лаевна\nПара: 3 пара\nДополнительно: Ю-201\nU
- RALCAMPUS_SYNC_ID:9e86f54d4586b3f1f9b04840a6674c96\nURALCAMPUS_SOURCE:inu
+ лаевна\nПара: 2 пара\nДополнительно: Ю-201\nU
+ RALCAMPUS_SYNC_ID:9a2dbc1cc8892ecd75b9380d74bff107\nURALCAMPUS_SOURCE:inu
  eco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
@@ -68,6 +42,45 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ефименко Евгения Нико
  лаевна\nПара: 5 пара\nДополнительно: Ю-301\nU
  RALCAMPUS_SYNC_ID:7f8218a0d4a5cbd12d15a99f8af8db38\nURALCAMPUS_SOURCE:inu
+ eco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a3cfecc31a6e64d521a939b16b6bcbb9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Уголовное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ефименко Евгения Нико
+ лаевна\nПара: 1 пара\nДополнительно: СПД-21
+ 2\nURALCAMPUS_SYNC_ID:a3cfecc31a6e64d521a939b16b6bcbb9\nURALCAMPUS_SOURCE
+ :inueco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:8f501bf000611bcd24f488ff2fe87cbb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Уголовное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ефименко Евгения Нико
+ лаевна\nПара: 2 пара\nДополнительно: СПД-21
+ 2\, Ю-201\nURALCAMPUS_SYNC_ID:8f501bf000611bcd24f488ff2fe87cbb\nURALCAMP
+ US_SOURCE:inueco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f5a3dd94a85c3cc6f5d68d2a670a391d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Уголовное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ефименко Евгения Нико
+ лаевна\nПара: 3 пара\nДополнительно: Ю-201\nU
+ RALCAMPUS_SYNC_ID:f5a3dd94a85c3cc6f5d68d2a670a391d\nURALCAMPUS_SOURCE:inu
  eco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

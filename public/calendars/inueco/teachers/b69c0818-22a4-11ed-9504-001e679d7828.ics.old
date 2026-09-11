@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Мухина Юлия
+  Рамилевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a8ba89b56c2d0edfaa3e0ab03042ce84@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
+DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+SUMMARY:Основы web-технологий (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Мухина Юлия Рамилевна
+ \nПара: 4 пара\nДополнительно: ИЗ-301\nURALCAMPUS_
+ SYNC_ID:a8ba89b56c2d0edfaa3e0ab03042ce84\nURALCAMPUS_SOURCE:inueco:teache
+ r:b69c0818-22a4-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:b01e2a64f9baaa8491428af4fe5a3b85@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
+DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+SUMMARY:Основы web-технологий (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Мухина Юлия Рамилевна
+ \nПара: 3 пара\nДополнительно: И-307а\nURALCAMPUS_
+ SYNC_ID:b01e2a64f9baaa8491428af4fe5a3b85\nURALCAMPUS_SOURCE:inueco:teache
+ r:b69c0818-22a4-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:cfce7fb869f65367d65549f1c86ee380@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Основы web-технологий (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Мухина Юлия Рамилевна
+ \nПара: 5 пара\nДополнительно: ИЗ-301\nURALCAMPUS_
+ SYNC_ID:cfce7fb869f65367d65549f1c86ee380\nURALCAMPUS_SOURCE:inueco:teache
+ r:b69c0818-22a4-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e7a4bbd807d45c1a839d58cfb7298ffd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
+DTEND;TZID=Asia/Yekaterinburg:20260910T114000
+SUMMARY:Основы web-технологий (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Мухина Юлия Рамилевна
+ \nПара: 2 пара\nДополнительно: И-307\, И-307а\nUR
+ ALCAMPUS_SYNC_ID:e7a4bbd807d45c1a839d58cfb7298ffd\nURALCAMPUS_SOURCE:inue
+ co:teacher:b69c0818-22a4-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e8661d1618877b815027a536782127@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
+DTEND;TZID=Asia/Yekaterinburg:20260910T100000
+SUMMARY:Основы web-технологий (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Мухина Юлия Рамилевна
+ \nПара: 1 пара\nДополнительно: И-307\nURALCAMPUS_SY
+ NC_ID:f6e8661d1618877b815027a536782127\nURALCAMPUS_SOURCE:inueco:teacher:
+ b69c0818-22a4-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

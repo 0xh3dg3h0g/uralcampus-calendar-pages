@@ -18,4 +18,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:cc43f6ea9a9a9c0396e1db25e212eee7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T171000
+DTEND;TZID=Asia/Yekaterinburg:20260917T182000
+SUMMARY:Теория информационных процессов и с
+ истем (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новикова Дарья Анатол
+ ьевна\nПара: 6 пара\nДополнительно: ИЗ-301\nU
+ RALCAMPUS_SYNC_ID:cc43f6ea9a9a9c0396e1db25e212eee7\nURALCAMPUS_SOURCE:inu
+ eco:teacher:69c7c453-c294-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR

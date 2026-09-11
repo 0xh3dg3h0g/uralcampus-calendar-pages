@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:825ec81b9ea7f843baa3e30e4f9c6f11@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
-DTEND;TZID=Asia/Yekaterinburg:20260910T114000
-SUMMARY:Уголовное право (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Ю-201\nПара: 2 пара\nДополнительн
- о: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:825ec81b9ea7f843baa3e30e
- 4f9c6f11\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:20e61e37c3bc8a6a31d1c2fdc63d5da8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
-SUMMARY:Уголовное право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
- о: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:20e61e37c3bc8a6a31d1c2fd
- c63d5da8\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:46d4cdfb3306e2cdf19629c03f3f0d0c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
@@ -69,6 +43,32 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Васильев С. А.\nURALCAMPUS_SYNC_ID:2c822a76346214baf83fffa1
  105a9ac0\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
  877d
+END:VEVENT
+BEGIN:VEVENT
+UID:41cfcaaeb8b9fd79ffd1664fee065b5f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
+DTEND;TZID=Asia/Yekaterinburg:20260914T114000
+SUMMARY:Уголовное право (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 2 пара\nДополнительн
+ о: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:41cfcaaeb8b9fd79ffd1664f
+ ee065b5f\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:94ab7a0f7d6133701f14aeda96ac7f00@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T120000
+DTEND;TZID=Asia/Yekaterinburg:20260914T133000
+SUMMARY:Информационное право (Лекция)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
+ о: Кузьмина М.Е.\nURALCAMPUS_SYNC_ID:94ab7a0f7d6133701f14aeda9
+ 6ac7f00\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb8
+ 77d
 END:VEVENT
 BEGIN:VEVENT
 UID:a1c67c4b6dffa1963ef3a81e79ec0dea@uralcampus-calendar-pages
@@ -97,17 +97,95 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:f1bcdd1db00d43847da1288c501a3aa7@uralcampus-calendar-pages
+UID:eec470290bd094572f480ab54900b9c6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
-DTEND;TZID=Asia/Yekaterinburg:20260915T152000
-SUMMARY:Гражданское право (Практика)
+DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
+DTEND;TZID=Asia/Yekaterinburg:20260916T133000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
+ о: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:eec470290bd094572f480ab54
+ 900b9c6\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:98a8de0d64f54b3ca34ecbfd5cae7bd7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:Муниципальное право (Практика)
 LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: Ю-201\nПара: 4 пара\nДополнительн
- о: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:f1bcdd1db00d43847d
- a1288c501a3aa7\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04
- 421acb877d
+ о: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:98a8de0d64f54b3ca34ecbfd5
+ cae7bd7\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:b0dcc68d51035fbee86bdb971b383f63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
+DTEND;TZID=Asia/Yekaterinburg:20260916T170000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 5 пара\nДополнительн
+ о: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:b0dcc68d51035fbee86bdb971
+ b383f63\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:9024e2fee0ae01ff127a89d65fa49cc9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Уголовное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 2 пара\nДополнительн
+ о: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:9024e2fee0ae01ff127a89d6
+ 5fa49cc9\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5b592f6bca4d36bb00b7c44e3fc42c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Уголовное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
+ о: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:1f5b592f6bca4d36bb00b7c4
+ 4e3fc42c\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fa0eeb1d58a0e45f73ce7084f03971b3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T101000
+DTEND;TZID=Asia/Yekaterinburg:20260918T114000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 2 пара\nДополнительн
+ о: Василенко Л. А.\nURALCAMPUS_SYNC_ID:fa0eeb1d58a0e45f73ce70
+ 84f03971b3\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac9771aa5e3b4d5b4cddaa63c44fb98@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T120000
+DTEND;TZID=Asia/Yekaterinburg:20260918T133000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
+ о: Василенко Л. А.\nURALCAMPUS_SYNC_ID:3ac9771aa5e3b4d5b4cdda
+ a63c44fb98\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421a
+ cb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:8a5f6ed65addae5064e084697699956e@uralcampus-calendar-pages

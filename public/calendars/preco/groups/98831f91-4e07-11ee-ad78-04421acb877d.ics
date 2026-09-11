@@ -18,30 +18,31 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:deff8106171cf2c510b0e74e0c12a1dd@uralcampus-calendar-pages
+UID:30da3532d26fa2de9f774710663d7f29@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
+DTSTART;TZID=Asia/Yekaterinburg:20260911T120000
+DTEND;TZID=Asia/Yekaterinburg:20260911T133000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Аудиторные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-470\, П-470А\nПара: 3 пара\nДополнитель
+ но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:30da3532d26fa2de9f77471
+ 0663d7f29\nURALCAMPUS_SOURCE:preco:group:98831f91-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fd243f5b5305a31802a412cd4b4adf40@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T135000
+DTEND;TZID=Asia/Yekaterinburg:20260911T152000
 SUMMARY:Предпринимательская деятельности (
  Аудиторные занятия)
 LOCATION:ауд. 2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-470\, П-470А\nПара: 3 пара\nДополнитель
- но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:deff8106171cf2c510b0e74
- e0c12a1dd\nURALCAMPUS_SOURCE:preco:group:98831f91-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:25edd1cbea9137ad5d2145d0b42de1fd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
-DTEND;TZID=Asia/Yekaterinburg:20260910T152000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-470\, П-470А\nПара: 4 пара\nДополнитель
- но: Смаков Л.М.\nURALCAMPUS_SYNC_ID:25edd1cbea9137ad5d2145d0b42
- de1fd\nURALCAMPUS_SOURCE:preco:group:98831f91-4e07-11ee-ad78-04421acb877d
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:fd243f5b5305a31802a412c
+ d4b4adf40\nURALCAMPUS_SOURCE:preco:group:98831f91-4e07-11ee-ad78-04421acb
+ 877d
 END:VEVENT
 END:VCALENDAR

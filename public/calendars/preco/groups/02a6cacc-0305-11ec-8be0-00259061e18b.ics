@@ -18,58 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a375578aa3050863f584f8cd1747ff2c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
-DTEND;TZID=Asia/Yekaterinburg:20260910T100000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 08\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-449\nПара: 1 пара\nДополнительно: М
- аклакова Е.Л.\nURALCAMPUS_SYNC_ID:a375578aa3050863f584f8cd1747f
- f2c\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:147426b366d1528ce050f8c173915759@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
-DTEND;TZID=Asia/Yekaterinburg:20260910T114000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 08\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-449\nПара: 2 пара\nДополнительно: М
- аклакова Е.Л.\nURALCAMPUS_SYNC_ID:147426b366d1528ce050f8c173915
- 759\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:6e39c9785ae5760412cdef3d013fb21e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 08\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-449\nПара: 3 пара\nДополнительно: М
- аклакова Е.Л.\nURALCAMPUS_SYNC_ID:6e39c9785ae5760412cdef3d013fb
- 21e\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:25d67d6464118f24c9bb9a1e3cfb6218@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
-DTEND;TZID=Asia/Yekaterinburg:20260910T152000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 08\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-449\nПара: 4 пара\nДополнительно: М
- аклакова Е.Л.\nURALCAMPUS_SYNC_ID:25d67d6464118f24c9bb9a1e3cfb6
- 218\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:88f9390d5b6b586965e2c6b32acb9ef2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
@@ -120,5 +68,384 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-449\nПара: 4 пара\nДополнительно: М
  оторина Л.А.\nURALCAMPUS_SYNC_ID:4a2da337caa0a86474415a9d26a8884
  d\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ab03ed0ad8532582e1a88918753a1310@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
+DTEND;TZID=Asia/Yekaterinburg:20260915T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 3 пара\nДополнительно: М
+ оторина Л.А.\nURALCAMPUS_SYNC_ID:ab03ed0ad8532582e1a88918753a131
+ 0\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:0db77ebd67fc4e548cb6a6cb33cd50ad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
+DTEND;TZID=Asia/Yekaterinburg:20260915T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 4 пара\nДополнительно: В
+ ладимирова К.П.\nURALCAMPUS_SYNC_ID:0db77ebd67fc4e548cb6a6cb3
+ 3cd50ad\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e1
+ 8b
+END:VEVENT
+BEGIN:VEVENT
+UID:8972fab49d66498dec880c8367944948@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T153000
+DTEND;TZID=Asia/Yekaterinburg:20260915T170000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 5 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:8972fab49d66498dec880c8367944
+ 948\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:01401d66aadd4e9652023f0a002a6620@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T171000
+DTEND;TZID=Asia/Yekaterinburg:20260915T182000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 6 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:01401d66aadd4e9652023f0a002a6
+ 620\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:d92969349522ce461790954e07c2dcec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T083000
+DTEND;TZID=Asia/Yekaterinburg:20260916T100000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 1 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:d92969349522ce461790954e07c2dcec\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:fa4153f3901eb82ba12506fce33e03a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
+DTEND;TZID=Asia/Yekaterinburg:20260916T114000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 2 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:fa4153f3901eb82ba12506fce33e03a8\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:4704217e9d95d131e1197501e26902b9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
+DTEND;TZID=Asia/Yekaterinburg:20260916T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 3 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:4704217e9d95d131e1197501e26902b9\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:4a01604cd3d86ba5b1c69285ceeef707@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 4 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:4a01604cd3d86ba5b1c69285ceeef707\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bfcf65562ea45f337d56e225fa2a6579@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 1 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:bfcf65562ea45f337d56e225fa2a6
+ 579\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:89e67d9ee92b766f1023e14b238b0f6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 2 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:89e67d9ee92b766f1023e14b238b0
+ f6c\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c75aa76485f98e9aae6dfb63061aadd8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 3 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:c75aa76485f98e9aae6dfb63061aa
+ dd8\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:921025b3f8323dcb95f8c74c15909c78@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
+DTEND;TZID=Asia/Yekaterinburg:20260918T100000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 1 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:921025b3f8323dcb95f8c74c15909c78\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:239eb561dae48ab7e891e612036f9ff4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T101000
+DTEND;TZID=Asia/Yekaterinburg:20260918T114000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 2 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:239eb561dae48ab7e891e612036f9ff4\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a207b1461dedf56af52ecbc6d5047f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T120000
+DTEND;TZID=Asia/Yekaterinburg:20260918T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 3 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:a8a207b1461dedf56af52ecbc6d5047f\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c11fb8a070cb0a0f3c64c0aa0603eb50@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 404\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 3 пара\nДополнительно: М
+ оторина Л.А.\nURALCAMPUS_SYNC_ID:c11fb8a070cb0a0f3c64c0aa0603eb5
+ 0\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c82f36c04801594df56cbcdd6424e7bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T135000
+DTEND;TZID=Asia/Yekaterinburg:20260922T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 4 пара\nДополнительно: В
+ ладимирова К.П.\nURALCAMPUS_SYNC_ID:c82f36c04801594df56cbcdd6
+ 424e7bf\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e1
+ 8b
+END:VEVENT
+BEGIN:VEVENT
+UID:acb76ac62da2ffc3c56005ac0a298535@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T153000
+DTEND;TZID=Asia/Yekaterinburg:20260922T170000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 5 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:acb76ac62da2ffc3c56005ac0a298
+ 535\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:64a977770893977e69e321910f61eb81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T171000
+DTEND;TZID=Asia/Yekaterinburg:20260922T182000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 6 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:64a977770893977e69e321910f61e
+ b81\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:23ca25f6a638d0cb12acca5068a438e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
+DTEND;TZID=Asia/Yekaterinburg:20260923T100000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 1 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:23ca25f6a638d0cb12acca5068a438e2\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:efaf01df4b7f527b993d0879037c0be7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
+DTEND;TZID=Asia/Yekaterinburg:20260923T114000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 2 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:efaf01df4b7f527b993d0879037c0be7\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:e186d1b02417b6e301e14a3b5ebb995e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 3 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:e186d1b02417b6e301e14a3b5ebb995e\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:54fd9829b8123f61572e8c8e0458eba4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
+DTEND;TZID=Asia/Yekaterinburg:20260923T152000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 4 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:54fd9829b8123f61572e8c8e0458eba4\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed286435660f4ed4d1d2ce62c76bb0f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
+DTEND;TZID=Asia/Yekaterinburg:20260924T100000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 1 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:5ed286435660f4ed4d1d2ce62c76b
+ b0f\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:2c6a5d9850b776a26a6220f1dcadbee0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
+DTEND;TZID=Asia/Yekaterinburg:20260924T114000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 2 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:2c6a5d9850b776a26a6220f1dcadb
+ ee0\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:25ebcd45bc0b8dec36a72c3bf13071b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
+DTEND;TZID=Asia/Yekaterinburg:20260924T133000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 3 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:25ebcd45bc0b8dec36a72c3bf1307
+ 1b7\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:d29f694ce68b8f18d69a4c25bca3c6c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
+DTEND;TZID=Asia/Yekaterinburg:20260924T152000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 08\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 4 пара\nДополнительно: М
+ аклакова Е.Л.\nURALCAMPUS_SYNC_ID:d29f694ce68b8f18d69a4c25bca3c
+ 6c4\nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a05c906f37ee38ff97adce40fe37c0ac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
+DTEND;TZID=Asia/Yekaterinburg:20260925T100000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 1 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:a05c906f37ee38ff97adce40fe37c0ac\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:b22b2268eed5f63d9d1b750d404b3673@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
+DTEND;TZID=Asia/Yekaterinburg:20260925T114000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 2 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:b22b2268eed5f63d9d1b750d404b3673\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:cae3f6a8de0d6ce73526c31a39030b45@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T120000
+DTEND;TZID=Asia/Yekaterinburg:20260925T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-449\nПара: 3 пара\nДополнительно: Ш
+ агеева У.Т.\nURALCAMPUS_SYNC_ID:cae3f6a8de0d6ce73526c31a39030b45\
+ nURALCAMPUS_SOURCE:preco:group:02a6cacc-0305-11ec-8be0-00259061e18b
 END:VEVENT
 END:VCALENDAR

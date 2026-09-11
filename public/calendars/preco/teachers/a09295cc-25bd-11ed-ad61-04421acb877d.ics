@@ -19,58 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:18f0d53cfa9a52df6cd6cf3ce6b25058@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T083000
-DTEND;TZID=Asia/Yekaterinburg:20260910T100000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 1 пара\nДополнительно: П-211\nURALCAMPUS_
- SYNC_ID:18f0d53cfa9a52df6cd6cf3ce6b25058\nURALCAMPUS_SOURCE:preco:teacher
- :a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:cfcfd616bb46427b8a725f0d00f41c31@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T101000
-DTEND;TZID=Asia/Yekaterinburg:20260910T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 408\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 2 пара\nДополнительно: П-210\nURALCAMPUS_
- SYNC_ID:cfcfd616bb46427b8a725f0d00f41c31\nURALCAMPUS_SOURCE:preco:teacher
- :a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:72545abb28c08d363816c7eaadf79d6b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 401\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 3 пара\nДополнительно: ОЛ-220\, ОЛ-220
- А\nURALCAMPUS_SYNC_ID:72545abb28c08d363816c7eaadf79d6b\nURALCAMPUS_SOURC
- E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8a21d28d4161ef8fd40856e3ba4f7c80@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
-DTEND;TZID=Asia/Yekaterinburg:20260910T152000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 308\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 4 пара\nДополнительно: ТИК-224\nURALCAM
- PUS_SYNC_ID:8a21d28d4161ef8fd40856e3ba4f7c80\nURALCAMPUS_SOURCE:preco:tea
- cher:a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:131b4527eda7a8f0047cbfe5aeebc022@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
@@ -127,20 +75,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  OURCE:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:42a9b5c8596f584a0f73c1366f0ff1bc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
-DTEND;TZID=Asia/Yekaterinburg:20260912T100000
-SUMMARY:Теория государства и права (Аудитор
- ные занятия)
-LOCATION:ауд. 421\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 1 пара\nДополнительно: Ю-239к\, Ю-239А
- к\nURALCAMPUS_SYNC_ID:42a9b5c8596f584a0f73c1366f0ff1bc\nURALCAMPUS_SOURC
- E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:f7e21ec3279f25f146144ef402c5588d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
@@ -167,6 +101,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Надеждина Ольга Аркадьевн
  а\nПара: 3 пара\nДополнительно: Ф-232к\, Ф-232А
  к\nURALCAMPUS_SYNC_ID:a98f919579b1fb333b25cd7b216567f2\nURALCAMPUS_SOURC
+ E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:afb1186494765acad63de00ff56de52f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 421\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 3 пара\nДополнительно: Ю-239к\, Ю-239А
+ к\nURALCAMPUS_SYNC_ID:afb1186494765acad63de00ff56de52f\nURALCAMPUS_SOURC
  E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

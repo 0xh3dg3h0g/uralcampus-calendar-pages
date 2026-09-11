@@ -18,62 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f4bd24a288ba39feef97ba6ec9530237@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
-DTEND;TZID=Asia/Yekaterinburg:20260910T170000
-SUMMARY:Теория транспортных процессов и сис
- тем (Лекция)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТТПЗ-301/11\nПара: 5 пара\nДополни
- тельно: Огнев И.И.\nURALCAMPUS_SYNC_ID:f4bd24a288ba39feef97b
- a6ec9530237\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c-04421
- acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:55a181c8a1c9a8d3f784555a2e2bf4e4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
-DTEND;TZID=Asia/Yekaterinburg:20260910T182000
-SUMMARY:Теория транспортных процессов и сис
- тем (Лекция)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТТПЗ-301/11\nПара: 6 пара\nДополни
- тельно: Огнев И.И.\nURALCAMPUS_SYNC_ID:55a181c8a1c9a8d3f7845
- 55a2e2bf4e4\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c-04421
- acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:72266b96b0023d6ad58053873de08565@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
-DTEND;TZID=Asia/Yekaterinburg:20260910T194000
-SUMMARY:Техника транспорта\, обслуживание и 
- ремонт (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТТПЗ-301/11\nПара: 7 пара\nДополни
- тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:72266b96b0023d6ad
- 58053873de08565\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c-0
- 4421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:576f370b4a998a111d21a31552b40b44@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
-DTEND;TZID=Asia/Yekaterinburg:20260910T205000
-SUMMARY:Техника транспорта\, обслуживание и 
- ремонт (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТТПЗ-301/11\nПара: 8 пара\nДополни
- тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:576f370b4a998a111
- d21a31552b40b44\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c-0
- 4421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:4cb1dce53253ca4cbedb7c98cf0dcfe4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
@@ -142,5 +86,75 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  тельно: Качурин В.В.\nURALCAMPUS_SYNC_ID:8f57b99772993693e
  044948ab40dbe14\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c-0
  4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:00d479213de4b30f48a7ac3485916d91@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
+DTEND;TZID=Asia/Yekaterinburg:20260914T114000
+SUMMARY:Логистика и управление цепями поста
+ вок (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/11\nПара: 2 пара\nДополни
+ тельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:00d479213de4b30
+ f48a7ac3485916d91\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:769e401af07cdc9af5ee765c1986f4a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T120000
+DTEND;TZID=Asia/Yekaterinburg:20260914T133000
+SUMMARY:Логистика и управление цепями поста
+ вок (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/11\nПара: 3 пара\nДополни
+ тельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:769e401af07cdc9
+ af5ee765c1986f4a6\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8ab5c6a90859bd67cc06134cb01b48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T135000
+DTEND;TZID=Asia/Yekaterinburg:20260914T152000
+SUMMARY:Логистика и управление цепями поста
+ вок (Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/11\nПара: 4 пара\nДополни
+ тельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:2c8ab5c6a90859b
+ d67cc06134cb01b48\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:185c14f9e5dd785f650c93b3bc800db0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T153000
+DTEND;TZID=Asia/Yekaterinburg:20260914T170000
+SUMMARY:Логистика и управление цепями поста
+ вок (Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/11\nПара: 5 пара\nДополни
+ тельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:185c14f9e5dd785
+ f650c93b3bc800db0\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:507871506462e0fb6a483454a23506c3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T171000
+DTEND;TZID=Asia/Yekaterinburg:20260914T182000
+SUMMARY:Логистика и управление цепями поста
+ вок (Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-301/11\nПара: 6 пара\nДополни
+ тельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:507871506462e0f
+ b6a483454a23506c3\nURALCAMPUS_SOURCE:inueco:group:7015fa29-6e2c-11f1-ad9c
+ -04421acb877d
 END:VEVENT
 END:VCALENDAR

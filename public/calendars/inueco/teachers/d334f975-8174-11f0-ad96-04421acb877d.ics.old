@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Винникова Р
+ ушания Василовна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:006e47934566e0e67e7d12df3df9536f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Международное частное право (Практи
+ ка)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Винникова Рушания Вас
+ иловна\nПара: 7 пара\nДополнительно: ЮЗ-501/
+ 01\, ЮЗ-501/02\, ЮЗ-501/03\, ЮЗ-501/04\, ЮЗ-501/04а\, ЮЗ-501/0
+ 8\nURALCAMPUS_SYNC_ID:006e47934566e0e67e7d12df3df9536f\nURALCAMPUS_SOURCE
+ :inueco:teacher:d334f975-8174-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:399ca43910683ec971ef1d357716d5e7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T153000
+DTEND;TZID=Asia/Yekaterinburg:20260910T170000
+SUMMARY:Международное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Винникова Рушания Вас
+ иловна\nПара: 5 пара\nДополнительно: Ю-401\nU
+ RALCAMPUS_SYNC_ID:399ca43910683ec971ef1d357716d5e7\nURALCAMPUS_SOURCE:inu
+ eco:teacher:d334f975-8174-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bb4dc1dc7b8f04a53333cca081b8b4fc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Международное частное право (Практи
+ ка)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Винникова Рушания Вас
+ иловна\nПара: 8 пара\nДополнительно: ЮЗ-501/
+ 01\, ЮЗ-501/02\, ЮЗ-501/03\, ЮЗ-501/04\, ЮЗ-501/04а\, ЮЗ-501/0
+ 8\nURALCAMPUS_SYNC_ID:bb4dc1dc7b8f04a53333cca081b8b4fc\nURALCAMPUS_SOURCE
+ :inueco:teacher:d334f975-8174-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd345c45e732be30c052fc6c7362158@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Международное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Винникова Рушания Вас
+ иловна\nПара: 6 пара\nДополнительно: Ю-401\nU
+ RALCAMPUS_SYNC_ID:dbd345c45e732be30c052fc6c7362158\nURALCAMPUS_SOURCE:inu
+ eco:teacher:d334f975-8174-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

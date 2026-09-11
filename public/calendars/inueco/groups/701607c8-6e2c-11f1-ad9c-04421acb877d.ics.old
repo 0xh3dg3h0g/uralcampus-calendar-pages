@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЮЗм-301/06
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ee8309a1903906dcea930e239b5c16d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Производственная практика (преддип
+ ломная практика) (Зачет по практике)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-301/06\nПара: 8 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:ee8309a1903906dce
+ a930e239b5c16d6\nURALCAMPUS_SOURCE:inueco:group:701607c8-6e2c-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+END:VCALENDAR

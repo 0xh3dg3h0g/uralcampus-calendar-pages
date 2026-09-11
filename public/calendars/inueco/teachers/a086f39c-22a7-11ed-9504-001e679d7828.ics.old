@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Прокопьева 
+ Юлия Владимировна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:53987447a313fb1baf51faac1130f5d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T171000
+DTEND;TZID=Asia/Yekaterinburg:20260910T182000
+SUMMARY:Комплексный экономический анализ х
+ озяйственной деятельности (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 6 пара\nДополнительно: ЭЗ-50
+ 1/02\, ЭЗ-501/03\, ЭЗ-501/05а\, ЭЗ-501/07а\, ЭЗ-501/09\, ЭЗ-5
+ 01/13\nURALCAMPUS_SYNC_ID:53987447a313fb1baf51faac1130f5d8\nURALCAMPUS_SO
+ URCE:inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c4004b59d510a2a539a40131a5ef2a6d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T183000
+DTEND;TZID=Asia/Yekaterinburg:20260910T194000
+SUMMARY:Комплексный экономический анализ х
+ озяйственной деятельности (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 7 пара\nДополнительно: ЭЗ-50
+ 1/02\, ЭЗ-501/03\, ЭЗ-501/05а\, ЭЗ-501/07а\, ЭЗ-501/09\, ЭЗ-5
+ 01/13\nURALCAMPUS_SYNC_ID:c4004b59d510a2a539a40131a5ef2a6d\nURALCAMPUS_SO
+ URCE:inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e945cc020bcb185b185f8e8b92b4b738@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260910T195000
+DTEND;TZID=Asia/Yekaterinburg:20260910T205000
+SUMMARY:Комплексный экономический анализ х
+ озяйственной деятельности (Практика)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 8 пара\nДополнительно: ЭЗ-50
+ 1/02\, ЭЗ-501/03\, ЭЗ-501/05а\, ЭЗ-501/07а\, ЭЗ-501/09\, ЭЗ-5
+ 01/13\nURALCAMPUS_SYNC_ID:e945cc020bcb185b185f8e8b92b4b738\nURALCAMPUS_SO
+ URCE:inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR
