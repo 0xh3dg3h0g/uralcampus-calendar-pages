@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:7a144e18922b7c6aee32807188c354d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T171000
+DTEND;TZID=Asia/Yekaterinburg:20260915T182000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/05\nПара: 6 пара\nДополнит
+ ельно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:7a144e18922b7c6a
+ ee32807188c354d4\nURALCAMPUS_SOURCE:inueco:group:a09d1db2-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:49adce0ca2e0ba28c516b2c36a9cf676@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T183000
+DTEND;TZID=Asia/Yekaterinburg:20260915T194000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/05\nПара: 7 пара\nДополнит
+ ельно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:49adce0ca2e0ba28
+ c516b2c36a9cf676\nURALCAMPUS_SOURCE:inueco:group:a09d1db2-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
 END:VCALENDAR

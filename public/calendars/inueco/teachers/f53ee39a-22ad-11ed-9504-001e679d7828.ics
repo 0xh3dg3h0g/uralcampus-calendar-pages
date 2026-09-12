@@ -19,36 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2b2afd3fc5909ff4f7fe348562902f13@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T153000
-DTEND;TZID=Asia/Yekaterinburg:20260911T170000
-SUMMARY:Теория транспортных процессов и сис
- тем (Лекция)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Огнев Игорь Игоревич\n
- Пара: 5 пара\nДополнительно: ТТПЗу-301/03\, Т
- ТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAMPUS_SYN
- C_ID:2b2afd3fc5909ff4f7fe348562902f13\nURALCAMPUS_SOURCE:inueco:teacher:f
- 53ee39a-22ad-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:66b96c9c675ec219c1fed7952dae54e1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
-DTEND;TZID=Asia/Yekaterinburg:20260911T182000
-SUMMARY:Теория транспортных процессов и сис
- тем (Лекция)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Огнев Игорь Игоревич\n
- Пара: 6 пара\nДополнительно: ТТПЗу-301/03\, Т
- ТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAMPUS_SYN
- C_ID:66b96c9c675ec219c1fed7952dae54e1\nURALCAMPUS_SOURCE:inueco:teacher:f
- 53ee39a-22ad-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:12e069c234c14be781016ad40dcf3731@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
@@ -77,31 +47,90 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  her:f53ee39a-22ad-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:d07632140b19d00d29b08175fc38aaf3@uralcampus-calendar-pages
+UID:af4c138dcc4aa4cca0e39973f0760fcc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Теория транспортных процессов и сис
+ тем (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Огнев Игорь Игоревич\n
+ Пара: 3 пара\nДополнительно: ТТПЗ-301\nURALCAMPU
+ S_SYNC_ID:af4c138dcc4aa4cca0e39973f0760fcc\nURALCAMPUS_SOURCE:inueco:teac
+ her:f53ee39a-22ad-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fd055139185a039f43b5baa1cb54e7bd@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
 DTEND;TZID=Asia/Yekaterinburg:20260917T152000
 SUMMARY:Теория транспортных процессов и сис
  тем (Практика)
-LOCATION:ауд. 107\, Кожзаводская 1
+LOCATION:ауд. 206\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Огнев Игорь Игоревич\n
  Пара: 4 пара\nДополнительно: ТТПЗ-301\nURALCAMPU
- S_SYNC_ID:d07632140b19d00d29b08175fc38aaf3\nURALCAMPUS_SOURCE:inueco:teac
+ S_SYNC_ID:fd055139185a039f43b5baa1cb54e7bd\nURALCAMPUS_SOURCE:inueco:teac
  her:f53ee39a-22ad-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:13ed076529ac30160fc3fb349b59f0eb@uralcampus-calendar-pages
+UID:248a44c0408c8d97a60ce562eca58245@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T153000
 DTEND;TZID=Asia/Yekaterinburg:20260917T170000
 SUMMARY:Теория транспортных процессов и сис
- тем (Практика)
+ тем (Экзамен)
 LOCATION:ауд. 107\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Огнев Игорь Игоревич\n
  Пара: 5 пара\nДополнительно: ТТПЗ-301\nURALCAMPU
- S_SYNC_ID:13ed076529ac30160fc3fb349b59f0eb\nURALCAMPUS_SOURCE:inueco:teac
+ S_SYNC_ID:248a44c0408c8d97a60ce562eca58245\nURALCAMPUS_SOURCE:inueco:teac
  her:f53ee39a-22ad-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:60ccd478a817d7e92a78754ef50d898e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T120000
+DTEND;TZID=Asia/Yekaterinburg:20260919T133000
+SUMMARY:Теория транспортных процессов и сис
+ тем (Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Огнев Игорь Игоревич\n
+ Пара: 3 пара\nДополнительно: ТТПЗу-301/03\, Т
+ ТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAMPUS_SYN
+ C_ID:60ccd478a817d7e92a78754ef50d898e\nURALCAMPUS_SOURCE:inueco:teacher:f
+ 53ee39a-22ad-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:88a328c10249468a59ea4171d6264141@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T134000
+DTEND;TZID=Asia/Yekaterinburg:20260919T151000
+SUMMARY:Теория транспортных процессов и сис
+ тем (Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Огнев Игорь Игоревич\n
+ Пара: 4 пара\nДополнительно: ТТПЗу-301/03\, Т
+ ТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAMPUS_SYN
+ C_ID:88a328c10249468a59ea4171d6264141\nURALCAMPUS_SOURCE:inueco:teacher:f
+ 53ee39a-22ad-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:80da618ea7211485c88943f47a2b78c8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T152000
+DTEND;TZID=Asia/Yekaterinburg:20260919T165000
+SUMMARY:Теория транспортных процессов и сис
+ тем (Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Огнев Игорь Игоревич\n
+ Пара: 5 пара\nДополнительно: ТТПЗу-301/03\, Т
+ ТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALCAMPUS_SYN
+ C_ID:80da618ea7211485c88943f47a2b78c8\nURALCAMPUS_SOURCE:inueco:teacher:f
+ 53ee39a-22ad-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

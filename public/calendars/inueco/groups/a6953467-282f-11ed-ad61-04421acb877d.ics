@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4ab40673774f6d9fc683f84a0da52165@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
-DTEND;TZID=Asia/Yekaterinburg:20260911T194000
-SUMMARY:Бухгалтерский управленческий учет (
- Лекция)
-LOCATION:ауд. 214/2
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-301/07б\nПара: 7 пара\nДополнит
- ельно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:4ab40673774f
- 6d9fc683f84a0da52165\nURALCAMPUS_SOURCE:inueco:group:a6953467-282f-11ed-a
- d61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:974f38841d8c1576c480c140fd93da53@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
-DTEND;TZID=Asia/Yekaterinburg:20260911T205000
-SUMMARY:Бухгалтерский управленческий учет (
- Лекция)
-LOCATION:ауд. 214/2
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-301/07б\nПара: 8 пара\nДополнит
- ельно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:974f38841d8c
- 1576c480c140fd93da53\nURALCAMPUS_SOURCE:inueco:group:a6953467-282f-11ed-a
- d61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:41904d390310b356b60536877d0e46bf@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260912T083000
@@ -83,5 +55,47 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ельно: Кондратов М. В.\nURALCAMPUS_SYNC_ID:eb21d6bb652530
  014785d8212bfe3185\nURALCAMPUS_SOURCE:inueco:group:a6953467-282f-11ed-ad6
  1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:697c4f3a4d0a8dc520ee3fab77e1397e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T083000
+DTEND;TZID=Asia/Yekaterinburg:20260919T100000
+SUMMARY:Бухгалтерский финансовый учет (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/07б\nПара: 1 пара\nДополнит
+ ельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:697c4f3a4d0
+ a8dc520ee3fab77e1397e\nURALCAMPUS_SOURCE:inueco:group:a6953467-282f-11ed-
+ ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:313d5d743b0c39c128f80494a7973934@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T101000
+DTEND;TZID=Asia/Yekaterinburg:20260919T114000
+SUMMARY:Бухгалтерский финансовый учет (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/07б\nПара: 2 пара\nДополнит
+ ельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:313d5d743b0
+ c39c128f80494a7973934\nURALCAMPUS_SOURCE:inueco:group:a6953467-282f-11ed-
+ ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e1114e8e512882dd08cfe78c7030f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T120000
+DTEND;TZID=Asia/Yekaterinburg:20260919T133000
+SUMMARY:Бухгалтерский финансовый учет (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/07б\nПара: 3 пара\nДополнит
+ ельно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:c27e1114e8e
+ 512882dd08cfe78c7030f\nURALCAMPUS_SOURCE:inueco:group:a6953467-282f-11ed-
+ ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

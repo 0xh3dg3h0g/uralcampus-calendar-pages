@@ -18,31 +18,30 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:658e9173fbc58e7b3c3c1df3be5a8d99@uralcampus-calendar-pages
+UID:1560e5e2ac3c49ad1b5ae814feb5bf30@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T120000
-DTEND;TZID=Asia/Yekaterinburg:20260910T133000
-SUMMARY:Прикладные компьютерные программы 
- в профессиональной деятельности (Аудит
- орные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 3 пара\nДополнительно: Б
- обнев С.В.\nURALCAMPUS_SYNC_ID:658e9173fbc58e7b3c3c1df3be5a8d99\nU
- RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1c3d3b93ba6f5781d50fb4cb0c57d27c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260910T135000
-DTEND;TZID=Asia/Yekaterinburg:20260910T152000
+DTSTART;TZID=Asia/Yekaterinburg:20260914T153000
+DTEND;TZID=Asia/Yekaterinburg:20260914T170000
 SUMMARY:Математические методы решения прик
  ладных профессиональных задач (Аудитор
  ные занятия)
-LOCATION:ауд. 6\, Новый Уренгой
+LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 4 пара\nДополнительно: С
- мирнова Н.В.\nURALCAMPUS_SYNC_ID:1c3d3b93ba6f5781d50fb4cb0c57d27
- c\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+ уппа: ГС-276\nПара: 5 пара\nДополнительно: С
+ мирнова Н.В.\nURALCAMPUS_SYNC_ID:1560e5e2ac3c49ad1b5ae814feb5bf3
+ 0\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8849e58548537e3149635c8ac4082441@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T171000
+DTEND;TZID=Asia/Yekaterinburg:20260914T182000
+SUMMARY:Электротехника и электроника (Аудит
+ орные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 6 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:8849e58548537e3149635c8ac4082441\nU
+ RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -19,20 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9f26477f544779b75b8c41d19fa027b8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T083000
-DTEND;TZID=Asia/Yekaterinburg:20260914T100000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Владимирова Кристина Павл
- овна\nПара: 1 пара\nДополнительно: 135\nURALCAMP
- US_SYNC_ID:9f26477f544779b75b8c41d19fa027b8\nURALCAMPUS_SOURCE:preco:teac
- her:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:00715f8943e5616773031d1fb1d864f3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
@@ -143,6 +129,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  овна\nПара: 4 пара\nДополнительно: ПД-449\nURA
  LCAMPUS_SYNC_ID:6c5ca8e1f9fc175c679772a07e55e1ed\nURALCAMPUS_SOURCE:preco
  :teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f08e8927fd84823bd45307a829736ec6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T153000
+DTEND;TZID=Asia/Yekaterinburg:20260915T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Владимирова Кристина Павл
+ овна\nПара: 5 пара\nДополнительно: Ю-238\, Ю-2
+ 38А\nURALCAMPUS_SYNC_ID:f08e8927fd84823bd45307a829736ec6\nURALCAMPUS_SOU
+ RCE:preco:teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:bd2f59e34965ab937f2cb17cb244c4f8@uralcampus-calendar-pages
@@ -271,7 +271,7 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  _SOURCE:preco:teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:05122d2613889ae168d5881759662c81@uralcampus-calendar-pages
+UID:04e4ed58bbe6441481506219610f3cd6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
 DTEND;TZID=Asia/Yekaterinburg:20260917T133000
@@ -280,9 +280,9 @@ SUMMARY:Физическая культура (Аудиторные зан
 LOCATION:ауд. Спортзал\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Владимирова Кристина Павл
- овна\nПара: 3 пара\nДополнительно: Ю-238\, Ю-2
- 38А\nURALCAMPUS_SYNC_ID:05122d2613889ae168d5881759662c81\nURALCAMPUS_SOU
- RCE:preco:teacher:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
+ овна\nПара: 3 пара\nДополнительно: 135\nURALCAMP
+ US_SYNC_ID:04e4ed58bbe6441481506219610f3cd6\nURALCAMPUS_SOURCE:preco:teac
+ her:3dbdf0c6-7d7f-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:939c2dfcbd52b1293864f2f00030fbeb@uralcampus-calendar-pages

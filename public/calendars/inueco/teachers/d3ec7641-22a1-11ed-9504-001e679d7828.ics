@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cb0eb8a52ec827098f1e64a69f1e4fb1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T083000
-DTEND;TZID=Asia/Yekaterinburg:20260911T100000
-SUMMARY:Макроэкономика (Лекция)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Гарипов Роберт Ильиза
- ревич\nПара: 1 пара\nДополнительно: ТД-206\nU
- RALCAMPUS_SYNC_ID:cb0eb8a52ec827098f1e64a69f1e4fb1\nURALCAMPUS_SOURCE:inu
- eco:teacher:d3ec7641-22a1-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:9f5b70048cdcf512866070b69efd35c3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T101000
-DTEND;TZID=Asia/Yekaterinburg:20260911T114000
-SUMMARY:Макроэкономика (Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Гарипов Роберт Ильиза
- ревич\nПара: 2 пара\nДополнительно: ТД-206\nU
- RALCAMPUS_SYNC_ID:9f5b70048cdcf512866070b69efd35c3\nURALCAMPUS_SOURCE:inu
- eco:teacher:d3ec7641-22a1-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:9daf196de6b4e67b7166a5a4a742abee@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T171000
@@ -82,5 +56,50 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ревич\nПара: 8 пара\nДополнительно: ЭЗ-201\nU
  RALCAMPUS_SYNC_ID:1bf77d931b4fd0b515ba186420443dfd\nURALCAMPUS_SOURCE:inu
  eco:teacher:d3ec7641-22a1-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:25aa4e4cec0967ad201936ab3afec936@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T171000
+DTEND;TZID=Asia/Yekaterinburg:20260917T182000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Гарипов Роберт Ильиза
+ ревич\nПара: 6 пара\nДополнительно: ЭЗ-201/02
+ \, ЭЗ-201/04а\, ЭЗ-201/05\, ЭЗ-201/06\, ЭЗ-201/07\, ЭЗ-201/07
+ а\, ЭЗ-201/07б\, ЭЗ-201/12а\, ЭЗ-201/13\, ЭЗд-201\nURALCAMPUS
+ _SYNC_ID:25aa4e4cec0967ad201936ab3afec936\nURALCAMPUS_SOURCE:inueco:teach
+ er:d3ec7641-22a1-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4579e583dfddd67206729fa87834cd56@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T183000
+DTEND;TZID=Asia/Yekaterinburg:20260917T194000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Гарипов Роберт Ильиза
+ ревич\nПара: 7 пара\nДополнительно: ЭЗ-201/02
+ \, ЭЗ-201/04а\, ЭЗ-201/05\, ЭЗ-201/06\, ЭЗ-201/07\, ЭЗ-201/07
+ а\, ЭЗ-201/07б\, ЭЗ-201/12а\, ЭЗ-201/13\, ЭЗд-201\nURALCAMPUS
+ _SYNC_ID:4579e583dfddd67206729fa87834cd56\nURALCAMPUS_SOURCE:inueco:teach
+ er:d3ec7641-22a1-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:7c309ff8a07ca7a3c80b5018195d02d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T195000
+DTEND;TZID=Asia/Yekaterinburg:20260917T205000
+SUMMARY:Макроэкономика (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Гарипов Роберт Ильиза
+ ревич\nПара: 8 пара\nДополнительно: ЭЗ-201/02
+ \, ЭЗ-201/04а\, ЭЗ-201/05\, ЭЗ-201/06\, ЭЗ-201/07\, ЭЗ-201/07
+ а\, ЭЗ-201/07б\, ЭЗ-201/12а\, ЭЗ-201/13\, ЭЗд-201\nURALCAMPUS
+ _SYNC_ID:7c309ff8a07ca7a3c80b5018195d02d6\nURALCAMPUS_SOURCE:inueco:teach
+ er:d3ec7641-22a1-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

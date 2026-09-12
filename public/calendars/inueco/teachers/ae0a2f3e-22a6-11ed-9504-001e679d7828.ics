@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:15b2dc3ff2add33b29500978a68cff93@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T171000
-DTEND;TZID=Asia/Yekaterinburg:20260911T182000
-SUMMARY:Методы принятия управленческих реш
- ений (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Пасешник Наталья Петр
- овна\nПара: 6 пара\nДополнительно: ГМУЗ-301\
- nURALCAMPUS_SYNC_ID:15b2dc3ff2add33b29500978a68cff93\nURALCAMPUS_SOURCE:i
- nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:728aea4bd0722439d2393c2a19dbc653@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
-DTEND;TZID=Asia/Yekaterinburg:20260911T194000
-SUMMARY:Методы принятия управленческих реш
- ений (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Пасешник Наталья Петр
- овна\nПара: 7 пара\nДополнительно: ГМУЗ-301\
- nURALCAMPUS_SYNC_ID:728aea4bd0722439d2393c2a19dbc653\nURALCAMPUS_SOURCE:i
- nueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:635fb0beee3aedc6ce80dfa5c3e5d483@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
@@ -142,6 +114,21 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  :ae0a2f3e-22a6-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
+UID:d216816ad53b7b147a24f2a567a98d90@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T183000
+DTEND;TZID=Asia/Yekaterinburg:20260914T194000
+SUMMARY:Логистика и управление цепями поста
+ вок (Экзамен)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 7 пара\nДополнительно: ТТПЗу-30
+ 1/03\, ТТПЗу-301/05\, ТТПЗу-301/07б\, ТТПЗу-301/12\nURALC
+ AMPUS_SYNC_ID:d216816ad53b7b147a24f2a567a98d90\nURALCAMPUS_SOURCE:inueco:
+ teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
 UID:9a13781e3583ee36bb3903e0af74c2fd@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
@@ -166,6 +153,54 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  овна\nПара: 5 пара\nДополнительно: ТД-406\nURA
  LCAMPUS_SYNC_ID:c6ea620fd2de754b5b48450dc7fd7fc9\nURALCAMPUS_SOURCE:inuec
  o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:173e9ad6cda9191b8d829dfda62dbc6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T171000
+DTEND;TZID=Asia/Yekaterinburg:20260915T182000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 6 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:173e9ad6cda9191b8d829dfda62dbc6e\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:47471ddc7ee57d57466ce72dfccf51b6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T183000
+DTEND;TZID=Asia/Yekaterinburg:20260915T194000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 7 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:47471ddc7ee57d57466ce72dfccf51b6\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:9407b448f807edc9ea35b254e02691fd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T195000
+DTEND;TZID=Asia/Yekaterinburg:20260915T205000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 8 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:9407b448f807edc9ea35b254e02691fd\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
 UID:7bb1a9f9cf68d67dd1805c9d7e47287a@uralcampus-calendar-pages
@@ -286,6 +321,54 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  овна\nПара: 5 пара\nДополнительно: ТД-406\nURA
  LCAMPUS_SYNC_ID:d8fe4caef8f19a0d28d584ae7d7c6279\nURALCAMPUS_SOURCE:inuec
  o:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fac5f1c00342ea5e237b6584cdb33b32@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T171000
+DTEND;TZID=Asia/Yekaterinburg:20260917T182000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 6 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:fac5f1c00342ea5e237b6584cdb33b32\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:1d5254f90beda8cc93f5563856aff9dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T183000
+DTEND;TZID=Asia/Yekaterinburg:20260917T194000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 7 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:1d5254f90beda8cc93f5563856aff9dd\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:ae3f7c35d8521bd0a763d716ff1ac9e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T195000
+DTEND;TZID=Asia/Yekaterinburg:20260917T205000
+SUMMARY:Современные маркетинговые коммуник
+ ации (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пасешник Наталья Петр
+ овна\nПара: 8 пара\nДополнительно: МЗ-301/01\,
+  МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301/06\, 
+ МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а
+ \, МЗД-301\nURALCAMPUS_SYNC_ID:ae3f7c35d8521bd0a763d716ff1ac9e2\nURALC
+ AMPUS_SOURCE:inueco:teacher:ae0a2f3e-22a6-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
 UID:c3fb35e554a9ebfeef9d5b049cf024b2@uralcampus-calendar-pages

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЗ-301/07
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b2a4ed5f7c96fe2f091705d1dc5905fd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T183000
+DTEND;TZID=Asia/Yekaterinburg:20260911T194000
+SUMMARY:Бухгалтерский управленческий учет (
+ Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/07\nПара: 7 пара\nДополните
+ льно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:b2a4ed5f7c96fe
+ 2f091705d1dc5905fd\nURALCAMPUS_SOURCE:inueco:group:a6953466-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d59dc71824b04bd312250eac21440ff1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260911T195000
+DTEND;TZID=Asia/Yekaterinburg:20260911T205000
+SUMMARY:Бухгалтерский управленческий учет (
+ Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/07\nПара: 8 пара\nДополните
+ льно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:d59dc71824b04b
+ d312250eac21440ff1\nURALCAMPUS_SOURCE:inueco:group:a6953466-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+END:VCALENDAR
