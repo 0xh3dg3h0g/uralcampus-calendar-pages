@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Тейтельбау
+ м Евгений Григорьевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9bd40cedf6120e5ea5d695ae34873406@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T170000
+DTEND;TZID=Asia/Yekaterinburg:20260912T181000
+SUMMARY:История государственного управлени
+ я в России (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Тейтельбаум Евгений Г
+ ригорьевич\nПара: 6 пара\nДополнительно: 
+ ГМУЗ-201/01\, ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, 
+ ГМУЗ-201/04а\, ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07
+ \, ГМУЗ-201/07б\, ГМУЗ-201/08\, ГМУЗ-201/11\, ГМУЗ-201/1
+ 2\, ГМУЗ-201/12а\, ГМУЗ-201/13\, ГМУЗ-201/13а\, ГМУЗД-
+ 201\nURALCAMPUS_SYNC_ID:9bd40cedf6120e5ea5d695ae34873406\nURALCAMPUS_SOUR
+ CE:inueco:teacher:e5420d27-65e4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ba56ac1f43365547fe665d7299c93061@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T182000
+DTEND;TZID=Asia/Yekaterinburg:20260912T193000
+SUMMARY:История государственного управлени
+ я в России (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Тейтельбаум Евгений Г
+ ригорьевич\nПара: 7 пара\nДополнительно: 
+ ГМУЗ-201/01\, ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, 
+ ГМУЗ-201/04а\, ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07
+ \, ГМУЗ-201/07б\, ГМУЗ-201/08\, ГМУЗ-201/11\, ГМУЗ-201/1
+ 2\, ГМУЗ-201/12а\, ГМУЗ-201/13\, ГМУЗ-201/13а\, ГМУЗД-
+ 201\nURALCAMPUS_SYNC_ID:ba56ac1f43365547fe665d7299c93061\nURALCAMPUS_SOUR
+ CE:inueco:teacher:e5420d27-65e4-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

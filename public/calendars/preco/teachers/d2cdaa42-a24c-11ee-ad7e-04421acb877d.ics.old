@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Крапивина Д
+ арья Сергеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:14ef7661ea331ca45651238b7c3742b9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T101000
+DTEND;TZID=Asia/Yekaterinburg:20260912T114000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Дарья Сергеевна\
+ nПара: 2 пара\nДополнительно: ПД-248\, ПД-248А\
+ nURALCAMPUS_SYNC_ID:14ef7661ea331ca45651238b7c3742b9\nURALCAMPUS_SOURCE:p
+ reco:teacher:d2cdaa42-a24c-11ee-ad7e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2207deb31a18f377aec00b536bf358f1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T120000
+DTEND;TZID=Asia/Yekaterinburg:20260912T133000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Дарья Сергеевна\
+ nПара: 3 пара\nДополнительно: ПД-248\, ПД-248А\
+ nURALCAMPUS_SYNC_ID:2207deb31a18f377aec00b536bf358f1\nURALCAMPUS_SOURCE:p
+ reco:teacher:d2cdaa42-a24c-11ee-ad7e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7d92f5d0ae16bdb70b89890b02669b37@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260912T135000
+DTEND;TZID=Asia/Yekaterinburg:20260912T152000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Дарья Сергеевна\
+ nПара: 4 пара\nДополнительно: ПД-248\, ПД-248А\
+ nURALCAMPUS_SYNC_ID:7d92f5d0ae16bdb70b89890b02669b37\nURALCAMPUS_SOURCE:p
+ reco:teacher:d2cdaa42-a24c-11ee-ad7e-04421acb877d
+END:VEVENT
+END:VCALENDAR

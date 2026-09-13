@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:85319cdd30d368f3693cea747eac417a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
+DTEND;TZID=Asia/Yekaterinburg:20260915T133000
+SUMMARY:Уголовный процесс (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сафиханова Марина Петровн
+ а\nПара: 3 пара\nДополнительно: Ю-368\, Ю-368А\n
+ URALCAMPUS_SYNC_ID:85319cdd30d368f3693cea747eac417a\nURALCAMPUS_SOURCE:pr
+ eco:teacher:f65e1da5-dc67-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:31648ca7053ebfe6a6538f92b852f670@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
+DTEND;TZID=Asia/Yekaterinburg:20260915T152000
+SUMMARY:Уголовный процесс (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сафиханова Марина Петровн
+ а\nПара: 4 пара\nДополнительно: Ю-368\, Ю-368А\n
+ URALCAMPUS_SYNC_ID:31648ca7053ebfe6a6538f92b852f670\nURALCAMPUS_SOURCE:pr
+ eco:teacher:f65e1da5-dc67-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR
