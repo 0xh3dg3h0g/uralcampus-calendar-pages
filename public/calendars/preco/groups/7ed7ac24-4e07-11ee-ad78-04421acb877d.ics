@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a11cb0179bbb2eaaa4233161c9241ae0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T135000
-DTEND;TZID=Asia/Yekaterinburg:20260914T152000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-378\, ПД-378А\nПара: 4 пара\nДополните
- льно: Максютова З.Г.\nURALCAMPUS_SYNC_ID:a11cb0179bbb2eaaa
- 4233161c9241ae0\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:98093301ccfb012ac445cb7f2b301096@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T153000
-DTEND;TZID=Asia/Yekaterinburg:20260914T170000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-378\, ПД-378А\nПара: 5 пара\nДополните
- льно: Смаков Л.М.\nURALCAMPUS_SYNC_ID:98093301ccfb012ac445cb7
- f2b301096\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:03851f3123286ad80b321488eb16aba4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
@@ -71,6 +43,47 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-378\, ПД-378А\nПара: 5 пара\nДополните
  льно: Ижохина Н.П.\nURALCAMPUS_SYNC_ID:b8f289f804018b0c2eb1a
  ca37539b6ae\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:22c6521e1ed60887f75c6f8c43df8645@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:Физическая культура (Зачет)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-378\, ПД-378А\nПара: 4 пара\nДополните
+ льно: Смаков Л.М.\nURALCAMPUS_SYNC_ID:22c6521e1ed60887f75c6f8
+ c43df8645\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:47fcbbbf045eb96b1ed56da93a1bd47d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
+DTEND;TZID=Asia/Yekaterinburg:20260916T170000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-378\, ПД-378А\nПара: 5 пара\nДополните
+ льно: Ижохина Н.П.\nURALCAMPUS_SYNC_ID:47fcbbbf045eb96b1ed56
+ da93a1bd47d\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fb8a7dd710ac4f51393d9cb045a8a71f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T171000
+DTEND;TZID=Asia/Yekaterinburg:20260916T182000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-378\, ПД-378А\nПара: 6 пара\nДополните
+ льно: Ижохина Н.П.\nURALCAMPUS_SYNC_ID:fb8a7dd710ac4f51393d9
+ cb045a8a71f\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04421a
  cb877d
 END:VEVENT
 END:VCALENDAR

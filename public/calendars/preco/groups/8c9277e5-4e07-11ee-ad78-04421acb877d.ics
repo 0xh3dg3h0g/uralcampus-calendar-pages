@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9c667d62ac7c3a21aab67a2390208420@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T120000
-DTEND;TZID=Asia/Yekaterinburg:20260914T133000
-SUMMARY:Административный процесс (Аудиторн
- ые занятия)
-LOCATION:ауд. 1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-368\, Ю-368А\nПара: 3 пара\nДополнитель
- но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:9c667d62ac7c3a21aab67a2
- 390208420\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a1ec3d3c963e200727a537f2714a4fdb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T135000
-DTEND;TZID=Asia/Yekaterinburg:20260914T152000
-SUMMARY:Гражданское право (Аудиторные занят
- ия)
-LOCATION:ауд. 4а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-368\, Ю-368А\nПара: 4 пара\nДополнитель
- но: Ижохина Н.П.\nURALCAMPUS_SYNC_ID:a1ec3d3c963e200727a537f27
- 14a4fdb\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
 UID:58e56cfc7b82fce8992ae8e641eb3aa8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
@@ -74,16 +46,45 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  1acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:bfc157faafadb496628dda2b53b483d4@uralcampus-calendar-pages
+UID:a95fc0af9075baaa52b7d62416fb3248@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T153000
-DTEND;TZID=Asia/Yekaterinburg:20260915T170000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260916T083000
+DTEND;TZID=Asia/Yekaterinburg:20260916T100000
+SUMMARY:Уголовный процесс (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-368\, Ю-368А\nПара: 5 пара\nДополнитель
- но: Смаков Л.М.\nURALCAMPUS_SYNC_ID:bfc157faafadb496628dda2b53b
- 483d4\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb877d
+ уппа: Ю-368\, Ю-368А\nПара: 1 пара\nДополнитель
+ но: Сафиханова М.П.\nURALCAMPUS_SYNC_ID:a95fc0af9075baaa52b
+ 7d62416fb3248\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bd81e3358b878157e65110ae49d535e4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
+DTEND;TZID=Asia/Yekaterinburg:20260916T114000
+SUMMARY:Уголовный процесс (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-368\, Ю-368А\nПара: 2 пара\nДополнитель
+ но: Сафиханова М.П.\nURALCAMPUS_SYNC_ID:bd81e3358b878157e65
+ 110ae49d535e4\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8bc412a7cc6f2e6461f91f55efd6a373@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
+DTEND;TZID=Asia/Yekaterinburg:20260916T133000
+SUMMARY:Уголовный процесс (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-368\, Ю-368А\nПара: 3 пара\nДополнитель
+ но: Сафиханова М.П.\nURALCAMPUS_SYNC_ID:8bc412a7cc6f2e6461f
+ 91f55efd6a373\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-0442
+ 1acb877d
 END:VEVENT
 END:VCALENDAR

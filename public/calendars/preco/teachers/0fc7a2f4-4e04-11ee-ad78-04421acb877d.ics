@@ -19,74 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:492a6d632fbf73b11d582ab6f0dd2605@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T083000
-DTEND;TZID=Asia/Yekaterinburg:20260914T100000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Малышева Светлана Ивановн
- а\nПара: 1 пара\nДополнительно: ГС-176\nURALCAMPU
- S_SYNC_ID:492a6d632fbf73b11d582ab6f0dd2605\nURALCAMPUS_SOURCE:preco:teach
- er:0fc7a2f4-4e04-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:fc24b5262c8d97687cd59888b94593ce@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
-DTEND;TZID=Asia/Yekaterinburg:20260914T114000
-SUMMARY:Информационные технологии (Аудитор
- ные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Малышева Светлана Ивановн
- а\nПара: 2 пара\nДополнительно: П-270\nURALCAMPUS_
- SYNC_ID:fc24b5262c8d97687cd59888b94593ce\nURALCAMPUS_SOURCE:preco:teacher
- :0fc7a2f4-4e04-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:546c9e725d628023be013b362099e1f1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T120000
-DTEND;TZID=Asia/Yekaterinburg:20260914T133000
-SUMMARY:Информационные технологии в профес
- сиональной деятельности (Аудиторные за
- нятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Малышева Светлана Ивановн
- а\nПара: 3 пара\nДополнительно: ПД-278\nURALCAMPU
- S_SYNC_ID:546c9e725d628023be013b362099e1f1\nURALCAMPUS_SOURCE:preco:teach
- er:0fc7a2f4-4e04-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:da7a9990365baf2ff742ddbb8334228b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T135000
-DTEND;TZID=Asia/Yekaterinburg:20260914T152000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Малышева Светлана Ивановн
- а\nПара: 4 пара\nДополнительно: Ю-168\nURALCAMPUS_
- SYNC_ID:da7a9990365baf2ff742ddbb8334228b\nURALCAMPUS_SOURCE:preco:teacher
- :0fc7a2f4-4e04-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b325033bb49669a7b08db548f239c465@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T153000
-DTEND;TZID=Asia/Yekaterinburg:20260914T170000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Малышева Светлана Ивановн
- а\nПара: 5 пара\nДополнительно: ГС-376\, ГС-376
- А\nURALCAMPUS_SYNC_ID:b325033bb49669a7b08db548f239c465\nURALCAMPUS_SOURC
- E:preco:teacher:0fc7a2f4-4e04-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:94af861cd82938f33c66fc8708724bdc@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
@@ -137,5 +69,44 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 4 пара\nДополнительно: ПД-178\nURALCAMPU
  S_SYNC_ID:abc6e0c77c964fbfb9f2c1f9a664cae6\nURALCAMPUS_SOURCE:preco:teach
  er:0fc7a2f4-4e04-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3452ca581b85a328bf34272acd0129d0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
+DTEND;TZID=Asia/Yekaterinburg:20260916T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Малышева Светлана Ивановн
+ а\nПара: 2 пара\nДополнительно: ПД-178\nURALCAMPU
+ S_SYNC_ID:3452ca581b85a328bf34272acd0129d0\nURALCAMPUS_SOURCE:preco:teach
+ er:0fc7a2f4-4e04-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:452aaef5d280a2cb5bead877bbcb782e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Малышева Светлана Ивановн
+ а\nПара: 4 пара\nДополнительно: Ф-162\nURALCAMPUS_
+ SYNC_ID:452aaef5d280a2cb5bead877bbcb782e\nURALCAMPUS_SOURCE:preco:teacher
+ :0fc7a2f4-4e04-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9090a9a401e7bae4936db9e26cd45440@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
+DTEND;TZID=Asia/Yekaterinburg:20260916T170000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Малышева Светлана Ивановн
+ а\nПара: 5 пара\nДополнительно: Ф-162\nURALCAMPUS_
+ SYNC_ID:9090a9a401e7bae4936db9e26cd45440\nURALCAMPUS_SOURCE:preco:teacher
+ :0fc7a2f4-4e04-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

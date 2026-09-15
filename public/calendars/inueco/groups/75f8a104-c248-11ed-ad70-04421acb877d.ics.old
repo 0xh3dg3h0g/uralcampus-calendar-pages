@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЮЗс-301
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:08e9cc8687c2484d49912d0be0bdb3de@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T183000
+DTEND;TZID=Asia/Yekaterinburg:20260914T194000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗс-301\nПара: 7 пара\nДополнител
+ ьно: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:08e9cc8687c2484d49912d0
+ be0bdb3de\nURALCAMPUS_SOURCE:inueco:group:75f8a104-c248-11ed-ad70-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1077a524f0e44b5cbbc9ad98158f185b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T153000
+DTEND;TZID=Asia/Yekaterinburg:20260914T170000
+SUMMARY:Арбитражный процесс (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗс-301\nПара: 5 пара\nДополнител
+ ьно: Булавинцева Н. А.\nURALCAMPUS_SYNC_ID:1077a524f0e44b
+ 5cbbc9ad98158f185b\nURALCAMPUS_SOURCE:inueco:group:75f8a104-c248-11ed-ad7
+ 0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:247e37de7c5109bee7959055fe0dd49e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T195000
+DTEND;TZID=Asia/Yekaterinburg:20260914T205000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗс-301\nПара: 8 пара\nДополнител
+ ьно: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:247e37de7c5109bee795905
+ 5fe0dd49e\nURALCAMPUS_SOURCE:inueco:group:75f8a104-c248-11ed-ad70-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2639b9f4b2b94a8091207e0ebd64dfbe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T171000
+DTEND;TZID=Asia/Yekaterinburg:20260914T182000
+SUMMARY:Арбитражный процесс (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗс-301\nПара: 6 пара\nДополнител
+ ьно: Булавинцева Н. А.\nURALCAMPUS_SYNC_ID:2639b9f4b2b94a
+ 8091207e0ebd64dfbe\nURALCAMPUS_SOURCE:inueco:group:75f8a104-c248-11ed-ad7
+ 0-04421acb877d
+END:VEVENT
+END:VCALENDAR

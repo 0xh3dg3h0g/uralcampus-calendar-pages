@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Янин Михаил
+  Геннадьевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:319fc6bd6140558f11f6a59d054f798e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T153000
+DTEND;TZID=Asia/Yekaterinburg:20260914T170000
+SUMMARY:Уголовное процессуальное право (Уго
+ ловный процесс) (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Янин Михаил Геннадьев
+ ич\nПара: 5 пара\nДополнительно: СПДЗ-301\nURA
+ LCAMPUS_SYNC_ID:319fc6bd6140558f11f6a59d054f798e\nURALCAMPUS_SOURCE:inuec
+ o:teacher:75abd49b-22a8-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:ad21eb5dc7ea35271e31480f27153dd7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T171000
+DTEND;TZID=Asia/Yekaterinburg:20260914T182000
+SUMMARY:Уголовное процессуальное право (Уго
+ ловный процесс) (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Янин Михаил Геннадьев
+ ич\nПара: 6 пара\nДополнительно: СПДЗ-301\nURA
+ LCAMPUS_SYNC_ID:ad21eb5dc7ea35271e31480f27153dd7\nURALCAMPUS_SOURCE:inuec
+ o:teacher:75abd49b-22a8-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

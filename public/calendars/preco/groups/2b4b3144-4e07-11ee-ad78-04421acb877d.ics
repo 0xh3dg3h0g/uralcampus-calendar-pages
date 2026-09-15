@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:78c974903676165ff0d17140cff337a2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T083000
-DTEND;TZID=Asia/Yekaterinburg:20260914T100000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 1 пара\nДополнительно: М
- алышева С.И.\nURALCAMPUS_SYNC_ID:78c974903676165ff0d17140cff337a
- 2\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:03bb54dae406f0748374b7fa30f31a78@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
-DTEND;TZID=Asia/Yekaterinburg:20260914T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 2 пара\nДополнительно: Т
- укуева Е.В.\nURALCAMPUS_SYNC_ID:03bb54dae406f0748374b7fa30f31a78\
- nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e0592e9dcce8c7db90c8d9c9f01214de@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
@@ -77,5 +53,29 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ГС-176\nПара: 3 пара\nДополнительно: М
  аксютова З.Г.\nURALCAMPUS_SYNC_ID:cf760b477288a9a82c94c90011402
  a15\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b873d5c8097d548a72bb33d1859e6bf1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 4 пара\nДополнительно: Т
+ укуева Е.В.\nURALCAMPUS_SYNC_ID:b873d5c8097d548a72bb33d1859e6bf1\
+ nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:25a8dba26c937f7452b3d0f97e18b126@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
+DTEND;TZID=Asia/Yekaterinburg:20260916T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 5 пара\nДополнительно: Т
+ укуева Е.В.\nURALCAMPUS_SYNC_ID:25a8dba26c937f7452b3d0f97e18b126\
+ nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

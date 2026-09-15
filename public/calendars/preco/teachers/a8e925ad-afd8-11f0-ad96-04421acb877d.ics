@@ -19,58 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1d0e1bc6de9eee46228b27df73be2e98@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T083000
-DTEND;TZID=Asia/Yekaterinburg:20260914T100000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 301\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Балыкова Ольга Владимиров
- на\nПара: 1 пара\nДополнительно: 108\nURALCAMPUS_S
- YNC_ID:1d0e1bc6de9eee46228b27df73be2e98\nURALCAMPUS_SOURCE:preco:teacher:
- a8e925ad-afd8-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:388bd0650b4237dbd06454c3f24f9076@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
-DTEND;TZID=Asia/Yekaterinburg:20260914T114000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 207\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Балыкова Ольга Владимиров
- на\nПара: 2 пара\nДополнительно: 104\nURALCAMPUS_S
- YNC_ID:388bd0650b4237dbd06454c3f24f9076\nURALCAMPUS_SOURCE:preco:teacher:
- a8e925ad-afd8-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d901c2b9ae9186365128a3935ad50a2d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T120000
-DTEND;TZID=Asia/Yekaterinburg:20260914T133000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 301\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Балыкова Ольга Владимиров
- на\nПара: 3 пара\nДополнительно: 110\nURALCAMPUS_S
- YNC_ID:d901c2b9ae9186365128a3935ad50a2d\nURALCAMPUS_SOURCE:preco:teacher:
- a8e925ad-afd8-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1d7caa709b2ec26e0f0e65f4d5f3dbdc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260914T135000
-DTEND;TZID=Asia/Yekaterinburg:20260914T152000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 301\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Балыкова Ольга Владимиров
- на\nПара: 4 пара\nДополнительно: 101\nURALCAMPUS_S
- YNC_ID:1d7caa709b2ec26e0f0e65f4d5f3dbdc\nURALCAMPUS_SOURCE:preco:teacher:
- a8e925ad-afd8-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c280b8165623703979677e9abb11b6ec@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
@@ -474,19 +422,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:a8e925ad-afd8-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:4ffa8fe9f197fdc5f33a7d2495401407@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 312\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Балыкова Ольга Владимиров
- на\nПара: 2 пара\nДополнительно: 142к\nURALCAMPUS
- _SYNC_ID:4ffa8fe9f197fdc5f33a7d2495401407\nURALCAMPUS_SOURCE:preco:teache
- r:a8e925ad-afd8-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:409a39617441c005e90c5b1cf6811dce@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
@@ -497,6 +432,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Балыкова Ольга Владимиров
  на\nПара: 2 пара\nДополнительно: 147к\nURALCAMPUS
  _SYNC_ID:409a39617441c005e90c5b1cf6811dce\nURALCAMPUS_SOURCE:preco:teache
+ r:a8e925ad-afd8-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4ffa8fe9f197fdc5f33a7d2495401407@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
+DTEND;TZID=Asia/Yekaterinburg:20260923T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Балыкова Ольга Владимиров
+ на\nПара: 2 пара\nДополнительно: 142к\nURALCAMPUS
+ _SYNC_ID:4ffa8fe9f197fdc5f33a7d2495401407\nURALCAMPUS_SOURCE:preco:teache
  r:a8e925ad-afd8-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

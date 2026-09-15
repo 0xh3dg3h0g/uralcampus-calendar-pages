@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Скачкова Ек
+ атерина Анатольевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:728427c40b305173d470ae0edf11e7e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T101000
+DTEND;TZID=Asia/Yekaterinburg:20260914T114000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Скачкова Екатерина Ан
+ атольевна\nПара: 2 пара\nДополнительно: Л-
+ 211\nURALCAMPUS_SYNC_ID:728427c40b305173d470ae0edf11e7e5\nURALCAMPUS_SOUR
+ CE:inueco:teacher:e5936e59-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:b86ae5dc54e5f9d11adf1890dce707a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260914T083000
+DTEND;TZID=Asia/Yekaterinburg:20260914T100000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Скачкова Екатерина Ан
+ атольевна\nПара: 1 пара\nДополнительно: Л-
+ 111\nURALCAMPUS_SYNC_ID:b86ae5dc54e5f9d11adf1890dce707a9\nURALCAMPUS_SOUR
+ CE:inueco:teacher:e5936e59-22a7-11ed-9504-001e679d7828
+END:VEVENT
+END:VCALENDAR

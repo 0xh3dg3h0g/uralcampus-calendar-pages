@@ -19,61 +19,57 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9c25696d0672769889264c37f856baea@uralcampus-calendar-pages
+UID:d6aa19bd617cf3d239d9c2f30712e51c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
-DTEND;TZID=Asia/Yekaterinburg:20260915T100000
-SUMMARY:Основы геодезии и картографии\, топо
- графическая графика (Аудиторные заняти
- я)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ерина Мария Алексеевна\nПа
- ра: 1 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC_I
- D:9c25696d0672769889264c37f856baea\nURALCAMPUS_SOURCE:preco:teacher:96cdf
- 103-df1f-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:c2d309d4864403acac947a4ddc499b04@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T101000
-DTEND;TZID=Asia/Yekaterinburg:20260915T114000
-SUMMARY:Основы геодезии и картографии\, топо
- графическая графика (Аудиторные заняти
- я)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ерина Мария Алексеевна\nПа
- ра: 2 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC_I
- D:c2d309d4864403acac947a4ddc499b04\nURALCAMPUS_SOURCE:preco:teacher:96cdf
- 103-df1f-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d46776408dc1775abfe00d60a4d07f48@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
-DTEND;TZID=Asia/Yekaterinburg:20260915T133000
+DTSTART;TZID=Asia/Yekaterinburg:20260916T083000
+DTEND;TZID=Asia/Yekaterinburg:20260916T100000
 SUMMARY:Основы гидравлики\, теплотехники и а
  эродинамики (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+LOCATION:ауд. 3.3\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ерина Мария Алексеевна\nПа
- ра: 3 пара\nДополнительно: ГС-276\nURALCAMPUS_SYNC_I
- D:d46776408dc1775abfe00d60a4d07f48\nURALCAMPUS_SOURCE:preco:teacher:96cdf
+ ра: 1 пара\nДополнительно: ГС-276\nURALCAMPUS_SYNC_I
+ D:d6aa19bd617cf3d239d9c2f30712e51c\nURALCAMPUS_SOURCE:preco:teacher:96cdf
  103-df1f-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:154983a7079765079b8e55779e636d55@uralcampus-calendar-pages
+UID:3e610ddfce46d1e1dc4bdd4c4e3fc4ce@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
-DTEND;TZID=Asia/Yekaterinburg:20260915T152000
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
+DTEND;TZID=Asia/Yekaterinburg:20260916T114000
 SUMMARY:Основы гидравлики\, теплотехники и а
  эродинамики (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+LOCATION:ауд. 3.3\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ерина Мария Алексеевна\nПа
- ра: 4 пара\nДополнительно: ГС-276\nURALCAMPUS_SYNC_I
- D:154983a7079765079b8e55779e636d55\nURALCAMPUS_SOURCE:preco:teacher:96cdf
+ ра: 2 пара\nДополнительно: ГС-276\nURALCAMPUS_SYNC_I
+ D:3e610ddfce46d1e1dc4bdd4c4e3fc4ce\nURALCAMPUS_SOURCE:preco:teacher:96cdf
  103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f845f96eb37e9e455098dac6e4ba281a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
+DTEND;TZID=Asia/Yekaterinburg:20260916T133000
+SUMMARY:Охрана труда (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 3 пара\nДополнительно: ЗИ-374\, ЗИ-374А\nURAL
+ CAMPUS_SYNC_ID:f845f96eb37e9e455098dac6e4ba281a\nURALCAMPUS_SOURCE:preco:
+ teacher:96cdf103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:61542c2e8ff0c78b81c044f6ea0b62ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
+DTEND;TZID=Asia/Yekaterinburg:20260916T152000
+SUMMARY:Охрана труда (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 4 пара\nДополнительно: ЗИ-374\, ЗИ-374А\nURAL
+ CAMPUS_SYNC_ID:61542c2e8ff0c78b81c044f6ea0b62ca\nURALCAMPUS_SOURCE:preco:
+ teacher:96cdf103-df1f-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR
