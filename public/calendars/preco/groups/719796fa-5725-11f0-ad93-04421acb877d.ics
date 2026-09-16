@@ -18,31 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:00aa414eddefc94ecabf556b4dc608f9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
-DTEND;TZID=Asia/Yekaterinburg:20260915T133000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ЗИ-274\nПара: 3 пара\nДополнительно: К
- ойшина Е.А.\nURALCAMPUS_SYNC_ID:00aa414eddefc94ecabf556b4dc608f9\
- nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8ea0123a24ca8328cfe6d7d8f73a0dd3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
-DTEND;TZID=Asia/Yekaterinburg:20260915T152000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ЗИ-274\nПара: 4 пара\nДополнительно: С
- маков Л.М.\nURALCAMPUS_SYNC_ID:8ea0123a24ca8328cfe6d7d8f73a0dd3\nU
- RALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:b8a0071f43e3a6b55d695ad80e6b5ad3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T083000
@@ -67,5 +42,35 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ЗИ-274\nПара: 2 пара\nДополнительно: Л
  укманова С.В.\nURALCAMPUS_SYNC_ID:b9d7d9de60d85493094be9059ff79
  401\nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:84194113b4569f7525924ba791a7ab06@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Выполнение полевых и камеральных ра
+ бот по созданию геодезических сетей спе
+ циального назначения (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-274\nПара: 1 пара\nДополнительно: Т
+ орговкин В.Н.\nURALCAMPUS_SYNC_ID:84194113b4569f7525924ba791a7a
+ b06\nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c21a9ec38f6fc511d506a5da65aa688e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Выполнение полевых и камеральных ра
+ бот по созданию геодезических сетей спе
+ циального назначения (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-274\nПара: 2 пара\nДополнительно: Т
+ орговкин В.Н.\nURALCAMPUS_SYNC_ID:c21a9ec38f6fc511d506a5da65aa6
+ 88e\nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
 END:VEVENT
 END:VCALENDAR

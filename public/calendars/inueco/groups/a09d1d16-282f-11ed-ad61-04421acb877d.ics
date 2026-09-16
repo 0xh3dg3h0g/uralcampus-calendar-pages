@@ -17,4 +17,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:38bbb46e52ff7c9fe423c63edd326b9a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T153000
+DTEND;TZID=Asia/Yekaterinburg:20260918T170000
+SUMMARY:Производственная практика (преддип
+ ломная практика) (Зачет по практике)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗм-301/13\nПара: 5 пара\nДополн
+ ительно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:38bbb46e52ff
+ 7c9fe423c63edd326b9a\nURALCAMPUS_SOURCE:inueco:group:a09d1d16-282f-11ed-a
+ d61-04421acb877d
+END:VEVENT
 END:VCALENDAR

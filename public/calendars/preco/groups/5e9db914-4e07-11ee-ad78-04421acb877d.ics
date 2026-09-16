@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:775bf27350fcd6143c2e920dfab11a02@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
-DTEND;TZID=Asia/Yekaterinburg:20260915T100000
-SUMMARY:Лекарствоведение с основами фармак
- ологии (Аудиторные занятия)
-LOCATION:ауд. 3.3\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-262\, Ф-262А\nПара: 1 пара\nДополнитель
- но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:775bf27350fcd6143c2e920dfab
- 11a02\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8596d58e59210c71c72c2022a575d113@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T101000
-DTEND;TZID=Asia/Yekaterinburg:20260915T114000
-SUMMARY:Лекарствоведение с основами фармак
- ологии (Аудиторные занятия)
-LOCATION:ауд. 3.3\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-262\, Ф-262А\nПара: 2 пара\nДополнитель
- но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:8596d58e59210c71c72c2022a57
- 5d113\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:94fd2cc7debc14e920245e613e98ac83@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T083000
@@ -82,5 +56,45 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ф-262\, Ф-262А\nПара: 3 пара\nДополнитель
  но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:e2a5027a0958edf7521cce92f5c
  5b613\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e2b05c5b21f17a91a487dcb4cbf058eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-262\, Ф-262А\nПара: 3 пара\nДополнитель
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:e2b05c5b21f17a91a487dcb4cbf
+ 058eb\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:731decbcd41f04c9271de958a9d37119@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
+DTEND;TZID=Asia/Yekaterinburg:20260917T152000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-262\, Ф-262А\nПара: 4 пара\nДополнитель
+ но: Киреева Ф.З.\nURALCAMPUS_SYNC_ID:731decbcd41f04c9271de958a
+ 9d37119\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6796952fa2de2ad19f9cb51289673f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T153000
+DTEND;TZID=Asia/Yekaterinburg:20260917T170000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-262\, Ф-262А\nПара: 5 пара\nДополнитель
+ но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:cf6796952fa2de2ad19f9cb51
+ 289673f\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
+ 7d
 END:VEVENT
 END:VCALENDAR

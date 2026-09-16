@@ -19,19 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1441a057b5cd6a7deb288b8369d3b488@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
-DTEND;TZID=Asia/Yekaterinburg:20260916T114000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролова Ксения Михайловна\
- nПара: 2 пара\nДополнительно: 136к\nURALCAMPUS_SYNC
- _ID:1441a057b5cd6a7deb288b8369d3b488\nURALCAMPUS_SOURCE:preco:teacher:067
- c5197-0309-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:b58c26f6c1ca7bc2378a6256889d6187@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
@@ -45,16 +32,29 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  c5197-0309-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:442ad9725aef9d5467ea6effbe56b940@uralcampus-calendar-pages
+UID:1441a057b5cd6a7deb288b8369d3b488@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
-DTEND;TZID=Asia/Yekaterinburg:20260917T152000
+DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
+DTEND;TZID=Asia/Yekaterinburg:20260916T114000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Фролова Ксения Михайловна\
+ nПара: 2 пара\nДополнительно: 136к\nURALCAMPUS_SYNC
+ _ID:1441a057b5cd6a7deb288b8369d3b488\nURALCAMPUS_SOURCE:preco:teacher:067
+ c5197-0309-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:5eda99bb29eac2bdfee9e4b54a782103@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T153000
+DTEND;TZID=Asia/Yekaterinburg:20260917T170000
 SUMMARY:Литература (Аудиторные занятия)
 LOCATION:ауд. 410\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролова Ксения Михайловна\
- nПара: 4 пара\nДополнительно: 135к\nURALCAMPUS_SYNC
- _ID:442ad9725aef9d5467ea6effbe56b940\nURALCAMPUS_SOURCE:preco:teacher:067
+ nПара: 5 пара\nДополнительно: 135к\nURALCAMPUS_SYNC
+ _ID:5eda99bb29eac2bdfee9e4b54a782103\nURALCAMPUS_SOURCE:preco:teacher:067
  c5197-0309-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT

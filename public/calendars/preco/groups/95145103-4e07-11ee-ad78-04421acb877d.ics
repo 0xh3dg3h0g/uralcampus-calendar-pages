@@ -18,49 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5fa54981e6f4893f205bf7c295fad33c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T120000
-DTEND;TZID=Asia/Yekaterinburg:20260915T133000
-SUMMARY:Автоматика и телемеханика систем га
- зоснабжения (Аудиторные занятия)
-LOCATION:ауд. 1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-476\, ГС-476А\nПара: 3 пара\nДополните
- льно: Бобнев С.В.\nURALCAMPUS_SYNC_ID:5fa54981e6f4893f205bf7c
- 295fad33c\nURALCAMPUS_SOURCE:preco:group:95145103-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5b918bfcf9065797c6db7129b96e31a1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
-DTEND;TZID=Asia/Yekaterinburg:20260915T152000
-SUMMARY:Автоматика и телемеханика систем га
- зоснабжения (Аудиторные занятия)
-LOCATION:ауд. 1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-476\, ГС-476А\nПара: 4 пара\nДополните
- льно: Бобнев С.В.\nURALCAMPUS_SYNC_ID:5b918bfcf9065797c6db712
- 9b96e31a1\nURALCAMPUS_SOURCE:preco:group:95145103-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a5f05c1101a5eaf8e31a546aa01daa84@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T153000
-DTEND;TZID=Asia/Yekaterinburg:20260915T170000
-SUMMARY:Реализация технологических процесс
- ов монтажа систем газораспределения и г
- азопотребления (Аудиторные занятия)
-LOCATION:ауд. 1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-476\, ГС-476А\nПара: 5 пара\nДополните
- льно: Бобнев С.В.\nURALCAMPUS_SYNC_ID:a5f05c1101a5eaf8e31a546
- aa01daa84\nURALCAMPUS_SOURCE:preco:group:95145103-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:30f136e2ad4f824ef42b839bf8e43970@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
@@ -89,5 +46,31 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  льно: Бобнев С.В.\nURALCAMPUS_SYNC_ID:fbd466634f184fcdc15181b
  eda11830d\nURALCAMPUS_SOURCE:preco:group:95145103-4e07-11ee-ad78-04421acb
  877d
+END:VEVENT
+BEGIN:VEVENT
+UID:708726896f1b10b074dcfc4e0683675d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Охрана труда (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-476\, ГС-476А\nПара: 1 пара\nДополните
+ льно: Ерина М.А.\nURALCAMPUS_SYNC_ID:708726896f1b10b074dcfc4e0
+ 683675d\nURALCAMPUS_SOURCE:preco:group:95145103-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9596fc57d2d82303b8d3f1a89442a4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Охрана труда (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-476\, ГС-476А\nПара: 2 пара\nДополните
+ льно: Ерина М.А.\nURALCAMPUS_SYNC_ID:3b9596fc57d2d82303b8d3f1a
+ 89442a4\nURALCAMPUS_SOURCE:preco:group:95145103-4e07-11ee-ad78-04421acb87
+ 7d
 END:VEVENT
 END:VCALENDAR

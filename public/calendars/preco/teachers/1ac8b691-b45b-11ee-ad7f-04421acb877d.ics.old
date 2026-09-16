@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Дубинин Вас
+ илий Петрович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5e7d9a33b507f22538f0bd0042620cef@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T183000
+DTEND;TZID=Asia/Yekaterinburg:20260915T194000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дубинин Василий Петрович\n
+ Пара: 7 пара\nДополнительно: ПД-478\, ПД-478А\n
+ URALCAMPUS_SYNC_ID:5e7d9a33b507f22538f0bd0042620cef\nURALCAMPUS_SOURCE:pr
+ eco:teacher:1ac8b691-b45b-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e7380f63892b41b5d594737bc79dff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260915T171000
+DTEND;TZID=Asia/Yekaterinburg:20260915T182000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дубинин Василий Петрович\n
+ Пара: 6 пара\nДополнительно: ПД-478\, ПД-478А\n
+ URALCAMPUS_SYNC_ID:d5e7380f63892b41b5d594737bc79dff\nURALCAMPUS_SOURCE:pr
+ eco:teacher:1ac8b691-b45b-11ee-ad7f-04421acb877d
+END:VEVENT
+END:VCALENDAR

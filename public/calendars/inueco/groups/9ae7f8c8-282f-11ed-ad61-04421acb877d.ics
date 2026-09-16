@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b3bd7d58a8d717dcf01c9be0738e74e7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T135000
-DTEND;TZID=Asia/Yekaterinburg:20260915T152000
-SUMMARY:Композиционное моделирование (Лекц
- ия)
-LOCATION:ауд. 206\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: А-310\nПара: 4 пара\nДополнительн
- о: Исламова В.Р.\nURALCAMPUS_SYNC_ID:b3bd7d58a8d717dcf01c9be07
- 38e74e7\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c8-282f-11ed-ad61-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
-UID:18981e4f3ea73b08035cecdb1dd949c5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T153000
-DTEND;TZID=Asia/Yekaterinburg:20260915T170000
-SUMMARY:Композиционное моделирование (Лекц
- ия)
-LOCATION:ауд. 206\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: А-310\nПара: 5 пара\nДополнительн
- о: Исламова В.Р.\nURALCAMPUS_SYNC_ID:18981e4f3ea73b08035cecdb1
- dd949c5\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c8-282f-11ed-ad61-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
 UID:4034dea8af12c33a010f072455bb57e7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
@@ -151,5 +123,33 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:58456f9a48c9b119ad701148da1
  b06c5\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c8-282f-11ed-ad61-04421acb877
  d
+END:VEVENT
+BEGIN:VEVENT
+UID:ae320f0556bc97b627a8d0b987db3a54@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T083000
+DTEND;TZID=Asia/Yekaterinburg:20260919T100000
+SUMMARY:Компьютерная графика в архитектуре 
+ и дизайне среды (Лекция)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-310\nПара: 1 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:ae320f0556bc97b627a8d0
+ b987db3a54\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c8-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f6339e814a5042c20035c13650fa9bad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260919T101000
+DTEND;TZID=Asia/Yekaterinburg:20260919T114000
+SUMMARY:Компьютерная графика в архитектуре 
+ и дизайне среды (Лекция)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-310\nПара: 2 пара\nДополнительн
+ о: Епифанова А. Г.\nURALCAMPUS_SYNC_ID:f6339e814a5042c20035c1
+ 3650fa9bad\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c8-282f-11ed-ad61-04421a
+ cb877d
 END:VEVENT
 END:VCALENDAR

@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:668c0b7cadf21ac8fc0d19cce8eef25d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T083000
-DTEND;TZID=Asia/Yekaterinburg:20260915T100000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 132к\nПара: 1 пара\nДополнительно: Сат
- аева М.Р.\nURALCAMPUS_SYNC_ID:668c0b7cadf21ac8fc0d19cce8eef25d\nURA
- LCAMPUS_SOURCE:preco:group:e650428d-0300-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:9c79f54c485e2482aac9b5952e4297dc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260915T101000
-DTEND;TZID=Asia/Yekaterinburg:20260915T114000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 132к\nПара: 2 пара\nДополнительно: Шал
- гина С.В.\nURALCAMPUS_SYNC_ID:9c79f54c485e2482aac9b5952e4297dc\nURA
- LCAMPUS_SOURCE:preco:group:e650428d-0300-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:4c83bfd24011ca3d25c7b1c020bf3419@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
@@ -79,18 +55,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  AMPUS_SOURCE:preco:group:e650428d-0300-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:cdbbe0e1c03a340a7a3b1f569ed94a75@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T171000
-DTEND;TZID=Asia/Yekaterinburg:20260917T182000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 132к\nПара: 6 пара\nДополнительно: Тим
- охин Е.А.\nURALCAMPUS_SYNC_ID:cdbbe0e1c03a340a7a3b1f569ed94a75\nURA
- LCAMPUS_SOURCE:preco:group:e650428d-0300-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:59d4166464043b3e5d011f7dfec1626e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
@@ -104,27 +68,15 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  PUS_SOURCE:preco:group:e650428d-0300-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:61220d431be3ad0d8c81bc6928ed9b07@uralcampus-calendar-pages
+UID:487aeac0b01297c3c4319fa275633a5d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T101000
 DTEND;TZID=Asia/Yekaterinburg:20260918T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 132к\nПара: 2 пара\nДополнительно: Тим
- охин Е.А.\nURALCAMPUS_SYNC_ID:61220d431be3ad0d8c81bc6928ed9b07\nURA
- LCAMPUS_SOURCE:preco:group:e650428d-0300-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:e502a34cb0c160c19b06810848e9f9d9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T120000
-DTEND;TZID=Asia/Yekaterinburg:20260918T133000
 SUMMARY:Русский язык (Аудиторные занятия)
 LOCATION:ауд. 413\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 132к\nПара: 3 пара\nДополнительно: Стр
- унина Е.Ф.\nURALCAMPUS_SYNC_ID:e502a34cb0c160c19b06810848e9f9d9\nU
+ уппа: 132к\nПара: 2 пара\nДополнительно: Стр
+ унина Е.Ф.\nURALCAMPUS_SYNC_ID:487aeac0b01297c3c4319fa275633a5d\nU
  RALCAMPUS_SOURCE:preco:group:e650428d-0300-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
