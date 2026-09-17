@@ -19,33 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:edda3f15cc3ff1427edef3f5006647a1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260916T083000
-DTEND;TZID=Asia/Yekaterinburg:20260916T100000
-SUMMARY:Общая и неорганическая химия (Аудит
- орные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Киреева Фирюза Зуфаровна\n
- Пара: 1 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
- CAMPUS_SYNC_ID:edda3f15cc3ff1427edef3f5006647a1\nURALCAMPUS_SOURCE:preco:
- teacher:2e018551-6409-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b5842b03213ceba654bce49d4db383c3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
-DTEND;TZID=Asia/Yekaterinburg:20260916T114000
-SUMMARY:Ботаника (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Киреева Фирюза Зуфаровна\n
- Пара: 2 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
- CAMPUS_SYNC_ID:b5842b03213ceba654bce49d4db383c3\nURALCAMPUS_SOURCE:preco:
- teacher:2e018551-6409-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e935891b004beab1c6ac4b983e67bd31@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
@@ -97,5 +70,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  Пара: 4 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
  CAMPUS_SYNC_ID:7014e765cd3fb57a0d02c8860fb558e6\nURALCAMPUS_SOURCE:preco:
  teacher:2e018551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:05b6b2fbe8aea804aca100044cf3dae4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T135000
+DTEND;TZID=Asia/Yekaterinburg:20260918T152000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 4 пара\nДополнительно: Б-164\nURALCAMPUS_SYNC
+ _ID:05b6b2fbe8aea804aca100044cf3dae4\nURALCAMPUS_SOURCE:preco:teacher:2e0
+ 18551-6409-11ee-ad79-04421acb877d
 END:VEVENT
 END:VCALENDAR

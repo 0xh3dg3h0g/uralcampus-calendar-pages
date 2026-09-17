@@ -19,61 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2a1349b0fc2fc2d4ebf53f684755ec7d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260916T101000
-DTEND;TZID=Asia/Yekaterinburg:20260916T114000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смаков Ленар Марсович\nПар
- а: 2 пара\nДополнительно: Ю-268\nURALCAMPUS_SYNC_ID:2a
- 1349b0fc2fc2d4ebf53f684755ec7d\nURALCAMPUS_SOURCE:preco:teacher:74618543-
- 8987-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:dda0f65aa1270f6256b1fea53a864955@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260916T120000
-DTEND;TZID=Asia/Yekaterinburg:20260916T133000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смаков Ленар Марсович\nПар
- а: 3 пара\nДополнительно: Ю-168\nURALCAMPUS_SYNC_ID:dd
- a0f65aa1270f6256b1fea53a864955\nURALCAMPUS_SOURCE:preco:teacher:74618543-
- 8987-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:34efc66928319f4c81b6578f70006176@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260916T135000
-DTEND;TZID=Asia/Yekaterinburg:20260916T152000
-SUMMARY:Физическая культура (Зачет)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смаков Ленар Марсович\nПар
- а: 4 пара\nДополнительно: ПД-378\, ПД-378А\nURALCA
- MPUS_SYNC_ID:34efc66928319f4c81b6578f70006176\nURALCAMPUS_SOURCE:preco:te
- acher:74618543-8987-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:82cfe711e6fd8d41849718e9fbdb2e51@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260916T153000
-DTEND;TZID=Asia/Yekaterinburg:20260916T170000
-SUMMARY:Физическая культура / Адаптивная фи
- зическая культура (Аудиторные занятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смаков Ленар Марсович\nПар
- а: 5 пара\nДополнительно: Б-364\, Б-364А\nURALCAMPUS
- _SYNC_ID:82cfe711e6fd8d41849718e9fbdb2e51\nURALCAMPUS_SOURCE:preco:teache
- r:74618543-8987-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:22d76b485f787fd954c91dc38cfd22d5@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
@@ -128,5 +73,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а: 5 пара\nДополнительно: П-370\, П-370А\nURALCAMPUS
  _SYNC_ID:6896a8ee9cf3c63e3b4dfe3ec85ecf2b\nURALCAMPUS_SOURCE:preco:teache
  r:74618543-8987-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2562471e9b6f155442ec99c4936b5ef1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T120000
+DTEND;TZID=Asia/Yekaterinburg:20260918T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смаков Ленар Марсович\nПар
+ а: 3 пара\nДополнительно: Б-164\nURALCAMPUS_SYNC_ID:25
+ 62471e9b6f155442ec99c4936b5ef1\nURALCAMPUS_SOURCE:preco:teacher:74618543-
+ 8987-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

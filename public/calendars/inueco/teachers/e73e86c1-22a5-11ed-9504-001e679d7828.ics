@@ -19,6 +19,19 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:c08e4202bd19b05d4b805e81c877abae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Гражданский процесс (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Макашова Татьяна Павл
+ овна\nПара: 2 пара\nДополнительно: Ю-301\nURALC
+ AMPUS_SYNC_ID:c08e4202bd19b05d4b805e81c877abae\nURALCAMPUS_SOURCE:inueco:
+ teacher:e73e86c1-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
 UID:eb006cfe2330d4f62f92d2a445e9954a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
@@ -29,19 +42,6 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Макашова Татьяна Павл
  овна\nПара: 3 пара\nДополнительно: Ю-301\nURALC
  AMPUS_SYNC_ID:eb006cfe2330d4f62f92d2a445e9954a\nURALCAMPUS_SOURCE:inueco:
- teacher:e73e86c1-22a5-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:d41ee05227d76bbd8702b027b3d89b69@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
-DTEND;TZID=Asia/Yekaterinburg:20260917T152000
-SUMMARY:Гражданский процесс (Лекция)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Макашова Татьяна Павл
- овна\nПара: 4 пара\nДополнительно: Ю-301\nURALC
- AMPUS_SYNC_ID:d41ee05227d76bbd8702b027b3d89b69\nURALCAMPUS_SOURCE:inueco:
  teacher:e73e86c1-22a5-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
