@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:d16689cc6d275d33ac346807cbfe1774@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T183000
+DTEND;TZID=Asia/Yekaterinburg:20260925T194000
+SUMMARY:Региональный рынок труда (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-501\nПара: 7 пара\nДополните
+ льно: Терещук Н.И.\nURALCAMPUS_SYNC_ID:d16689cc6d275d33ac346
+ 807cbfe1774\nURALCAMPUS_SOURCE:inueco:group:a09d1cf6-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bee26eefed8a8ec84ef8577b34f4c1cd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T195000
+DTEND;TZID=Asia/Yekaterinburg:20260925T205000
+SUMMARY:Региональный рынок труда (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-501\nПара: 8 пара\nДополните
+ льно: Терещук Н.И.\nURALCAMPUS_SYNC_ID:bee26eefed8a8ec84ef85
+ 77b34f4c1cd\nURALCAMPUS_SOURCE:inueco:group:a09d1cf6-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
 END:VCALENDAR

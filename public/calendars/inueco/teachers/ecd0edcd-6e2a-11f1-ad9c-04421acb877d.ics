@@ -18,4 +18,46 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:7ec7a1095fce6bc097235e6fe31aa340@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T083000
+DTEND;TZID=Asia/Yekaterinburg:20260921T100000
+SUMMARY:Профессиональная этика юриста (Лекц
+ ия)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 1 пара\nДополнительно: СП
+ Д-112\nURALCAMPUS_SYNC_ID:7ec7a1095fce6bc097235e6fe31aa340\nURALCAMPUS_S
+ OURCE:inueco:teacher:ecd0edcd-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf4e3d8644aca761738910351e7326f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T135000
+DTEND;TZID=Asia/Yekaterinburg:20260922T152000
+SUMMARY:Авторское право и защита интеллекту
+ альной собственности (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 4 пара\nДополнительно: Д-20
+ 5\nURALCAMPUS_SYNC_ID:cdf4e3d8644aca761738910351e7326f\nURALCAMPUS_SOURCE
+ :inueco:teacher:ecd0edcd-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e07bbfac91fb2349ac9483785426c0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T153000
+DTEND;TZID=Asia/Yekaterinburg:20260922T170000
+SUMMARY:Авторское право и защита интеллекту
+ альной собственности (Практика)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Задорожная Вера Алекс
+ андровна\nПара: 5 пара\nДополнительно: Д-20
+ 5\nURALCAMPUS_SYNC_ID:c1e07bbfac91fb2349ac9483785426c0\nURALCAMPUS_SOURCE
+ :inueco:teacher:ecd0edcd-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

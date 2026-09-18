@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:bf53a22e430bb2c6840eab919a97261f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T183000
+DTEND;TZID=Asia/Yekaterinburg:20260923T194000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-401\nПара: 7 пара\nДополнитель
+ но: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:bf53a22e430bb2c6840eab919
+ a97261f\nURALCAMPUS_SOURCE:inueco:group:4b178813-60fb-11ef-ad90-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:b81ec47375e8c298aa6d69b4e904a7bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T195000
+DTEND;TZID=Asia/Yekaterinburg:20260923T205000
+SUMMARY:Основы производственного мастерств
+ а (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-401\nПара: 8 пара\nДополнитель
+ но: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:b81ec47375e8c298aa6d69b4e
+ 904a7bb\nURALCAMPUS_SOURCE:inueco:group:4b178813-60fb-11ef-ad90-04421acb8
+ 77d
+END:VEVENT
 END:VCALENDAR

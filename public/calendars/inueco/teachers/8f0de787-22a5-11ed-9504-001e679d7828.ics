@@ -19,42 +19,68 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a3cfecc31a6e64d521a939b16b6bcbb9@uralcampus-calendar-pages
+UID:a23dc5bd28d96a8f053e5c133531b486@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
-DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
+DTEND;TZID=Asia/Yekaterinburg:20260921T114000
+SUMMARY:Уголовное право (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ефименко Евгения Нико
+ лаевна\nПара: 2 пара\nДополнительно: Ю-201\nU
+ RALCAMPUS_SYNC_ID:a23dc5bd28d96a8f053e5c133531b486\nURALCAMPUS_SOURCE:inu
+ eco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4fd20917f1001d847d4b2d40d598445e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:Криминология (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ефименко Евгения Нико
+ лаевна\nПара: 3 пара\nДополнительно: Ю-301\nU
+ RALCAMPUS_SYNC_ID:4fd20917f1001d847d4b2d40d598445e\nURALCAMPUS_SOURCE:inu
+ eco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:069144b0d7f38cbe4ca043c58a28d173@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
+DTEND;TZID=Asia/Yekaterinburg:20260924T100000
 SUMMARY:Уголовное право (Практика)
 LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ефименко Евгения Нико
  лаевна\nПара: 1 пара\nДополнительно: СПД-21
- 2\nURALCAMPUS_SYNC_ID:a3cfecc31a6e64d521a939b16b6bcbb9\nURALCAMPUS_SOURCE
+ 2\nURALCAMPUS_SYNC_ID:069144b0d7f38cbe4ca043c58a28d173\nURALCAMPUS_SOURCE
  :inueco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:8f501bf000611bcd24f488ff2fe87cbb@uralcampus-calendar-pages
+UID:5b44bbb4fa314142172ced7abc7ffd9b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
-DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
+DTEND;TZID=Asia/Yekaterinburg:20260924T114000
 SUMMARY:Уголовное право (Лекция)
 LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ефименко Евгения Нико
  лаевна\nПара: 2 пара\nДополнительно: СПД-21
- 2\, Ю-201\nURALCAMPUS_SYNC_ID:8f501bf000611bcd24f488ff2fe87cbb\nURALCAMP
+ 2\, Ю-201\nURALCAMPUS_SYNC_ID:5b44bbb4fa314142172ced7abc7ffd9b\nURALCAMP
  US_SOURCE:inueco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:f5a3dd94a85c3cc6f5d68d2a670a391d@uralcampus-calendar-pages
+UID:678d661f7d00c3fa68ce3fea1043d356@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
-DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
+DTEND;TZID=Asia/Yekaterinburg:20260924T133000
 SUMMARY:Уголовное право (Практика)
 LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ефименко Евгения Нико
  лаевна\nПара: 3 пара\nДополнительно: Ю-201\nU
- RALCAMPUS_SYNC_ID:f5a3dd94a85c3cc6f5d68d2a670a391d\nURALCAMPUS_SOURCE:inu
+ RALCAMPUS_SYNC_ID:678d661f7d00c3fa68ce3fea1043d356\nURALCAMPUS_SOURCE:inu
  eco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

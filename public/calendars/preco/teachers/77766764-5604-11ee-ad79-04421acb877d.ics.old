@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Индирбаева 
+ Эльвира Абдулхалимовна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:02754bbfee2e12a11c9ebad63393b156@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
+DTEND;TZID=Asia/Yekaterinburg:20260917T152000
+SUMMARY:Русский язык и культура речи (Аудито
+ рные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 4 пара\nДополнительно: Б-26
+ 4\, Б-264А\nURALCAMPUS_SYNC_ID:02754bbfee2e12a11c9ebad63393b156\nURALCA
+ MPUS_SOURCE:preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:22397ae3860260cde8c8cb105348ce62@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T153000
+DTEND;TZID=Asia/Yekaterinburg:20260917T170000
+SUMMARY:Русский язык и культура речи (Аудито
+ рные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 5 пара\nДополнительно: Б-26
+ 4\, Б-264А\nURALCAMPUS_SYNC_ID:22397ae3860260cde8c8cb105348ce62\nURALCA
+ MPUS_SOURCE:preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:23b1cebffc0ec1f74661ed4e2ae1f686@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T120000
+DTEND;TZID=Asia/Yekaterinburg:20260917T133000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 3 пара\nДополнительно: Ф-16
+ 2\nURALCAMPUS_SYNC_ID:23b1cebffc0ec1f74661ed4e2ae1f686\nURALCAMPUS_SOURCE
+ :preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:95fed56ac0f80e094acf1a37a7756f4f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 1 пара\nДополнительно: ПД-
+ 178\nURALCAMPUS_SYNC_ID:95fed56ac0f80e094acf1a37a7756f4f\nURALCAMPUS_SOUR
+ CE:preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9a42c7b4409183368b062dcb666af02b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 2 пара\nДополнительно: ГС-
+ 176\nURALCAMPUS_SYNC_ID:9a42c7b4409183368b062dcb666af02b\nURALCAMPUS_SOUR
+ CE:preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:56f3aafe3bd23fe9e1597e4d1f7d311c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
-DTEND;TZID=Asia/Yekaterinburg:20260917T152000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 7\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 4 пара\nДополнительно: Ту
- куева Е.В.\nURALCAMPUS_SYNC_ID:56f3aafe3bd23fe9e1597e4d1f7d311c\nU
- RALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:99ceb3c50cf64e9bb16b62db6287fe7c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T153000
-DTEND;TZID=Asia/Yekaterinburg:20260917T170000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 7\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 5 пара\nДополнительно: Ту
- куева Е.В.\nURALCAMPUS_SYNC_ID:99ceb3c50cf64e9bb16b62db6287fe7c\nU
- RALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:fc497bd73249800a260482861d53741d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
@@ -77,17 +53,5 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Б-164\nПара: 3 пара\nДополнительно: См
  аков Л.М.\nURALCAMPUS_SYNC_ID:e40906a5163b892a6a8eaf458b4addec\nURA
  LCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:801248c982a8ca1543b7e90f83ac351d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T135000
-DTEND;TZID=Asia/Yekaterinburg:20260918T152000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 4 пара\nДополнительно: Ки
- реева Ф.З.\nURALCAMPUS_SYNC_ID:801248c982a8ca1543b7e90f83ac351d\nU
- RALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8ffc16ba8cd2e5fa39050ea03eb0c74c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
-DTEND;TZID=Asia/Yekaterinburg:20260917T152000
-SUMMARY:Бухгалтерский учет (Аудиторные заня
- тия)
-LOCATION:ауд. 2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Копытцев Сергей Михайлови
- ч\nПара: 4 пара\nДополнительно: Б-364\, Б-364А\n
- URALCAMPUS_SYNC_ID:8ffc16ba8cd2e5fa39050ea03eb0c74c\nURALCAMPUS_SOURCE:pr
- eco:teacher:dbda76d5-4e03-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4e37e5b028ffd326c3a1cb2c3acd8487@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T153000
-DTEND;TZID=Asia/Yekaterinburg:20260917T170000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Копытцев Сергей Михайлови
- ч\nПара: 5 пара\nДополнительно: Б-364\, Б-364А\n
- URALCAMPUS_SYNC_ID:4e37e5b028ffd326c3a1cb2c3acd8487\nURALCAMPUS_SOURCE:pr
- eco:teacher:dbda76d5-4e03-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:bfa9abc3d766bd0750d7099f0a088d7c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
@@ -88,5 +60,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ч\nПара: 3 пара\nДополнительно: Б-364\, Б-364А\n
  URALCAMPUS_SYNC_ID:069ae29e4ba3fd6207ebd7db3cd0a387\nURALCAMPUS_SOURCE:pr
  eco:teacher:dbda76d5-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad218e23e4116acb72127b44f0b92c5b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260918T135000
+DTEND;TZID=Asia/Yekaterinburg:20260918T152000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Копытцев Сергей Михайлови
+ ч\nПара: 4 пара\nДополнительно: ГС-376\, ГС-376
+ А\nURALCAMPUS_SYNC_ID:ad218e23e4116acb72127b44f0b92c5b\nURALCAMPUS_SOURC
+ E:preco:teacher:dbda76d5-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

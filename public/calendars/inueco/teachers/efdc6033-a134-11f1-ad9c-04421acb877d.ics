@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:fffe7e5ff2b83fece0adf210c0887b3d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:Электроэнергетические системы и се
+ ти (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Коробков Денис Сергее
+ вич\nПара: 1 пара\nДополнительно: ЭЛЗ-301\nURA
+ LCAMPUS_SYNC_ID:fffe7e5ff2b83fece0adf210c0887b3d\nURALCAMPUS_SOURCE:inuec
+ o:teacher:efdc6033-a134-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a6ad3edfd6cab1fc5c96dcfa372506@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Электроэнергетические системы и се
+ ти (Зачет)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Коробков Денис Сергее
+ вич\nПара: 2 пара\nДополнительно: ЭЛЗ-301\nURA
+ LCAMPUS_SYNC_ID:b2a6ad3edfd6cab1fc5c96dcfa372506\nURALCAMPUS_SOURCE:inuec
+ o:teacher:efdc6033-a134-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

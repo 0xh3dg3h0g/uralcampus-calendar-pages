@@ -19,29 +19,109 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1bd9fd8c8caaf32cbfe9f2eeb5b778bb@uralcampus-calendar-pages
+UID:e9fa1d3895ed8646dc9e7693b4bab82e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T135000
-DTEND;TZID=Asia/Yekaterinburg:20260917T152000
-SUMMARY:Арбитражный процесс (Экзамен)
-LOCATION:ауд. 321\, Комсомольский проспект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:Введение в специальность (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Булавинцева Наталья А
- ндреевна\nПара: 4 пара\nДополнительно: ЮЗ
- с-301\nURALCAMPUS_SYNC_ID:1bd9fd8c8caaf32cbfe9f2eeb5b778bb\nURALCAMPUS_S
+ ндреевна\nПара: 3 пара\nДополнительно: СП
+ Д-112\nURALCAMPUS_SYNC_ID:e9fa1d3895ed8646dc9e7693b4bab82e\nURALCAMPUS_S
  OURCE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:7d41b786f3fd43178d9dab5de28e9bbe@uralcampus-calendar-pages
+UID:ab57db19cc38081469a5a96ef05ee9c3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260917T153000
-DTEND;TZID=Asia/Yekaterinburg:20260917T170000
-SUMMARY:Арбитражный процесс (Экзамен)
-LOCATION:ауд. 321\, Комсомольский проспект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
+DTEND;TZID=Asia/Yekaterinburg:20260923T152000
+SUMMARY:Введение в специальность (Практика)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Булавинцева Наталья А
- ндреевна\nПара: 5 пара\nДополнительно: ЮЗ
- с-301\nURALCAMPUS_SYNC_ID:7d41b786f3fd43178d9dab5de28e9bbe\nURALCAMPUS_S
+ ндреевна\nПара: 4 пара\nДополнительно: СП
+ Д-112\nURALCAMPUS_SYNC_ID:ab57db19cc38081469a5a96ef05ee9c3\nURALCAMPUS_S
  OURCE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:16af18b930ce90af0c3756dd1ad3489b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
+DTEND;TZID=Asia/Yekaterinburg:20260923T170000
+SUMMARY:Судебная экономическая экспертиза (
+ Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 5 пара\nДополнительно: ЭБ-
+ 508\nURALCAMPUS_SYNC_ID:16af18b930ce90af0c3756dd1ad3489b\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:94dc34e6bf63d64d7e05f03e7dbf024b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
+DTEND;TZID=Asia/Yekaterinburg:20260923T182000
+SUMMARY:Судебная экономическая экспертиза (
+ Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 6 пара\nДополнительно: ЭБ-
+ 508\nURALCAMPUS_SYNC_ID:94dc34e6bf63d64d7e05f03e7dbf024b\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a40e93f36f24155445b5093a3e920ade@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T183000
+DTEND;TZID=Asia/Yekaterinburg:20260923T194000
+SUMMARY:Гражданский процесс (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 7 пара\nДополнительно: ЮЗ-
+ 301\nURALCAMPUS_SYNC_ID:a40e93f36f24155445b5093a3e920ade\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8934a0c0c53f5ac5b9945f32f88ab98d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T195000
+DTEND;TZID=Asia/Yekaterinburg:20260923T205000
+SUMMARY:Гражданский процесс (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 8 пара\nДополнительно: ЮЗ-
+ 301\nURALCAMPUS_SYNC_ID:8934a0c0c53f5ac5b9945f32f88ab98d\nURALCAMPUS_SOUR
+ CE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1ea86e247f8c552644a146740ff64ee9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T183000
+DTEND;TZID=Asia/Yekaterinburg:20260925T194000
+SUMMARY:Арбитражный процесс (Экзамен)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 7 пара\nДополнительно: ЮЗ
+ с-301а\nURALCAMPUS_SYNC_ID:1ea86e247f8c552644a146740ff64ee9\nURALCAMPUS
+ _SOURCE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:29a654659102563bf618345ed99c82a3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T195000
+DTEND;TZID=Asia/Yekaterinburg:20260925T205000
+SUMMARY:Арбитражный процесс (Экзамен)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Булавинцева Наталья А
+ ндреевна\nПара: 8 пара\nДополнительно: ЮЗ
+ с-301а\nURALCAMPUS_SYNC_ID:29a654659102563bf618345ed99c82a3\nURALCAMPUS
+ _SOURCE:inueco:teacher:9f54003a-a054-11ed-ad6e-04421acb877d
 END:VEVENT
 END:VCALENDAR

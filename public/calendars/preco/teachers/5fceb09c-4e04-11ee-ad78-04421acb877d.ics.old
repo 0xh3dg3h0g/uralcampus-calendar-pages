@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Торговкин В
+ алерий Николаевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1523aed2c0eac5b55fdde9fe98ff84b6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T101000
+DTEND;TZID=Asia/Yekaterinburg:20260917T114000
+SUMMARY:Выполнение полевых и камеральных ра
+ бот по созданию геодезических сетей спе
+ циального назначения (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Торговкин Валерий Николае
+ вич\nПара: 2 пара\nДополнительно: ЗИ-274\nURALC
+ AMPUS_SYNC_ID:1523aed2c0eac5b55fdde9fe98ff84b6\nURALCAMPUS_SOURCE:preco:t
+ eacher:5fceb09c-4e04-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b25cd3d254aa2cd0604f6c9b1431d9b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260917T083000
+DTEND;TZID=Asia/Yekaterinburg:20260917T100000
+SUMMARY:Выполнение полевых и камеральных ра
+ бот по созданию геодезических сетей спе
+ циального назначения (Аудиторные занят
+ ия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Торговкин Валерий Николае
+ вич\nПара: 1 пара\nДополнительно: ЗИ-274\nURALC
+ AMPUS_SYNC_ID:b25cd3d254aa2cd0604f6c9b1431d9b7\nURALCAMPUS_SOURCE:preco:t
+ eacher:5fceb09c-4e04-11ee-ad78-04421acb877d
+END:VEVENT
+END:VCALENDAR
