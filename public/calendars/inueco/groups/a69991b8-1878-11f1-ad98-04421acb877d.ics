@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:b2ac5e20e710997f31905c5551fc79ad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T183000
+DTEND;TZID=Asia/Yekaterinburg:20260922T194000
+SUMMARY:Инновационный менеджмент (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗД-501\nПара: 7 пара\nДополнител
+ ьно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:b2ac5e20e710997f31
+ 905c5551fc79ad\nURALCAMPUS_SOURCE:inueco:group:a69991b8-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:11dab405fe8c4f0d6c11b512eb599405@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T195000
+DTEND;TZID=Asia/Yekaterinburg:20260922T205000
+SUMMARY:Инновационный менеджмент (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗД-501\nПара: 8 пара\nДополнител
+ ьно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:11dab405fe8c4f0d6c
+ 11b512eb599405\nURALCAMPUS_SOURCE:inueco:group:a69991b8-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
 END:VCALENDAR

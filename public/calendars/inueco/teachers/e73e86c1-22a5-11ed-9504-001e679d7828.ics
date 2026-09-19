@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7e2cb2481caf6eef14ccc451dd055a2e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T083000
-DTEND;TZID=Asia/Yekaterinburg:20260918T100000
-SUMMARY:Криминалистика (Лекция)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Макашова Татьяна Павл
- овна\nПара: 1 пара\nДополнительно: Ю-401\nURALC
- AMPUS_SYNC_ID:7e2cb2481caf6eef14ccc451dd055a2e\nURALCAMPUS_SOURCE:inueco:
- teacher:e73e86c1-22a5-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:5a011f960245696f53dfc12d5fa8a4d9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T101000
-DTEND;TZID=Asia/Yekaterinburg:20260918T114000
-SUMMARY:Криминалистика (Лекция)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Макашова Татьяна Павл
- овна\nПара: 2 пара\nДополнительно: Ю-401\nURALC
- AMPUS_SYNC_ID:5a011f960245696f53dfc12d5fa8a4d9\nURALCAMPUS_SOURCE:inueco:
- teacher:e73e86c1-22a5-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:2a349215c906149b0ffaa2799bcfbf80@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260919T152000
@@ -231,5 +205,63 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  овна\nПара: 2 пара\nДополнительно: Ю-401\nURALC
  AMPUS_SYNC_ID:fa65f0852acf76f989b3445bce78e411\nURALCAMPUS_SOURCE:inueco:
  teacher:e73e86c1-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:1b6a88300aff4a52ae00a401b8af6490@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T120000
+DTEND;TZID=Asia/Yekaterinburg:20260926T133000
+SUMMARY:Криминалистика (Практика)
+LOCATION:ауд. 111
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Макашова Татьяна Павл
+ овна\nПара: 3 пара\nДополнительно: ЮЗ-501/01\,
+  ЮЗ-501/02\, ЮЗ-501/03\, ЮЗ-501/04\, ЮЗ-501/04а\, ЮЗ-501/08\nU
+ RALCAMPUS_SYNC_ID:1b6a88300aff4a52ae00a401b8af6490\nURALCAMPUS_SOURCE:inu
+ eco:teacher:e73e86c1-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a8873ad9929c01b40e5eeb6e09387e9a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T134000
+DTEND;TZID=Asia/Yekaterinburg:20260926T151000
+SUMMARY:Криминалистика (Практика)
+LOCATION:ауд. 111
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Макашова Татьяна Павл
+ овна\nПара: 4 пара\nДополнительно: ЮЗ-501/01\,
+  ЮЗ-501/02\, ЮЗ-501/03\, ЮЗ-501/04\, ЮЗ-501/04а\, ЮЗ-501/08\nU
+ RALCAMPUS_SYNC_ID:a8873ad9929c01b40e5eeb6e09387e9a\nURALCAMPUS_SOURCE:inu
+ eco:teacher:e73e86c1-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f028f437b2fcdf04b4e5e13be7a1004d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T152000
+DTEND;TZID=Asia/Yekaterinburg:20260926T165000
+SUMMARY:Криминалистика (Практика)
+LOCATION:ауд. 111
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Макашова Татьяна Павл
+ овна\nПара: 5 пара\nДополнительно: ЮЗ-501/05\,
+  ЮЗ-501/05а\, ЮЗ-501/06\, ЮЗ-501/07а\, ЮЗ-501/07б\, ЮЗ-501/0
+ 9\, ЮЗ-501/10\, ЮЗ-501/11\, ЮЗ-501/12\, ЮЗ-501/13\, ЮЗ-501/13А
+ \, ЮЗД-501\nURALCAMPUS_SYNC_ID:f028f437b2fcdf04b4e5e13be7a1004d\nURALC
+ AMPUS_SOURCE:inueco:teacher:e73e86c1-22a5-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fb3634ecf53e90cbba6de0fa8c14e77f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T170000
+DTEND;TZID=Asia/Yekaterinburg:20260926T181000
+SUMMARY:Криминалистика (Практика)
+LOCATION:ауд. 111
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Макашова Татьяна Павл
+ овна\nПара: 6 пара\nДополнительно: ЮЗ-501/05\,
+  ЮЗ-501/05а\, ЮЗ-501/06\, ЮЗ-501/07а\, ЮЗ-501/07б\, ЮЗ-501/0
+ 9\, ЮЗ-501/10\, ЮЗ-501/11\, ЮЗ-501/12\, ЮЗ-501/13\, ЮЗ-501/13А
+ \, ЮЗД-501\nURALCAMPUS_SYNC_ID:fb3634ecf53e90cbba6de0fa8c14e77f\nURALC
+ AMPUS_SOURCE:inueco:teacher:e73e86c1-22a5-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

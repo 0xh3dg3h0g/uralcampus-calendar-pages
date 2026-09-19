@@ -18,4 +18,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:7f0da77161b4fcb73175bafde25dcc9d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
+DTEND;TZID=Asia/Yekaterinburg:20260921T114000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бежецких Жанна Геннадьевн
+ а\nПара: 2 пара\nДополнительно: ЗИ-274\nURALCAMPU
+ S_SYNC_ID:7f0da77161b4fcb73175bafde25dcc9d\nURALCAMPUS_SOURCE:preco:teach
+ er:10671955-8ecc-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

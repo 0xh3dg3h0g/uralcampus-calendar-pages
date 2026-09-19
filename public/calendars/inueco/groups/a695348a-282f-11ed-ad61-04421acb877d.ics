@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:b0bb7d2230c63d9f980a72526ecd4eae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T183000
+DTEND;TZID=Asia/Yekaterinburg:20260925T194000
+SUMMARY:Комплексный экономический анализ х
+ озяйственной деятельности (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/02\nПара: 7 пара\nДополнит
+ ельно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:b0bb7d2230c6
+ 3d9f980a72526ecd4eae\nURALCAMPUS_SOURCE:inueco:group:a695348a-282f-11ed-a
+ d61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a2a17d5c625a9b19e833d9f6758fa4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T195000
+DTEND;TZID=Asia/Yekaterinburg:20260925T205000
+SUMMARY:Комплексный экономический анализ х
+ озяйственной деятельности (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗу-401/02\nПара: 8 пара\nДополнит
+ ельно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:d2a2a17d5c62
+ 5a9b19e833d9f6758fa4\nURALCAMPUS_SOURCE:inueco:group:a695348a-282f-11ed-a
+ d61-04421acb877d
+END:VEVENT
 END:VCALENDAR

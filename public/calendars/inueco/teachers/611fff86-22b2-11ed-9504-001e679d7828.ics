@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:16e9e3230cbad583edcb695db6b5bdb6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T171000
-DTEND;TZID=Asia/Yekaterinburg:20260918T182000
-SUMMARY:Физика (Лекция)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Епишков Егор Николаев
- ич\nПара: 6 пара\nДополнительно: СЗ-201\, СЗУ
- -201\nURALCAMPUS_SYNC_ID:16e9e3230cbad583edcb695db6b5bdb6\nURALCAMPUS_SOU
- RCE:inueco:teacher:611fff86-22b2-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:bf3d79bbadb340304dc9947fcd001ef9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T183000
-DTEND;TZID=Asia/Yekaterinburg:20260918T194000
-SUMMARY:Физика (Лекция)
-LOCATION:ауд. 206\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Епишков Егор Николаев
- ич\nПара: 7 пара\nДополнительно: СЗ-201\, СЗУ
- -201\nURALCAMPUS_SYNC_ID:bf3d79bbadb340304dc9947fcd001ef9\nURALCAMPUS_SOU
- RCE:inueco:teacher:611fff86-22b2-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:3f27a1f8d4f4fe8d497d9bd3f3ddb6ac@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260919T182000
@@ -245,5 +219,67 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ич\nПара: 2 пара\nДополнительно: И-207\, С-216\n
  URALCAMPUS_SYNC_ID:258eca6e534e5c68fa543efa9764f291\nURALCAMPUS_SOURCE:in
  ueco:teacher:611fff86-22b2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e55dfa08961396b25f1c462b39d131cb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T120000
+DTEND;TZID=Asia/Yekaterinburg:20260926T133000
+SUMMARY:Физика (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 3 пара\nДополнительно: СЗ-201/02\, С
+ З-201/03\, СЗ-201/04\, СЗ-201/04а\, СЗ-201/05\, СЗ-201/06\, С
+ З-201/07\, СЗ-201/07б\, СЗ-201/08\, СЗ-201/11\, СЗ-201/12\, С
+ З-201/12а\, СЗ-201/13\, СЗД-201\nURALCAMPUS_SYNC_ID:e55dfa08961396
+ b25f1c462b39d131cb\nURALCAMPUS_SOURCE:inueco:teacher:611fff86-22b2-11ed-9
+ 504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d65daefce0d0c8b324ead3dbd3da91c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T134000
+DTEND;TZID=Asia/Yekaterinburg:20260926T151000
+SUMMARY:Физика (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 4 пара\nДополнительно: СЗ-201/02\, С
+ З-201/03\, СЗ-201/04\, СЗ-201/04а\, СЗ-201/05\, СЗ-201/06\, С
+ З-201/07\, СЗ-201/07б\, СЗ-201/08\, СЗ-201/11\, СЗ-201/12\, С
+ З-201/12а\, СЗ-201/13\, СЗД-201\nURALCAMPUS_SYNC_ID:d65daefce0d0c8
+ b324ead3dbd3da91c2\nURALCAMPUS_SOURCE:inueco:teacher:611fff86-22b2-11ed-9
+ 504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:8e85a5c4b08db07430f2163bd8aa7809@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T152000
+DTEND;TZID=Asia/Yekaterinburg:20260926T165000
+SUMMARY:Физика (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 5 пара\nДополнительно: СЗДу-201\, С
+ Зу-201/02\, СЗу-201/04\, СЗу-201/04а\, СЗу-201/05\, СЗу-20
+ 1/06\, СЗу-201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nU
+ RALCAMPUS_SYNC_ID:8e85a5c4b08db07430f2163bd8aa7809\nURALCAMPUS_SOURCE:inu
+ eco:teacher:611fff86-22b2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f850844b3358f169ded82681680de027@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T170000
+DTEND;TZID=Asia/Yekaterinburg:20260926T181000
+SUMMARY:Физика (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 6 пара\nДополнительно: СЗДу-201\, С
+ Зу-201/02\, СЗу-201/04\, СЗу-201/04а\, СЗу-201/05\, СЗу-20
+ 1/06\, СЗу-201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nU
+ RALCAMPUS_SYNC_ID:f850844b3358f169ded82681680de027\nURALCAMPUS_SOURCE:inu
+ eco:teacher:611fff86-22b2-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

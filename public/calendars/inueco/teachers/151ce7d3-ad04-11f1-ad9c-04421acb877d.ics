@@ -18,4 +18,34 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:e072c4d27a3e6ae4ca90e7e052fe7d92@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T120000
+DTEND;TZID=Asia/Yekaterinburg:20260926T133000
+SUMMARY:Финансы (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Валько Данила Валерье
+ вич\nПара: 3 пара\nДополнительно: ЭЗ-201/02\, 
+ ЭЗ-201/04а\, ЭЗ-201/05\, ЭЗ-201/06\, ЭЗ-201/07\, ЭЗ-201/07а\,
+  ЭЗ-201/07б\, ЭЗ-201/12а\, ЭЗ-201/13\, ЭЗд-201\nURALCAMPUS_SYN
+ C_ID:e072c4d27a3e6ae4ca90e7e052fe7d92\nURALCAMPUS_SOURCE:inueco:teacher:1
+ 51ce7d3-ad04-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e205e09cff14e3a0718a1daa216cb77e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T134000
+DTEND;TZID=Asia/Yekaterinburg:20260926T151000
+SUMMARY:Финансы (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Валько Данила Валерье
+ вич\nПара: 4 пара\nДополнительно: ЭЗ-201/02\, 
+ ЭЗ-201/04а\, ЭЗ-201/05\, ЭЗ-201/06\, ЭЗ-201/07\, ЭЗ-201/07а\,
+  ЭЗ-201/07б\, ЭЗ-201/12а\, ЭЗ-201/13\, ЭЗд-201\nURALCAMPUS_SYN
+ C_ID:e205e09cff14e3a0718a1daa216cb77e\nURALCAMPUS_SOURCE:inueco:teacher:1
+ 51ce7d3-ad04-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

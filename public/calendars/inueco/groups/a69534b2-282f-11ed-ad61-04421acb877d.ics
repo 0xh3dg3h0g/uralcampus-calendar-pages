@@ -18,60 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ed13b872085f694657f9382e916ef880@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T135000
-DTEND;TZID=Asia/Yekaterinburg:20260918T152000
-SUMMARY:Эксплуатация электрооборудования с
- истем электроснабжения (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-301/03\nПара: 4 пара\nДополнит
- ельно: Селунский В.В.\nURALCAMPUS_SYNC_ID:ed13b872085f694
- 657f9382e916ef880\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61
- -04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:888fd4ff0e6db954596c109367753eb2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T153000
-DTEND;TZID=Asia/Yekaterinburg:20260918T170000
-SUMMARY:Эксплуатация электрооборудования с
- истем электроснабжения (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-301/03\nПара: 5 пара\nДополнит
- ельно: Селунский В.В.\nURALCAMPUS_SYNC_ID:888fd4ff0e6db95
- 4596c109367753eb2\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61
- -04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0b40b4fa11f9dcb0a1d890a7418f6e02@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T171000
-DTEND;TZID=Asia/Yekaterinburg:20260918T182000
-SUMMARY:Электроника (Практика)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-301/03\nПара: 6 пара\nДополнит
- ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:0b40b4fa11
- f9dcb0a1d890a7418f6e02\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed
- -ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:78f6432ed4b300d1163de9e85707f9b2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T183000
-DTEND;TZID=Asia/Yekaterinburg:20260918T194000
-SUMMARY:Электроника (Практика)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-301/03\nПара: 7 пара\nДополнит
- ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:78f6432ed4
- b300d1163de9e85707f9b2\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed
- -ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:888ce0ad34255010fa35789ebb58529f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260919T120000
@@ -126,5 +72,182 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ельно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:1a29e83576dac0ecc62ff4
  8b4bd2fbd2\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61-04421a
  cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:088e7f60771f06c3a34045e2da1ed45f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260921T153000
+DTEND;TZID=Asia/Yekaterinburg:20260921T170000
+SUMMARY:Теоретическая механика (Экзамен)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 5 пара\nДополнит
+ ельно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:088e7f60771f06
+ c3a34045e2da1ed45f\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9aa0779511e620d0e98fefa7c5fdc2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Эксплуатация электрооборудования с
+ истем электроснабжения (Зачет)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 2 пара\nДополнит
+ ельно: Селунский В.В.\nURALCAMPUS_SYNC_ID:2c9aa0779511e62
+ 0d0e98fefa7c5fdc2\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d005cdf94aa73e9fe82c2d79faeefe20@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:Электроэнергетические системы и се
+ ти (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 3 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:d005cdf94aa73e9fe
+ 82c2d79faeefe20\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:13af174bfcd97464a9cab9294a50fb93@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T135000
+DTEND;TZID=Asia/Yekaterinburg:20260922T152000
+SUMMARY:Электроэнергетические системы и се
+ ти (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 4 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:13af174bfcd97464a
+ 9cab9294a50fb93\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4b57ff2594922d8f590ce6a3a150b70b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T153000
+DTEND;TZID=Asia/Yekaterinburg:20260922T170000
+SUMMARY:Электроэнергетические системы и се
+ ти (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 5 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:4b57ff2594922d8f5
+ 90ce6a3a150b70b\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:76d820d1fdfc44bce71b4dc99b4d7f37@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
+DTEND;TZID=Asia/Yekaterinburg:20260923T100000
+SUMMARY:Электроэнергетические системы и се
+ ти (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 1 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:76d820d1fdfc44bce
+ 71b4dc99b4d7f37\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0d751d5624d18626851bf869bb0de9d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
+DTEND;TZID=Asia/Yekaterinburg:20260923T114000
+SUMMARY:Электроэнергетические системы и се
+ ти (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 2 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:0d751d5624d186268
+ 51bf869bb0de9d2\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:28422863b87cad01441d2db91a0ac2ba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:Электроэнергетические системы и се
+ ти (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 3 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:28422863b87cad014
+ 41d2db91a0ac2ba\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c17f0269ee09c6e295481997d212e256@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
+DTEND;TZID=Asia/Yekaterinburg:20260923T182000
+SUMMARY:Метрология (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 6 пара\nДополнит
+ ельно: Пономарева О.А.\nURALCAMPUS_SYNC_ID:c17f0269ee09c
+ 6e295481997d212e256\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:84f259ef63b6bebe1461c965b1fa10cd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T183000
+DTEND;TZID=Asia/Yekaterinburg:20260923T194000
+SUMMARY:Метрология (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 7 пара\nДополнит
+ ельно: Пономарева О.А.\nURALCAMPUS_SYNC_ID:84f259ef63b6b
+ ebe1461c965b1fa10cd\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:14f1fdd2a96e735bf55e5b12553dda23@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T195000
+DTEND;TZID=Asia/Yekaterinburg:20260923T205000
+SUMMARY:Метрология (Экзамен)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 8 пара\nДополнит
+ ельно: Пономарева О.А.\nURALCAMPUS_SYNC_ID:14f1fdd2a96e7
+ 35bf55e5b12553dda23\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f354bd7a509c87525186e68591dbcee3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T171000
+DTEND;TZID=Asia/Yekaterinburg:20260924T182000
+SUMMARY:Электроника (Экзамен)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 6 пара\nДополнит
+ ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:f354bd7a50
+ 9c87525186e68591dbcee3\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed
+ -ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fb89127c2e012725e7732ae75785d373@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T120000
+DTEND;TZID=Asia/Yekaterinburg:20260925T133000
+SUMMARY:Электрические станции и подстанции 
+ (Зачет)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/03\nПара: 3 пара\nДополнит
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:fb89127c2e012725e7732ae
+ 75785d373\nURALCAMPUS_SOURCE:inueco:group:a69534b2-282f-11ed-ad61-04421ac
+ b877d
 END:VEVENT
 END:VCALENDAR

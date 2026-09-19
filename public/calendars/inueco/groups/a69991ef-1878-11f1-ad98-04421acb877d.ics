@@ -18,42 +18,107 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4ca59411b86c1b9ddcb4253fbfb6ec06@uralcampus-calendar-pages
+UID:1b501424a6112a82d4ac4422eca9c58d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T171000
-DTEND;TZID=Asia/Yekaterinburg:20260918T182000
+DTSTART;TZID=Asia/Yekaterinburg:20260924T171000
+DTEND;TZID=Asia/Yekaterinburg:20260924T182000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/06\nПара: 6 пара\nДополните
+ льно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:1b501424a6112a82d4ac
+ 4422eca9c58d\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e51f854345759e70b082b399e8b0b0d5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T183000
+DTEND;TZID=Asia/Yekaterinburg:20260924T194000
+SUMMARY:Макроэкономика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/06\nПара: 7 пара\nДополните
+ льно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:e51f854345759e70b082
+ b399e8b0b0d5\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:43afd409c38e1360acb5b151ff5e5879@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T195000
+DTEND;TZID=Asia/Yekaterinburg:20260924T205000
+SUMMARY:Макроэкономика (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/06\nПара: 8 пара\nДополните
+ льно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:43afd409c38e1360acb5
+ b151ff5e5879\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3bbc1c0e109d945b1f3565633822a295@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T171000
+DTEND;TZID=Asia/Yekaterinburg:20260925T182000
 SUMMARY:Экономика предприятия (Лекция)
 LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЭЗ-201/06\nПара: 6 пара\nДополните
- льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:4ca59411b86c1b9ddcb
- 4253fbfb6ec06\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-044
+ льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:3bbc1c0e109d945b1f3
+ 565633822a295\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-044
  21acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:d399368e76031dfe67fe34950e35ae7d@uralcampus-calendar-pages
+UID:9e3b8d27784832b88817ecb43e9aa4aa@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T183000
-DTEND;TZID=Asia/Yekaterinburg:20260918T194000
+DTSTART;TZID=Asia/Yekaterinburg:20260925T183000
+DTEND;TZID=Asia/Yekaterinburg:20260925T194000
 SUMMARY:Экономика предприятия (Лекция)
 LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЭЗ-201/06\nПара: 7 пара\nДополните
- льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:d399368e76031dfe67f
- e34950e35ae7d\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-044
+ льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:9e3b8d27784832b8881
+ 7ecb43e9aa4aa\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-044
  21acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:3e335377dc9849f2143a8ee7e3ed9adf@uralcampus-calendar-pages
+UID:75d893829eedb648b8f79b3af148a2ad@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T195000
-DTEND;TZID=Asia/Yekaterinburg:20260918T205000
+DTSTART;TZID=Asia/Yekaterinburg:20260925T195000
+DTEND;TZID=Asia/Yekaterinburg:20260925T205000
 SUMMARY:Экономика предприятия (Практика)
 LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЭЗ-201/06\nПара: 8 пара\nДополните
- льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:3e335377dc9849f2143
- a8ee7e3ed9adf\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-044
+ льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:75d893829eedb648b8f
+ 79b3af148a2ad\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-044
  21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aa73a1b246b1aa96eb99c1c800ee179b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T120000
+DTEND;TZID=Asia/Yekaterinburg:20260926T133000
+SUMMARY:Финансы (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/06\nПара: 3 пара\nДополните
+ льно: Валько Д.В.\nURALCAMPUS_SYNC_ID:aa73a1b246b1aa96eb99c1c
+ 800ee179b\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1132deec90f807ac3ecc8c45002c0158@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T134000
+DTEND;TZID=Asia/Yekaterinburg:20260926T151000
+SUMMARY:Финансы (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/06\nПара: 4 пара\nДополните
+ льно: Валько Д.В.\nURALCAMPUS_SYNC_ID:1132deec90f807ac3ecc8c4
+ 5002c0158\nURALCAMPUS_SOURCE:inueco:group:a69991ef-1878-11f1-ad98-04421ac
+ b877d
 END:VEVENT
 END:VCALENDAR

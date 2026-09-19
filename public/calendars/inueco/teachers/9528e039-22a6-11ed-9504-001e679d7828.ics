@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0dca24ea1667b00984645130309f7010@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T183000
-DTEND;TZID=Asia/Yekaterinburg:20260918T194000
-SUMMARY:Гражданское право (Практика)
-LOCATION:ауд. 208\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Новокшонова Нина Алек
- сандровна\nПара: 7 пара\nДополнительно: С
- ПДЗ-301\nURALCAMPUS_SYNC_ID:0dca24ea1667b00984645130309f7010\nURALCAMP
- US_SOURCE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:ff9fe8c26c4477bf07df3e19012b378b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T195000
-DTEND;TZID=Asia/Yekaterinburg:20260918T205000
-SUMMARY:Гражданское право (Зачет с оценкой)
-LOCATION:ауд. 208\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Новокшонова Нина Алек
- сандровна\nПара: 8 пара\nДополнительно: С
- ПДЗ-301\nURALCAMPUS_SYNC_ID:ff9fe8c26c4477bf07df3e19012b378b\nURALCAMP
- US_SOURCE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:6e29c887e15ef6f472aaf0ac07f124b1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260921T083000
@@ -108,5 +82,56 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  сандровна\nПара: 4 пара\nДополнительно: Ю-
  201\nURALCAMPUS_SYNC_ID:15e93779374dbf74d115947aafcfa83b\nURALCAMPUS_SOUR
  CE:inueco:teacher:9528e039-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d187ef1b50e34623e370b8fe64e57d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T101000
+DTEND;TZID=Asia/Yekaterinburg:20260926T114000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 2 пара\nДополнительно: Ю
+ З-201/01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, Ю
+ З-201/05а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\,
+  ЮЗ-201/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, 
+ ЮЗ-201/13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:e7d187ef1b50
+ e34623e370b8fe64e57d\nURALCAMPUS_SOURCE:inueco:teacher:9528e039-22a6-11ed
+ -9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4e53358acd61dfb0490726ff365c4196@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T120000
+DTEND;TZID=Asia/Yekaterinburg:20260926T133000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 3 пара\nДополнительно: Ю
+ З-201/01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, Ю
+ З-201/05а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\,
+  ЮЗ-201/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, 
+ ЮЗ-201/13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:4e53358acd61
+ dfb0490726ff365c4196\nURALCAMPUS_SOURCE:inueco:teacher:9528e039-22a6-11ed
+ -9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c3201c7bea3bcd3ec9c3a0dc93f4f600@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T134000
+DTEND;TZID=Asia/Yekaterinburg:20260926T151000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новокшонова Нина Алек
+ сандровна\nПара: 4 пара\nДополнительно: Ю
+ З-201/01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, Ю
+ З-201/05а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\,
+  ЮЗ-201/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, 
+ ЮЗ-201/13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:c3201c7bea3b
+ cd3ec9c3a0dc93f4f600\nURALCAMPUS_SOURCE:inueco:teacher:9528e039-22a6-11ed
+ -9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

@@ -18,30 +18,4 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:187b6f210b8fa6a57d9310eb869d8370@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T101000
-DTEND;TZID=Asia/Yekaterinburg:20260918T114000
-SUMMARY:Логика (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Колесников Михаил Але
- ксеевич\nПара: 2 пара\nДополнительно: СПД-
- 212\nURALCAMPUS_SYNC_ID:187b6f210b8fa6a57d9310eb869d8370\nURALCAMPUS_SOUR
- CE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d004eb288f77ef4d769051129a520227@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260918T120000
-DTEND;TZID=Asia/Yekaterinburg:20260918T133000
-SUMMARY:Логика (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Колесников Михаил Але
- ксеевич\nПара: 3 пара\nДополнительно: СПД-
- 212\nURALCAMPUS_SYNC_ID:d004eb288f77ef4d769051129a520227\nURALCAMPUS_SOUR
- CE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
-END:VEVENT
 END:VCALENDAR

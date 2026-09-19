@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:b9e5d7821df52fa30ed0a050390ee5b0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T183000
+DTEND;TZID=Asia/Yekaterinburg:20260924T194000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-201/02\nПара: 7 пара\nДополнит
+ ельно: Согрина Н.С.\nURALCAMPUS_SYNC_ID:b9e5d7821df52fa30ed
+ 0a050390ee5b0\nURALCAMPUS_SOURCE:inueco:group:a69991ba-1878-11f1-ad98-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:926d55450b1da2b7373d7dcb1d762883@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T195000
+DTEND;TZID=Asia/Yekaterinburg:20260924T205000
+SUMMARY:Корпоративная социальная ответстве
+ нность (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-201/02\nПара: 8 пара\nДополнит
+ ельно: Согрина Н.С.\nURALCAMPUS_SYNC_ID:926d55450b1da2b7373
+ d7dcb1d762883\nURALCAMPUS_SOURCE:inueco:group:a69991ba-1878-11f1-ad98-044
+ 21acb877d
+END:VEVENT
 END:VCALENDAR
