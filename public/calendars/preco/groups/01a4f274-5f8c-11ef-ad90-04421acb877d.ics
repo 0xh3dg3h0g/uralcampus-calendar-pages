@@ -186,6 +186,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  0-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:9b684c8c0156f106aea149e2bd1e8bdb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
+DTEND;TZID=Asia/Yekaterinburg:20260924T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448\, ПД-448А\nПара: 4 пара\nДополните
+ льно: Моторина Л.А.\nURALCAMPUS_SYNC_ID:9b684c8c0156f106aea
+ 149e2bd1e8bdb\nURALCAMPUS_SOURCE:preco:group:01a4f274-5f8c-11ef-ad90-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:6b6a0770a24b0e1d190e31c9675670be@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T153000
@@ -198,19 +212,5 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  льно: Маклакова Е.Л.\nURALCAMPUS_SYNC_ID:6b6a0770a24b0e1d1
  90e31c9675670be\nURALCAMPUS_SOURCE:preco:group:01a4f274-5f8c-11ef-ad90-04
  421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ac18f55d8de21de942468814892de0c6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T171000
-DTEND;TZID=Asia/Yekaterinburg:20260924T182000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 310\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-448\, ПД-448А\nПара: 6 пара\nДополните
- льно: Моторина Л.А.\nURALCAMPUS_SYNC_ID:ac18f55d8de21de9424
- 68814892de0c6\nURALCAMPUS_SOURCE:preco:group:01a4f274-5f8c-11ef-ad90-0442
- 1acb877d
 END:VEVENT
 END:VCALENDAR

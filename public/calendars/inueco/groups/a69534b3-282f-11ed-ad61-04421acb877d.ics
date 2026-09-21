@@ -18,62 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0e3451f41b0005e303da9adc4adec7c2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260919T120000
-DTEND;TZID=Asia/Yekaterinburg:20260919T133000
-SUMMARY:Инженерная и компьютерная графика (
- Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-301/04\nПара: 3 пара\nДополнит
- ельно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:0e3451f41b0005e303da9a
- dc4adec7c2\nURALCAMPUS_SOURCE:inueco:group:a69534b3-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:42d55538d7023350e9ebab6ee1f36226@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260919T134000
-DTEND;TZID=Asia/Yekaterinburg:20260919T151000
-SUMMARY:Инженерная и компьютерная графика (
- Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-301/04\nПара: 4 пара\nДополнит
- ельно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:42d55538d7023350e9ebab
- 6ee1f36226\nURALCAMPUS_SOURCE:inueco:group:a69534b3-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ca812877871dc46c19073113508d7290@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260919T152000
-DTEND;TZID=Asia/Yekaterinburg:20260919T165000
-SUMMARY:Инженерная и компьютерная графика (
- Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-301/04\nПара: 5 пара\nДополнит
- ельно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:ca812877871dc46c190731
- 13508d7290\nURALCAMPUS_SOURCE:inueco:group:a69534b3-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7e576448529a198deee92477447baac0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260919T182000
-DTEND;TZID=Asia/Yekaterinburg:20260919T193000
-SUMMARY:Инженерная и компьютерная графика (
- Экзамен)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-301/04\nПара: 7 пара\nДополнит
- ельно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:7e576448529a198deee924
- 77447baac0\nURALCAMPUS_SOURCE:inueco:group:a69534b3-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:49546c7abf7e98e2c798218c462421a4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260921T153000
@@ -140,6 +84,21 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЭЛЗ-301/04\nПара: 5 пара\nДополнит
  ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:1dca2f6763d9d37a0
  705ff0ec976f7e6\nURALCAMPUS_SOURCE:inueco:group:a69534b3-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ca037e154add14ce160de77af2147a12@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T183000
+DTEND;TZID=Asia/Yekaterinburg:20260922T194000
+SUMMARY:Монтаж\, наладка и испытание электро
+ оборудования систем электроснабжения (
+ Экзамен)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-301/04\nПара: 7 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:ca037e154add14ce1
+ 60de77af2147a12\nURALCAMPUS_SOURCE:inueco:group:a69534b3-282f-11ed-ad61-0
  4421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -224,16 +183,16 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:4c939c949ac73643426453325eda20f8@uralcampus-calendar-pages
+UID:879aabd15da9bca416d628e0f126c787@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T183000
 DTEND;TZID=Asia/Yekaterinburg:20260924T194000
 SUMMARY:Электроника (Экзамен)
-LOCATION:ауд. 0
+LOCATION:ауд. 214/2
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЭЛЗ-301/04\nПара: 7 пара\nДополнит
- ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:4c939c949a
- c73643426453325eda20f8\nURALCAMPUS_SOURCE:inueco:group:a69534b3-282f-11ed
+ ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:879aabd15d
+ a9bca416d628e0f126c787\nURALCAMPUS_SOURCE:inueco:group:a69534b3-282f-11ed
  -ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
