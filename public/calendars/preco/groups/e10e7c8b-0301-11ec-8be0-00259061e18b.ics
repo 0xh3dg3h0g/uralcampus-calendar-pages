@@ -18,47 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:47da480a9519d3267e29e98d37953f48@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
-DTEND;TZID=Asia/Yekaterinburg:20260921T114000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-252к\nПара: 2 пара\nДополнительно: 
- Малова Т.А.\nURALCAMPUS_SYNC_ID:47da480a9519d3267e29e98d37953f48\
- nURALCAMPUS_SOURCE:preco:group:e10e7c8b-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:5bc8e19d2cb3af73ccd10deca6d57076@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T120000
-DTEND;TZID=Asia/Yekaterinburg:20260921T133000
-SUMMARY:Здоровый образ жизни и профилактика
-  заболеваний в разные возрастные период
- ы (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-252к\nПара: 3 пара\nДополнительно: 
- Зимина А.Б.\nURALCAMPUS_SYNC_ID:5bc8e19d2cb3af73ccd10deca6d57076\
- nURALCAMPUS_SOURCE:preco:group:e10e7c8b-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:b451d3c8ec489e23ba1243dd38ea7813@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T135000
-DTEND;TZID=Asia/Yekaterinburg:20260921T152000
-SUMMARY:Здоровый образ жизни и профилактика
-  заболеваний в разные возрастные период
- ы (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-252к\nПара: 4 пара\nДополнительно: 
- Зимина А.Б.\nURALCAMPUS_SYNC_ID:b451d3c8ec489e23ba1243dd38ea7813\
- nURALCAMPUS_SOURCE:preco:group:e10e7c8b-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:5b8f11e5b90c2cc337aa4505c1a9baf2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
@@ -112,16 +71,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  RALCAMPUS_SOURCE:preco:group:e10e7c8b-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:be884e6e0e43f7bbaa6b3e31d09a3fad@uralcampus-calendar-pages
+UID:0657164ce4b6cac2661bfba717b20a7c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
 DTEND;TZID=Asia/Yekaterinburg:20260923T114000
 SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 217\, Комсомольский проспект 113А
+LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: СД-252к\nПара: 2 пара\nДополнительно: 
- Воронцов М.В.\nURALCAMPUS_SYNC_ID:be884e6e0e43f7bbaa6b3e31d09a3
- fad\nURALCAMPUS_SOURCE:preco:group:e10e7c8b-0301-11ec-8be0-00259061e18b
+ Воронцов М.В.\nURALCAMPUS_SYNC_ID:0657164ce4b6cac2661bfba717b20
+ a7c\nURALCAMPUS_SOURCE:preco:group:e10e7c8b-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:fc524dae1c510a0a837982d4a65caea9@uralcampus-calendar-pages
@@ -218,6 +177,20 @@ LOCATION:ауд. 420\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: СД-252к\nПара: 2 пара\nДополнительно: 
  Курова К.В.\nURALCAMPUS_SYNC_ID:b614c6e54f6e7cd982b68a4dc8405158\
+ nURALCAMPUS_SOURCE:preco:group:e10e7c8b-0301-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:5c0bce2644f53c8b251ba7101e855be1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T120000
+DTEND;TZID=Asia/Yekaterinburg:20260926T133000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-252к\nПара: 3 пара\nДополнительно: 
+ Стокоз О.С.\nURALCAMPUS_SYNC_ID:5c0bce2644f53c8b251ba7101e855be1\
  nURALCAMPUS_SOURCE:preco:group:e10e7c8b-0301-11ec-8be0-00259061e18b
 END:VEVENT
 END:VCALENDAR

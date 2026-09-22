@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9d8336508d8fb6eb61bffb629f9aac0d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T135000
-DTEND;TZID=Asia/Yekaterinburg:20260921T152000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 401\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 110\nПара: 4 пара\nДополнительно: Балы
- кова О.В.\nURALCAMPUS_SYNC_ID:9d8336508d8fb6eb61bffb629f9aac0d\nURA
- LCAMPUS_SOURCE:preco:group:f1816648-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:049c6f404ae6cb1f37b16cee9efa81c1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T153000
-DTEND;TZID=Asia/Yekaterinburg:20260921T170000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 401\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 110\nПара: 5 пара\nДополнительно: Друж
- инин В.А.\nURALCAMPUS_SYNC_ID:049c6f404ae6cb1f37b16cee9efa81c1\nURA
- LCAMPUS_SOURCE:preco:group:f1816648-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:8f8ce3eecab83078eaead0c6e8a8e49b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T135000
@@ -188,5 +164,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 110\nПара: 2 пара\nДополнительно: Жусу
  пов А.Д.\nURALCAMPUS_SYNC_ID:c34fd98008318dc1e0aaefe45da1b53f\nURALC
  AMPUS_SOURCE:preco:group:f1816648-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd0d55a7ea4e0f35399d34630f26794@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T120000
+DTEND;TZID=Asia/Yekaterinburg:20260926T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 110\nПара: 3 пара\nДополнительно: Зено
+ ва И.А.\nURALCAMPUS_SYNC_ID:dbd0d55a7ea4e0f35399d34630f26794\nURALCAM
+ PUS_SOURCE:preco:group:f1816648-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 END:VCALENDAR

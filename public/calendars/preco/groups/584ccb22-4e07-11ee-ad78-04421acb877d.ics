@@ -18,44 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c8f790e006276f9255bb43d400795a81@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T083000
-DTEND;TZID=Asia/Yekaterinburg:20260921T100000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-270\nПара: 1 пара\nДополнительно: См
- аков Л.М.\nURALCAMPUS_SYNC_ID:c8f790e006276f9255bb43d400795a81\nURA
- LCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:44557b6eee33e7b936aacef6344ac20d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
-DTEND;TZID=Asia/Yekaterinburg:20260921T114000
-SUMMARY:Основы алголритмизации и программи
- рования (Аудиторные занятия)
-LOCATION:ауд. 7\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-270\nПара: 2 пара\nДополнительно: Ка
- расова А.А.\nURALCAMPUS_SYNC_ID:44557b6eee33e7b936aacef6344ac20d\
- nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9f80eab27dfc9993fec0f6d215bb1002@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T120000
-DTEND;TZID=Asia/Yekaterinburg:20260921T133000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-270\nПара: 3 пара\nДополнительно: Ко
- йшина Е.А.\nURALCAMPUS_SYNC_ID:9f80eab27dfc9993fec0f6d215bb1002\nU
- RALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:dbd153007d94b01023eb217f90394a07@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
@@ -80,5 +42,56 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-270\nПара: 2 пара\nДополнительно: Ка
  расова А.А.\nURALCAMPUS_SYNC_ID:2e6a47c8c591f0c11105dedae00e5a32\
  nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:300dc8767075610d691619d87b1b9c6f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
+DTEND;TZID=Asia/Yekaterinburg:20260923T100000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 1 пара\nДополнительно: Ка
+ расова А.А.\nURALCAMPUS_SYNC_ID:300dc8767075610d691619d87b1b9c6f\
+ nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa55c00ccd4097d30431c89f5670455@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
+DTEND;TZID=Asia/Yekaterinburg:20260923T114000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 2 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:6aa55c00ccd4097d30431c89f5670455\
+ nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5c1ddbc491000a0b2b68f0c1b88e324f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 3 пара\nДополнительно: См
+ аков Л.М.\nURALCAMPUS_SYNC_ID:5c1ddbc491000a0b2b68f0c1b88e324f\nURA
+ LCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a049a083695b913279497eeb8c4f4e87@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
+DTEND;TZID=Asia/Yekaterinburg:20260923T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 4 пара\nДополнительно: Ко
+ йшина Е.А.\nURALCAMPUS_SYNC_ID:a049a083695b913279497eeb8c4f4e87\nU
+ RALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

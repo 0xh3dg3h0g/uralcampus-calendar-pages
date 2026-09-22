@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:140a77227b759f4fc730768138a75f87@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T153000
-DTEND;TZID=Asia/Yekaterinburg:20260921T170000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 417\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 133к\nПара: 5 пара\nДополнительно: Пат
- раков Н.И.\nURALCAMPUS_SYNC_ID:140a77227b759f4fc730768138a75f87\nU
- RALCAMPUS_SOURCE:preco:group:0b2845aa-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:eccf9f38a07231812e3cea62ecbcdeb2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T171000
-DTEND;TZID=Asia/Yekaterinburg:20260921T182000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 417\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 133к\nПара: 6 пара\nДополнительно: Фро
- лова К. М.\nURALCAMPUS_SYNC_ID:eccf9f38a07231812e3cea62ecbcdeb2\nUR
- ALCAMPUS_SOURCE:preco:group:0b2845aa-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:cf4cfc026d80d9e54cf3ad843edc91c4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
@@ -189,17 +165,5 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 133к\nПара: 3 пара\nДополнительно: Рог
  озина К.Е.\nURALCAMPUS_SYNC_ID:e8654dfcc591ffaddc35776f841e5f18\nU
  RALCAMPUS_SOURCE:preco:group:0b2845aa-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:d27a21aa948f94f06d33de3dc9d29050@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260926T135000
-DTEND;TZID=Asia/Yekaterinburg:20260926T152000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 417\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 133к\nПара: 4 пара\nДополнительно: Над
- еждина О.А.\nURALCAMPUS_SYNC_ID:d27a21aa948f94f06d33de3dc9d29050\
- nURALCAMPUS_SOURCE:preco:group:0b2845aa-0301-11ec-8be0-00259061e18b
 END:VEVENT
 END:VCALENDAR

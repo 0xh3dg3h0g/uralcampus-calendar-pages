@@ -18,31 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:90c19c6bdd75856f8e28b43df1ddbef9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
-DTEND;TZID=Asia/Yekaterinburg:20260921T114000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-278\nПара: 2 пара\nДополнительно: К
- ойшина Е.А.\nURALCAMPUS_SYNC_ID:90c19c6bdd75856f8e28b43df1ddbef9\
- nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d5924d64977b63deffe62a75f09a9d32@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T120000
-DTEND;TZID=Asia/Yekaterinburg:20260921T133000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-278\nПара: 3 пара\nДополнительно: С
- маков Л.М.\nURALCAMPUS_SYNC_ID:d5924d64977b63deffe62a75f09a9d32\nU
- RALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ba6e7571d24214b7280bf8d4018755c6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
@@ -79,5 +54,58 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-278\nПара: 3 пара\nДополнительно: К
  ойшина Е.А.\nURALCAMPUS_SYNC_ID:1bc27ceb3b74a1334c12be2c9dda2a22\
  nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:676bade834ae87ded2b24892e8624d20@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
+DTEND;TZID=Asia/Yekaterinburg:20260923T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278\nПара: 2 пара\nДополнительно: С
+ маков Л.М.\nURALCAMPUS_SYNC_ID:676bade834ae87ded2b24892e8624d20\nU
+ RALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0692b23682ef1b0c4c7b28fdc70e7f9c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
+DTEND;TZID=Asia/Yekaterinburg:20260923T133000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278\nПара: 3 пара\nДополнительно: М
+ аксютова З.Г.\nURALCAMPUS_SYNC_ID:0692b23682ef1b0c4c7b28fdc70e7
+ f9c\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8a3b8def67f7439ac388f33b6669f0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
+DTEND;TZID=Asia/Yekaterinburg:20260923T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278\nПара: 4 пара\nДополнительно: М
+ алышева С.И.\nURALCAMPUS_SYNC_ID:bc8a3b8def67f7439ac388f33b6669f
+ 0\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c2b8b10b338a61dd3a124e2f5b4823@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
+DTEND;TZID=Asia/Yekaterinburg:20260923T170000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278\nПара: 5 пара\nДополнительно: К
+ равченко Е.В.\nURALCAMPUS_SYNC_ID:a3c2b8b10b338a61dd3a124e2f5b4
+ 823\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

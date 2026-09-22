@@ -18,42 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:40f94b35173f50445b2d9431d4e26d45@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T083000
-DTEND;TZID=Asia/Yekaterinburg:20260921T100000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 403\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 108\nПара: 1 пара\nДополнительно: Балы
- кова О.В.\nURALCAMPUS_SYNC_ID:40f94b35173f50445b2d9431d4e26d45\nURA
- LCAMPUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:290d310a980ed34c51302fa2b0437a47@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
-DTEND;TZID=Asia/Yekaterinburg:20260921T114000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 403\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 108\nПара: 2 пара\nДополнительно: Зено
- ва И.А.\nURALCAMPUS_SYNC_ID:290d310a980ed34c51302fa2b0437a47\nURALCAM
- PUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:3faa1bd74eb5ba60cd10c40af33699c4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T120000
-DTEND;TZID=Asia/Yekaterinburg:20260921T133000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 403\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 108\nПара: 3 пара\nДополнительно: Друж
- инин В.А.\nURALCAMPUS_SYNC_ID:3faa1bd74eb5ba60cd10c40af33699c4\nURA
- LCAMPUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:301d792c2337005da394b36c5ed60d3b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
@@ -200,17 +164,5 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 108\nПара: 3 пара\nДополнительно: Жусу
  пов А.Д.\nURALCAMPUS_SYNC_ID:d9594fca3ff7d7b417b94e62d511436e\nURALC
  AMPUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:589eb32a460020a589062beda276113d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260926T135000
-DTEND;TZID=Asia/Yekaterinburg:20260926T152000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 403\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 108\nПара: 4 пара\nДополнительно: Друж
- инин В.А.\nURALCAMPUS_SYNC_ID:589eb32a460020a589062beda276113d\nURA
- LCAMPUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

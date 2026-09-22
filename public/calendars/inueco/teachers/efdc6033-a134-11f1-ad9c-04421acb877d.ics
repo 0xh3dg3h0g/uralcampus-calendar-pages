@@ -19,49 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:892d7273dd2341690e55feecb4fb400f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T083000
-DTEND;TZID=Asia/Yekaterinburg:20260921T100000
-SUMMARY:Техника высоких напряжений (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Коробков Денис Сергее
- вич\nПара: 1 пара\nДополнительно: ЭЛЗу-301/06
- \, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, ЭЛЗу-301
- /12\nURALCAMPUS_SYNC_ID:892d7273dd2341690e55feecb4fb400f\nURALCAMPUS_SOUR
- CE:inueco:teacher:efdc6033-a134-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1c09fc3ceac3e464f4afbea000626ff9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T101000
-DTEND;TZID=Asia/Yekaterinburg:20260921T114000
-SUMMARY:Техника высоких напряжений (Практик
- а)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Коробков Денис Сергее
- вич\nПара: 2 пара\nДополнительно: ЭЛЗу-301/06
- \, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, ЭЛЗу-301
- /12\nURALCAMPUS_SYNC_ID:1c09fc3ceac3e464f4afbea000626ff9\nURALCAMPUS_SOUR
- CE:inueco:teacher:efdc6033-a134-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5afee5911a5eb1a3263c7c70c4e0042c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T120000
-DTEND;TZID=Asia/Yekaterinburg:20260921T133000
-SUMMARY:Техника высоких напряжений (Зачет)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Коробков Денис Сергее
- вич\nПара: 3 пара\nДополнительно: ЭЛЗу-301/06
- \, ЭЛЗу-301/07\, ЭЛЗу-301/07а\, ЭЛЗу-301/07б\, ЭЛЗу-301
- /12\nURALCAMPUS_SYNC_ID:5afee5911a5eb1a3263c7c70c4e0042c\nURALCAMPUS_SOUR
- CE:inueco:teacher:efdc6033-a134-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:fffe7e5ff2b83fece0adf210c0887b3d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
@@ -172,7 +129,7 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  -a134-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:428a1cef072eab3620a8150472c3bb1f@uralcampus-calendar-pages
+UID:ec98206e64cd11eca86efebd60aa9b72@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260922T195000
 DTEND;TZID=Asia/Yekaterinburg:20260922T205000
@@ -182,10 +139,10 @@ SUMMARY:Монтаж\, наладка и испытание электро
 LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Коробков Денис Сергее
- вич\nПара: 8 пара\nДополнительно: ЭЛЗ-301/11\,
-  ЭЛЗ-301/12\, ЭЛЗ-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-301/13А\, ЭЛ
- З-301/07\, ЭЛЗ-301/07а\, ЭЛЗ-301/07б\nURALCAMPUS_SYNC_ID:428a1ce
- f072eab3620a8150472c3bb1f\nURALCAMPUS_SOURCE:inueco:teacher:efdc6033-a134
+ вич\nПара: 8 пара\nДополнительно: ЭЛЗ-301/07\,
+  ЭЛЗ-301/07а\, ЭЛЗ-301/07б\, ЭЛЗ-301/11\, ЭЛЗ-301/12\, ЭЛ
+ З-301/12а\, ЭЛЗ-301/13\, ЭЛЗ-301/13А\nURALCAMPUS_SYNC_ID:ec98206
+ e64cd11eca86efebd60aa9b72\nURALCAMPUS_SOURCE:inueco:teacher:efdc6033-a134
  -11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

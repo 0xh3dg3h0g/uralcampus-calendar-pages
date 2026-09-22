@@ -18,4 +18,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:dd6c10ef037c62881ddb7b41a2dc94d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
+DTEND;TZID=Asia/Yekaterinburg:20260923T114000
+SUMMARY:Санитария и гигиена в сфере услуг (А
+ удиторные занятия)
+LOCATION:ауд. 9\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шайхутдинова Альмира Исла
+ мовна\nПара: 2 пара\nДополнительно: ИК-230ю\
+ nURALCAMPUS_SYNC_ID:dd6c10ef037c62881ddb7b41a2dc94d2\nURALCAMPUS_SOURCE:p
+ reco:teacher:6d2e367b-bbcf-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Буренин Вячеслав 
+ Васильевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ce39d4f07fcec4df14d4c998d47be3ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T083000
+DTEND;TZID=Asia/Yekaterinburg:20260926T100000
+SUMMARY:Компьютерная графика в архитектуре 
+ и дизайне среды (Лекция)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буренин Вячеслав Васи
+ льевич\nПара: 1 пара\nДополнительно: А-310\nU
+ RALCAMPUS_SYNC_ID:ce39d4f07fcec4df14d4c998d47be3ff\nURALCAMPUS_SOURCE:inu
+ eco:teacher:c7f97f46-b648-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:93cf2772faef5345f5a642bfc3a583d1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T101000
+DTEND;TZID=Asia/Yekaterinburg:20260926T114000
+SUMMARY:Компьютерная графика в архитектуре 
+ и дизайне среды (Лекция)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буренин Вячеслав Васи
+ льевич\nПара: 2 пара\nДополнительно: А-310\nU
+ RALCAMPUS_SYNC_ID:93cf2772faef5345f5a642bfc3a583d1\nURALCAMPUS_SOURCE:inu
+ eco:teacher:c7f97f46-b648-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

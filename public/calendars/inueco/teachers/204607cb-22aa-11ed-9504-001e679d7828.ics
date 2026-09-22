@@ -18,30 +18,4 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:6e535ee66f76d5753879eda9cefc3514@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T183000
-DTEND;TZID=Asia/Yekaterinburg:20260921T194000
-SUMMARY:Антикризисное управление (Лекция)
-LOCATION:ауд. 322\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Кожушко Елена Анатоль
- евна\nПара: 7 пара\nДополнительно: ТД-506\nURA
- LCAMPUS_SYNC_ID:6e535ee66f76d5753879eda9cefc3514\nURALCAMPUS_SOURCE:inuec
- o:teacher:204607cb-22aa-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:001f6eaaf5403557a68f1319faed7859@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260921T195000
-DTEND;TZID=Asia/Yekaterinburg:20260921T205000
-SUMMARY:Антикризисное управление (Практика)
-LOCATION:ауд. 322\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Кожушко Елена Анатоль
- евна\nПара: 8 пара\nДополнительно: ТД-506\nURA
- LCAMPUS_SYNC_ID:001f6eaaf5403557a68f1319faed7859\nURALCAMPUS_SOURCE:inuec
- o:teacher:204607cb-22aa-11ed-9504-001e679d7828
-END:VEVENT
 END:VCALENDAR
