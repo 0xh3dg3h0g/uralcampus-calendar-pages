@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-278ю\, ПД-278Аю
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3f7975d547442e97a603b53eaff3bc82@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 11\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278ю\, ПД-278Аю\nПара: 2 пара\nДополни
+ тельно: Курда Е.С.\nURALCAMPUS_SYNC_ID:3f7975d547442e97a603b
+ 53eaff3bc82\nURALCAMPUS_SOURCE:preco:group:2a600b31-a5db-11f1-ad9c-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ae31c6ae994ed9d90fdeadc2c41fa53c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 11\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278ю\, ПД-278Аю\nПара: 1 пара\nДополни
+ тельно: Перонкова А.Н.\nURALCAMPUS_SYNC_ID:ae31c6ae994ed
+ 9d90fdeadc2c41fa53c\nURALCAMPUS_SOURCE:preco:group:2a600b31-a5db-11f1-ad9
+ c-04421acb877d
+END:VEVENT
+END:VCALENDAR

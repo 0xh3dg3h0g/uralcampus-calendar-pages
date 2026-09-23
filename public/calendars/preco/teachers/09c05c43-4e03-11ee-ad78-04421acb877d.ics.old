@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Величко Еле
+ на Григорьевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10557c3266352761d02ab34d80984093@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Величко Елена Григорьевна\
+ nПара: 2 пара\nДополнительно: ОЛ-150ю\nURALCAMPUS
+ _SYNC_ID:10557c3266352761d02ab34d80984093\nURALCAMPUS_SOURCE:preco:teache
+ r:09c05c43-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10acb9da2e5675f25e46299d3808f24a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Величко Елена Григорьевна\
+ nПара: 1 пара\nДополнительно: ИК-130ю\nURALCAMPUS
+ _SYNC_ID:10acb9da2e5675f25e46299d3808f24a\nURALCAMPUS_SOURCE:preco:teache
+ r:09c05c43-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:134c4ed4ede7a05f75c37d789decd5a1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Величко Елена Григорьевна\
+ nПара: 1 пара\nДополнительно: П-170ю\nURALCAMPUS_S
+ YNC_ID:134c4ed4ede7a05f75c37d789decd5a1\nURALCAMPUS_SOURCE:preco:teacher:
+ 09c05c43-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ab27e43e9b7bf45960a28357399c55ce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Величко Елена Григорьевна\
+ nПара: 2 пара\nДополнительно: ПД-178ю\nURALCAMPUS
+ _SYNC_ID:ab27e43e9b7bf45960a28357399c55ce\nURALCAMPUS_SOURCE:preco:teache
+ r:09c05c43-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+END:VCALENDAR

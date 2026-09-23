@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ОЛ-150ю
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1cc12beceefd81aeb626b75bc79dce60@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-150ю\nПара: 3 пара\nДополнительно: 
+ Носенко И.М.\nURALCAMPUS_SYNC_ID:1cc12beceefd81aeb626b75bc79dce6
+ 0\nURALCAMPUS_SOURCE:preco:group:4ecceb06-a5db-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4ef0b2a54513445a4d683f11be682a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-150ю\nПара: 1 пара\nДополнительно: 
+ Дегтярева Д.О.\nURALCAMPUS_SYNC_ID:3a4ef0b2a54513445a4d683f11b
+ e682a\nURALCAMPUS_SOURCE:preco:group:4ecceb06-a5db-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cd63e59f0485cadf06ed3042e03bac98@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛ-150ю\nПара: 2 пара\nДополнительно: 
+ Величко Е.Г.\nURALCAMPUS_SYNC_ID:cd63e59f0485cadf06ed3042e03bac9
+ 8\nURALCAMPUS_SOURCE:preco:group:4ecceb06-a5db-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

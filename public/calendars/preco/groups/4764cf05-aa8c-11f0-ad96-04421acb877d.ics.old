@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ИК-130ю
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6f2da33983bb21b5e5e1255b36616f19@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 16\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ИК-130ю\nПара: 2 пара\nДополнительно: 
+ Носенко И.М.\nURALCAMPUS_SYNC_ID:6f2da33983bb21b5e5e1255b36616f1
+ 9\nURALCAMPUS_SOURCE:preco:group:4764cf05-aa8c-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9b194a906061d6d065419f6d1c931c39@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ИК-130ю\nПара: 1 пара\nДополнительно: 
+ Величко Е.Г.\nURALCAMPUS_SYNC_ID:9b194a906061d6d065419f6d1c931c3
+ 9\nURALCAMPUS_SOURCE:preco:group:4764cf05-aa8c-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d40ca9474a2fdafe85e88727842368cb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T120000
+DTEND;TZID=Asia/Yekaterinburg:20260922T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 16\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ИК-130ю\nПара: 3 пара\nДополнительно: 
+ Дегтярева Д.О.\nURALCAMPUS_SYNC_ID:d40ca9474a2fdafe85e88727842
+ 368cb\nURALCAMPUS_SOURCE:preco:group:4764cf05-aa8c-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

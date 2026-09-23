@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Курда Екате
+ рина Сергеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7760e4d3470296d49c869a8982bc67a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 11\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курда Екатерина Сергеевна\
+ nПара: 2 пара\nДополнительно: ПД-278ю\, ПД-278
+ Аю\nURALCAMPUS_SYNC_ID:7760e4d3470296d49c869a8982bc67a8\nURALCAMPUS_SOU
+ RCE:preco:teacher:bc61b86e-b0b6-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

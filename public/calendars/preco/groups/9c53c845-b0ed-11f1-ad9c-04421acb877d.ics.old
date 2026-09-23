@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: П-270ю
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8a3e2453d07ad055d8329fff916536d3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T083000
+DTEND;TZID=Asia/Yekaterinburg:20260922T100000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 12\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270ю\nПара: 1 пара\nДополнительно: Н
+ осенко И.М.\nURALCAMPUS_SYNC_ID:8a3e2453d07ad055d8329fff916536d3\
+ nURALCAMPUS_SOURCE:preco:group:9c53c845-b0ed-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c71f0a8cc56ec3ef3c452b73778c2f3c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260922T101000
+DTEND;TZID=Asia/Yekaterinburg:20260922T114000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 14\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270ю\nПара: 2 пара\nДополнительно: Д
+ егтярева Д.О.\nURALCAMPUS_SYNC_ID:c71f0a8cc56ec3ef3c452b73778c2
+ f3c\nURALCAMPUS_SOURCE:preco:group:9c53c845-b0ed-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

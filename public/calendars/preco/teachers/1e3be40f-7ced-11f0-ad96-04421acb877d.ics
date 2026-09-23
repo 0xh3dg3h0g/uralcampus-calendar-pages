@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:6321eb5b35aeee176380663af96cb028@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T171000
+DTEND;TZID=Asia/Yekaterinburg:20260928T182000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Карепина Алена Дмитриевна\
+ nПара: 6 пара\nДополнительно: П-240к\nURALCAMPUS_S
+ YNC_ID:6321eb5b35aeee176380663af96cb028\nURALCAMPUS_SOURCE:preco:teacher:
+ 1e3be40f-7ced-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:43265e1cb89fa11895e61eee7fd81ae2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T171000
+DTEND;TZID=Asia/Yekaterinburg:20261005T182000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 410\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Карепина Алена Дмитриевна\
+ nПара: 6 пара\nДополнительно: П-240к\nURALCAMPUS_S
+ YNC_ID:43265e1cb89fa11895e61eee7fd81ae2\nURALCAMPUS_SOURCE:preco:teacher:
+ 1e3be40f-7ced-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR
