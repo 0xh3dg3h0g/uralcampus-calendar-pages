@@ -19,45 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0d7914c80c3fdb8f10829494c0056197@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
-DTEND;TZID=Asia/Yekaterinburg:20260923T182000
-SUMMARY:Инновационный менеджмент (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Борисенко Яна Михайло
- вна\nПара: 6 пара\nДополнительно: МЗу-401\nURA
- LCAMPUS_SYNC_ID:0d7914c80c3fdb8f10829494c0056197\nURALCAMPUS_SOURCE:inuec
- o:teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:3272051acc1eb067a4840fae90689bbd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T183000
-DTEND;TZID=Asia/Yekaterinburg:20260923T194000
-SUMMARY:Инновационный менеджмент (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Борисенко Яна Михайло
- вна\nПара: 7 пара\nДополнительно: МЗу-401\nURA
- LCAMPUS_SYNC_ID:3272051acc1eb067a4840fae90689bbd\nURALCAMPUS_SOURCE:inuec
- o:teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ee2ef572cebb7f69660911b93d903e1c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T195000
-DTEND;TZID=Asia/Yekaterinburg:20260923T205000
-SUMMARY:Инновационный менеджмент (Практика)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Борисенко Яна Михайло
- вна\nПара: 8 пара\nДополнительно: МЗу-401\nURA
- LCAMPUS_SYNC_ID:ee2ef572cebb7f69660911b93d903e1c\nURALCAMPUS_SOURCE:inuec
- o:teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:3296f3068d57bb7a7fa70d6ce606d166@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
@@ -137,5 +98,115 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  вна\nПара: 8 пара\nДополнительно: МЗу-301\nURA
  LCAMPUS_SYNC_ID:f61e15de94b3dc753fbde88a4c27cfcd\nURALCAMPUS_SOURCE:inuec
  o:teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca503968e980eb0b2df5584272eff66@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T101000
+DTEND;TZID=Asia/Yekaterinburg:20260929T114000
+SUMMARY:Общий менеджмент (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Борисенко Яна Михайло
+ вна\nПара: 2 пара\nДополнительно: ТД-206\nURALC
+ AMPUS_SYNC_ID:5ca503968e980eb0b2df5584272eff66\nURALCAMPUS_SOURCE:inueco:
+ teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:96e0e947901b9cea3aaf9e8b9327515b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T120000
+DTEND;TZID=Asia/Yekaterinburg:20260929T133000
+SUMMARY:Общий менеджмент (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Борисенко Яна Михайло
+ вна\nПара: 3 пара\nДополнительно: ТД-206\nURALC
+ AMPUS_SYNC_ID:96e0e947901b9cea3aaf9e8b9327515b\nURALCAMPUS_SOURCE:inueco:
+ teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c8df9b8c4864e78e3bd0c7e69a1d17@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T135000
+DTEND;TZID=Asia/Yekaterinburg:20260929T152000
+SUMMARY:Оценка и управление рисками в систе
+ ме экономической безопасности (Практик
+ а)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Борисенко Яна Михайло
+ вна\nПара: 4 пара\nДополнительно: ЭБ-408\nURALC
+ AMPUS_SYNC_ID:a3c8df9b8c4864e78e3bd0c7e69a1d17\nURALCAMPUS_SOURCE:inueco:
+ teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7c4229cb5f4f74d68942cc7ae41cd08f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T153000
+DTEND;TZID=Asia/Yekaterinburg:20260929T170000
+SUMMARY:Оценка и управление рисками в систе
+ ме экономической безопасности (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Борисенко Яна Михайло
+ вна\nПара: 5 пара\nДополнительно: ЭБ-408\nURALC
+ AMPUS_SYNC_ID:7c4229cb5f4f74d68942cc7ae41cd08f\nURALCAMPUS_SOURCE:inueco:
+ teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1a504be58bed07c7d53f67e00f2d848a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T101000
+DTEND;TZID=Asia/Yekaterinburg:20261001T114000
+SUMMARY:Основы менеджмента (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Борисенко Яна Михайло
+ вна\nПара: 2 пара\nДополнительно: М-103\nURALCAM
+ PUS_SYNC_ID:1a504be58bed07c7d53f67e00f2d848a\nURALCAMPUS_SOURCE:inueco:te
+ acher:85a8ec9a-4084-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c3773418b9bb70d10e65540d474ba497@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T120000
+DTEND;TZID=Asia/Yekaterinburg:20261001T133000
+SUMMARY:Система управления рисками в таможе
+ нном деле (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Борисенко Яна Михайло
+ вна\nПара: 3 пара\nДополнительно: ТД-506\nURALC
+ AMPUS_SYNC_ID:c3773418b9bb70d10e65540d474ba497\nURALCAMPUS_SOURCE:inueco:
+ teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:60caf6ea179040366d8191ee973d5279@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
+DTEND;TZID=Asia/Yekaterinburg:20261001T152000
+SUMMARY:Система управления рисками в таможе
+ нном деле (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Борисенко Яна Михайло
+ вна\nПара: 4 пара\nДополнительно: ТД-506\nURALC
+ AMPUS_SYNC_ID:60caf6ea179040366d8191ee973d5279\nURALCAMPUS_SOURCE:inueco:
+ teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a97a151b68e06194485c79426519a54e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T153000
+DTEND;TZID=Asia/Yekaterinburg:20261001T170000
+SUMMARY:Система управления рисками в таможе
+ нном деле (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Борисенко Яна Михайло
+ вна\nПара: 5 пара\nДополнительно: ТД-506\nURALC
+ AMPUS_SYNC_ID:a97a151b68e06194485c79426519a54e\nURALCAMPUS_SOURCE:inueco:
+ teacher:85a8ec9a-4084-11ed-ad62-04421acb877d
 END:VEVENT
 END:VCALENDAR

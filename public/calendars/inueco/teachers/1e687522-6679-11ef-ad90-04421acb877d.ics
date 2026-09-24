@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:e1dcd0ae0773108ebfb35c3ee1a2a017@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T183000
+DTEND;TZID=Asia/Yekaterinburg:20260930T194000
+SUMMARY:Система государственной службы Рос
+ сийской Федерации (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лильбок Светлана Вале
+ рьевна\nПара: 7 пара\nДополнительно: ГМУм-
+ 104\nURALCAMPUS_SYNC_ID:e1dcd0ae0773108ebfb35c3ee1a2a017\nURALCAMPUS_SOUR
+ CE:inueco:teacher:1e687522-6679-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:692d2614278a7d6c295c30dfbea4e88a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T195000
+DTEND;TZID=Asia/Yekaterinburg:20260930T205000
+SUMMARY:Система государственной службы Рос
+ сийской Федерации (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лильбок Светлана Вале
+ рьевна\nПара: 8 пара\nДополнительно: ГМУм-
+ 104\nURALCAMPUS_SYNC_ID:692d2614278a7d6c295c30dfbea4e88a\nURALCAMPUS_SOUR
+ CE:inueco:teacher:1e687522-6679-11ef-ad90-04421acb877d
+END:VEVENT
 END:VCALENDAR

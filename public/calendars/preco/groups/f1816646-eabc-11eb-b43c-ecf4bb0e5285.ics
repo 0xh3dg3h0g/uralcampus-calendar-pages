@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:414fc7389080f7523b22549bb01ab2d7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 304\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 104\nПара: 2 пара\nДополнительно: Семя
- нников И.М.\nURALCAMPUS_SYNC_ID:414fc7389080f7523b22549bb01ab2d7\
- nURALCAMPUS_SOURCE:preco:group:f1816646-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:d52a2e932617018574af48b36cd0fca7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
-DTEND;TZID=Asia/Yekaterinburg:20260923T133000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 203\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 104\nПара: 3 пара\nДополнительно: Наде
- ждина О.А.\nURALCAMPUS_SYNC_ID:d52a2e932617018574af48b36cd0fca7\nU
- RALCAMPUS_SOURCE:preco:group:f1816646-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:7f8ac0eb80bf155313562e5568712668@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
@@ -113,5 +89,30 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 104\nПара: 3 пара\nДополнительно: Коже
  вникова Е.Б.\nURALCAMPUS_SYNC_ID:7bae50da70d8139c0708e3f6d5f090b
  0\nURALCAMPUS_SOURCE:preco:group:f1816646-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:0574077d21aec210ee145fa107a3ca2f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T134000
+DTEND;TZID=Asia/Yekaterinburg:20260926T151000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 104\nПара: 4 пара\nДополнительно: Коже
+ вникова Е.Б.\nURALCAMPUS_SYNC_ID:0574077d21aec210ee145fa107a3ca2
+ f\nURALCAMPUS_SOURCE:preco:group:f1816646-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:434442ecaaf12ee1f3479da3116d5711@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T152000
+DTEND;TZID=Asia/Yekaterinburg:20260926T165000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 104\nПара: 5 пара\nДополнительно: Коже
+ вникова Е.Б.\nURALCAMPUS_SYNC_ID:434442ecaaf12ee1f3479da3116d571
+ 1\nURALCAMPUS_SOURCE:preco:group:f1816646-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 END:VCALENDAR

@@ -18,60 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ac5d39d88fd19b83b70f7bbf37be2166@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
-DTEND;TZID=Asia/Yekaterinburg:20260923T100000
-SUMMARY:Фармакология (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-322\nПара: 1 пара\nДополнительно: Е
- жова В.С.\nURALCAMPUS_SYNC_ID:ac5d39d88fd19b83b70f7bbf37be2166\nURA
- LCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7bf2dc475ce42f592a0fedd74c5b0b02@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Сестринский уход и реабилитация пац
- иентов терапевтического профиля разных
-  возрастных групп (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-322\nПара: 2 пара\nДополнительно: Б
- агинская Е.О.\nURALCAMPUS_SYNC_ID:7bf2dc475ce42f592a0fedd74c5b0
- b02\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b732d99b6e60c27499672904142cdebe@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
-DTEND;TZID=Asia/Yekaterinburg:20260923T133000
-SUMMARY:Сестринский уход и реабилитация пац
- иентов терапевтического профиля разных
-  возрастных групп (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-322\nПара: 3 пара\nДополнительно: Б
- агинская Е.О.\nURALCAMPUS_SYNC_ID:b732d99b6e60c27499672904142cd
- ebe\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:687b9bfb766911971a79543bc298c547@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
-DTEND;TZID=Asia/Yekaterinburg:20260923T152000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 111\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-322\nПара: 4 пара\nДополнительно: Д
- ресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:687b9bfb766911971a795
- 43bc298c547\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:89dc672863d32406c3ef7c49beadcf58@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
@@ -177,5 +123,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: СД-322\nПара: 3 пара\nДополнительно: С
  азонова И.А.\nURALCAMPUS_SYNC_ID:837b65bb5d5c9e4532db4ab32bc0605
  4\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e045a18a616e1af4233dd312dbbcb485@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T134000
+DTEND;TZID=Asia/Yekaterinburg:20260926T151000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-322\nПара: 4 пара\nДополнительно: С
+ азонова И.А.\nURALCAMPUS_SYNC_ID:e045a18a616e1af4233dd312dbbcb48
+ 5\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

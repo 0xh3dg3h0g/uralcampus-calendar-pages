@@ -18,48 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cc5fd1b2737eaf5163b30ed09d9dd616@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
-DTEND;TZID=Asia/Yekaterinburg:20260923T152000
-SUMMARY:Контракты и внешнеторговая докумен
- тация (Лекция)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-506\nПара: 4 пара\nДополнитель
- но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:cc5fd1b2737eaf5163b30ed09d
- 9dd616\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
-UID:dfdf45e9e1571007f8f87e522999ee82@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
-DTEND;TZID=Asia/Yekaterinburg:20260923T170000
-SUMMARY:Контракты и внешнеторговая докумен
- тация (Лекция)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-506\nПара: 5 пара\nДополнитель
- но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:dfdf45e9e1571007f8f87e5229
- 99ee82\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
-UID:ae84c6202b6e246ef698d32df965de5b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
-DTEND;TZID=Asia/Yekaterinburg:20260923T182000
-SUMMARY:Контракты и внешнеторговая докумен
- тация (Практика)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-506\nПара: 6 пара\nДополнитель
- но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:ae84c6202b6e246ef698d32df9
- 65de5b\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
 UID:1face841247ee9996acdae60115b6298@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
@@ -127,6 +85,132 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ТД-506\nПара: 5 пара\nДополнитель
  но: Василенко Л. А.\nURALCAMPUS_SYNC_ID:8a67c95bea2a9acf49e5
  8c0d1a6e4ddb\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3fbbb3a578cae9b6ce1b19215a32d2c6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T183000
+DTEND;TZID=Asia/Yekaterinburg:20260928T194000
+SUMMARY:Антикризисное управление (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 7 пара\nДополнитель
+ но: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:3fbbb3a578cae9b6ce1b19215
+ a32d2c6\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:c679196fe6aca0fe34f11a08870be914@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T195000
+DTEND;TZID=Asia/Yekaterinburg:20260928T205000
+SUMMARY:Антикризисное управление (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 8 пара\nДополнитель
+ но: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:c679196fe6aca0fe34f11a088
+ 70be914\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:084af5da8e86f804ee4b7df09565d1e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T083000
+DTEND;TZID=Asia/Yekaterinburg:20260929T100000
+SUMMARY:Институты административного права\,
+  регулирующие деятельность таможенных 
+ органов (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 1 пара\nДополнитель
+ но: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:084af5da8e86f804ee
+ 4b7df09565d1e5\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ddaf8a867e8458e9494724464d3d0a6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T101000
+DTEND;TZID=Asia/Yekaterinburg:20260929T114000
+SUMMARY:Институты административного права\,
+  регулирующие деятельность таможенных 
+ органов (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 2 пара\nДополнитель
+ но: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:ddaf8a867e8458e949
+ 4724464d3d0a6e\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba486f650259ec0738ccbcf45dae52b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T120000
+DTEND;TZID=Asia/Yekaterinburg:20261001T133000
+SUMMARY:Система управления рисками в таможе
+ нном деле (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 3 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:0ba486f650259ec0738c
+ cbcf45dae52b\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd2ea15dd1343ab1f32323663e872f0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
+DTEND;TZID=Asia/Yekaterinburg:20261001T152000
+SUMMARY:Система управления рисками в таможе
+ нном деле (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 4 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:ebd2ea15dd1343ab1f32
+ 323663e872f0\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:872ea1f79976fe3cb087652f472afee6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T153000
+DTEND;TZID=Asia/Yekaterinburg:20261001T170000
+SUMMARY:Система управления рисками в таможе
+ нном деле (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 5 пара\nДополнитель
+ но: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:872ea1f79976fe3cb087
+ 652f472afee6\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d31b58f61c9507da2115184a8bc33e2e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T135000
+DTEND;TZID=Asia/Yekaterinburg:20261002T152000
+SUMMARY:Основы квалификации преступлений в 
+ сфере таможенного дела (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 4 пара\nДополнитель
+ но: Василенко Л. А.\nURALCAMPUS_SYNC_ID:d31b58f61c9507da2115
+ 184a8bc33e2e\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:228ebef7df29b72a83b5a4bd80e61f73@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T153000
+DTEND;TZID=Asia/Yekaterinburg:20261002T170000
+SUMMARY:Основы квалификации преступлений в 
+ сфере таможенного дела (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-506\nПара: 5 пара\nДополнитель
+ но: Василенко Л. А.\nURALCAMPUS_SYNC_ID:228ebef7df29b72a83b5
+ a4bd80e61f73\nURALCAMPUS_SOURCE:inueco:group:a695340b-282f-11ed-ad61-0442
  1acb877d
 END:VEVENT
 END:VCALENDAR

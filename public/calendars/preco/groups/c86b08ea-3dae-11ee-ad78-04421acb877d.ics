@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:75745130c9a887cdbec36a645d0ef9ee@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
-DTEND;TZID=Asia/Yekaterinburg:20260923T152000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 308\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 108\nПара: 4 пара\nДополнительно: Пано
- ва Л.В.\nURALCAMPUS_SYNC_ID:75745130c9a887cdbec36a645d0ef9ee\nURALCAM
- PUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e86e737bcd15f7912ead26b8e044b2e8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
-DTEND;TZID=Asia/Yekaterinburg:20260923T170000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 403\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 108\nПара: 5 пара\nДополнительно: Степ
- анова С.Л.\nURALCAMPUS_SYNC_ID:e86e737bcd15f7912ead26b8e044b2e8\nU
- RALCAMPUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:5bea26ed6559a79505a6aff758f4a76d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
@@ -114,5 +90,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 108\nПара: 3 пара\nДополнительно: Жусу
  пов А.Д.\nURALCAMPUS_SYNC_ID:d9594fca3ff7d7b417b94e62d511436e\nURALC
  AMPUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a1ee3eb6c1cec7395f89232395a31b50@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260926T134000
+DTEND;TZID=Asia/Yekaterinburg:20260926T151000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 108\nПара: 4 пара\nДополнительно: Друж
+ инин В.А.\nURALCAMPUS_SYNC_ID:a1ee3eb6c1cec7395f89232395a31b50\nURA
+ LCAMPUS_SOURCE:preco:group:c86b08ea-3dae-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -18,58 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1ae30f75fd185fda511c08156584f5e8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
-DTEND;TZID=Asia/Yekaterinburg:20260923T100000
-SUMMARY:Огневая подготовка (Аудиторные заня
- тия)
-LOCATION:ауд. 104\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-448к\nПара: 1 пара\nДополнительно: 
- Еремин А.В.\nURALCAMPUS_SYNC_ID:1ae30f75fd185fda511c08156584f5e8\
- nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9df8b14a42d652f421a675d84678b22c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Огневая подготовка (Аудиторные заня
- тия)
-LOCATION:ауд. 104\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-448к\nПара: 2 пара\nДополнительно: 
- Еремин А.В.\nURALCAMPUS_SYNC_ID:9df8b14a42d652f421a675d84678b22c\
- nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ece8a2790a13cb876c0697355a5945c2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
-DTEND;TZID=Asia/Yekaterinburg:20260923T133000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 104\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
- Быков А.В.\nURALCAMPUS_SYNC_ID:ece8a2790a13cb876c0697355a5945c2\nU
- RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:bb96a0e13e8d40116e661a718fb662b0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
-DTEND;TZID=Asia/Yekaterinburg:20260923T152000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 104\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
- Быков А.В.\nURALCAMPUS_SYNC_ID:bb96a0e13e8d40116e661a718fb662b0\nU
- RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:5ee5775ea83fd725b989d3470b077554@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
@@ -159,5 +107,396 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
  Золотова Е. П.\nURALCAMPUS_SYNC_ID:36324b619f29aced942c5eb0be18
  faec\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3920b33c29467c06e8c50b438c0344@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T153000
+DTEND;TZID=Asia/Yekaterinburg:20260928T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комсомольский просп
+ ект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 5 пара\nДополнительно: 
+ Медведева Д.С.\nURALCAMPUS_SYNC_ID:2c3920b33c29467c06e8c50b438
+ c0344\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3c59be5f49688ab3b53c7634e1175bd1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T120000
+DTEND;TZID=Asia/Yekaterinburg:20260929T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:3c59be5f49688ab3b53c7634e117
+ 5bd1\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f171c775257329771f052e4e274c1b56@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T135000
+DTEND;TZID=Asia/Yekaterinburg:20260929T152000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:f171c775257329771f052e4e274c
+ 1b56\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b309b34c2489e1fe557ccf5dbd14ce9f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T153000
+DTEND;TZID=Asia/Yekaterinburg:20260929T170000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 5 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:b309b34c2489e1fe557ccf5dbd14
+ ce9f\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:718f4bd7a4b657ff72ccc9d20854fa57@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T083000
+DTEND;TZID=Asia/Yekaterinburg:20260930T100000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 1 пара\nДополнительно: 
+ Еремин А.В.\nURALCAMPUS_SYNC_ID:718f4bd7a4b657ff72ccc9d20854fa57\
+ nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:544a059400b5940e8e104a6add2dea0b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T101000
+DTEND;TZID=Asia/Yekaterinburg:20260930T114000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 2 пара\nДополнительно: 
+ Еремин А.В.\nURALCAMPUS_SYNC_ID:544a059400b5940e8e104a6add2dea0b\
+ nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:46cc2589441b22955e9eb175c751601a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T120000
+DTEND;TZID=Asia/Yekaterinburg:20260930T133000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:46cc2589441b22955e9eb175c751601a\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5bae1e588fa8852900cb726c06126771@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T135000
+DTEND;TZID=Asia/Yekaterinburg:20260930T152000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:5bae1e588fa8852900cb726c06126771\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ab84019f4b8b92a5cac9783f95ffdc34@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T101000
+DTEND;TZID=Asia/Yekaterinburg:20261001T114000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 2 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:ab84019f4b8b92a5cac9783f95ffdc34\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:885d9a4ae0edd8ed79859e21d045c06f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T120000
+DTEND;TZID=Asia/Yekaterinburg:20261001T133000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:885d9a4ae0edd8ed79859e21d045c06f\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:266d9bf19d169e8abda14eccd53bcd9d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
+DTEND;TZID=Asia/Yekaterinburg:20261001T152000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:266d9bf19d169e8abda14eccd53bcd9d\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ce8f03ecca0b2781f46ff537e20b3b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T083000
+DTEND;TZID=Asia/Yekaterinburg:20261002T100000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 1 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:d5ce8f03ecca0b2781f46ff537e2
+ 0b3b\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b917c6c697b519bfeddcdd4dac12f2bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T101000
+DTEND;TZID=Asia/Yekaterinburg:20261002T114000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 2 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:b917c6c697b519bfeddcdd4dac12
+ f2bb\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3a60bdb43df4a2d3e504849fcb60bfeb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T120000
+DTEND;TZID=Asia/Yekaterinburg:20261002T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:3a60bdb43df4a2d3e504849fcb60
+ bfeb\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9d18e85768b5b235c3801d738c3c0749@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T135000
+DTEND;TZID=Asia/Yekaterinburg:20261002T152000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:9d18e85768b5b235c3801d738c3c
+ 0749\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:38bb48355007d580b84c3d5498ad45f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T120000
+DTEND;TZID=Asia/Yekaterinburg:20261005T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 103\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:38bb48355007d580b84c3d5498ad45f
+ 5\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:72d6da8e2ac28fde24549e2e21262a7c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T120000
+DTEND;TZID=Asia/Yekaterinburg:20261006T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:72d6da8e2ac28fde24549e2e2126
+ 2a7c\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:17ee6ea23664e12be8137efe4db7dc75@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T135000
+DTEND;TZID=Asia/Yekaterinburg:20261006T152000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:17ee6ea23664e12be8137efe4db7
+ dc75\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ba25128d1a45931672c20ac4bf7057@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T153000
+DTEND;TZID=Asia/Yekaterinburg:20261006T170000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 5 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:a2ba25128d1a45931672c20ac4bf
+ 7057\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab9b60c36b0a1697d3aa5e6223930f6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T083000
+DTEND;TZID=Asia/Yekaterinburg:20261007T100000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 1 пара\nДополнительно: 
+ Еремин А.В.\nURALCAMPUS_SYNC_ID:6ab9b60c36b0a1697d3aa5e6223930f6\
+ nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:98dea1a83c4418cceb5f52cf1238fc0b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T101000
+DTEND;TZID=Asia/Yekaterinburg:20261007T114000
+SUMMARY:Огневая подготовка (Аудиторные заня
+ тия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 2 пара\nДополнительно: 
+ Еремин А.В.\nURALCAMPUS_SYNC_ID:98dea1a83c4418cceb5f52cf1238fc0b\
+ nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:da735f41752f93ecde4de5e7ed59fa9d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T120000
+DTEND;TZID=Asia/Yekaterinburg:20261007T133000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:da735f41752f93ecde4de5e7ed59fa9d\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3c440e1645eb8aa24c85dc53143c4157@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T135000
+DTEND;TZID=Asia/Yekaterinburg:20261007T152000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:3c440e1645eb8aa24c85dc53143c4157\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:93ad854cde077e44a3ed6fb48d165844@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
+DTEND;TZID=Asia/Yekaterinburg:20261008T114000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 2 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:93ad854cde077e44a3ed6fb48d165844\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:686b372f8e59ce6c77bc2425f86c6971@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
+DTEND;TZID=Asia/Yekaterinburg:20261008T133000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:686b372f8e59ce6c77bc2425f86c6971\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:469a677803bcb041aba869edaac0aa05@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
+DTEND;TZID=Asia/Yekaterinburg:20261008T152000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
+ Быков А.В.\nURALCAMPUS_SYNC_ID:469a677803bcb041aba869edaac0aa05\nU
+ RALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2f13c1b9449b9c6cba5251c647d25b07@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
+DTEND;TZID=Asia/Yekaterinburg:20261009T100000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 1 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:2f13c1b9449b9c6cba5251c647d2
+ 5b07\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3e8e5cde0b443b5a2f7f10aef341f9dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
+DTEND;TZID=Asia/Yekaterinburg:20261009T114000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 2 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:3e8e5cde0b443b5a2f7f10aef341
+ f9dd\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:80acc89f738593c2e2b88d534dc51937@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
+DTEND;TZID=Asia/Yekaterinburg:20261009T133000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 3 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:80acc89f738593c2e2b88d534dc5
+ 1937\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ae92592b6e2429e4da1b8ba6ecada892@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
+DTEND;TZID=Asia/Yekaterinburg:20261009T152000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-448к\nПара: 4 пара\nДополнительно: 
+ Золотова Е. П.\nURALCAMPUS_SYNC_ID:ae92592b6e2429e4da1b8ba6ecad
+ a892\nURALCAMPUS_SOURCE:preco:group:9c86f416-3c11-11ee-ad77-04421acb877d
 END:VEVENT
 END:VCALENDAR

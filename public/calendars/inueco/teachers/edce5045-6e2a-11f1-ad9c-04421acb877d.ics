@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:64f635a48734b97ef67509bff7a33580@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T101000
+DTEND;TZID=Asia/Yekaterinburg:20261002T114000
+SUMMARY:Стратегии эффективного копирайтинг
+ а (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Синева Полина Николае
+ вна\nПара: 2 пара\nДополнительно: Л-311\nURALCAM
+ PUS_SYNC_ID:64f635a48734b97ef67509bff7a33580\nURALCAMPUS_SOURCE:inueco:te
+ acher:edce5045-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a1178b1174dcc33ea3d4249aca7e447f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Стратегии эффективного копирайтинг
+ а (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Синева Полина Николае
+ вна\nПара: 2 пара\nДополнительно: Л-311\nURALCAM
+ PUS_SYNC_ID:a1178b1174dcc33ea3d4249aca7e447f\nURALCAMPUS_SOURCE:inueco:te
+ acher:edce5045-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

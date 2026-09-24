@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9460b2172acd84e4e23d6bafcea1166b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
-DTEND;TZID=Asia/Yekaterinburg:20260923T182000
-SUMMARY:Охрана труда в строительстве (Практ
- ика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Ездина Анна Анатольев
- на\nПара: 6 пара\nДополнительно: СЗУ-401\nURALC
- AMPUS_SYNC_ID:9460b2172acd84e4e23d6bafcea1166b\nURALCAMPUS_SOURCE:inueco:
- teacher:995d289d-7211-11ed-ad68-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:96842d6775a2ca71e8c2162f2b1a7989@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T183000
-DTEND;TZID=Asia/Yekaterinburg:20260923T194000
-SUMMARY:Основы технической эксплуатации об
- ъектов строительства (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Ездина Анна Анатольев
- на\nПара: 7 пара\nДополнительно: СЗУ-401\nURALC
- AMPUS_SYNC_ID:96842d6775a2ca71e8c2162f2b1a7989\nURALCAMPUS_SOURCE:inueco:
- teacher:995d289d-7211-11ed-ad68-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c6d39ea6786f01b9e800c439a85b88d1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T171000
@@ -141,5 +113,33 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  СЗ-301/13\, СЗ-301/13А\, СЗД-301\nURALCAMPUS_SYNC_ID:3e37b79fdc28
  8e5ef68406d6e66ea929\nURALCAMPUS_SOURCE:inueco:teacher:995d289d-7211-11ed
  -ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc46ba68fa28593c4754b486b9784aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T171000
+DTEND;TZID=Asia/Yekaterinburg:20260928T182000
+SUMMARY:Основы строительных конструкций (Пр
+ актика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ездина Анна Анатольев
+ на\nПара: 6 пара\nДополнительно: С-216\nURALCAMPU
+ S_SYNC_ID:9dc46ba68fa28593c4754b486b9784aa\nURALCAMPUS_SOURCE:inueco:teac
+ her:995d289d-7211-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4a235527f0e49d3e4328997926376fb1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T183000
+DTEND;TZID=Asia/Yekaterinburg:20260928T194000
+SUMMARY:Основы строительных конструкций (Пр
+ актика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ездина Анна Анатольев
+ на\nПара: 7 пара\nДополнительно: С-216\nURALCAMPU
+ S_SYNC_ID:4a235527f0e49d3e4328997926376fb1\nURALCAMPUS_SOURCE:inueco:teac
+ her:995d289d-7211-11ed-ad68-04421acb877d
 END:VEVENT
 END:VCALENDAR

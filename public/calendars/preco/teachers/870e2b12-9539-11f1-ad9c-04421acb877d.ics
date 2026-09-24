@@ -19,45 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b8c64cbd3baf14e7c9d6edf834c7f106@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
-DTEND;TZID=Asia/Yekaterinburg:20260923T100000
-SUMMARY:Фармакология (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 1 пара\nДополнительно: СД-322\nURALCAMPUS_SY
- NC_ID:b8c64cbd3baf14e7c9d6edf834c7f106\nURALCAMPUS_SOURCE:preco:teacher:8
- 70e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:36a2cf6e38703b34b8bf2309da18aed4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Фармакология (Аудиторные занятия)
-LOCATION:ауд. 508\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-323\nURALCAMPUS_SY
- NC_ID:36a2cf6e38703b34b8bf2309da18aed4\nURALCAMPUS_SOURCE:preco:teacher:8
- 70e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:147f36730ce7f2d7266c541fe7b2f833@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
-DTEND;TZID=Asia/Yekaterinburg:20260923T133000
-SUMMARY:Фармакология (Аудиторные занятия)
-LOCATION:ауд. 508\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-323\nURALCAMPUS_SY
- NC_ID:147f36730ce7f2d7266c541fe7b2f833\nURALCAMPUS_SOURCE:preco:teacher:8
- 70e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:b4e0b5a9a60a8352cbfe8ca5f283f842@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
@@ -199,6 +160,34 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
  Пара: 2 пара\nДополнительно: СД-253к\, СД-253А
  к\nURALCAMPUS_SYNC_ID:9a4fd09b574e56cc4dd2072ff36307c1\nURALCAMPUS_SOURC
+ E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a65a1dc5d14cf005546cf985a907f3a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
+DTEND;TZID=Asia/Yekaterinburg:20260928T133000
+SUMMARY:Возрастная анатомия\, физиология и г
+ игиена (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 3 пара\nДополнительно: НК-256к\, НК-256А
+ к\nURALCAMPUS_SYNC_ID:a65a1dc5d14cf005546cf985a907f3a8\nURALCAMPUS_SOURC
+ E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4da494c9b1cadc24802ca194bcf20dfb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T135000
+DTEND;TZID=Asia/Yekaterinburg:20260928T152000
+SUMMARY:Возрастная анатомия\, физиология и г
+ игиена (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 4 пара\nДополнительно: НК-256к\, НК-256А
+ к\nURALCAMPUS_SYNC_ID:4da494c9b1cadc24802ca194bcf20dfb\nURALCAMPUS_SOURC
  E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -413,6 +402,34 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
  Пара: 3 пара\nДополнительно: СД-253к\, СД-253А
  к\nURALCAMPUS_SYNC_ID:7c8e9326c6305ded578aafb9e1ebb17e\nURALCAMPUS_SOURC
+ E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f5efb9f590aa7935dd53453f85c3d217@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T120000
+DTEND;TZID=Asia/Yekaterinburg:20261005T133000
+SUMMARY:Возрастная анатомия\, физиология и г
+ игиена (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 3 пара\nДополнительно: НК-256к\, НК-256А
+ к\nURALCAMPUS_SYNC_ID:f5efb9f590aa7935dd53453f85c3d217\nURALCAMPUS_SOURC
+ E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c7dc25977c6ba2ef9b95d18f431cd4c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T135000
+DTEND;TZID=Asia/Yekaterinburg:20261005T152000
+SUMMARY:Возрастная анатомия\, физиология и г
+ игиена (Аудиторные занятия)
+LOCATION:ауд. 104\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 4 пара\nДополнительно: НК-256к\, НК-256А
+ к\nURALCAMPUS_SYNC_ID:c7dc25977c6ba2ef9b95d18f431cd4c4\nURALCAMPUS_SOURC
  E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

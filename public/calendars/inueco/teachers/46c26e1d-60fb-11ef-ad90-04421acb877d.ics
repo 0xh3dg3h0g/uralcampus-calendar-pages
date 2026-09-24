@@ -19,71 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c0aeb7756ecbab9fb3532533c18db38f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Конституционное право (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 2 пара\nДополнительно: СПД-21
- 2\nURALCAMPUS_SYNC_ID:c0aeb7756ecbab9fb3532533c18db38f\nURALCAMPUS_SOURCE
- :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:6c92b0975c3223a727cb3fe69ca8e976@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
-DTEND;TZID=Asia/Yekaterinburg:20260923T133000
-SUMMARY:Муниципальное право (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 3 пара\nДополнительно: СПД-21
- 2\, Ю-201\nURALCAMPUS_SYNC_ID:6c92b0975c3223a727cb3fe69ca8e976\nURALCAMP
- US_SOURCE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:bfda114449ee8ce6f0f365e1a52ed133@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
-DTEND;TZID=Asia/Yekaterinburg:20260923T152000
-SUMMARY:Муниципальное право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 4 пара\nДополнительно: Ю-201\nU
- RALCAMPUS_SYNC_ID:bfda114449ee8ce6f0f365e1a52ed133\nURALCAMPUS_SOURCE:inu
- eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1db2daecb41e20e9b7159493401f9da4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
-DTEND;TZID=Asia/Yekaterinburg:20260923T170000
-SUMMARY:Избирательное право (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 5 пара\nДополнительно: Ю-201\nU
- RALCAMPUS_SYNC_ID:1db2daecb41e20e9b7159493401f9da4\nURALCAMPUS_SOURCE:inu
- eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a10d0508e23b462fba03c6e507ffc5c9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
-DTEND;TZID=Asia/Yekaterinburg:20260923T182000
-SUMMARY:Юридическая техника (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 6 пара\nДополнительно: ЮЗ-301\
- nURALCAMPUS_SYNC_ID:a10d0508e23b462fba03c6e507ffc5c9\nURALCAMPUS_SOURCE:i
- nueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:8495c03338845af104d0b55b806b6a01@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T083000
@@ -108,5 +43,330 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  лаевна\nПара: 2 пара\nДополнительно: Ю-301\nU
  RALCAMPUS_SYNC_ID:2de9ec414cb4148398ebb7638ad367e8\nURALCAMPUS_SOURCE:inu
  eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:376b96b293e117d84bbf094205b1dbc7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T083000
+DTEND;TZID=Asia/Yekaterinburg:20260928T100000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 1 пара\nДополнительно: Ю-201\nU
+ RALCAMPUS_SYNC_ID:376b96b293e117d84bbf094205b1dbc7\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:623c7350d9e657d1c662d4457c005762@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T101000
+DTEND;TZID=Asia/Yekaterinburg:20260928T114000
+SUMMARY:Конституционное право (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 2 пара\nДополнительно: ГМУ-10
+ 2\, Ю-101\nURALCAMPUS_SYNC_ID:623c7350d9e657d1c662d4457c005762\nURALCAMP
+ US_SOURCE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:23346740c0f505b2b649f418e01e603d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T153000
+DTEND;TZID=Asia/Yekaterinburg:20260928T170000
+SUMMARY:Конституционное право (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 5 пара\nДополнительно: СПД-21
+ 2\nURALCAMPUS_SYNC_ID:23346740c0f505b2b649f418e01e603d\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:959a3c4b13f4645d45a4cbaebf507fe2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T171000
+DTEND;TZID=Asia/Yekaterinburg:20260928T182000
+SUMMARY:Конституционное право (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 6 пара\nДополнительно: СПД-21
+ 2\nURALCAMPUS_SYNC_ID:959a3c4b13f4645d45a4cbaebf507fe2\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f1d36910a0570f86302208614581602c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T171000
+DTEND;TZID=Asia/Yekaterinburg:20260929T182000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 6 пара\nДополнительно: ЮЗу-20
+ 1\nURALCAMPUS_SYNC_ID:f1d36910a0570f86302208614581602c\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c011e88d714bc65ae0a75bd04f07afec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T183000
+DTEND;TZID=Asia/Yekaterinburg:20260929T194000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 7 пара\nДополнительно: ЮЗу-20
+ 1\nURALCAMPUS_SYNC_ID:c011e88d714bc65ae0a75bd04f07afec\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8318fa44a4128a61a16703896427f0df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T195000
+DTEND;TZID=Asia/Yekaterinburg:20260929T205000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 8 пара\nДополнительно: ЮЗу-20
+ 1\nURALCAMPUS_SYNC_ID:8318fa44a4128a61a16703896427f0df\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe56a29ebbdec78e8c31afd35699b0e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T083000
+DTEND;TZID=Asia/Yekaterinburg:20260930T100000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 1 пара\nДополнительно: СПД-21
+ 2\nURALCAMPUS_SYNC_ID:1fe56a29ebbdec78e8c31afd35699b0e\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:41e77d58c4aa425c6aa33e85a5839095@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T101000
+DTEND;TZID=Asia/Yekaterinburg:20260930T114000
+SUMMARY:Конституционное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 2 пара\nДополнительно: СПД-21
+ 2\nURALCAMPUS_SYNC_ID:41e77d58c4aa425c6aa33e85a5839095\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc15b544b15767812c69c62d493386c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T120000
+DTEND;TZID=Asia/Yekaterinburg:20260930T133000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 3 пара\nДополнительно: СПД-21
+ 2\, Ю-201\nURALCAMPUS_SYNC_ID:dcc15b544b15767812c69c62d493386c\nURALCAMP
+ US_SOURCE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:040e49c246a620cf09db6905b2bf74e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T135000
+DTEND;TZID=Asia/Yekaterinburg:20260930T152000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 4 пара\nДополнительно: Ю-201\nU
+ RALCAMPUS_SYNC_ID:040e49c246a620cf09db6905b2bf74e8\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d42bf32af9f2d20741bd065b9187654a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T153000
+DTEND;TZID=Asia/Yekaterinburg:20260930T170000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 5 пара\nДополнительно: Ю-201\nU
+ RALCAMPUS_SYNC_ID:d42bf32af9f2d20741bd065b9187654a\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:24af813cde4915c6bafb258072ab9f89@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T153000
+DTEND;TZID=Asia/Yekaterinburg:20261001T170000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 5 пара\nДополнительно: ЮЗу-20
+ 1а\nURALCAMPUS_SYNC_ID:24af813cde4915c6bafb258072ab9f89\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1d9154488ea45dc2041511a68666974b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T171000
+DTEND;TZID=Asia/Yekaterinburg:20261001T182000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 6 пара\nДополнительно: ЮЗу-20
+ 1а\nURALCAMPUS_SYNC_ID:1d9154488ea45dc2041511a68666974b\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9c054018b97c9b2f93721f8c021fe203@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T183000
+DTEND;TZID=Asia/Yekaterinburg:20261001T194000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 7 пара\nДополнительно: ЮЗу-20
+ 1а\nURALCAMPUS_SYNC_ID:9c054018b97c9b2f93721f8c021fe203\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78b57ab30a66d7e862b6c6afab6a6ca6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T195000
+DTEND;TZID=Asia/Yekaterinburg:20261001T205000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 8 пара\nДополнительно: ЮЗу-20
+ 1б\nURALCAMPUS_SYNC_ID:78b57ab30a66d7e862b6c6afab6a6ca6\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7333bf12811798755f6c06d37dab8730@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T135000
+DTEND;TZID=Asia/Yekaterinburg:20261002T152000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 4 пара\nДополнительно: ЮЗу-20
+ 1\nURALCAMPUS_SYNC_ID:7333bf12811798755f6c06d37dab8730\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6059f9ae0921ae2181dd93558adafa44@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T153000
+DTEND;TZID=Asia/Yekaterinburg:20261002T170000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 5 пара\nДополнительно: ЮЗу-20
+ 1а\nURALCAMPUS_SYNC_ID:6059f9ae0921ae2181dd93558adafa44\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc03a1bc844d191dbe76e242ade80b9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T171000
+DTEND;TZID=Asia/Yekaterinburg:20261002T182000
+SUMMARY:Юридическая техника (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 6 пара\nДополнительно: Ю-301\nU
+ RALCAMPUS_SYNC_ID:cbc03a1bc844d191dbe76e242ade80b9\nURALCAMPUS_SOURCE:inu
+ eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aff733ad8f29774ff072e852713418d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T083000
+DTEND;TZID=Asia/Yekaterinburg:20261003T100000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 1 пара\nДополнительно: ЮЗу-20
+ 1б\nURALCAMPUS_SYNC_ID:aff733ad8f29774ff072e852713418d8\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f60b1e35f337b307f3a39b7ee8e4dd5e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 2 пара\nДополнительно: ЮЗу-20
+ 1б\nURALCAMPUS_SYNC_ID:f60b1e35f337b307f3a39b7ee8e4dd5e\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4498b9595cd75a099337554a31d4d997@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
+DTEND;TZID=Asia/Yekaterinburg:20261003T133000
+SUMMARY:Муниципальное право (Экзамен)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 3 пара\nДополнительно: ЮЗу-20
+ 1\nURALCAMPUS_SYNC_ID:4498b9595cd75a099337554a31d4d997\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:934c69f192238492f4dd2cd9caf26706@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T134000
+DTEND;TZID=Asia/Yekaterinburg:20261003T151000
+SUMMARY:Муниципальное право (Экзамен)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 4 пара\nДополнительно: ЮЗу-20
+ 1\nURALCAMPUS_SYNC_ID:934c69f192238492f4dd2cd9caf26706\nURALCAMPUS_SOURCE
+ :inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7009bdd07ea415aa48df2a1d1b4abda7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T152000
+DTEND;TZID=Asia/Yekaterinburg:20261003T165000
+SUMMARY:Муниципальное право (Экзамен)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 5 пара\nДополнительно: ЮЗу-20
+ 1а\nURALCAMPUS_SYNC_ID:7009bdd07ea415aa48df2a1d1b4abda7\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:11c3e6938c05d7c57535e21ff7f00b10@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T170000
+DTEND;TZID=Asia/Yekaterinburg:20261003T181000
+SUMMARY:Муниципальное право (Экзамен)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 6 пара\nДополнительно: ЮЗу-20
+ 1а\nURALCAMPUS_SYNC_ID:11c3e6938c05d7c57535e21ff7f00b10\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
 END:VEVENT
 END:VCALENDAR

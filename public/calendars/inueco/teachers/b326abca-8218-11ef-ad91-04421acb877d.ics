@@ -18,4 +18,60 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:44f4482c60642915a598dc6014278443@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Декларирование товаров и транспорт
+ ных средств (Лекция)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Широковская Татьяна В
+ ладимировна\nПара: 2 пара\nДополнительно:
+  ТД-406\nURALCAMPUS_SYNC_ID:44f4482c60642915a598dc6014278443\nURALCAMPU
+ S_SOURCE:inueco:teacher:b326abca-8218-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e3443d5cac4b3846062599d981bdfeb7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
+DTEND;TZID=Asia/Yekaterinburg:20261003T133000
+SUMMARY:Декларирование товаров и транспорт
+ ных средств (Лаб.)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Широковская Татьяна В
+ ладимировна\nПара: 3 пара\nДополнительно:
+  ТД-406\nURALCAMPUS_SYNC_ID:e3443d5cac4b3846062599d981bdfeb7\nURALCAMPU
+ S_SOURCE:inueco:teacher:b326abca-8218-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bce6395e5c7fcd96a648515d506fb3f6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T134000
+DTEND;TZID=Asia/Yekaterinburg:20261003T151000
+SUMMARY:Международное таможенное сотруднич
+ ество (Лекция)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Широковская Татьяна В
+ ладимировна\nПара: 4 пара\nДополнительно:
+  ТД-406\nURALCAMPUS_SYNC_ID:bce6395e5c7fcd96a648515d506fb3f6\nURALCAMPU
+ S_SOURCE:inueco:teacher:b326abca-8218-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cd50245ebb48abf88f49af8967ec0176@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T152000
+DTEND;TZID=Asia/Yekaterinburg:20261003T165000
+SUMMARY:Международное таможенное сотруднич
+ ество (Лекция)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Широковская Татьяна В
+ ладимировна\nПара: 5 пара\nДополнительно:
+  ТД-406\nURALCAMPUS_SYNC_ID:cd50245ebb48abf88f49af8967ec0176\nURALCAMPU
+ S_SOURCE:inueco:teacher:b326abca-8218-11ef-ad91-04421acb877d
+END:VEVENT
 END:VCALENDAR

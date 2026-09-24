@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:1af9992074de2de5aeb0a32ec947ee89@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T153000
+DTEND;TZID=Asia/Yekaterinburg:20260924T170000
+SUMMARY:Гражданское право (Аудиторные занят
+ ия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ижохина Наталья Павловна\n
+ Пара: 5 пара\nДополнительно: Ю-368\, Ю-368А\nURAL
+ CAMPUS_SYNC_ID:1af9992074de2de5aeb0a32ec947ee89\nURALCAMPUS_SOURCE:preco:
+ teacher:3422c080-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:16a2bfa7f6b1e16736b4cf5e68f4fa57@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T171000
+DTEND;TZID=Asia/Yekaterinburg:20260924T182000
+SUMMARY:Гражданское право (Аудиторные занят
+ ия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ижохина Наталья Павловна\n
+ Пара: 6 пара\nДополнительно: Ю-368\, Ю-368А\nURAL
+ CAMPUS_SYNC_ID:16a2bfa7f6b1e16736b4cf5e68f4fa57\nURALCAMPUS_SOURCE:preco:
+ teacher:3422c080-4e03-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

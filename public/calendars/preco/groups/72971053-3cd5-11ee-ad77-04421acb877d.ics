@@ -18,42 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:928b0c7d8cc04da29b984032af4a57fa@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
-DTEND;TZID=Asia/Yekaterinburg:20260923T100000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 304\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 135\nПара: 1 пара\nДополнительно: Гера
- симова К.Е.\nURALCAMPUS_SYNC_ID:928b0c7d8cc04da29b984032af4a57fa\
- nURALCAMPUS_SOURCE:preco:group:72971053-3cd5-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b18d1ae16ce576c0b27105c05f7c5ac7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 304\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 135\nПара: 2 пара\nДополнительно: Сата
- ева М.Р.\nURALCAMPUS_SYNC_ID:b18d1ae16ce576c0b27105c05f7c5ac7\nURALC
- AMPUS_SOURCE:preco:group:72971053-3cd5-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f4346883578ebc4e50e5b1be7ee55017@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
-DTEND;TZID=Asia/Yekaterinburg:20260923T133000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 135\nПара: 3 пара\nДополнительно: Ефре
- мова Л.В.\nURALCAMPUS_SYNC_ID:f4346883578ebc4e50e5b1be7ee55017\nURA
- LCAMPUS_SOURCE:preco:group:72971053-3cd5-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:7d1249e2f0c665a98683d740c434e287@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
@@ -76,6 +40,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 135\nПара: 2 пара\nДополнительно: Ново
  крещенов Д.В.\nURALCAMPUS_SYNC_ID:7bb282fc6fa48c99277640dec681e
  e12\nURALCAMPUS_SOURCE:preco:group:72971053-3cd5-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:302044056183eccfffa00a38297da566@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
+DTEND;TZID=Asia/Yekaterinburg:20260925T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 135\nПара: 1 пара\nДополнительно: Мото
+ рина Л.А.\nURALCAMPUS_SYNC_ID:302044056183eccfffa00a38297da566\nURA
+ LCAMPUS_SOURCE:preco:group:72971053-3cd5-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:b884dd124b02889fafe7b30b01a79eb2@uralcampus-calendar-pages

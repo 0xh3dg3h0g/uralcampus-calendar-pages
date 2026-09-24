@@ -18,4 +18,43 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:39f8bafce8fda037f835e7049fd5492b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Геодезия (Лекция)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Халилова Ирина Владим
+ ировна\nПара: 2 пара\nДополнительно: ЗЗУ-20
+ 1\nURALCAMPUS_SYNC_ID:39f8bafce8fda037f835e7049fd5492b\nURALCAMPUS_SOURCE
+ :inueco:teacher:dc080710-bb0a-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:602706ae23f05c2a6336fea11193f446@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
+DTEND;TZID=Asia/Yekaterinburg:20261003T133000
+SUMMARY:Геодезия (Лаб.)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Халилова Ирина Владим
+ ировна\nПара: 3 пара\nДополнительно: ЗЗУ-20
+ 1\nURALCAMPUS_SYNC_ID:602706ae23f05c2a6336fea11193f446\nURALCAMPUS_SOURCE
+ :inueco:teacher:dc080710-bb0a-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a8735e7f5d23d109b21014c01a776bfb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T134000
+DTEND;TZID=Asia/Yekaterinburg:20261003T151000
+SUMMARY:Геодезия (Лаб.)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Халилова Ирина Владим
+ ировна\nПара: 4 пара\nДополнительно: ЗЗУ-20
+ 1\nURALCAMPUS_SYNC_ID:a8735e7f5d23d109b21014c01a776bfb\nURALCAMPUS_SOURCE
+ :inueco:teacher:dc080710-bb0a-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

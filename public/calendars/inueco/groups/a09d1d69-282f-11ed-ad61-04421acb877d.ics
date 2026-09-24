@@ -18,56 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d5f91b288753002ec58babab79cb6539@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Архитектура зданий и сооружений (Ле
- кция)
-LOCATION:ауд. 208\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: С-216\nПара: 2 пара\nДополнительн
- о: Буров А. Г.\nURALCAMPUS_SYNC_ID:d5f91b288753002ec58babab79cb65
- 39\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1e6334c5432494caffb28bf2d687d33b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
-DTEND;TZID=Asia/Yekaterinburg:20260923T133000
-SUMMARY:Строительные материалы (Лекция)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: С-216\nПара: 3 пара\nДополнительн
- о: Радаев Е.В.\nURALCAMPUS_SYNC_ID:1e6334c5432494caffb28bf2d687d
- 33b\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0566baa2d55418fb5d69aacad2b35021@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
-DTEND;TZID=Asia/Yekaterinburg:20260923T152000
-SUMMARY:Строительные материалы (Лекция)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: С-216\nПара: 4 пара\nДополнительн
- о: Радаев Е.В.\nURALCAMPUS_SYNC_ID:0566baa2d55418fb5d69aacad2b35
- 021\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:3b14833e38ac671acfdec29db27ade2c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
-DTEND;TZID=Asia/Yekaterinburg:20260923T170000
-SUMMARY:Теоретическая механика (Лекция)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: С-216\nПара: 5 пара\nДополнительн
- о: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:3b14833e38ac671acfdec2
- 9db27ade2c\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:87976faf16f4e59bb0c7949cbf0d8387@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
@@ -183,6 +133,201 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: С-216\nПара: 2 пара\nДополнительн
  о: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:c6d7e87eaea1a7ac37d666f570
  92c32f\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:12d49f0872ceb2579313412b41632bcf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T171000
+DTEND;TZID=Asia/Yekaterinburg:20260928T182000
+SUMMARY:Основы строительных конструкций (Пр
+ актика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 6 пара\nДополнительн
+ о: Ездина А.А.\nURALCAMPUS_SYNC_ID:12d49f0872ceb2579313412b41632
+ bcf\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a8e2d297d91334b17b07fe884e203426@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T183000
+DTEND;TZID=Asia/Yekaterinburg:20260928T194000
+SUMMARY:Основы строительных конструкций (Пр
+ актика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 7 пара\nДополнительн
+ о: Ездина А.А.\nURALCAMPUS_SYNC_ID:a8e2d297d91334b17b07fe884e203
+ 426\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d365d4928df17b0d58487e123b0e06@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T120000
+DTEND;TZID=Asia/Yekaterinburg:20260929T133000
+SUMMARY:Химия (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 3 пара\nДополнительн
+ о: Батовская Е. К.\nURALCAMPUS_SYNC_ID:e8d365d4928df17b0d5848
+ 7e123b0e06\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f847ec1624b5721adf37dea759dd9801@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T135000
+DTEND;TZID=Asia/Yekaterinburg:20260929T152000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 4 пара\nДополнительн
+ о: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:f847ec1624b5721adf37de
+ a759dd9801\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:20c0e97287e97d523b5d44750d520f87@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T153000
+DTEND;TZID=Asia/Yekaterinburg:20260929T170000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 5 пара\nДополнительн
+ о: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:20c0e97287e97d523b5d44
+ 750d520f87\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d301b1bb49a7788707b142d246f924d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T120000
+DTEND;TZID=Asia/Yekaterinburg:20260930T133000
+SUMMARY:Архитектура зданий и сооружений (Ле
+ кция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 3 пара\nДополнительн
+ о: Буров А. Г.\nURALCAMPUS_SYNC_ID:d301b1bb49a7788707b142d246f924
+ d4\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fc67d9ba3b1c329ab16fc4e09ad38ab8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T135000
+DTEND;TZID=Asia/Yekaterinburg:20260930T152000
+SUMMARY:Строительные материалы (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 4 пара\nДополнительн
+ о: Радаев Е.В.\nURALCAMPUS_SYNC_ID:fc67d9ba3b1c329ab16fc4e09ad38
+ ab8\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1b74dbc6e578e70a7214cdf9ea94ea67@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T153000
+DTEND;TZID=Asia/Yekaterinburg:20260930T170000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 5 пара\nДополнительн
+ о: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:1b74dbc6e578e70a7214cd
+ f9ea94ea67\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ba441c67a271b3402ca2a27a3d3f0b7e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
+DTEND;TZID=Asia/Yekaterinburg:20261001T152000
+SUMMARY:Оздоровительная рекреационная двиг
+ ательная активность (Практика)
+LOCATION:ауд. 407\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 4 пара\nДополнительн
+ о: Васильев С. А.\nURALCAMPUS_SYNC_ID:ba441c67a271b3402ca2a27a
+ 3d3f0b7e\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5a91b183c0743b7661d6d857419b2022@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T153000
+DTEND;TZID=Asia/Yekaterinburg:20261001T170000
+SUMMARY:Инженерная и компьютерная графика (
+ Лекция)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 5 пара\nДополнительн
+ о: Зязев Е. В.\nURALCAMPUS_SYNC_ID:5a91b183c0743b7661d6d857419b20
+ 22\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab1d72bec2ff6195fa66281c584a4b8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T171000
+DTEND;TZID=Asia/Yekaterinburg:20261001T182000
+SUMMARY:Инженерная и компьютерная графика (
+ Практика)
+LOCATION:ауд. 201\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 6 пара\nДополнительн
+ о: Зязев Е. В.\nURALCAMPUS_SYNC_ID:9ab1d72bec2ff6195fa66281c584a4
+ b8\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:23d09f547a8c7db82b7e47c4235f4e05@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T101000
+DTEND;TZID=Asia/Yekaterinburg:20261002T114000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 2 пара\nДополнительн
+ о: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:23d09f547a8c7db82b7e47c4
+ 235f4e05\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2a09c8b6ec7a2e2e032bf6b6e382d38c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T120000
+DTEND;TZID=Asia/Yekaterinburg:20261002T133000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 3 пара\nДополнительн
+ о: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:2a09c8b6ec7a2e2e032bf6b6
+ e382d38c\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1066de2c6d1c1e2cd40b404634c7a9dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T083000
+DTEND;TZID=Asia/Yekaterinburg:20261003T100000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 1 пара\nДополнительн
+ о: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:1066de2c6d1c1e2cd40b404634
+ c7a9dc\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:04c4905da41d31d58ca38cfe584dde6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Физика (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: С-216\nПара: 2 пара\nДополнительн
+ о: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:04c4905da41d31d58ca38cfe58
+ 4dde6b\nURALCAMPUS_SOURCE:inueco:group:a09d1d69-282f-11ed-ad61-04421acb87
  7d
 END:VEVENT
 END:VCALENDAR

@@ -19,30 +19,83 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3eea692c14c09a811a6ea81217dc448e@uralcampus-calendar-pages
+UID:c9462d22782ee769c799b9a38714440b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
-DTEND;TZID=Asia/Yekaterinburg:20260923T182000
+DTSTART;TZID=Asia/Yekaterinburg:20260928T101000
+DTEND;TZID=Asia/Yekaterinburg:20260928T114000
+SUMMARY:История искусств и архитектуры (Лек
+ ция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лаврова Клёна Борисов
+ на\nПара: 2 пара\nДополнительно: А-210\nURALCAMPU
+ S_SYNC_ID:c9462d22782ee769c799b9a38714440b\nURALCAMPUS_SOURCE:inueco:teac
+ her:2ef80bbe-cf47-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:de56f48bc7bcdfa5378e780f6ca01aee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
+DTEND;TZID=Asia/Yekaterinburg:20260928T133000
+SUMMARY:Теория архитектуры (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лаврова Клёна Борисов
+ на\nПара: 3 пара\nДополнительно: А-210\nURALCAMPU
+ S_SYNC_ID:de56f48bc7bcdfa5378e780f6ca01aee\nURALCAMPUS_SOURCE:inueco:teac
+ her:2ef80bbe-cf47-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c24a46a55a675ee8b6b7faa930f52730@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T135000
+DTEND;TZID=Asia/Yekaterinburg:20260928T152000
+SUMMARY:Теория архитектуры (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лаврова Клёна Борисов
+ на\nПара: 4 пара\nДополнительно: А-210\nURALCAMPU
+ S_SYNC_ID:c24a46a55a675ee8b6b7faa930f52730\nURALCAMPUS_SOURCE:inueco:teac
+ her:2ef80bbe-cf47-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:546d94c30c57788e9e4fd45173073601@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T153000
+DTEND;TZID=Asia/Yekaterinburg:20260928T170000
+SUMMARY:Новейшая архитектура (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лаврова Клёна Борисов
+ на\nПара: 5 пара\nДополнительно: А-410\nURALCAMPU
+ S_SYNC_ID:546d94c30c57788e9e4fd45173073601\nURALCAMPUS_SOURCE:inueco:teac
+ her:2ef80bbe-cf47-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:953e094f35109c82fc4138cc57f3a338@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T171000
+DTEND;TZID=Asia/Yekaterinburg:20260930T182000
 SUMMARY:История искусств и архитектуры (Пра
  ктика)
 LOCATION:ауд. 206\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Лаврова Клёна Борисов
  на\nПара: 6 пара\nДополнительно: АЗ-201\nURALCAM
- PUS_SYNC_ID:3eea692c14c09a811a6ea81217dc448e\nURALCAMPUS_SOURCE:inueco:te
+ PUS_SYNC_ID:953e094f35109c82fc4138cc57f3a338\nURALCAMPUS_SOURCE:inueco:te
  acher:2ef80bbe-cf47-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:d30f828dbdf3a49400a1ca551753cc41@uralcampus-calendar-pages
+UID:d2c1e0dc82e1bfcb02ab4c6e70a6d016@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T183000
-DTEND;TZID=Asia/Yekaterinburg:20260923T194000
-SUMMARY:Теория архитектуры (Практика)
+DTSTART;TZID=Asia/Yekaterinburg:20260930T183000
+DTEND;TZID=Asia/Yekaterinburg:20260930T194000
+SUMMARY:Теория архитектуры (Зачет)
 LOCATION:ауд. 206\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Лаврова Клёна Борисов
  на\nПара: 7 пара\nДополнительно: АЗ-201\nURALCAM
- PUS_SYNC_ID:d30f828dbdf3a49400a1ca551753cc41\nURALCAMPUS_SOURCE:inueco:te
+ PUS_SYNC_ID:d2c1e0dc82e1bfcb02ab4c6e70a6d016\nURALCAMPUS_SOURCE:inueco:te
  acher:2ef80bbe-cf47-11ef-ad92-04421acb877d
 END:VEVENT
 END:VCALENDAR

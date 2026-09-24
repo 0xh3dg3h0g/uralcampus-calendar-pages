@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:055a2993f477518fe334b71f20f2c10f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T120000
+DTEND;TZID=Asia/Yekaterinburg:20260929T133000
+SUMMARY:Испанский язык (Аудиторные занятия)
+LOCATION:ауд. 222\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Нэри Эстрада Франсиско Дан
+ иэль\nПара: 3 пара\nДополнительно: НК-356к\, 
+ НК-356Ак\nURALCAMPUS_SYNC_ID:055a2993f477518fe334b71f20f2c10f\nURALCA
+ MPUS_SOURCE:preco:teacher:75debff0-6383-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:037524566cc0fdfcb8c6e6340b13e556@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T120000
+DTEND;TZID=Asia/Yekaterinburg:20261006T133000
+SUMMARY:Испанский язык (Аудиторные занятия)
+LOCATION:ауд. 222\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Нэри Эстрада Франсиско Дан
+ иэль\nПара: 3 пара\nДополнительно: НК-356к\, 
+ НК-356Ак\nURALCAMPUS_SYNC_ID:037524566cc0fdfcb8c6e6340b13e556\nURALCA
+ MPUS_SOURCE:preco:teacher:75debff0-6383-11ef-ad90-04421acb877d
+END:VEVENT
 END:VCALENDAR

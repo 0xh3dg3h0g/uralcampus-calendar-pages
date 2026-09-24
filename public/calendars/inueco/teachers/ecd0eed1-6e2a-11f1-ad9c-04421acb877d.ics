@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:92b3e606179e701ddd1a2c55b3a6dfbc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T153000
+DTEND;TZID=Asia/Yekaterinburg:20260929T170000
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Перцев Юрий Викторови
+ ч\nПара: 5 пара\nДополнительно: И-407\nURALCAMPUS_
+ SYNC_ID:92b3e606179e701ddd1a2c55b3a6dfbc\nURALCAMPUS_SOURCE:inueco:teache
+ r:ecd0eed1-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:57a8a7eaab8ee9cb21210c364362bd1f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T171000
+DTEND;TZID=Asia/Yekaterinburg:20260929T182000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Перцев Юрий Викторови
+ ч\nПара: 6 пара\nДополнительно: И-407\nURALCAMPUS_
+ SYNC_ID:57a8a7eaab8ee9cb21210c364362bd1f\nURALCAMPUS_SOURCE:inueco:teache
+ r:ecd0eed1-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

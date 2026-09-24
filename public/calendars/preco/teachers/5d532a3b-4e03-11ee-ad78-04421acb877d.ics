@@ -19,89 +19,87 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:903ef7494ca78c5270c9b21f06d24e12@uralcampus-calendar-pages
+UID:c6ddb6bd55f2c057a7f16acb0f9a91c5@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
-DTEND;TZID=Asia/Yekaterinburg:20260923T100000
+DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
+DTEND;TZID=Asia/Yekaterinburg:20260924T100000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Карасова Аида Абдулкадыро
+ вна\nПара: 1 пара\nДополнительно: П-370\, П-370
+ А\nURALCAMPUS_SYNC_ID:c6ddb6bd55f2c057a7f16acb0f9a91c5\nURALCAMPUS_SOURC
+ E:preco:teacher:5d532a3b-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5adf405614f46d3525af27b13cf82033@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
+DTEND;TZID=Asia/Yekaterinburg:20260924T114000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Карасова Аида Абдулкадыро
+ вна\nПара: 2 пара\nДополнительно: П-370\, П-370
+ А\nURALCAMPUS_SYNC_ID:5adf405614f46d3525af27b13cf82033\nURALCAMPUS_SOURC
+ E:preco:teacher:5d532a3b-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9d10d6f99094ab429b8c81bfa6a71c6a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
+DTEND;TZID=Asia/Yekaterinburg:20260924T133000
 SUMMARY:Основы алголритмизации и программи
  рования (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Карасова Аида Абдулкадыро
- вна\nПара: 1 пара\nДополнительно: П-270\nURALCAM
- PUS_SYNC_ID:903ef7494ca78c5270c9b21f06d24e12\nURALCAMPUS_SOURCE:preco:tea
+ вна\nПара: 3 пара\nДополнительно: П-270\nURALCAM
+ PUS_SYNC_ID:9d10d6f99094ab429b8c81bfa6a71c6a\nURALCAMPUS_SOURCE:preco:tea
  cher:5d532a3b-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:0637f602e9cf0837926985ee0559a7c3@uralcampus-calendar-pages
+UID:8cc1d9f592ace128c2f58548996489e8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Аудиторные зан
- ятия)
+DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
+DTEND;TZID=Asia/Yekaterinburg:20260924T152000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Карасова Аида Абдулкадыро
- вна\nПара: 2 пара\nДополнительно: П-370\, П-370
- А\nURALCAMPUS_SYNC_ID:0637f602e9cf0837926985ee0559a7c3\nURALCAMPUS_SOURC
- E:preco:teacher:5d532a3b-4e03-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:3f27cb6d80a79bbdbe22cfd246818f3f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T120000
-DTEND;TZID=Asia/Yekaterinburg:20260923T133000
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Аудиторные зан
- ятия)
-LOCATION:ауд. 7\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Карасова Аида Абдулкадыро
- вна\nПара: 3 пара\nДополнительно: П-370\, П-370
- А\nURALCAMPUS_SYNC_ID:3f27cb6d80a79bbdbe22cfd246818f3f\nURALCAMPUS_SOURC
- E:preco:teacher:5d532a3b-4e03-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:857b1fabcb894db8d565c533ac22e184@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T135000
-DTEND;TZID=Asia/Yekaterinburg:20260923T152000
-SUMMARY:Введение в специальность (Аудиторны
- е занятия)
-LOCATION:ауд. 7\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Карасова Аида Абдулкадыро
- вна\nПара: 4 пара\nДополнительно: П-170\nURALCAM
- PUS_SYNC_ID:857b1fabcb894db8d565c533ac22e184\nURALCAMPUS_SOURCE:preco:tea
+ вна\nПара: 4 пара\nДополнительно: П-270\nURALCAM
+ PUS_SYNC_ID:8cc1d9f592ace128c2f58548996489e8\nURALCAMPUS_SOURCE:preco:tea
  cher:5d532a3b-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:f3ca0571689dce840ab5a1bf7127cb6b@uralcampus-calendar-pages
+UID:d4807f04ff81a3f43bf24357e610a749@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T153000
-DTEND;TZID=Asia/Yekaterinburg:20260923T170000
-SUMMARY:Разработка мобильных приложений (Ау
- диторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20260924T153000
+DTEND;TZID=Asia/Yekaterinburg:20260924T170000
+SUMMARY:Технология разработки программного
+  обеспечения (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Карасова Аида Абдулкадыро
  вна\nПара: 5 пара\nДополнительно: П-470\, П-470
- А\nURALCAMPUS_SYNC_ID:f3ca0571689dce840ab5a1bf7127cb6b\nURALCAMPUS_SOURC
+ А\nURALCAMPUS_SYNC_ID:d4807f04ff81a3f43bf24357e610a749\nURALCAMPUS_SOURC
  E:preco:teacher:5d532a3b-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:22f4f7e09d4bedb66561d03e1f4ff2d5@uralcampus-calendar-pages
+UID:c51e3995db265f6e3da07167189c55ba@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T171000
-DTEND;TZID=Asia/Yekaterinburg:20260923T182000
-SUMMARY:Разработка мобильных приложений (Ау
- диторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20260924T171000
+DTEND;TZID=Asia/Yekaterinburg:20260924T182000
+SUMMARY:Поддержка и тестирование программн
+ ых модулей (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Карасова Аида Абдулкадыро
  вна\nПара: 6 пара\nДополнительно: П-470\, П-470
- А\nURALCAMPUS_SYNC_ID:22f4f7e09d4bedb66561d03e1f4ff2d5\nURALCAMPUS_SOURC
+ А\nURALCAMPUS_SYNC_ID:c51e3995db265f6e3da07167189c55ba\nURALCAMPUS_SOURC
  E:preco:teacher:5d532a3b-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
