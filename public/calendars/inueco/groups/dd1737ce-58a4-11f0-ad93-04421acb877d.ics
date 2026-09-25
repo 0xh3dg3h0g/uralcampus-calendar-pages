@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:babfecafb8b3e8adc44b08bf02c5b22f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T183000
+DTEND;TZID=Asia/Yekaterinburg:20260929T194000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/15\nПара: 7 пара\nДополнит
+ ельно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:babfecafb8b3e8
+ adc44b08bf02c5b22f\nURALCAMPUS_SOURCE:inueco:group:dd1737ce-58a4-11f0-ad9
+ 3-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0f8326ba34f5af0c049db07dfab816a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T195000
+DTEND;TZID=Asia/Yekaterinburg:20260929T205000
+SUMMARY:Теоретическая механика (Лаб.)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/15\nПара: 8 пара\nДополнит
+ ельно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:0f8326ba34f5af
+ 0c049db07dfab816a8\nURALCAMPUS_SOURCE:inueco:group:dd1737ce-58a4-11f0-ad9
+ 3-04421acb877d
+END:VEVENT
 END:VCALENDAR

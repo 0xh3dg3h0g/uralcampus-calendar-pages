@@ -18,29 +18,42 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4f972ba0f1e1830a8a8d5bd88789caf9@uralcampus-calendar-pages
+UID:29d4e1bd9e2293e33812709db3f42f3e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
-DTEND;TZID=Asia/Yekaterinburg:20260924T133000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 3.3\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
+DTEND;TZID=Asia/Yekaterinburg:20260925T100000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-262\, Ф-262А\nПара: 3 пара\nДополнитель
- но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:4f972ba0f1e1830a8a8d5bd88
- 789caf9\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
- 7d
+ уппа: Ф-262\, Ф-262А\nПара: 1 пара\nДополнитель
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:29d4e1bd9e2293e33812709db3f
+ 42f3e\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:01d2f488feb3bf3ef0c4f674853c8170@uralcampus-calendar-pages
+UID:f00cb70514d384c67d4fd435dd1719b8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
-DTEND;TZID=Asia/Yekaterinburg:20260924T152000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 3.3\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
+DTEND;TZID=Asia/Yekaterinburg:20260925T114000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-262\, Ф-262А\nПара: 4 пара\nДополнитель
- но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:01d2f488feb3bf3ef0c4f6748
- 53c8170\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
- 7d
+ уппа: Ф-262\, Ф-262А\nПара: 2 пара\nДополнитель
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:f00cb70514d384c67d4fd435dd1
+ 719b8\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:be3547f57de698289e7bf04a9a045d34@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T120000
+DTEND;TZID=Asia/Yekaterinburg:20260925T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-262\, Ф-262А\nПара: 3 пара\nДополнитель
+ но: Смаков Л.М.\nURALCAMPUS_SYNC_ID:be3547f57de698289e7bf04a9a0
+ 45d34\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

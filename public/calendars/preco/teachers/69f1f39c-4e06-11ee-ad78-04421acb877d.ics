@@ -18,4 +18,60 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:302a75abde176faf24bc07a8b93a78af@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T120000
+DTEND;TZID=Asia/Yekaterinburg:20260925T133000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Устинова Галина Ивановна\n
+ Пара: 3 пара\nДополнительно: Ю-268\nURALCAMPUS_SYNC
+ _ID:302a75abde176faf24bc07a8b93a78af\nURALCAMPUS_SOURCE:preco:teacher:69f
+ 1f39c-4e06-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:354f9acafde3a6d305daa65bedf794ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T135000
+DTEND;TZID=Asia/Yekaterinburg:20260925T152000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Устинова Галина Ивановна\n
+ Пара: 4 пара\nДополнительно: Ю-268\nURALCAMPUS_SYNC
+ _ID:354f9acafde3a6d305daa65bedf794ff\nURALCAMPUS_SOURCE:preco:teacher:69f
+ 1f39c-4e06-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:408aea0c9bd2de00b5a7440780802d63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T153000
+DTEND;TZID=Asia/Yekaterinburg:20260925T170000
+SUMMARY:Административный процесс (Аудиторн
+ ые занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Устинова Галина Ивановна\n
+ Пара: 5 пара\nДополнительно: Ю-368\, Ю-368А\nURAL
+ CAMPUS_SYNC_ID:408aea0c9bd2de00b5a7440780802d63\nURALCAMPUS_SOURCE:preco:
+ teacher:69f1f39c-4e06-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dfdf015c5ef24c32e2b31d549dea6d33@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T171000
+DTEND;TZID=Asia/Yekaterinburg:20260925T182000
+SUMMARY:Административный процесс (Аудиторн
+ ые занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Устинова Галина Ивановна\n
+ Пара: 6 пара\nДополнительно: Ю-368\, Ю-368А\nURAL
+ CAMPUS_SYNC_ID:dfdf015c5ef24c32e2b31d549dea6d33\nURALCAMPUS_SOURCE:preco:
+ teacher:69f1f39c-4e06-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

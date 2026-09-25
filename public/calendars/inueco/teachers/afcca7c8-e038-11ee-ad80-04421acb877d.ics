@@ -19,19 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fcec72e06a351464f0a6a38198380909@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
-DTEND;TZID=Asia/Yekaterinburg:20260924T100000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Черепашкин Алексей Се
- ргеевич\nПара: 1 пара\nДополнительно: И-107\
- , И-107а\nURALCAMPUS_SYNC_ID:fcec72e06a351464f0a6a38198380909\nURALCAMP
- US_SOURCE:inueco:teacher:afcca7c8-e038-11ee-ad80-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:bf9ec5baf733ecb6a0398887f9295772@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
@@ -427,5 +414,33 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ргеевич\nПара: 6 пара\nДополнительно: ЮЗс-
  301а\nURALCAMPUS_SYNC_ID:af036e5853ef2fc4d3f5c38cbe88f866\nURALCAMPUS_SO
  URCE:inueco:teacher:afcca7c8-e038-11ee-ad80-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6cef8fd94c3cbaf20ed3803daf786568@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
+DTEND;TZID=Asia/Yekaterinburg:20261003T133000
+SUMMARY:Правоведение (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Черепашкин Алексей Се
+ ргеевич\nПара: 3 пара\nДополнительно: АЗ-10
+ 1\, ДЗ-101\, СЗ-101\, СЗу-101\nURALCAMPUS_SYNC_ID:6cef8fd94c3cbaf2
+ 0ed3803daf786568\nURALCAMPUS_SOURCE:inueco:teacher:afcca7c8-e038-11ee-ad8
+ 0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6289454b04fcf4de215e08e9e711f7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T134000
+DTEND;TZID=Asia/Yekaterinburg:20261003T151000
+SUMMARY:Правоведение (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Черепашкин Алексей Се
+ ргеевич\nПара: 4 пара\nДополнительно: АЗ-10
+ 1\, ДЗ-101\, СЗ-101\, СЗу-101\nURALCAMPUS_SYNC_ID:9d6289454b04fcf4
+ de215e08e9e711f7\nURALCAMPUS_SOURCE:inueco:teacher:afcca7c8-e038-11ee-ad8
+ 0-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:70327cd561c6193d914b04f20ef9cad2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T101000
+DTEND;TZID=Asia/Yekaterinburg:20260929T114000
+SUMMARY:Психология общения (Аудиторные заня
+ тия)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Мостовая Ксения Николаевн
+ а\nПара: 2 пара\nДополнительно: Ф-302\, Ф-302А\n
+ URALCAMPUS_SYNC_ID:70327cd561c6193d914b04f20ef9cad2\nURALCAMPUS_SOURCE:pr
+ eco:teacher:0bc909a5-7ced-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc60aada1af8a7e69d030405c52af31@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T101000
+DTEND;TZID=Asia/Yekaterinburg:20261006T114000
+SUMMARY:Психология общения (Аудиторные заня
+ тия)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Мостовая Ксения Николаевн
+ а\nПара: 2 пара\nДополнительно: Ф-302\, Ф-302А\n
+ URALCAMPUS_SYNC_ID:bfc60aada1af8a7e69d030405c52af31\nURALCAMPUS_SOURCE:pr
+ eco:teacher:0bc909a5-7ced-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

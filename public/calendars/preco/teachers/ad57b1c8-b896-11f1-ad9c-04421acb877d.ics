@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Пыркова Наталья С
+ ергеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7fa606317b76f36a57f13feca4394750@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T120000
+DTEND;TZID=Asia/Yekaterinburg:20261002T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Пыркова Наталья Сергеевна\
+ nПара: 3 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:7fa606317b76f36a57f13feca4394750\nURALCAMPUS_SOURCE:preco
+ :teacher:ad57b1c8-b896-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:45a3dc659bae83bddeb434e193311aba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T135000
+DTEND;TZID=Asia/Yekaterinburg:20261002T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Пыркова Наталья Сергеевна\
+ nПара: 4 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:45a3dc659bae83bddeb434e193311aba\nURALCAMPUS_SOURCE:preco
+ :teacher:ad57b1c8-b896-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b8822da2768443ca5079b5f1741372@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T101000
+DTEND;TZID=Asia/Yekaterinburg:20261007T114000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Пыркова Наталья Сергеевна\
+ nПара: 2 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:b3b8822da2768443ca5079b5f1741372\nURALCAMPUS_SOURCE:preco
+ :teacher:ad57b1c8-b896-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:99371aa9ee9f03d0caf618a81e54b689@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T120000
+DTEND;TZID=Asia/Yekaterinburg:20261007T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Пыркова Наталья Сергеевна\
+ nПара: 3 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:99371aa9ee9f03d0caf618a81e54b689\nURALCAMPUS_SOURCE:preco
+ :teacher:ad57b1c8-b896-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:03a8ef8e5e6863b21e88368ea695b86b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T135000
+DTEND;TZID=Asia/Yekaterinburg:20261007T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Пыркова Наталья Сергеевна\
+ nПара: 4 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:03a8ef8e5e6863b21e88368ea695b86b\nURALCAMPUS_SOURCE:preco
+ :teacher:ad57b1c8-b896-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d58fc5615fba3a05dfd4445d7acf63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T153000
+DTEND;TZID=Asia/Yekaterinburg:20261007T170000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Пыркова Наталья Сергеевна\
+ nПара: 5 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:b7d58fc5615fba3a05dfd4445d7acf63\nURALCAMPUS_SOURCE:preco
+ :teacher:ad57b1c8-b896-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f49ebda388652557d5f46eb1c7275ac7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
+DTEND;TZID=Asia/Yekaterinburg:20261009T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Пыркова Наталья Сергеевна\
+ nПара: 3 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:f49ebda388652557d5f46eb1c7275ac7\nURALCAMPUS_SOURCE:preco
+ :teacher:ad57b1c8-b896-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7276ef735b85dc60ebd1b36bf317e567@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
+DTEND;TZID=Asia/Yekaterinburg:20261009T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Пыркова Наталья Сергеевна\
+ nПара: 4 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:7276ef735b85dc60ebd1b36bf317e567\nURALCAMPUS_SOURCE:preco
+ :teacher:ad57b1c8-b896-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

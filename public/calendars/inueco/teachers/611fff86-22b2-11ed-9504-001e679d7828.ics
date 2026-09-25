@@ -19,20 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:667e34808265e63485cd01ba464a8058@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T153000
-DTEND;TZID=Asia/Yekaterinburg:20260924T170000
-SUMMARY:Общая электротехника и электроника 
- (Экзамен)
-LOCATION:ауд. 208\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Епишков Егор Николаев
- ич\nПара: 5 пара\nДополнительно: ТТПЗ-301\nURA
- LCAMPUS_SYNC_ID:667e34808265e63485cd01ba464a8058\nURALCAMPUS_SOURCE:inuec
- o:teacher:611fff86-22b2-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:f01259f1bf4ed1a1a543c15b28d95ba0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T083000
@@ -197,5 +183,20 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ич\nПара: 2 пара\nДополнительно: И-207\, С-216\n
  URALCAMPUS_SYNC_ID:2e6928e8f288ad5076771bac49c1e592\nURALCAMPUS_SOURCE:in
  ueco:teacher:611fff86-22b2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:faf3e3df93117e96adf3ee24cf6b009d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
+DTEND;TZID=Asia/Yekaterinburg:20261003T133000
+SUMMARY:Физика (Практика)
+LOCATION:ауд. 203
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Епишков Егор Николаев
+ ич\nПара: 3 пара\nДополнительно: СЗДу-201\, С
+ Зу-201/02\, СЗу-201/04\, СЗу-201/04а\, СЗу-201/05\, СЗу-20
+ 1/06\, СЗу-201/07\, СЗу-201/07б\, СЗу-201/11\, СЗу-201/13\nU
+ RALCAMPUS_SYNC_ID:faf3e3df93117e96adf3ee24cf6b009d\nURALCAMPUS_SOURCE:inu
+ eco:teacher:611fff86-22b2-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

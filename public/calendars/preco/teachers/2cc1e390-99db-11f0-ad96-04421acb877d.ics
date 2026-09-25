@@ -19,60 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f22206b38ff9729c7bec24ea6160aa96@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
-DTEND;TZID=Asia/Yekaterinburg:20260924T100000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 404\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кокшарова Арина Дмитриевн
- а\nПара: 1 пара\nДополнительно: 108\nURALCAMPUS_SYN
- C_ID:f22206b38ff9729c7bec24ea6160aa96\nURALCAMPUS_SOURCE:preco:teacher:2c
- c1e390-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:925f376c362ee1fe83ba1b8bbdd54841@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
-DTEND;TZID=Asia/Yekaterinburg:20260924T114000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 404\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кокшарова Арина Дмитриевн
- а\nПара: 2 пара\nДополнительно: 101\nURALCAMPUS_SYN
- C_ID:925f376c362ee1fe83ba1b8bbdd54841\nURALCAMPUS_SOURCE:preco:teacher:2c
- c1e390-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:40683508c1333902d0727ce5f0a7fec4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
-DTEND;TZID=Asia/Yekaterinburg:20260924T133000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 404\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кокшарова Арина Дмитриевн
- а\nПара: 3 пара\nДополнительно: 100\nURALCAMPUS_SYN
- C_ID:40683508c1333902d0727ce5f0a7fec4\nURALCAMPUS_SOURCE:preco:teacher:2c
- c1e390-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:872300f5338ab636d11349970269d423@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
-DTEND;TZID=Asia/Yekaterinburg:20260924T152000
-SUMMARY:Информационные технологии в профес
- сиональной деятельности (Аудиторные за
- нятия)
-LOCATION:ауд. 404\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кокшарова Арина Дмитриевн
- а\nПара: 4 пара\nДополнительно: СД-222\nURALCAMPU
- S_SYNC_ID:872300f5338ab636d11349970269d423\nURALCAMPUS_SOURCE:preco:teach
- er:2cc1e390-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:59c81beaff017f5cd37bef5c670ff82d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
@@ -143,5 +89,364 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 6 пара\nДополнительно: П-440\, П-440А\n
  URALCAMPUS_SYNC_ID:5eb60d575cae8e98555b1d3453126f81\nURALCAMPUS_SOURCE:pr
  eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b943bed4715014710631ea0e43f016cc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T083000
+DTEND;TZID=Asia/Yekaterinburg:20260928T100000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 1 пара\nДополнительно: П-310\, П-310А\n
+ URALCAMPUS_SYNC_ID:b943bed4715014710631ea0e43f016cc\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1ad0eb8bac1e15c528065e8fffd91d7e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T101000
+DTEND;TZID=Asia/Yekaterinburg:20260928T114000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 2 пара\nДополнительно: П-310\, П-310А\n
+ URALCAMPUS_SYNC_ID:1ad0eb8bac1e15c528065e8fffd91d7e\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4671d7b16a0f0311593708746276405c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
+DTEND;TZID=Asia/Yekaterinburg:20260928T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 3 пара\nДополнительно: ПД-218\, ПД-218
+ А\nURALCAMPUS_SYNC_ID:4671d7b16a0f0311593708746276405c\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:91fb2008d41baf6b161df4fc409da767@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T135000
+DTEND;TZID=Asia/Yekaterinburg:20260928T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 4 пара\nДополнительно: ПД-218\, ПД-218
+ А\nURALCAMPUS_SYNC_ID:91fb2008d41baf6b161df4fc409da767\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:68f301b32da7f849fee566f5cde10bbe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T101000
+DTEND;TZID=Asia/Yekaterinburg:20260929T114000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 2 пара\nДополнительно: Ю-208\, Ю-208А\n
+ URALCAMPUS_SYNC_ID:68f301b32da7f849fee566f5cde10bbe\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce55779294fbd3fb335a4fbc435110e1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T120000
+DTEND;TZID=Asia/Yekaterinburg:20260929T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 3 пара\nДополнительно: ПД-219\, ПД-219
+ А\nURALCAMPUS_SYNC_ID:ce55779294fbd3fb335a4fbc435110e1\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a322d1445dbd6f77af32e37091d48d7f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T135000
+DTEND;TZID=Asia/Yekaterinburg:20260929T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 4 пара\nДополнительно: ПД-219\, ПД-219
+ А\nURALCAMPUS_SYNC_ID:a322d1445dbd6f77af32e37091d48d7f\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c07aee0e6744a8236a7a59bca8577db7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T153000
+DTEND;TZID=Asia/Yekaterinburg:20260929T170000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 5 пара\nДополнительно: Ф-202\, Ф-202А\n
+ URALCAMPUS_SYNC_ID:c07aee0e6744a8236a7a59bca8577db7\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fcfa660cc51d4e7c800d29d24420a730@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T171000
+DTEND;TZID=Asia/Yekaterinburg:20260929T182000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 6 пара\nДополнительно: ПД-218\, ПД-218
+ А\nURALCAMPUS_SYNC_ID:fcfa660cc51d4e7c800d29d24420a730\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8c242e21736ef60e8b9a748e9d5ea728@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T083000
+DTEND;TZID=Asia/Yekaterinburg:20261001T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 1 пара\nДополнительно: 108\nURALCAMPUS_SYN
+ C_ID:8c242e21736ef60e8b9a748e9d5ea728\nURALCAMPUS_SOURCE:preco:teacher:2c
+ c1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:80ba76dc5043bce81aecdcc639be100d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T101000
+DTEND;TZID=Asia/Yekaterinburg:20261001T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 2 пара\nДополнительно: 101\nURALCAMPUS_SYN
+ C_ID:80ba76dc5043bce81aecdcc639be100d\nURALCAMPUS_SOURCE:preco:teacher:2c
+ c1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:273e2f046efa3dd0a882931f366c587d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T120000
+DTEND;TZID=Asia/Yekaterinburg:20261001T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 3 пара\nДополнительно: 100\nURALCAMPUS_SYN
+ C_ID:273e2f046efa3dd0a882931f366c587d\nURALCAMPUS_SOURCE:preco:teacher:2c
+ c1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f15e9899e2dc3c4d039e42642e304dc4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
+DTEND;TZID=Asia/Yekaterinburg:20261001T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 4 пара\nДополнительно: СД-222\nURALCAMPU
+ S_SYNC_ID:f15e9899e2dc3c4d039e42642e304dc4\nURALCAMPUS_SOURCE:preco:teach
+ er:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ba3dadbf639cec4fd43873079a1782d1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T083000
+DTEND;TZID=Asia/Yekaterinburg:20261005T100000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 1 пара\nДополнительно: П-310\, П-310А\n
+ URALCAMPUS_SYNC_ID:ba3dadbf639cec4fd43873079a1782d1\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dd30163a2b9a3551b6f76a1cc2fd66fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T101000
+DTEND;TZID=Asia/Yekaterinburg:20261005T114000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 2 пара\nДополнительно: П-310\, П-310А\n
+ URALCAMPUS_SYNC_ID:dd30163a2b9a3551b6f76a1cc2fd66fb\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4168dd99fb64b04c96e6225059d1ea9c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T120000
+DTEND;TZID=Asia/Yekaterinburg:20261005T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 3 пара\nДополнительно: ПД-218\, ПД-218
+ А\nURALCAMPUS_SYNC_ID:4168dd99fb64b04c96e6225059d1ea9c\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd696deb8a59e9c05584bb497145fda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T135000
+DTEND;TZID=Asia/Yekaterinburg:20261005T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 4 пара\nДополнительно: Ю-208\, Ю-208А\n
+ URALCAMPUS_SYNC_ID:3bd696deb8a59e9c05584bb497145fda\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dec9c7f6d54f8af92187bba500ef1bd7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T101000
+DTEND;TZID=Asia/Yekaterinburg:20261006T114000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 2 пара\nДополнительно: Ю-208\, Ю-208А\n
+ URALCAMPUS_SYNC_ID:dec9c7f6d54f8af92187bba500ef1bd7\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ac851f35055a9062edfa173204b4cb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T120000
+DTEND;TZID=Asia/Yekaterinburg:20261006T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 3 пара\nДополнительно: ПД-219\, ПД-219
+ А\nURALCAMPUS_SYNC_ID:b6ac851f35055a9062edfa173204b4cb\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e7680d4e15f3352a35bf1d6ee5fdaf49@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T135000
+DTEND;TZID=Asia/Yekaterinburg:20261006T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 4 пара\nДополнительно: ПД-219\, ПД-219
+ А\nURALCAMPUS_SYNC_ID:e7680d4e15f3352a35bf1d6ee5fdaf49\nURALCAMPUS_SOURC
+ E:preco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8167d736fab9076f1ff8418970d151d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T153000
+DTEND;TZID=Asia/Yekaterinburg:20261006T170000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 5 пара\nДополнительно: Ф-202\, Ф-202А\n
+ URALCAMPUS_SYNC_ID:8167d736fab9076f1ff8418970d151d8\nURALCAMPUS_SOURCE:pr
+ eco:teacher:2cc1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5382e9d8a09d6725dc1fe438723a4b15@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T083000
+DTEND;TZID=Asia/Yekaterinburg:20261008T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 1 пара\nДополнительно: 108\nURALCAMPUS_SYN
+ C_ID:5382e9d8a09d6725dc1fe438723a4b15\nURALCAMPUS_SOURCE:preco:teacher:2c
+ c1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:33f9afb817bbbd3a97bdbeb8ebc044f0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
+DTEND;TZID=Asia/Yekaterinburg:20261008T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 2 пара\nДополнительно: 101\nURALCAMPUS_SYN
+ C_ID:33f9afb817bbbd3a97bdbeb8ebc044f0\nURALCAMPUS_SOURCE:preco:teacher:2c
+ c1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4554b1ae0b2a9ee11da062cee185f45f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
+DTEND;TZID=Asia/Yekaterinburg:20261008T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 3 пара\nДополнительно: 100\nURALCAMPUS_SYN
+ C_ID:4554b1ae0b2a9ee11da062cee185f45f\nURALCAMPUS_SOURCE:preco:teacher:2c
+ c1e390-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6da3969dd358d4d54fe1b68d616cb77f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
+DTEND;TZID=Asia/Yekaterinburg:20261008T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кокшарова Арина Дмитриевн
+ а\nПара: 4 пара\nДополнительно: СД-222\nURALCAMPU
+ S_SYNC_ID:6da3969dd358d4d54fe1b68d616cb77f\nURALCAMPUS_SOURCE:preco:teach
+ er:2cc1e390-99db-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

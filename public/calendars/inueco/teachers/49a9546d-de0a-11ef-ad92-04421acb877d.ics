@@ -18,4 +18,40 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:75519691eeb81033007f6fdbb0316d5f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T183000
+DTEND;TZID=Asia/Yekaterinburg:20260930T194000
+SUMMARY:Государственное и муниципальное уп
+ равление (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Орлов Павел Алексееви
+ ч\nПара: 7 пара\nДополнительно: ГМУЗ-201/01\, 
+ ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, ГМУЗ-201/04а\,
+  ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07\, ГМУЗ-201/07
+ б\, ГМУЗ-201/08\, ГМУЗ-201/11\, ГМУЗ-201/12\, ГМУЗ-201/1
+ 2а\, ГМУЗ-201/13\, ГМУЗ-201/13а\, ГМУЗД-201\nURALCAMPUS_SY
+ NC_ID:75519691eeb81033007f6fdbb0316d5f\nURALCAMPUS_SOURCE:inueco:teacher:
+ 49a9546d-de0a-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:df85bdfe822b9805f4d41c1022b77195@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T195000
+DTEND;TZID=Asia/Yekaterinburg:20260930T205000
+SUMMARY:Государственное и муниципальное уп
+ равление (Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Орлов Павел Алексееви
+ ч\nПара: 8 пара\nДополнительно: ГМУЗ-201/01\, 
+ ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, ГМУЗ-201/04а\,
+  ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07\, ГМУЗ-201/07
+ б\, ГМУЗ-201/08\, ГМУЗ-201/11\, ГМУЗ-201/12\, ГМУЗ-201/1
+ 2а\, ГМУЗ-201/13\, ГМУЗ-201/13а\, ГМУЗД-201\nURALCAMPUS_SY
+ NC_ID:df85bdfe822b9805f4d41c1022b77195\nURALCAMPUS_SOURCE:inueco:teacher:
+ 49a9546d-de0a-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:9a25e7347c9520bbeebf86ab8c4c3fcd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T083000
+DTEND;TZID=Asia/Yekaterinburg:20261003T100000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-101/06\nПара: 1 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:9a25e7347c9520bbee
+ bf86ab8c4c3fcd\nURALCAMPUS_SOURCE:inueco:group:75a69111-6692-11ee-ad79-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:deeeb656aa2f5f03b6475ff85b925f6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-101/06\nПара: 2 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:deeeb656aa2f5f03b6
+ 475ff85b925f6c\nURALCAMPUS_SOURCE:inueco:group:75a69111-6692-11ee-ad79-04
+ 421acb877d
+END:VEVENT
 END:VCALENDAR

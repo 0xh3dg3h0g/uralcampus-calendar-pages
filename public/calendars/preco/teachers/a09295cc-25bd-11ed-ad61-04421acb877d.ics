@@ -19,58 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3b8bc7247e3f9ab625166cda903e8c75@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
-DTEND;TZID=Asia/Yekaterinburg:20260924T100000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 308\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 1 пара\nДополнительно: П-211\nURALCAMPUS_
- SYNC_ID:3b8bc7247e3f9ab625166cda903e8c75\nURALCAMPUS_SOURCE:preco:teacher
- :a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b0304c9a10814a37f957b33222e9119e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
-DTEND;TZID=Asia/Yekaterinburg:20260924T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 408\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 2 пара\nДополнительно: П-210\nURALCAMPUS_
- SYNC_ID:b0304c9a10814a37f957b33222e9119e\nURALCAMPUS_SOURCE:preco:teacher
- :a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:49c7d07049940d5ec8f5c7d883ba349b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
-DTEND;TZID=Asia/Yekaterinburg:20260924T133000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 3 пара\nДополнительно: ОЛ-220\, ОЛ-220
- А\nURALCAMPUS_SYNC_ID:49c7d07049940d5ec8f5c7d883ba349b\nURALCAMPUS_SOURC
- E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8ec7df4676d9586c5222eb3461846869@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
-DTEND;TZID=Asia/Yekaterinburg:20260924T152000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 308\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Надеждина Ольга Аркадьевн
- а\nПара: 4 пара\nДополнительно: ТИК-224\nURALCAM
- PUS_SYNC_ID:8ec7df4676d9586c5222eb3461846869\nURALCAMPUS_SOURCE:preco:tea
- cher:a09295cc-25bd-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:38d459ad64449f2c91962ebaad82a0db@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
@@ -183,16 +131,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  a09295cc-25bd-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:49a56903ad30deda386ed94e41d14df2@uralcampus-calendar-pages
+UID:73c3541e023ebe5bd2916e5b5dbf006e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T083000
 DTEND;TZID=Asia/Yekaterinburg:20260928T100000
 SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
+LOCATION:ауд. 419\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Надеждина Ольга Аркадьевн
  а\nПара: 1 пара\nДополнительно: 139к\nURALCAMPUS_S
- YNC_ID:49a56903ad30deda386ed94e41d14df2\nURALCAMPUS_SOURCE:preco:teacher:
+ YNC_ID:73c3541e023ebe5bd2916e5b5dbf006e\nURALCAMPUS_SOURCE:preco:teacher:
  a09295cc-25bd-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -264,6 +212,179 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 6 пара\nДополнительно: ПД-248к\, ПД-2
  48Ак\nURALCAMPUS_SYNC_ID:04cb190f09b20b380928038770327360\nURALCAMPUS_S
  OURCE:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8d630bf938df7a53fb1e9d05bf0e0791@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T083000
+DTEND;TZID=Asia/Yekaterinburg:20260929T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 1 пара\nДополнительно: 103\nURALCAMPUS_SYN
+ C_ID:8d630bf938df7a53fb1e9d05bf0e0791\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:74406cff9b3bd17d85d20966dacc1c81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T101000
+DTEND;TZID=Asia/Yekaterinburg:20260929T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 2 пара\nДополнительно: 104\nURALCAMPUS_SYN
+ C_ID:74406cff9b3bd17d85d20966dacc1c81\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:24a4d43cfb5c1ab700c95d5ef370371a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T120000
+DTEND;TZID=Asia/Yekaterinburg:20260929T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 3 пара\nДополнительно: 105\nURALCAMPUS_SYN
+ C_ID:24a4d43cfb5c1ab700c95d5ef370371a\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:877b0097037ead5736c1684c6665ea57@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T135000
+DTEND;TZID=Asia/Yekaterinburg:20260929T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 4 пара\nДополнительно: Ф-202\, Ф-202А\n
+ URALCAMPUS_SYNC_ID:877b0097037ead5736c1684c6665ea57\nURALCAMPUS_SOURCE:pr
+ eco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c3a06c9fdc043f3b16125e7182707e3d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T083000
+DTEND;TZID=Asia/Yekaterinburg:20260930T100000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 1 пара\nДополнительно: П-210\nURALCAMPUS_
+ SYNC_ID:c3a06c9fdc043f3b16125e7182707e3d\nURALCAMPUS_SOURCE:preco:teacher
+ :a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5b2064d5027b54e626627e359946a9c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T101000
+DTEND;TZID=Asia/Yekaterinburg:20260930T114000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 2 пара\nДополнительно: П-211\nURALCAMPUS_
+ SYNC_ID:5b2064d5027b54e626627e359946a9c7\nURALCAMPUS_SOURCE:preco:teacher
+ :a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6f52c045a3ae6f6c7e9edf9ca11dd261@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T120000
+DTEND;TZID=Asia/Yekaterinburg:20260930T133000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 3 пара\nДополнительно: Ф-202\, Ф-202А\n
+ URALCAMPUS_SYNC_ID:6f52c045a3ae6f6c7e9edf9ca11dd261\nURALCAMPUS_SOURCE:pr
+ eco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3b6dd59ede8621d5828c371fc8743342@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T135000
+DTEND;TZID=Asia/Yekaterinburg:20260930T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 4 пара\nДополнительно: 105\nURALCAMPUS_SYN
+ C_ID:3b6dd59ede8621d5828c371fc8743342\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:47aa9c0a81c466f959e292af8ac03fbe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T083000
+DTEND;TZID=Asia/Yekaterinburg:20261001T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 1 пара\nДополнительно: П-211\nURALCAMPUS_
+ SYNC_ID:47aa9c0a81c466f959e292af8ac03fbe\nURALCAMPUS_SOURCE:preco:teacher
+ :a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:956aaf05b75d1ebbd66c0525794cd663@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T101000
+DTEND;TZID=Asia/Yekaterinburg:20261001T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 2 пара\nДополнительно: П-210\nURALCAMPUS_
+ SYNC_ID:956aaf05b75d1ebbd66c0525794cd663\nURALCAMPUS_SOURCE:preco:teacher
+ :a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a02f3ccfdd42e8aa5658913de14f903b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T120000
+DTEND;TZID=Asia/Yekaterinburg:20261001T133000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 3 пара\nДополнительно: ОЛ-220\, ОЛ-220
+ А\nURALCAMPUS_SYNC_ID:a02f3ccfdd42e8aa5658913de14f903b\nURALCAMPUS_SOURC
+ E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bb39c936152fba55a20f19688b8faaf6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
+DTEND;TZID=Asia/Yekaterinburg:20261001T152000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 4 пара\nДополнительно: ТИК-224\nURALCAM
+ PUS_SYNC_ID:bb39c936152fba55a20f19688b8faaf6\nURALCAMPUS_SOURCE:preco:tea
+ cher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eb0d5f437bdda2c552280a2d4eba6388@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T153000
+DTEND;TZID=Asia/Yekaterinburg:20261001T170000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 5 пара\nДополнительно: Ф-202\, Ф-202А\n
+ URALCAMPUS_SYNC_ID:eb0d5f437bdda2c552280a2d4eba6388\nURALCAMPUS_SOURCE:pr
+ eco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:86d54b1322147a487d3e1840340163e4@uralcampus-calendar-pages
@@ -459,6 +580,164 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 6 пара\nДополнительно: ПД-249к\, ПД-2
  49Ак\nURALCAMPUS_SYNC_ID:41eb405732015d046aad3ec130f3d8a3\nURALCAMPUS_S
  OURCE:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:146a76c9e0e8c43d060266ca18058515@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T083000
+DTEND;TZID=Asia/Yekaterinburg:20261006T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 1 пара\nДополнительно: 103\nURALCAMPUS_SYN
+ C_ID:146a76c9e0e8c43d060266ca18058515\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc519f6450169b1e7aaf74176aaf9048@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T101000
+DTEND;TZID=Asia/Yekaterinburg:20261006T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 2 пара\nДополнительно: 104\nURALCAMPUS_SYN
+ C_ID:dc519f6450169b1e7aaf74176aaf9048\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:68182b75b88f2594a2edbb9c3d3f8aa4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T120000
+DTEND;TZID=Asia/Yekaterinburg:20261006T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 3 пара\nДополнительно: 105\nURALCAMPUS_SYN
+ C_ID:68182b75b88f2594a2edbb9c3d3f8aa4\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4fbf5a7511ace7b4a8a17fdad158b803@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T135000
+DTEND;TZID=Asia/Yekaterinburg:20261006T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 4 пара\nДополнительно: Ф-202\, Ф-202А\n
+ URALCAMPUS_SYNC_ID:4fbf5a7511ace7b4a8a17fdad158b803\nURALCAMPUS_SOURCE:pr
+ eco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cddd4c07842a2598479354147a86420f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T083000
+DTEND;TZID=Asia/Yekaterinburg:20261007T100000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 1 пара\nДополнительно: П-210\nURALCAMPUS_
+ SYNC_ID:cddd4c07842a2598479354147a86420f\nURALCAMPUS_SOURCE:preco:teacher
+ :a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9347c41e5dc5d4f82ee75ee5009032a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T101000
+DTEND;TZID=Asia/Yekaterinburg:20261007T114000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 2 пара\nДополнительно: П-211\nURALCAMPUS_
+ SYNC_ID:9347c41e5dc5d4f82ee75ee5009032a5\nURALCAMPUS_SOURCE:preco:teacher
+ :a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b032cd639918159321c5939e2fd424bc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T120000
+DTEND;TZID=Asia/Yekaterinburg:20261007T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 3 пара\nДополнительно: 104\nURALCAMPUS_SYN
+ C_ID:b032cd639918159321c5939e2fd424bc\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2a564a47cb8b7d7c971bb245a7424749@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T135000
+DTEND;TZID=Asia/Yekaterinburg:20261007T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 4 пара\nДополнительно: 103\nURALCAMPUS_SYN
+ C_ID:2a564a47cb8b7d7c971bb245a7424749\nURALCAMPUS_SOURCE:preco:teacher:a0
+ 9295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f59b677f8402fd450c412b66e9c30bba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T083000
+DTEND;TZID=Asia/Yekaterinburg:20261008T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 1 пара\nДополнительно: П-211\nURALCAMPUS_
+ SYNC_ID:f59b677f8402fd450c412b66e9c30bba\nURALCAMPUS_SOURCE:preco:teacher
+ :a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1822cc8b18f207eb07be5f55cf930290@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
+DTEND;TZID=Asia/Yekaterinburg:20261008T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 2 пара\nДополнительно: П-210\nURALCAMPUS_
+ SYNC_ID:1822cc8b18f207eb07be5f55cf930290\nURALCAMPUS_SOURCE:preco:teacher
+ :a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2b9735471bc751008a2283e88979c525@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
+DTEND;TZID=Asia/Yekaterinburg:20261008T133000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 3 пара\nДополнительно: ОЛ-220\, ОЛ-220
+ А\nURALCAMPUS_SYNC_ID:2b9735471bc751008a2283e88979c525\nURALCAMPUS_SOURC
+ E:preco:teacher:a09295cc-25bd-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:148c9ca7bbfb368084bd2d681590efbc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
+DTEND;TZID=Asia/Yekaterinburg:20261008T152000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Надеждина Ольга Аркадьевн
+ а\nПара: 4 пара\nДополнительно: ТИК-224\nURALCAM
+ PUS_SYNC_ID:148c9ca7bbfb368084bd2d681590efbc\nURALCAMPUS_SOURCE:preco:tea
+ cher:a09295cc-25bd-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:290485ecc29a7ee28637ebd1f57061ac@uralcampus-calendar-pages

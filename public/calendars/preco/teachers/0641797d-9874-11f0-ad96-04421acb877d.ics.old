@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Яковлева Ол
+ ьга Георгиевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0004eb586302c8e4599d63de2dfdeb28@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
+DTEND;TZID=Asia/Yekaterinburg:20260924T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Яковлева Ольга Георгиевна\
+ nПара: 1 пара\nДополнительно: ПД-178ю\nURALCAMPUS
+ _SYNC_ID:0004eb586302c8e4599d63de2dfdeb28\nURALCAMPUS_SOURCE:preco:teache
+ r:0641797d-9874-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:25dec832e8c50f085abcf5082fd46825@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
+DTEND;TZID=Asia/Yekaterinburg:20260924T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Яковлева Ольга Георгиевна\
+ nПара: 1 пара\nДополнительно: ОЛ-150ю\nURALCAMPUS
+ _SYNC_ID:25dec832e8c50f085abcf5082fd46825\nURALCAMPUS_SOURCE:preco:teache
+ r:0641797d-9874-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:564f10bf795d3ba8bf9d97fe1cefc32c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
+DTEND;TZID=Asia/Yekaterinburg:20260924T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 16\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Яковлева Ольга Георгиевна\
+ nПара: 3 пара\nДополнительно: ИК-130ю\nURALCAMPUS
+ _SYNC_ID:564f10bf795d3ba8bf9d97fe1cefc32c\nURALCAMPUS_SOURCE:preco:teache
+ r:0641797d-9874-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5dbdabefd8d3a5ed7bc396f5b0c66641@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
+DTEND;TZID=Asia/Yekaterinburg:20260924T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 16\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Яковлева Ольга Георгиевна\
+ nПара: 3 пара\nДополнительно: П-170ю\nURALCAMPUS_S
+ YNC_ID:5dbdabefd8d3a5ed7bc396f5b0c66641\nURALCAMPUS_SOURCE:preco:teacher:
+ 0641797d-9874-11f0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

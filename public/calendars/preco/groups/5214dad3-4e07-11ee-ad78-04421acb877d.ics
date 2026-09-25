@@ -18,30 +18,43 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b9ae495cfd349acc7bff0dffe53fe12f@uralcampus-calendar-pages
+UID:a0424cf2effb51c325d3314539ce4f4d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T083000
-DTEND;TZID=Asia/Yekaterinburg:20260923T100000
-SUMMARY:Электротехника и электроника (Аудит
- орные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
+DTEND;TZID=Asia/Yekaterinburg:20260925T114000
+SUMMARY:Инженерная графика(подгруппа:ГС-276 (2
+ )) (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 1 пара\nДополнительно: Б
- обнев С.В.\nURALCAMPUS_SYNC_ID:b9ae495cfd349acc7bff0dffe53fe12f\nU
- RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+ уппа: ГС-276\nПара: 2 пара\nДополнительно: Б
+ ойцова Л.П.\nURALCAMPUS_SYNC_ID:a0424cf2effb51c325d3314539ce4f4d\
+ nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:07c099489c14b22c6dfb1acc7535e4d0@uralcampus-calendar-pages
+UID:63802c28bdf6bdc01ae2b5a88b60101d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260923T101000
-DTEND;TZID=Asia/Yekaterinburg:20260923T114000
+DTSTART;TZID=Asia/Yekaterinburg:20260925T120000
+DTEND;TZID=Asia/Yekaterinburg:20260925T133000
+SUMMARY:Инженерная графика(подгруппа:ГС-276 (2
+ )) (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 3 пара\nДополнительно: Б
+ ойцова Л.П.\nURALCAMPUS_SYNC_ID:63802c28bdf6bdc01ae2b5a88b60101d\
+ nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:77c997080e22f7aa53fb7b41b991d391@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260925T135000
+DTEND;TZID=Asia/Yekaterinburg:20260925T152000
 SUMMARY:Прикладные компьютерные программы 
  в профессиональной деятельности (Аудит
  орные занятия)
 LOCATION:ауд. 5\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 2 пара\nДополнительно: Б
- обнев С.В.\nURALCAMPUS_SYNC_ID:07c099489c14b22c6dfb1acc7535e4d0\nU
+ уппа: ГС-276\nПара: 4 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:77c997080e22f7aa53fb7b41b991d391\nU
  RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

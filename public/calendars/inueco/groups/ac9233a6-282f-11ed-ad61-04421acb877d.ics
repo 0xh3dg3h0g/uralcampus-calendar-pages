@@ -17,4 +17,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:17b839bc1838de4108ea2d452121535d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T195000
+DTEND;TZID=Asia/Yekaterinburg:20261002T205000
+SUMMARY:Предпринимательское право (Практик
+ а)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-501\nПара: 8 пара\nДополнитель
+ но: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:17b839bc1838de4108
+ ea2d452121535d\nURALCAMPUS_SOURCE:inueco:group:ac9233a6-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
 END:VCALENDAR

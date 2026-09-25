@@ -19,84 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7e82c372596a9b3630acc355ba126422@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
-DTEND;TZID=Asia/Yekaterinburg:20260924T100000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 304\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Батовская Екатерина Конст
- антиновна\nПара: 1 пара\nДополнительно: 135
- \nURALCAMPUS_SYNC_ID:7e82c372596a9b3630acc355ba126422\nURALCAMPUS_SOURCE:
- preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8bd3f48a47aa9c4e5b51c910db2d8a69@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
-DTEND;TZID=Asia/Yekaterinburg:20260924T114000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 314\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Батовская Екатерина Конст
- антиновна\nПара: 2 пара\nДополнительно: 134
- \nURALCAMPUS_SYNC_ID:8bd3f48a47aa9c4e5b51c910db2d8a69\nURALCAMPUS_SOURCE:
- preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1c47bdfb48d5be372845485deba1efca@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
-DTEND;TZID=Asia/Yekaterinburg:20260924T133000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 404\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Батовская Екатерина Конст
- антиновна\nПара: 3 пара\nДополнительно: 131
- \nURALCAMPUS_SYNC_ID:1c47bdfb48d5be372845485deba1efca\nURALCAMPUS_SOURCE:
- preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:01e6b67cc0122db4e42d9f966260545d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
-DTEND;TZID=Asia/Yekaterinburg:20260924T152000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Батовская Екатерина Конст
- антиновна\nПара: 4 пара\nДополнительно: 132
- \nURALCAMPUS_SYNC_ID:01e6b67cc0122db4e42d9f966260545d\nURALCAMPUS_SOURCE:
- preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d3bbb6ef680afd7dd7e4d1f2b3fb8783@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T153000
-DTEND;TZID=Asia/Yekaterinburg:20260924T170000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Батовская Екатерина Конст
- антиновна\nПара: 5 пара\nДополнительно: 133
- \nURALCAMPUS_SYNC_ID:d3bbb6ef680afd7dd7e4d1f2b3fb8783\nURALCAMPUS_SOURCE:
- preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a9fc9a8e58bce5430ff705019e6ad758@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T171000
-DTEND;TZID=Asia/Yekaterinburg:20260924T182000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 305\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Батовская Екатерина Конст
- антиновна\nПара: 6 пара\nДополнительно: 130
- \nURALCAMPUS_SYNC_ID:a9fc9a8e58bce5430ff705019e6ad758\nURALCAMPUS_SOURCE:
- preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:62b5c5289934c6ad70e54508756ee0bf@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T083000
@@ -161,6 +83,140 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Батовская Екатерина Конст
  антиновна\nПара: 5 пара\nДополнительно: 105
  \nURALCAMPUS_SYNC_ID:9b9ac31f57351a2561eef84aa9caf405\nURALCAMPUS_SOURCE:
+ preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b61dbf7597cbc733e9f0a5f204b57d63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T083000
+DTEND;TZID=Asia/Yekaterinburg:20261003T100000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 1 пара\nДополнительно: Ф-
+ 202\, Ф-202А\nURALCAMPUS_SYNC_ID:b61dbf7597cbc733e9f0a5f204b57d63\nURAL
+ CAMPUS_SOURCE:preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf262fde1e5d130ef66d1c9b26c8bed@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 2 пара\nДополнительно: Ф-
+ 202\, Ф-202А\nURALCAMPUS_SYNC_ID:dbf262fde1e5d130ef66d1c9b26c8bed\nURAL
+ CAMPUS_SOURCE:preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7b0b8c56477fcae37b6db7bf108c3c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
+DTEND;TZID=Asia/Yekaterinburg:20261003T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 3 пара\nДополнительно: 103
+ \nURALCAMPUS_SYNC_ID:bf7b0b8c56477fcae37b6db7bf108c3c\nURALCAMPUS_SOURCE:
+ preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e0beaa7c9f6c4518a1fd25b990f34213@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T134000
+DTEND;TZID=Asia/Yekaterinburg:20261003T151000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 4 пара\nДополнительно: 103
+ \nURALCAMPUS_SYNC_ID:e0beaa7c9f6c4518a1fd25b990f34213\nURALCAMPUS_SOURCE:
+ preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d1fddd6fcbb0cb378f3889e31fdad24c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T152000
+DTEND;TZID=Asia/Yekaterinburg:20261003T165000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 5 пара\nДополнительно: 105
+ \nURALCAMPUS_SYNC_ID:d1fddd6fcbb0cb378f3889e31fdad24c\nURALCAMPUS_SOURCE:
+ preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:094cda2593eeb02823cf9e6d965b0dfb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
+DTEND;TZID=Asia/Yekaterinburg:20261010T100000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 1 пара\nДополнительно: Ф-
+ 202\, Ф-202А\nURALCAMPUS_SYNC_ID:094cda2593eeb02823cf9e6d965b0dfb\nURAL
+ CAMPUS_SOURCE:preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa8a43486c565f01ca9b1d42e950108@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T101000
+DTEND;TZID=Asia/Yekaterinburg:20261010T114000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 2 пара\nДополнительно: Ф-
+ 202\, Ф-202А\nURALCAMPUS_SYNC_ID:7aa8a43486c565f01ca9b1d42e950108\nURAL
+ CAMPUS_SOURCE:preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1ee4ca1e098c278551e2654d4159f119@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T120000
+DTEND;TZID=Asia/Yekaterinburg:20261010T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 3 пара\nДополнительно: 103
+ \nURALCAMPUS_SYNC_ID:1ee4ca1e098c278551e2654d4159f119\nURALCAMPUS_SOURCE:
+ preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d9157b3670e2cb0c6ba618ff1fa9b9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T134000
+DTEND;TZID=Asia/Yekaterinburg:20261010T151000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 4 пара\nДополнительно: 105
+ \nURALCAMPUS_SYNC_ID:e8d9157b3670e2cb0c6ba618ff1fa9b9\nURALCAMPUS_SOURCE:
+ preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1f10a0098d52133b04f3307981abdafb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T152000
+DTEND;TZID=Asia/Yekaterinburg:20261010T165000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Батовская Екатерина Конст
+ антиновна\nПара: 5 пара\nДополнительно: 105
+ \nURALCAMPUS_SYNC_ID:1f10a0098d52133b04f3307981abdafb\nURALCAMPUS_SOURCE:
  preco:teacher:0cd100fe-3ff1-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

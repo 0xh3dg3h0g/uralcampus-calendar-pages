@@ -19,80 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b131923b35d8d18d7b3ef14a3a741a06@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T083000
-DTEND;TZID=Asia/Yekaterinburg:20260924T100000
-SUMMARY:Выполнение топографических съемок 
- и оформление их результатов (Аудиторные
-  занятия)
-LOCATION:ауд. 313\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Епифанов Данила Александр
- ович\nПара: 1 пара\nДополнительно: З-344\, З-3
- 44А\nURALCAMPUS_SYNC_ID:b131923b35d8d18d7b3ef14a3a741a06\nURALCAMPUS_SOU
- RCE:preco:teacher:1f87343b-819d-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4ff0d53fd9fd80e66c5aed58e67ca042@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T101000
-DTEND;TZID=Asia/Yekaterinburg:20260924T114000
-SUMMARY:Выполнение топографических съемок 
- и оформление их результатов (Аудиторные
-  занятия)
-LOCATION:ауд. 313\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Епифанов Данила Александр
- ович\nПара: 2 пара\nДополнительно: З-344\, З-3
- 44А\nURALCAMPUS_SYNC_ID:4ff0d53fd9fd80e66c5aed58e67ca042\nURALCAMPUS_SOU
- RCE:preco:teacher:1f87343b-819d-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d32e334ff45c3e57ccfcd6ddc51dcfd3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T120000
-DTEND;TZID=Asia/Yekaterinburg:20260924T133000
-SUMMARY:Замерщик на топографо-геодезически
- х и маркшейдерских работах (Аудиторные 
- занятия)
-LOCATION:ауд. 313\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Епифанов Данила Александр
- ович\nПара: 3 пара\nДополнительно: З-344\, З-3
- 44А\nURALCAMPUS_SYNC_ID:d32e334ff45c3e57ccfcd6ddc51dcfd3\nURALCAMPUS_SOU
- RCE:preco:teacher:1f87343b-819d-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:53de1e012e3aafcc2b2e273a51be7992@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T135000
-DTEND;TZID=Asia/Yekaterinburg:20260924T152000
-SUMMARY:Замерщик на топографо-геодезически
- х и маркшейдерских работах (Аудиторные 
- занятия)
-LOCATION:ауд. 313\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Епифанов Данила Александр
- ович\nПара: 4 пара\nДополнительно: З-344\, З-3
- 44А\nURALCAMPUS_SYNC_ID:53de1e012e3aafcc2b2e273a51be7992\nURALCAMPUS_SOU
- RCE:preco:teacher:1f87343b-819d-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d63caac6723ff606e34d3b786ff73069@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T153000
-DTEND;TZID=Asia/Yekaterinburg:20260924T170000
-SUMMARY:Основы финансовой грамотности (Ауди
- торные занятия)
-LOCATION:ауд. 304\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Епифанов Данила Александр
- ович\nПара: 5 пара\nДополнительно: Ю-238\, Ю-2
- 38А\nURALCAMPUS_SYNC_ID:d63caac6723ff606e34d3b786ff73069\nURALCAMPUS_SOU
- RCE:preco:teacher:1f87343b-819d-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:62c74523d95a7260f62b8c3517f3b0ee@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
@@ -206,6 +132,90 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Епифанов Данила Александр
  ович\nПара: 5 пара\nДополнительно: Д-412\nURALC
  AMPUS_SYNC_ID:8d3cffd4b4a2b7420b18f11115d70c34\nURALCAMPUS_SOURCE:preco:t
+ eacher:1f87343b-819d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4a98d3a5ccecb9999a4f8498010c5539@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T083000
+DTEND;TZID=Asia/Yekaterinburg:20261003T100000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Епифанов Данила Александр
+ ович\nПара: 1 пара\nДополнительно: Д-412\nURALC
+ AMPUS_SYNC_ID:4a98d3a5ccecb9999a4f8498010c5539\nURALCAMPUS_SOURCE:preco:t
+ eacher:1f87343b-819d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a510f695a876740762abad808b70db64@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Епифанов Данила Александр
+ ович\nПара: 2 пара\nДополнительно: Д-412\nURALC
+ AMPUS_SYNC_ID:a510f695a876740762abad808b70db64\nURALCAMPUS_SOURCE:preco:t
+ eacher:1f87343b-819d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6b54dcac4e5d08b19a0199e386580d1f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
+DTEND;TZID=Asia/Yekaterinburg:20261003T133000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Епифанов Данила Александр
+ ович\nПара: 3 пара\nДополнительно: Д-412\nURALC
+ AMPUS_SYNC_ID:6b54dcac4e5d08b19a0199e386580d1f\nURALCAMPUS_SOURCE:preco:t
+ eacher:1f87343b-819d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:283bea0d3e0d3a39ec7bb19a4781e1a4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
+DTEND;TZID=Asia/Yekaterinburg:20261010T100000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Епифанов Данила Александр
+ ович\nПара: 1 пара\nДополнительно: Д-412\nURALC
+ AMPUS_SYNC_ID:283bea0d3e0d3a39ec7bb19a4781e1a4\nURALCAMPUS_SOURCE:preco:t
+ eacher:1f87343b-819d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:71977c3a34ddf856c1b2dbc7eb516809@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T101000
+DTEND;TZID=Asia/Yekaterinburg:20261010T114000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Епифанов Данила Александр
+ ович\nПара: 2 пара\nДополнительно: Д-412\nURALC
+ AMPUS_SYNC_ID:71977c3a34ddf856c1b2dbc7eb516809\nURALCAMPUS_SOURCE:preco:t
+ eacher:1f87343b-819d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a2913a103cd3910ca25678226c94a039@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T120000
+DTEND;TZID=Asia/Yekaterinburg:20261010T133000
+SUMMARY:Основы стандартизации\, сертификаци
+ и и метрологии (Аудиторные занятия)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Епифанов Данила Александр
+ ович\nПара: 3 пара\nДополнительно: Д-412\nURALC
+ AMPUS_SYNC_ID:a2913a103cd3910ca25678226c94a039\nURALCAMPUS_SOURCE:preco:t
  eacher:1f87343b-819d-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

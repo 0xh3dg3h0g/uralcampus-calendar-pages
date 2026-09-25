@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:1b5d5eed6e9e359977a17585206a4e02@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
+DTEND;TZID=Asia/Yekaterinburg:20261003T133000
+SUMMARY:Правоведение (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-101\nПара: 3 пара\nДополнител
+ ьно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:1b5d5eed6e9e3599
+ 77a17585206a4e02\nURALCAMPUS_SOURCE:inueco:group:a09d1da4-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6eac844d30de9119311c9a04beed233c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T134000
+DTEND;TZID=Asia/Yekaterinburg:20261003T151000
+SUMMARY:Правоведение (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-101\nПара: 4 пара\nДополнител
+ ьно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:6eac844d30de9119
+ 311c9a04beed233c\nURALCAMPUS_SOURCE:inueco:group:a09d1da4-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
 END:VCALENDAR

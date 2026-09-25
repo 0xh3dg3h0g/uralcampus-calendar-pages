@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6fe5815d869875c6a549b681bddd1281@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T183000
-DTEND;TZID=Asia/Yekaterinburg:20260924T194000
-SUMMARY:Химия (Лекция)
-LOCATION:ауд. 203
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗ-201/11\nПара: 7 пара\nДополните
- льно: Батовская Е. К.\nURALCAMPUS_SYNC_ID:6fe5815d869875c6
- a549b681bddd1281\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-
- 04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4e20983a23b0584b08b00b42369918c5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260924T195000
-DTEND;TZID=Asia/Yekaterinburg:20260924T205000
-SUMMARY:Химия (Лекция)
-LOCATION:ауд. 203
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗ-201/11\nПара: 8 пара\nДополните
- льно: Батовская Е. К.\nURALCAMPUS_SYNC_ID:4e20983a23b0584b
- 08b00b42369918c5\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-
- 04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ec6af741020da892b2f2fc79aec28b26@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260926T120000
@@ -68,5 +42,59 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  льно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:75380129cf7e24f24de0
  099df0383be0\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-0442
  1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4718b1e9a116b5a2be77f4ab6d2faee0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T183000
+DTEND;TZID=Asia/Yekaterinburg:20260929T194000
+SUMMARY:Теоретическая механика (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201/11\nПара: 7 пара\nДополните
+ льно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:4718b1e9a116b5a2
+ be77f4ab6d2faee0\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8f492e22c5de7489bda2b0e6700e39@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T195000
+DTEND;TZID=Asia/Yekaterinburg:20260929T205000
+SUMMARY:Теоретическая механика (Лаб.)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201/11\nПара: 8 пара\nДополните
+ льно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:1e8f492e22c5de74
+ 89bda2b0e6700e39\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d33958d978bb01b2ede2e99b7f8f44@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T183000
+DTEND;TZID=Asia/Yekaterinburg:20261001T194000
+SUMMARY:Инженерная и компьютерная графика (
+ Практика)
+LOCATION:ауд. 203
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201/11\nПара: 7 пара\nДополните
+ льно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:c3d33958d978bb01b2ede2e9
+ 9b7f8f44\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:baa13da647c404acf7d7e6424b2347b4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T195000
+DTEND;TZID=Asia/Yekaterinburg:20261001T205000
+SUMMARY:Инженерная и компьютерная графика (
+ Практика)
+LOCATION:ауд. 203
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201/11\nПара: 8 пара\nДополните
+ льно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:baa13da647c404acf7d7e642
+ 4b2347b4\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-04421acb
+ 877d
 END:VEVENT
 END:VCALENDAR
