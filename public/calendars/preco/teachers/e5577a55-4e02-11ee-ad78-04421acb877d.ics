@@ -19,46 +19,74 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a6a454236795e44eef7e100ebda3f58e@uralcampus-calendar-pages
+UID:50df2f200200fcdde8bb6cdd36f2091f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T135000
-DTEND;TZID=Asia/Yekaterinburg:20260925T152000
+DTSTART;TZID=Asia/Yekaterinburg:20260928T083000
+DTEND;TZID=Asia/Yekaterinburg:20260928T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 1 пара\nДополнительно: Ю-168\nURALCAMPUS_
+ SYNC_ID:50df2f200200fcdde8bb6cdd36f2091f\nURALCAMPUS_SOURCE:preco:teacher
+ :e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bac58fbc08bc0ea7f7c6030ef360b8fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T101000
+DTEND;TZID=Asia/Yekaterinburg:20260928T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 2 пара\nДополнительно: Ф-162\nURALCAMPUS_
+ SYNC_ID:bac58fbc08bc0ea7f7c6030ef360b8fb\nURALCAMPUS_SOURCE:preco:teacher
+ :e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c67bcd08b1be9e1771aaac0b0db93fae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
+DTEND;TZID=Asia/Yekaterinburg:20260928T133000
+SUMMARY:Особенности проектирования систем 
+ газораспределения и газопотребления (А
+ удиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 3 пара\nДополнительно: ГС-376\, ГС-376
+ А\nURALCAMPUS_SYNC_ID:c67bcd08b1be9e1771aaac0b0db93fae\nURALCAMPUS_SOURC
+ E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad949adbf847c83d429d0d0ac3aeabb0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T135000
+DTEND;TZID=Asia/Yekaterinburg:20260928T152000
+SUMMARY:Особенности проектирования систем 
+ газораспределения и газопотребления (А
+ удиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 4 пара\nДополнительно: ГС-376\, ГС-376
+ А\nURALCAMPUS_SYNC_ID:ad949adbf847c83d429d0d0ac3aeabb0\nURALCAMPUS_SOURC
+ E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c251e295c78d7cbe0a186eff5b684a05@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T153000
+DTEND;TZID=Asia/Yekaterinburg:20260928T170000
 SUMMARY:Прикладные компьютерные программы 
  в профессиональной деятельности (Аудит
  орные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+LOCATION:ауд. 9\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Бобнев Сергей Вячеславови
- ч\nПара: 4 пара\nДополнительно: ГС-276\nURALCAMPU
- S_SYNC_ID:a6a454236795e44eef7e100ebda3f58e\nURALCAMPUS_SOURCE:preco:teach
+ ч\nПара: 5 пара\nДополнительно: ГС-276\nURALCAMPU
+ S_SYNC_ID:c251e295c78d7cbe0a186eff5b684a05\nURALCAMPUS_SOURCE:preco:teach
  er:e5577a55-4e02-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e8d4372ee9f52f7dc73365255bbc0f11@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T153000
-DTEND;TZID=Asia/Yekaterinburg:20260925T170000
-SUMMARY:Автоматика и телемеханика систем га
- зоснабжения (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Бобнев Сергей Вячеславови
- ч\nПара: 5 пара\nДополнительно: ГС-476\, ГС-476
- А\nURALCAMPUS_SYNC_ID:e8d4372ee9f52f7dc73365255bbc0f11\nURALCAMPUS_SOURC
- E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5829d7a2033be40e4808f134aadd8f57@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T171000
-DTEND;TZID=Asia/Yekaterinburg:20260925T182000
-SUMMARY:Автоматика и телемеханика систем га
- зоснабжения (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Бобнев Сергей Вячеславови
- ч\nПара: 6 пара\nДополнительно: ГС-476\, ГС-476
- А\nURALCAMPUS_SYNC_ID:5829d7a2033be40e4808f134aadd8f57\nURALCAMPUS_SOURC
- E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fb3d929e68c21b139f3ebc37772d265f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
-DTEND;TZID=Asia/Yekaterinburg:20260925T100000
-SUMMARY:Криминалистика (Лекция)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Ю-401\nПара: 1 пара\nДополнительн
- о: Макашова Т. П.\nURALCAMPUS_SYNC_ID:fb3d929e68c21b139f3ebc37
- 772d265f\nURALCAMPUS_SOURCE:inueco:group:ac923366-282f-11ed-ad61-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7739d825a8d19b6892a14abf41ed7177@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
-DTEND;TZID=Asia/Yekaterinburg:20260925T114000
-SUMMARY:Криминалистика (Лекция)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Ю-401\nПара: 2 пара\nДополнительн
- о: Макашова Т. П.\nURALCAMPUS_SYNC_ID:7739d825a8d19b6892a14abf
- 41ed7177\nURALCAMPUS_SOURCE:inueco:group:ac923366-282f-11ed-ad61-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:1309938522c0c3423c58c9c171ee4002@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260928T171000
@@ -148,5 +122,33 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Макашова Т. П.\nURALCAMPUS_SYNC_ID:ca8fd23e0ad453c840918aa4
  3d95aa12\nURALCAMPUS_SOURCE:inueco:group:ac923366-282f-11ed-ad61-04421acb
  877d
+END:VEVENT
+BEGIN:VEVENT
+UID:221d163115b3d40aef93b9896b539af5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T120000
+DTEND;TZID=Asia/Yekaterinburg:20261002T133000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-401\nПара: 3 пара\nДополнительн
+ о: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:221d163115b3d40aef93b9896b5
+ 39af5\nURALCAMPUS_SOURCE:inueco:group:ac923366-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:bdde1b46f86e26b6554c4f2cd15c7462@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T135000
+DTEND;TZID=Asia/Yekaterinburg:20261002T152000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-401\nПара: 4 пара\nДополнительн
+ о: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:bdde1b46f86e26b6554c4f2cd15
+ c7462\nURALCAMPUS_SOURCE:inueco:group:ac923366-282f-11ed-ad61-04421acb877
+ d
 END:VEVENT
 END:VCALENDAR

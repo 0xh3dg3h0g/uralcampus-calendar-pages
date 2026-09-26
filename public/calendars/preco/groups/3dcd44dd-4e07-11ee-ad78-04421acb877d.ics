@@ -18,29 +18,40 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c41a15ebf0643dcdba86899bb85fc46f@uralcampus-calendar-pages
+UID:20d02de0f2d0507f0ffb8cad5c9aac54@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T083000
-DTEND;TZID=Asia/Yekaterinburg:20260925T100000
-SUMMARY:Иностранный язык(подгруппа:Ю-168 (1)) (А
- удиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260928T083000
+DTEND;TZID=Asia/Yekaterinburg:20260928T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 1 пара\nДополнительно: Бе
- жецких Ж.Г.\nURALCAMPUS_SYNC_ID:c41a15ebf0643dcdba86899bb85fc46f\
+ уппа: Ю-168\nПара: 1 пара\nДополнительно: Бо
+ бнев С.В.\nURALCAMPUS_SYNC_ID:20d02de0f2d0507f0ffb8cad5c9aac54\nURA
+ LCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8372f992ca4fb9b33e3ed341d968c398@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T101000
+DTEND;TZID=Asia/Yekaterinburg:20260928T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-168\nПара: 2 пара\nДополнительно: Си
+ тников П.В.\nURALCAMPUS_SYNC_ID:8372f992ca4fb9b33e3ed341d968c398\
  nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:8da9af5e8c406435a38e341df4cd46a2@uralcampus-calendar-pages
+UID:fbd336203b4899829e480085fde0143f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T101000
-DTEND;TZID=Asia/Yekaterinburg:20260925T114000
-SUMMARY:Иностранный язык(подгруппа:Ю-168 (2)) (А
- удиторные занятия)
-LOCATION:ауд. 1\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
+DTEND;TZID=Asia/Yekaterinburg:20260928T133000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 2 пара\nДополнительно: Бе
- жецких Ж.Г.\nURALCAMPUS_SYNC_ID:8da9af5e8c406435a38e341df4cd46a2\
- nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+ уппа: Ю-168\nПара: 3 пара\nДополнительно: Са
+ фиханова М.П.\nURALCAMPUS_SYNC_ID:fbd336203b4899829e480085fde01
+ 43f\nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

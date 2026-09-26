@@ -18,4 +18,58 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:ee66a7e5165a567a87ceb32ed49a82f8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
+DTEND;TZID=Asia/Yekaterinburg:20260928T133000
+SUMMARY:Техническая механика (Аудиторные за
+ нятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 3 пара\nДополнительно: ГС-276\nURALCAMPUS_SYNC_I
+ D:ee66a7e5165a567a87ceb32ed49a82f8\nURALCAMPUS_SOURCE:preco:teacher:96cdf
+ 103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5d32e803a97ba92fe1c1c24e36be4509@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T135000
+DTEND;TZID=Asia/Yekaterinburg:20260928T152000
+SUMMARY:Техническая механика (Аудиторные за
+ нятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 4 пара\nДополнительно: ГС-276\nURALCAMPUS_SYNC_I
+ D:5d32e803a97ba92fe1c1c24e36be4509\nURALCAMPUS_SOURCE:preco:teacher:96cdf
+ 103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:99b966b8ee397ae13142e064626328a4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T153000
+DTEND;TZID=Asia/Yekaterinburg:20260928T170000
+SUMMARY:Охрана труда (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 5 пара\nДополнительно: ГС-476\, ГС-476А\nURAL
+ CAMPUS_SYNC_ID:99b966b8ee397ae13142e064626328a4\nURALCAMPUS_SOURCE:preco:
+ teacher:96cdf103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2e078031d465542fde7a9871acf3b374@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T171000
+DTEND;TZID=Asia/Yekaterinburg:20260928T182000
+SUMMARY:Охрана труда (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 6 пара\nДополнительно: ГС-476\, ГС-476А\nURAL
+ CAMPUS_SYNC_ID:2e078031d465542fde7a9871acf3b374\nURALCAMPUS_SOURCE:preco:
+ teacher:96cdf103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

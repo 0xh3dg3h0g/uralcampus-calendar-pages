@@ -17,4 +17,17 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:1dbc424f3b50f29f356b97bbead453f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T083000
+DTEND;TZID=Asia/Yekaterinburg:20261002T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 135 (1)\nПара: 1 пара\nДополнительно: Мо
+ торина Л.А.\nURALCAMPUS_SYNC_ID:1dbc424f3b50f29f356b97bbead453f5\
+ nURALCAMPUS_SOURCE:preco:group:106c80eb-6dfe-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

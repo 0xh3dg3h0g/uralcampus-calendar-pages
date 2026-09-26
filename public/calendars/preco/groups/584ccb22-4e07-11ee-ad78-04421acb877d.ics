@@ -18,42 +18,55 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e001b0e46d5e377e36f9c418d5640d2c@uralcampus-calendar-pages
+UID:48b04fcd3dbb5d60d832105c2f7b77bc@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T120000
-DTEND;TZID=Asia/Yekaterinburg:20260925T133000
+DTSTART;TZID=Asia/Yekaterinburg:20260928T083000
+DTEND;TZID=Asia/Yekaterinburg:20260928T100000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 1 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:48b04fcd3dbb5d60d832105c2f7b77bc\
+ nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:62e36214c59d0d9a4bf23dd3e054d7f3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T101000
+DTEND;TZID=Asia/Yekaterinburg:20260928T114000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 2 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:62e36214c59d0d9a4bf23dd3e054d7f3\
+ nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:14f39b83c7b55bf35dbae1d7763b9758@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
+DTEND;TZID=Asia/Yekaterinburg:20260928T133000
 SUMMARY:Основы алголритмизации и программи
  рования (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-270\nПара: 3 пара\nДополнительно: Ка
- расова А.А.\nURALCAMPUS_SYNC_ID:e001b0e46d5e377e36f9c418d5640d2c\
+ расова А.А.\nURALCAMPUS_SYNC_ID:14f39b83c7b55bf35dbae1d7763b9758\
  nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b190d53b2a24e6d1e263e0b1ca7394df@uralcampus-calendar-pages
+UID:5efd61f7cc0d813c90ea45f5f1a25dab@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T135000
-DTEND;TZID=Asia/Yekaterinburg:20260925T152000
+DTSTART;TZID=Asia/Yekaterinburg:20260928T135000
+DTEND;TZID=Asia/Yekaterinburg:20260928T152000
 SUMMARY:Основы алголритмизации и программи
  рования (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-270\nПара: 4 пара\nДополнительно: Ка
- расова А.А.\nURALCAMPUS_SYNC_ID:b190d53b2a24e6d1e263e0b1ca7394df\
- nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:752cba5b97ab4598cd2d5654b57b018c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260925T153000
-DTEND;TZID=Asia/Yekaterinburg:20260925T170000
-SUMMARY:Экономика отрасли (Аудиторные занят
- ия)
-LOCATION:ауд. 2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-270\nПара: 5 пара\nДополнительно: Ко
- пытцев С.М.\nURALCAMPUS_SYNC_ID:752cba5b97ab4598cd2d5654b57b018c\
+ расова А.А.\nURALCAMPUS_SYNC_ID:5efd61f7cc0d813c90ea45f5f1a25dab\
  nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
