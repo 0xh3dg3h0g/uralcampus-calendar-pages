@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЮЗу-201/02
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5b9d09a68595a5048e9463c844a29d62@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T083000
+DTEND;TZID=Asia/Yekaterinburg:20260928T100000
+SUMMARY:Иностранный язык в сфере юриспруден
+ ции (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/02\nПара: 1 пара\nДополнит
+ ельно: Ещеркина Л. В.\nURALCAMPUS_SYNC_ID:5b9d09a68595a504
+ 8e9463c844a29d62\nURALCAMPUS_SOURCE:inueco:group:ac9233e9-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7e7b1a65545102602da49e37fbd2cbf0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
+DTEND;TZID=Asia/Yekaterinburg:20260928T133000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/02\nПара: 3 пара\nДополнит
+ ельно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:7e7b1a65545102
+ 602da49e37fbd2cbf0\nURALCAMPUS_SOURCE:inueco:group:ac9233e9-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d67d96394058378d02dfe6caaf7e9a93@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T101000
+DTEND;TZID=Asia/Yekaterinburg:20260928T114000
+SUMMARY:Иностранный язык в сфере юриспруден
+ ции (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/02\nПара: 2 пара\nДополнит
+ ельно: Ещеркина Л. В.\nURALCAMPUS_SYNC_ID:d67d96394058378d
+ 02dfe6caaf7e9a93\nURALCAMPUS_SOURCE:inueco:group:ac9233e9-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e18008354def36c8fef3093135a1abe0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260928T135000
+DTEND;TZID=Asia/Yekaterinburg:20260928T152000
+SUMMARY:Жилищное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/02\nПара: 4 пара\nДополнит
+ ельно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:e18008354def36
+ c8fef3093135a1abe0\nURALCAMPUS_SOURCE:inueco:group:ac9233e9-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+END:VCALENDAR

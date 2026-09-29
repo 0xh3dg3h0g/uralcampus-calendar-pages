@@ -18,29 +18,40 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b5f6428c40fdde27c9e3e917197cb055@uralcampus-calendar-pages
+UID:ea906a86058d2b097c1ba92f25e1b2d9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260928T120000
-DTEND;TZID=Asia/Yekaterinburg:20260928T133000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260929T120000
+DTEND;TZID=Asia/Yekaterinburg:20260929T133000
+SUMMARY:Иностранный язык(подгруппа:ПД-178 (1)) (
+ Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-178\nПара: 3 пара\nДополнительно: И
- ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:b5f6428c40fdde27c9e3e91719
- 7cb055\nURALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877
- d
+ уппа: ПД-178\nПара: 3 пара\nДополнительно: М
+ аксютова З.Г.\nURALCAMPUS_SYNC_ID:ea906a86058d2b097c1ba92f25e1b
+ 2d9\nURALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:7ea5e3cc6cae3dc24c193f4f6166955b@uralcampus-calendar-pages
+UID:034a32450665d68143fb5069ad8f617a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260928T135000
-DTEND;TZID=Asia/Yekaterinburg:20260928T152000
-SUMMARY:Введение в специальность (Аудиторны
- е занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20260929T135000
+DTEND;TZID=Asia/Yekaterinburg:20260929T152000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-178\nПара: 4 пара\nДополнительно: К
+ иреева Ф.З.\nURALCAMPUS_SYNC_ID:034a32450665d68143fb5069ad8f617a\
+ nURALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5086a50e610ceb04ed32cd1d1d1e4392@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260929T153000
+DTEND;TZID=Asia/Yekaterinburg:20260929T170000
+SUMMARY:История (Аудиторные занятия)
 LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-178\nПара: 4 пара\nДополнительно: С
- афиханова М.П.\nURALCAMPUS_SYNC_ID:7ea5e3cc6cae3dc24c193f4f616
- 6955b\nURALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877d
+ уппа: ПД-178\nПара: 5 пара\nДополнительно: Т
+ укуева Е.В.\nURALCAMPUS_SYNC_ID:5086a50e610ceb04ed32cd1d1d1e4392\
+ nURALCAMPUS_SOURCE:preco:group:31db8c24-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
