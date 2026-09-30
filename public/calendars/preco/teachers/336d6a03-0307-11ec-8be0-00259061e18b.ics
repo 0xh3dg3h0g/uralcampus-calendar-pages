@@ -19,21 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e1dd9cdf418b715f95e6ed2300b35cb5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260929T135000
-DTEND;TZID=Asia/Yekaterinburg:20260929T152000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Колбин Николай Викторович\
- nПара: 4 пара\nДополнительно: СД-352к\nURALCAMPUS
- _SYNC_ID:e1dd9cdf418b715f95e6ed2300b35cb5\nURALCAMPUS_SOURCE:preco:teache
- r:336d6a03-0307-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:c530be24c908f95ec690c580a2686300@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20260930T135000
@@ -163,5 +148,61 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 2 пара\nДополнительно: СД-352к\nURALCAMPUS
  _SYNC_ID:027659ee9eda8423f91ad7d0033a5f87\nURALCAMPUS_SOURCE:preco:teache
  r:336d6a03-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ea39496a8e790fb9c284854fc7b60f1d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T135000
+DTEND;TZID=Asia/Yekaterinburg:20261014T152000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Колбин Николай Викторович\
+ nПара: 4 пара\nДополнительно: 146к\nURALCAMPUS_SYNC
+ _ID:ea39496a8e790fb9c284854fc7b60f1d\nURALCAMPUS_SOURCE:preco:teacher:336
+ d6a03-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:bcd26d3a7cdab7e671c5017f600c0906@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T153000
+DTEND;TZID=Asia/Yekaterinburg:20261015T170000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Колбин Николай Викторович\
+ nПара: 5 пара\nДополнительно: 145к\nURALCAMPUS_SYNC
+ _ID:bcd26d3a7cdab7e671c5017f600c0906\nURALCAMPUS_SOURCE:preco:teacher:336
+ d6a03-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd3f6f98f62637b2057879d6db19695@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T135000
+DTEND;TZID=Asia/Yekaterinburg:20261021T152000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Колбин Николай Викторович\
+ nПара: 4 пара\nДополнительно: 146к\nURALCAMPUS_SYNC
+ _ID:0bd3f6f98f62637b2057879d6db19695\nURALCAMPUS_SOURCE:preco:teacher:336
+ d6a03-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:5a8fa6be842c981a31ff3e4deccc4a2c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T153000
+DTEND;TZID=Asia/Yekaterinburg:20261022T170000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Колбин Николай Викторович\
+ nПара: 5 пара\nДополнительно: 145к\nURALCAMPUS_SYNC
+ _ID:5a8fa6be842c981a31ff3e4deccc4a2c\nURALCAMPUS_SOURCE:preco:teacher:336
+ d6a03-0307-11ec-8be0-00259061e18b
 END:VEVENT
 END:VCALENDAR

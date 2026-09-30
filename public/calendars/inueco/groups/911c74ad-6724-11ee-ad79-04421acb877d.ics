@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЭЗДу-101
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ab48e5295c76c92000dba4e37ac09332@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T083000
+DTEND;TZID=Asia/Yekaterinburg:20261003T100000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗДу-101\nПара: 1 пара\nДополните
+ льно: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:ab48e5295c76c9200
+ 0dba4e37ac09332\nURALCAMPUS_SOURCE:inueco:group:911c74ad-6724-11ee-ad79-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b3448542b1e545c3ce4eadb56e063eae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T101000
+DTEND;TZID=Asia/Yekaterinburg:20261003T114000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗДу-101\nПара: 2 пара\nДополните
+ льно: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:b3448542b1e545c3c
+ e4eadb56e063eae\nURALCAMPUS_SOURCE:inueco:group:911c74ad-6724-11ee-ad79-0
+ 4421acb877d
+END:VEVENT
+END:VCALENDAR

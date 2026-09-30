@@ -18,40 +18,28 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5d0dd42c5e2542009933fd938d7f40ce@uralcampus-calendar-pages
+UID:6d9b6b9fd921813ac2e19aa127c6b66d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260929T083000
-DTEND;TZID=Asia/Yekaterinburg:20260929T100000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20260930T120000
+DTEND;TZID=Asia/Yekaterinburg:20260930T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 1 пара\nДополнительно: Тр
- ясцина О.А.\nURALCAMPUS_SYNC_ID:5d0dd42c5e2542009933fd938d7f40ce\
- nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+ уппа: П-170\nПара: 3 пара\nДополнительно: Ту
+ куева Е.В.\nURALCAMPUS_SYNC_ID:6d9b6b9fd921813ac2e19aa127c6b66d\nU
+ RALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:ec3676ddde7e78e464c3133a0c38c978@uralcampus-calendar-pages
+UID:7eb642720ecaa78c53c2ad6142645a15@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260929T101000
-DTEND;TZID=Asia/Yekaterinburg:20260929T114000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 2 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:ec3676ddde7e78e464c3133a0c38c978\
- nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ac4b6c68fa8e38451f6ea4b2be33e2b4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260929T120000
-DTEND;TZID=Asia/Yekaterinburg:20260929T133000
+DTSTART;TZID=Asia/Yekaterinburg:20260930T135000
+DTEND;TZID=Asia/Yekaterinburg:20260930T152000
 SUMMARY:Физическая культура (Аудиторные зан
  ятия)
 LOCATION:ауд. Спортзал\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 3 пара\nДополнительно: См
- аков Л.М.\nURALCAMPUS_SYNC_ID:ac4b6c68fa8e38451f6ea4b2be33e2b4\nURA
+ уппа: П-170\nПара: 4 пара\nДополнительно: См
+ аков Л.М.\nURALCAMPUS_SYNC_ID:7eb642720ecaa78c53c2ad6142645a15\nURA
  LCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

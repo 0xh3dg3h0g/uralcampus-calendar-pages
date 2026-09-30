@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:1a1cb8ecdf6fa107f81e37beeaf3130f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T153000
+DTEND;TZID=Asia/Yekaterinburg:20260930T170000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Разуваева Людмила Дмитрие
+ вна\nПара: 5 пара\nДополнительно: ПД-478\, ПД
+ -478А\nURALCAMPUS_SYNC_ID:1a1cb8ecdf6fa107f81e37beeaf3130f\nURALCAMPUS_S
+ OURCE:preco:teacher:44330fd0-4e04-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ea239d0ee013a1d43e0807122b42a09b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T171000
+DTEND;TZID=Asia/Yekaterinburg:20260930T182000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Разуваева Людмила Дмитрие
+ вна\nПара: 6 пара\nДополнительно: ПД-478\, ПД
+ -478А\nURALCAMPUS_SYNC_ID:ea239d0ee013a1d43e0807122b42a09b\nURALCAMPUS_S
+ OURCE:preco:teacher:44330fd0-4e04-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR
