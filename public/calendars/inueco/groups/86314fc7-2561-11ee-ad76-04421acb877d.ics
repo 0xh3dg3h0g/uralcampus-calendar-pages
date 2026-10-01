@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:abc7dd2a8424fe0b1b80f44d176cfcb2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T183000
-DTEND;TZID=Asia/Yekaterinburg:20260930T194000
-SUMMARY:Технологии полиграфии (Лекция)
-LOCATION:ауд. 211\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ДЗ-301\nПара: 7 пара\nДополнитель
- но: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:abc7dd2a8424fe0b1b80f44d1
- 76cfcb2\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
-UID:004e37d8899bde978912d096551fe1d4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T195000
-DTEND;TZID=Asia/Yekaterinburg:20260930T205000
-SUMMARY:Технологии полиграфии (Лекция)
-LOCATION:ауд. 211\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ДЗ-301\nПара: 8 пара\nДополнитель
- но: Шкрабов Н.И.\nURALCAMPUS_SYNC_ID:004e37d8899bde978912d0965
- 51fe1d4\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
 UID:8bc1c8606b888c4dcd389048167a8723@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T171000
@@ -70,5 +44,83 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  но: Савицкая А.Е.\nURALCAMPUS_SYNC_ID:7d3506c7d03a7b0481452ed
  7151371a1\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421ac
  b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:929ce7e30c456fd1346b743c29211141@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T171000
+DTEND;TZID=Asia/Yekaterinburg:20261007T182000
+SUMMARY:Декоративная живопись (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 6 пара\nДополнитель
+ но: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:929ce7e30c456fd1346b
+ 743c29211141\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:343866f716307f8ba6452c4ff481526c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T183000
+DTEND;TZID=Asia/Yekaterinburg:20261007T194000
+SUMMARY:Декоративная живопись (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 7 пара\nДополнитель
+ но: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:343866f716307f8ba645
+ 2c4ff481526c\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2367b2ee63c9f05075a81fdcb7424c5e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T195000
+DTEND;TZID=Asia/Yekaterinburg:20261007T205000
+SUMMARY:Декоративная живопись (Практика)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 8 пара\nДополнитель
+ но: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:2367b2ee63c9f05075a8
+ 1fdcb7424c5e\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4923cac0e3f57112e6b9348cbffdc2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T171000
+DTEND;TZID=Asia/Yekaterinburg:20261009T182000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 6 пара\nДополнитель
+ но: Плеханова О.А.\nURALCAMPUS_SYNC_ID:fb4923cac0e3f57112e6b
+ 9348cbffdc2\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:53164f66d32be257007ef2dada7c2919@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T183000
+DTEND;TZID=Asia/Yekaterinburg:20261009T194000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 7 пара\nДополнитель
+ но: Плеханова О.А.\nURALCAMPUS_SYNC_ID:53164f66d32be257007ef
+ 2dada7c2919\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1e272c1ba0cab5617bde64683c052192@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T195000
+DTEND;TZID=Asia/Yekaterinburg:20261009T205000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ДЗ-301\nПара: 8 пара\nДополнитель
+ но: Плеханова О.А.\nURALCAMPUS_SYNC_ID:1e272c1ba0cab5617bde6
+ 4683c052192\nURALCAMPUS_SOURCE:inueco:group:86314fc7-2561-11ee-ad76-04421
+ acb877d
 END:VEVENT
 END:VCALENDAR

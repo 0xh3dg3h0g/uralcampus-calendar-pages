@@ -19,60 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a73be599403476d184261354519b1016@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T153000
-DTEND;TZID=Asia/Yekaterinburg:20260930T170000
-SUMMARY:Экономический анализ (Лекция)
-LOCATION:ауд. 215\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Прокопьева Юлия Влади
- мировна\nПара: 5 пара\nДополнительно: ЭБ-40
- 8\nURALCAMPUS_SYNC_ID:a73be599403476d184261354519b1016\nURALCAMPUS_SOURCE
- :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:b7b069f906f0c6075f8968982d66d901@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T171000
-DTEND;TZID=Asia/Yekaterinburg:20260930T182000
-SUMMARY:Экономический анализ (Практика)
-LOCATION:ауд. 215\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Прокопьева Юлия Влади
- мировна\nПара: 6 пара\nДополнительно: ЭБ-40
- 8\nURALCAMPUS_SYNC_ID:b7b069f906f0c6075f8968982d66d901\nURALCAMPUS_SOURCE
- :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:069ffbff9f924914ba63983bbfd45a5b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T183000
-DTEND;TZID=Asia/Yekaterinburg:20260930T194000
-SUMMARY:Внутренний контроль и внутренний ау
- дит (Лекция)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Прокопьева Юлия Влади
- мировна\nПара: 7 пара\nДополнительно: ЭБ-50
- 8\nURALCAMPUS_SYNC_ID:069ffbff9f924914ba63983bbfd45a5b\nURALCAMPUS_SOURCE
- :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:5ef9c40f8332c97795faf0a21c14b868@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T195000
-DTEND;TZID=Asia/Yekaterinburg:20260930T205000
-SUMMARY:Внутренний контроль и внутренний ау
- дит (Лекция)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Прокопьева Юлия Влади
- мировна\nПара: 8 пара\nДополнительно: ЭБ-50
- 8\nURALCAMPUS_SYNC_ID:5ef9c40f8332c97795faf0a21c14b868\nURALCAMPUS_SOURCE
- :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:c66116159993b0f0fc4337be91c79ee1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T171000
@@ -119,6 +65,21 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ЭЗу-401/09\, ЭЗу-401/12\nURALCAMPUS_SYNC_ID:cb278029f1b76d834bd1c69
  22a8fd7de\nURALCAMPUS_SOURCE:inueco:teacher:a086f39c-22a7-11ed-9504-001e6
  79d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:77c07066e466f44c21067c109df1a7ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T101000
+DTEND;TZID=Asia/Yekaterinburg:20261002T114000
+SUMMARY:Производственная практика (практик
+ а по профилю профессиональной деятельн
+ ости)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 2 пара\nДополнительно: ЭБ-50
+ 8\nURALCAMPUS_SYNC_ID:77c07066e466f44c21067c109df1a7ee\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
 UID:c825f347b6c4ee59a927c4624b113266@uralcampus-calendar-pages
@@ -205,5 +166,115 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  1/02\, ЭЗ-501/03\, ЭЗ-501/05а\, ЭЗ-501/07а\, ЭЗ-501/09\, ЭЗ-5
  01/13\nURALCAMPUS_SYNC_ID:4ec9cf701339b86de9026521075955f0\nURALCAMPUS_SO
  URCE:inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:17c1068a295eca93f42450fa7a92206f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T153000
+DTEND;TZID=Asia/Yekaterinburg:20261007T170000
+SUMMARY:Экономический анализ (Лекция)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 5 пара\nДополнительно: ЭБ-40
+ 8\nURALCAMPUS_SYNC_ID:17c1068a295eca93f42450fa7a92206f\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:ea2f3e73c0e9f7c6a7a260853b1c0679@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T171000
+DTEND;TZID=Asia/Yekaterinburg:20261007T182000
+SUMMARY:Экономический анализ (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 6 пара\nДополнительно: ЭБ-40
+ 8\nURALCAMPUS_SYNC_ID:ea2f3e73c0e9f7c6a7a260853b1c0679\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3cf74364f40e0831a7bd7c84764d827d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T183000
+DTEND;TZID=Asia/Yekaterinburg:20261007T194000
+SUMMARY:Внутренний контроль и внутренний ау
+ дит (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 7 пара\nДополнительно: ЭБ-50
+ 8\nURALCAMPUS_SYNC_ID:3cf74364f40e0831a7bd7c84764d827d\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3ba2ced352c36aea0fcb832a72c7ff35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T195000
+DTEND;TZID=Asia/Yekaterinburg:20261007T205000
+SUMMARY:Внутренний контроль и внутренний ау
+ дит (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 8 пара\nДополнительно: ЭБ-50
+ 8\nURALCAMPUS_SYNC_ID:3ba2ced352c36aea0fcb832a72c7ff35\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d60edb50d9e423df9712cf582b392d15@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
+DTEND;TZID=Asia/Yekaterinburg:20261009T133000
+SUMMARY:Внутренний контроль и внутренний ау
+ дит (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 3 пара\nДополнительно: ЭБ-50
+ 8\nURALCAMPUS_SYNC_ID:d60edb50d9e423df9712cf582b392d15\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8bfc588ac700a7e153a63d3a88a852@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
+DTEND;TZID=Asia/Yekaterinburg:20261009T152000
+SUMMARY:Внутренний контроль и внутренний ау
+ дит (Практика)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 4 пара\nДополнительно: ЭБ-50
+ 8\nURALCAMPUS_SYNC_ID:0d8bfc588ac700a7e153a63d3a88a852\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:50248bad8abe02e70765a18b534ac0f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T153000
+DTEND;TZID=Asia/Yekaterinburg:20261009T170000
+SUMMARY:Бухгалтерский учет и аудит (Практик
+ а)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 5 пара\nДополнительно: ТД-30
+ 6\nURALCAMPUS_SYNC_ID:50248bad8abe02e70765a18b534ac0f2\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7a351efe121c75c12d1fedfafb75c1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T171000
+DTEND;TZID=Asia/Yekaterinburg:20261009T182000
+SUMMARY:Бухгалтерский учет и аудит (Практик
+ а)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Прокопьева Юлия Влади
+ мировна\nПара: 6 пара\nДополнительно: ТД-30
+ 6\nURALCAMPUS_SYNC_ID:0e7a351efe121c75c12d1fedfafb75c1\nURALCAMPUS_SOURCE
+ :inueco:teacher:a086f39c-22a7-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

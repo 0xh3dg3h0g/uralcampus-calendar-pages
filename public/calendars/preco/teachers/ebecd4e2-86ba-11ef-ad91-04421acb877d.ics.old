@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Сафронова А
+ нна Алексеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:21b6ce8436801521b3b468c698a0ff5e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T163000
+DTEND;TZID=Asia/Yekaterinburg:20260930T180000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 213\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сафронова Анна Алексеевна\
+ nПара: 5 пара\nДополнительно: ПД-197\nURALCAMPUS_S
+ YNC_ID:21b6ce8436801521b3b468c698a0ff5e\nURALCAMPUS_SOURCE:preco:teacher:
+ ebecd4e2-86ba-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6126778d176e7e71f4218c3493a19dc9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T181000
+DTEND;TZID=Asia/Yekaterinburg:20260930T194000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сафронова Анна Алексеевна\
+ nПара: 6 пара\nДополнительно: ПД-199\nURALCAMPUS_S
+ YNC_ID:6126778d176e7e71f4218c3493a19dc9\nURALCAMPUS_SOURCE:preco:teacher:
+ ebecd4e2-86ba-11ef-ad91-04421acb877d
+END:VEVENT
+END:VCALENDAR

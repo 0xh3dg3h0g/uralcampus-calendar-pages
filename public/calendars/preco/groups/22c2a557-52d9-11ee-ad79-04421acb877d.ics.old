@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-198
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:06d53f916b5955197e8deccedc0991e0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T090000
+DTEND;TZID=Asia/Yekaterinburg:20260930T103000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-198\nПара: 1 пара\nДополнительно: Р
+ ябикова Т.С.\nURALCAMPUS_SYNC_ID:06d53f916b5955197e8deccedc0991e
+ 0\nURALCAMPUS_SOURCE:preco:group:22c2a557-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c07a83e499a99019b20c74b5031f4a8f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T130000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-198\nПара: 3 пара\nДополнительно: Ш
+ ачин С.В.\nURALCAMPUS_SYNC_ID:c07a83e499a99019b20c74b5031f4a8f\nURA
+ LCAMPUS_SOURCE:preco:group:22c2a557-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dd05054ca92eb756eb3a928d8eecc71d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T105000
+DTEND;TZID=Asia/Yekaterinburg:20260930T122000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-198\nПара: 2 пара\nДополнительно: Р
+ ябикова Т.С.\nURALCAMPUS_SYNC_ID:dd05054ca92eb756eb3a928d8eecc71
+ d\nURALCAMPUS_SOURCE:preco:group:22c2a557-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -18,28 +18,41 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:33c00d533d0fb69b0b6af43943cc0818@uralcampus-calendar-pages
+UID:fdfa4eeddded988b623ab49578fc33cb@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T083000
-DTEND;TZID=Asia/Yekaterinburg:20260930T100000
-SUMMARY:Введение в специальность (Аудиторны
- е занятия)
-LOCATION:ауд. 2\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261001T083000
+DTEND;TZID=Asia/Yekaterinburg:20261001T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 1 пара\nДополнительно: Ко
- пытцев С.М.\nURALCAMPUS_SYNC_ID:33c00d533d0fb69b0b6af43943cc0818\
+ уппа: Б-164\nПара: 1 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:fdfa4eeddded988b623ab49578fc33cb\
  nURALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:70d270178774fddf033ab395a5183229@uralcampus-calendar-pages
+UID:1d0e8fab05577f657941f85768427106@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T101000
-DTEND;TZID=Asia/Yekaterinburg:20260930T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 4а\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261001T101000
+DTEND;TZID=Asia/Yekaterinburg:20261001T114000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 2 пара\nДополнительно: Ту
- куева Е.В.\nURALCAMPUS_SYNC_ID:70d270178774fddf033ab395a5183229\nU
- RALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
+ уппа: Б-164\nПара: 2 пара\nДополнительно: Ко
+ пытцев С.М.\nURALCAMPUS_SYNC_ID:1d0e8fab05577f657941f85768427106\
+ nURALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:185331f7b16b882cc5c7a38d1f14b01b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T120000
+DTEND;TZID=Asia/Yekaterinburg:20261001T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-164\nПара: 3 пара\nДополнительно: См
+ аков Л.М.\nURALCAMPUS_SYNC_ID:185331f7b16b882cc5c7a38d1f14b01b\nURA
+ LCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

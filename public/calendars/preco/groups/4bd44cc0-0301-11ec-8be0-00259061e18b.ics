@@ -18,43 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0cd49d3422f13a0955db8173ea67471a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T083000
-DTEND;TZID=Asia/Yekaterinburg:20260930T100000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 136к\nПара: 1 пара\nДополнительно: Кор
- балев И.А.\nURALCAMPUS_SYNC_ID:0cd49d3422f13a0955db8173ea67471a\nU
- RALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:5dbdb19caff7330297803ccc48eaca2b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T101000
-DTEND;TZID=Asia/Yekaterinburg:20260930T114000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 136к\nПара: 2 пара\nДополнительно: Фро
- лова К. М.\nURALCAMPUS_SYNC_ID:5dbdb19caff7330297803ccc48eaca2b\nUR
- ALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:1ca889fd9797777bf4e7e52d44f2b918@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T120000
-DTEND;TZID=Asia/Yekaterinburg:20260930T133000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 136к\nПара: 3 пара\nДополнительно: Стр
- унина Е.Ф.\nURALCAMPUS_SYNC_ID:1ca889fd9797777bf4e7e52d44f2b918\nU
- RALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:da2d3a3261af4e49a2d474d35dd39518@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
@@ -129,19 +92,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:352dcaf6932753e5bb5ddb26d179c7e3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T083000
-DTEND;TZID=Asia/Yekaterinburg:20261005T100000
-SUMMARY:Введение в специальность (Аудиторны
- е занятия)
-LOCATION:ауд. 410\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 136к\nПара: 1 пара\nДополнительно: Кар
- пеева Н.И.\nURALCAMPUS_SYNC_ID:352dcaf6932753e5bb5ddb26d179c7e3\nU
- RALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:4a7bc4f270e03d0bd96beaaebc03b23e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T101000
@@ -152,6 +102,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 136к\nПара: 2 пара\nДополнительно: Тим
  охин Е.А.\nURALCAMPUS_SYNC_ID:4a7bc4f270e03d0bd96beaaebc03b23e\nURA
  LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:3faaac10265fce01d5f3e39185075967@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T120000
+DTEND;TZID=Asia/Yekaterinburg:20261005T133000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 136к\nПара: 3 пара\nДополнительно: Пат
+ раков Н.И.\nURALCAMPUS_SYNC_ID:3faaac10265fce01d5f3e39185075967\nU
+ RALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:61f6aa8bad101cc5f4ef8117505ea677@uralcampus-calendar-pages
@@ -237,18 +199,6 @@ LOCATION:ауд. 422\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 136к\nПара: 3 пара\nДополнительно: Стр
  унина Е.Ф.\nURALCAMPUS_SYNC_ID:0ad0b63bedd50b23ae6783ba1a445020\nU
- RALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:64b503e463f0f4e4eb95d93d08838b53@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
-DTEND;TZID=Asia/Yekaterinburg:20261008T152000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 136к\nПара: 4 пара\nДополнительно: Пат
- раков Н.И.\nURALCAMPUS_SYNC_ID:64b503e463f0f4e4eb95d93d08838b53\nU
  RALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT

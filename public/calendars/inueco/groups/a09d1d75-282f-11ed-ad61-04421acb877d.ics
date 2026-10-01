@@ -18,45 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:04c3717fcc4dd746a95001a9e873808e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T171000
-DTEND;TZID=Asia/Yekaterinburg:20260930T182000
-SUMMARY:Теоретическая механика (Лекция)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗ-201\nПара: 6 пара\nДополнитель
- но: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:04c3717fcc4dd746a950
- 01a9e873808e\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:39a86c78ec7be1b74be150f6f5ce3322@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T183000
-DTEND;TZID=Asia/Yekaterinburg:20260930T194000
-SUMMARY:Теоретическая механика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗ-201\nПара: 7 пара\nДополнитель
- но: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:39a86c78ec7be1b74be1
- 50f6f5ce3322\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:78b18790b96ecc37ca68f30fd048f4bd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T195000
-DTEND;TZID=Asia/Yekaterinburg:20260930T205000
-SUMMARY:Теоретическая механика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗ-201\nПара: 8 пара\nДополнитель
- но: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:78b18790b96ecc37ca68
- f30fd048f4bd\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:bffec913b2dc8c8dd382a744c1c232bb@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T183000
@@ -81,5 +42,83 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  но: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:e74128332f29aabcec3e
  954fed6a2b99\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-0442
  1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8417e3c5c8e529b2f7575bb000a9c95b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T171000
+DTEND;TZID=Asia/Yekaterinburg:20261007T182000
+SUMMARY:Теоретическая механика (Лаб.)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201\nПара: 6 пара\nДополнитель
+ но: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:8417e3c5c8e529b2f757
+ 5bb000a9c95b\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:06754b6419e326fc43f959f46dc68255@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T183000
+DTEND;TZID=Asia/Yekaterinburg:20261007T194000
+SUMMARY:Теоретическая механика (Лаб.)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201\nПара: 7 пара\nДополнитель
+ но: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:06754b6419e326fc43f9
+ 59f46dc68255\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:361f043cc18a4656121ef23b40d5b026@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T195000
+DTEND;TZID=Asia/Yekaterinburg:20261007T205000
+SUMMARY:Теоретическая механика (Лаб.)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201\nПара: 8 пара\nДополнитель
+ но: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:361f043cc18a4656121e
+ f23b40d5b026\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ee2ad52cc886abc48f696d1769ba346f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T171000
+DTEND;TZID=Asia/Yekaterinburg:20261009T182000
+SUMMARY:Сопротивление материалов (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201\nПара: 6 пара\nДополнитель
+ но: Терещук С.В.\nURALCAMPUS_SYNC_ID:ee2ad52cc886abc48f696d176
+ 9ba346f\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:65acc5a611e6d11373251fd93829b2e9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T183000
+DTEND;TZID=Asia/Yekaterinburg:20261009T194000
+SUMMARY:Сопротивление материалов (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201\nПара: 7 пара\nДополнитель
+ но: Терещук С.В.\nURALCAMPUS_SYNC_ID:65acc5a611e6d11373251fd93
+ 829b2e9\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:adeab06606a6a5c0af4e957e2b7e81db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T195000
+DTEND;TZID=Asia/Yekaterinburg:20261009T205000
+SUMMARY:Сопротивление материалов (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201\nПара: 8 пара\nДополнитель
+ но: Терещук С.В.\nURALCAMPUS_SYNC_ID:adeab06606a6a5c0af4e957e2
+ b7e81db\nURALCAMPUS_SOURCE:inueco:group:a09d1d75-282f-11ed-ad61-04421acb8
+ 77d
 END:VEVENT
 END:VCALENDAR

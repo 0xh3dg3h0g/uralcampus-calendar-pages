@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-199
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:42d15602bc36cc6b6d446e38460895d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T163000
+DTEND;TZID=Asia/Yekaterinburg:20260930T180000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-199\nПара: 5 пара\nДополнительно: Ш
+ ачин С.В.\nURALCAMPUS_SYNC_ID:42d15602bc36cc6b6d446e38460895d2\nURA
+ LCAMPUS_SOURCE:preco:group:2e777357-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6ffc36c622b4e0aa1578398c1356ae04@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T181000
+DTEND;TZID=Asia/Yekaterinburg:20260930T194000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-199\nПара: 6 пара\nДополнительно: С
+ афронова А.А.\nURALCAMPUS_SYNC_ID:6ffc36c622b4e0aa1578398c1356a
+ e04\nURALCAMPUS_SOURCE:preco:group:2e777357-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b8a5f0f922a28b38a054830af06c8bd4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T130000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 211\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-199\nПара: 3 пара\nДополнительно: Ч
+ иркова О.И.\nURALCAMPUS_SYNC_ID:b8a5f0f922a28b38a054830af06c8bd4\
+ nURALCAMPUS_SOURCE:preco:group:2e777357-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc7ff3756caa2351f4766814a71b6df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T145000
+DTEND;TZID=Asia/Yekaterinburg:20260930T162000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-199\nПара: 4 пара\nДополнительно: Б
+ ортюк Л.А.\nURALCAMPUS_SYNC_ID:dcc7ff3756caa2351f4766814a71b6df\nU
+ RALCAMPUS_SOURCE:preco:group:2e777357-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+END:VCALENDAR

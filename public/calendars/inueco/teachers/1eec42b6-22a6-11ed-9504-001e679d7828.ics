@@ -19,51 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:746232618d80af35fc70598c055ae627@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T171000
-DTEND;TZID=Asia/Yekaterinburg:20260930T182000
-SUMMARY:Автоматизация бухгалтерского учета
- : 1С Бухгалтерия (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Маркина Юлия Валерьев
- на\nПара: 6 пара\nДополнительно: ЭЗ-401/02\, Э
- З-401/03\, ЭЗ-401/05\, ЭЗ-401/07б\, ЭЗ-401/09\, ЭЗ-401/13\, Э
- Зд-401\nURALCAMPUS_SYNC_ID:746232618d80af35fc70598c055ae627\nURALCAMPUS
- _SOURCE:inueco:teacher:1eec42b6-22a6-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:a31437413e07cd891b36cd7d961ae1ad@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T183000
-DTEND;TZID=Asia/Yekaterinburg:20260930T194000
-SUMMARY:Автоматизация бухгалтерского учета
- : 1С Бухгалтерия (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Маркина Юлия Валерьев
- на\nПара: 7 пара\nДополнительно: ЭЗ-401/02\, Э
- З-401/03\, ЭЗ-401/05\, ЭЗ-401/07б\, ЭЗ-401/09\, ЭЗ-401/13\, Э
- Зд-401\nURALCAMPUS_SYNC_ID:a31437413e07cd891b36cd7d961ae1ad\nURALCAMPUS
- _SOURCE:inueco:teacher:1eec42b6-22a6-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:ba0a7cc2a213f1e9091f1c6b4f01a1e3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T195000
-DTEND;TZID=Asia/Yekaterinburg:20260930T205000
-SUMMARY:Автоматизация бухгалтерского учета
- : 1С Бухгалтерия (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Маркина Юлия Валерьев
- на\nПара: 8 пара\nДополнительно: ЭЗ-401/02\, Э
- З-401/03\, ЭЗ-401/05\, ЭЗ-401/07б\, ЭЗ-401/09\, ЭЗ-401/13\, Э
- Зд-401\nURALCAMPUS_SYNC_ID:ba0a7cc2a213f1e9091f1c6b4f01a1e3\nURALCAMPUS
- _SOURCE:inueco:teacher:1eec42b6-22a6-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:5e8e441b244805033e6cd866b709160a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T171000
@@ -167,5 +122,57 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ЭЗ-301/12а\, ЭЗ-301/13\, ЭЗд-301\nURALCAMPUS_SYNC_ID:a7f2e00e7e64
  aac143edcc1981c2574f\nURALCAMPUS_SOURCE:inueco:teacher:1eec42b6-22a6-11ed
  -9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:dde1c24736751c1192739eee128af363@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T120000
+DTEND;TZID=Asia/Yekaterinburg:20261010T133000
+SUMMARY:Аудит (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Маркина Юлия Валерьев
+ на\nПара: 3 пара\nДополнительно: ЭБ-408\nURALCAM
+ PUS_SYNC_ID:dde1c24736751c1192739eee128af363\nURALCAMPUS_SOURCE:inueco:te
+ acher:1eec42b6-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:7db4dadd0e4438962b6dd9e10c00dad6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T134000
+DTEND;TZID=Asia/Yekaterinburg:20261010T151000
+SUMMARY:Аудит (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Маркина Юлия Валерьев
+ на\nПара: 4 пара\nДополнительно: ЭБ-408\nURALCAM
+ PUS_SYNC_ID:7db4dadd0e4438962b6dd9e10c00dad6\nURALCAMPUS_SOURCE:inueco:te
+ acher:1eec42b6-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:cfee1d92f53ef10b287b3f06a16f80c3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T152000
+DTEND;TZID=Asia/Yekaterinburg:20261010T165000
+SUMMARY:Аудит (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Маркина Юлия Валерьев
+ на\nПара: 5 пара\nДополнительно: ЭБ-408\nURALCAM
+ PUS_SYNC_ID:cfee1d92f53ef10b287b3f06a16f80c3\nURALCAMPUS_SOURCE:inueco:te
+ acher:1eec42b6-22a6-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:16145d6f8696361631593010f316c3f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T170000
+DTEND;TZID=Asia/Yekaterinburg:20261010T181000
+SUMMARY:Аудит (Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Маркина Юлия Валерьев
+ на\nПара: 6 пара\nДополнительно: ЭБ-408\nURALCAM
+ PUS_SYNC_ID:16145d6f8696361631593010f316c3f4\nURALCAMPUS_SOURCE:inueco:te
+ acher:1eec42b6-22a6-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

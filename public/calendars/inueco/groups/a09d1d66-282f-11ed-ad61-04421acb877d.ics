@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5dfebdfa10a0efa5316271ebe61292da@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T183000
-DTEND;TZID=Asia/Yekaterinburg:20260930T194000
-SUMMARY:Антикризисное управление (Лекция)
-LOCATION:ауд. 208\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: МЗу-401\nПара: 7 пара\nДополнител
- ьно: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:5dfebdfa10a0efa5316271e
- be61292da\nURALCAMPUS_SOURCE:inueco:group:a09d1d66-282f-11ed-ad61-04421ac
- b877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4aee554e77b77f234515dfbe58be48b5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T195000
-DTEND;TZID=Asia/Yekaterinburg:20260930T205000
-SUMMARY:Антикризисное управление (Практика)
-LOCATION:ауд. 208\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: МЗу-401\nПара: 8 пара\nДополнител
- ьно: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:4aee554e77b77f234515dfb
- e58be48b5\nURALCAMPUS_SOURCE:inueco:group:a09d1d66-282f-11ed-ad61-04421ac
- b877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c8daaa5c251bd7e38894f46f8d889feb@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T171000
@@ -80,6 +54,71 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: МЗу-401\nПара: 8 пара\nДополнител
  ьно: Лобанов В. С.\nURALCAMPUS_SYNC_ID:850d8b7f3bb3365e8ae080
  9944d25630\nURALCAMPUS_SOURCE:inueco:group:a09d1d66-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d3832bb0b93ee0501d544a7164b91426@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T183000
+DTEND;TZID=Asia/Yekaterinburg:20261007T194000
+SUMMARY:Антикризисное управление (Лекция)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-401\nПара: 7 пара\nДополнител
+ ьно: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:d3832bb0b93ee0501d544a7
+ 164b91426\nURALCAMPUS_SOURCE:inueco:group:a09d1d66-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:04fdfc20421d32a73eba67ebb9dd0397@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T195000
+DTEND;TZID=Asia/Yekaterinburg:20261007T205000
+SUMMARY:Антикризисное управление (Практика)
+LOCATION:ауд. 401\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-401\nПара: 8 пара\nДополнител
+ ьно: Кожушко Е.А.\nURALCAMPUS_SYNC_ID:04fdfc20421d32a73eba67e
+ bb9dd0397\nURALCAMPUS_SOURCE:inueco:group:a09d1d66-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7b4546c489e833f89ae687428f7cc8ba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T171000
+DTEND;TZID=Asia/Yekaterinburg:20261009T182000
+SUMMARY:Реинжиниринг бизнеса (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-401\nПара: 6 пара\nДополнител
+ ьно: Лобанов В. С.\nURALCAMPUS_SYNC_ID:7b4546c489e833f89ae687
+ 428f7cc8ba\nURALCAMPUS_SOURCE:inueco:group:a09d1d66-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1a06e84ebba55e4444e48f0ee49e0c00@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T183000
+DTEND;TZID=Asia/Yekaterinburg:20261009T194000
+SUMMARY:Реинжиниринг бизнеса (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-401\nПара: 7 пара\nДополнител
+ ьно: Лобанов В. С.\nURALCAMPUS_SYNC_ID:1a06e84ebba55e4444e48f
+ 0ee49e0c00\nURALCAMPUS_SOURCE:inueco:group:a09d1d66-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0fe164b032ff38ae1437a44a0e77b0b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T195000
+DTEND;TZID=Asia/Yekaterinburg:20261009T205000
+SUMMARY:Реинжиниринг бизнеса (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-401\nПара: 8 пара\nДополнител
+ ьно: Лобанов В. С.\nURALCAMPUS_SYNC_ID:0fe164b032ff38ae1437a4
+ 4a0e77b0b7\nURALCAMPUS_SOURCE:inueco:group:a09d1d66-282f-11ed-ad61-04421a
  cb877d
 END:VEVENT
 END:VCALENDAR

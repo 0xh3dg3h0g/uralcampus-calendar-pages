@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПД-398
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0250af13944156a370fff541ab4341e1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T130000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 402\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-398\nПара: 3 пара\nДополнительно: Е
+ рина А.Н.\nURALCAMPUS_SYNC_ID:0250af13944156a370fff541ab4341e1\nURA
+ LCAMPUS_SOURCE:preco:group:817cfeec-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:45028b187c58b629f2af59807870a5ea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T145000
+DTEND;TZID=Asia/Yekaterinburg:20260930T162000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 402\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-398\nПара: 4 пара\nДополнительно: Е
+ рина А.Н.\nURALCAMPUS_SYNC_ID:45028b187c58b629f2af59807870a5ea\nURA
+ LCAMPUS_SOURCE:preco:group:817cfeec-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+END:VCALENDAR

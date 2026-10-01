@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ef1cb66e4bd7860fad662009a6dca200@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T090000
-DTEND;TZID=Asia/Yekaterinburg:20260930T103000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 43\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Олег Петрович\nПар
- а: 1 пара\nДополнительно: ПД-196\nURALCAMPUS_SYNC_ID:
- ef1cb66e4bd7860fad662009a6dca200\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
- 7-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:018841fc3e6230bb40672579e3327a87@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T105000
-DTEND;TZID=Asia/Yekaterinburg:20260930T122000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 43\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Олег Петрович\nПар
- а: 2 пара\nДополнительно: ПД-196\nURALCAMPUS_SYNC_ID:
- 018841fc3e6230bb40672579e3327a87\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
- 7-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:70f2b8bea58a7fabeb187abf1f8768e2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T105000
@@ -118,20 +92,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:b1c49f37-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:df851a2668f0cb40cfb504d40e7663bf@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T163000
-DTEND;TZID=Asia/Yekaterinburg:20261001T180000
-SUMMARY:Информационные системы правоохрани
- тельных органов (Аудиторные занятия)
-LOCATION:ауд. 305\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Олег Петрович\nПар
- а: 5 пара\nДополнительно: ПД-398\nURALCAMPUS_SYNC_ID:
- df851a2668f0cb40cfb504d40e7663bf\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
- 7-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:046ee98616c3ec044f8d7d4c7517be22@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T163000
@@ -146,17 +106,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  7-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:27681512afad6d593fa44046fbf14f68@uralcampus-calendar-pages
+UID:df851a2668f0cb40cfb504d40e7663bf@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T181000
-DTEND;TZID=Asia/Yekaterinburg:20261001T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261001T163000
+DTEND;TZID=Asia/Yekaterinburg:20261001T180000
 SUMMARY:Информационные системы правоохрани
  тельных органов (Аудиторные занятия)
-LOCATION:ауд. 304\, Полярной-Правды 8\, Мурманск
+LOCATION:ауд. 305\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Тимохин Олег Петрович\nПар
- а: 6 пара\nДополнительно: ПД-399\nURALCAMPUS_SYNC_ID:
- 27681512afad6d593fa44046fbf14f68\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
+ а: 5 пара\nДополнительно: ПД-398\nURALCAMPUS_SYNC_ID:
+ df851a2668f0cb40cfb504d40e7663bf\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
  7-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -171,6 +131,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Тимохин Олег Петрович\nПар
  а: 6 пара\nДополнительно: ПД-398\nURALCAMPUS_SYNC_ID:
  1ce7a867f7987218088bc4da4f5b7210\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
+ 7-52c3-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:27681512afad6d593fa44046fbf14f68@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T181000
+DTEND;TZID=Asia/Yekaterinburg:20261001T194000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 304\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Олег Петрович\nПар
+ а: 6 пара\nДополнительно: ПД-399\nURALCAMPUS_SYNC_ID:
+ 27681512afad6d593fa44046fbf14f68\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
  7-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

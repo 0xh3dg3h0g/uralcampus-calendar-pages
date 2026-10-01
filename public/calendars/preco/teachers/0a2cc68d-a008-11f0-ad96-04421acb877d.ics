@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ae6852e9c859fb248758bcae690c51e9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T130000
-DTEND;TZID=Asia/Yekaterinburg:20260930T143000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 105\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 3 пара\nДополнительно: ПД-297\nURALCAM
- PUS_SYNC_ID:ae6852e9c859fb248758bcae690c51e9\nURALCAMPUS_SOURCE:preco:tea
- cher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:94559b7895f26115ef6d3680bfbfbecf@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T145000
-DTEND;TZID=Asia/Yekaterinburg:20260930T162000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 105\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 4 пара\nДополнительно: ПД-297\nURALCAM
- PUS_SYNC_ID:94559b7895f26115ef6d3680bfbfbecf\nURALCAMPUS_SOURCE:preco:tea
- cher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:aa5ec4e50be0c836ba79398d9b60b5c8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T090000
@@ -369,20 +341,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  cher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:1d06c2fa64783ae1f111303913f81a34@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T130000
-DTEND;TZID=Asia/Yekaterinburg:20261009T143000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 3 пара\nДополнительно: ПД-299\nURALCAM
- PUS_SYNC_ID:1d06c2fa64783ae1f111303913f81a34\nURALCAMPUS_SOURCE:preco:tea
- cher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:8bcb5f3ee80b2af59c6c9cf06e5848ba@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T130000
@@ -397,17 +355,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  cher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:747252ef4549688db47fd28d098c0e91@uralcampus-calendar-pages
+UID:1d06c2fa64783ae1f111303913f81a34@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T145000
-DTEND;TZID=Asia/Yekaterinburg:20261009T162000
+DTSTART;TZID=Asia/Yekaterinburg:20261009T130000
+DTEND;TZID=Asia/Yekaterinburg:20261009T143000
 SUMMARY:Конституционное право России (Аудит
  орные занятия)
 LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Насретдинова Алия Рафиков
- на\nПара: 4 пара\nДополнительно: ПД-298\nURALCAM
- PUS_SYNC_ID:747252ef4549688db47fd28d098c0e91\nURALCAMPUS_SOURCE:preco:tea
+ на\nПара: 3 пара\nДополнительно: ПД-299\nURALCAM
+ PUS_SYNC_ID:1d06c2fa64783ae1f111303913f81a34\nURALCAMPUS_SOURCE:preco:tea
  cher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -422,6 +380,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Насретдинова Алия Рафиков
  на\nПара: 4 пара\nДополнительно: ПД-299\nURALCAM
  PUS_SYNC_ID:da3fa934f5e23758ea870fdb235e589e\nURALCAMPUS_SOURCE:preco:tea
+ cher:0a2cc68d-a008-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:747252ef4549688db47fd28d098c0e91@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T145000
+DTEND;TZID=Asia/Yekaterinburg:20261009T162000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Насретдинова Алия Рафиков
+ на\nПара: 4 пара\nДополнительно: ПД-298\nURALCAM
+ PUS_SYNC_ID:747252ef4549688db47fd28d098c0e91\nURALCAMPUS_SOURCE:preco:tea
  cher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

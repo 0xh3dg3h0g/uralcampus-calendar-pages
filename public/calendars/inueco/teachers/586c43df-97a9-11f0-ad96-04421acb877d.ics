@@ -19,31 +19,59 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b0b00d26ed9e7a5807e9183bf120b519@uralcampus-calendar-pages
+UID:acee56f6cff816c6adbce2a5d9985df5@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T153000
-DTEND;TZID=Asia/Yekaterinburg:20260930T170000
+DTSTART;TZID=Asia/Yekaterinburg:20261007T153000
+DTEND;TZID=Asia/Yekaterinburg:20261007T170000
 SUMMARY:Начертательная геометрия для архит
  ектора (Лекция)
 LOCATION:ауд. 108\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Сомова Наталья Михайл
  овна\nПара: 5 пара\nДополнительно: А-210\nURALC
- AMPUS_SYNC_ID:b0b00d26ed9e7a5807e9183bf120b519\nURALCAMPUS_SOURCE:inueco:
+ AMPUS_SYNC_ID:acee56f6cff816c6adbce2a5d9985df5\nURALCAMPUS_SOURCE:inueco:
  teacher:586c43df-97a9-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:275754533b1366c1d284b546aa2e9219@uralcampus-calendar-pages
+UID:8e9ccda6ba687f53741da9a3c8eb57a2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T171000
-DTEND;TZID=Asia/Yekaterinburg:20260930T182000
+DTSTART;TZID=Asia/Yekaterinburg:20261007T171000
+DTEND;TZID=Asia/Yekaterinburg:20261007T182000
 SUMMARY:Начертательная геометрия для архит
- ектора (Практика)
+ ектора (Лекция)
 LOCATION:ауд. 108\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Сомова Наталья Михайл
  овна\nПара: 6 пара\nДополнительно: А-210\nURALC
- AMPUS_SYNC_ID:275754533b1366c1d284b546aa2e9219\nURALCAMPUS_SOURCE:inueco:
+ AMPUS_SYNC_ID:8e9ccda6ba687f53741da9a3c8eb57a2\nURALCAMPUS_SOURCE:inueco:
  teacher:586c43df-97a9-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5e207cee9fddd0c0298878071562ae6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T183000
+DTEND;TZID=Asia/Yekaterinburg:20261007T194000
+SUMMARY:Начертательная геометрия для архит
+ ектора (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сомова Наталья Михайл
+ овна\nПара: 7 пара\nДополнительно: АЗ-201\nURA
+ LCAMPUS_SYNC_ID:5e207cee9fddd0c0298878071562ae6b\nURALCAMPUS_SOURCE:inuec
+ o:teacher:586c43df-97a9-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4b34f6dc1ab64768c1cc544333b31f81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T195000
+DTEND;TZID=Asia/Yekaterinburg:20261007T205000
+SUMMARY:Начертательная геометрия для архит
+ ектора (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Сомова Наталья Михайл
+ овна\nПара: 8 пара\nДополнительно: АЗ-201\nURA
+ LCAMPUS_SYNC_ID:4b34f6dc1ab64768c1cc544333b31f81\nURALCAMPUS_SOURCE:inuec
+ o:teacher:586c43df-97a9-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

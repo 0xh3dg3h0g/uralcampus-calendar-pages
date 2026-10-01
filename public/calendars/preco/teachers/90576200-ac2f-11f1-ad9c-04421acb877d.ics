@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:69ab96b3d4cbddf5687959f218faf6b1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T090000
-DTEND;TZID=Asia/Yekaterinburg:20260930T103000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 105\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ерина Анна Николаевна\nПар
- а: 1 пара\nДополнительно: Ю-186\nURALCAMPUS_SYNC_ID:69
- ab96b3d4cbddf5687959f218faf6b1\nURALCAMPUS_SOURCE:preco:teacher:90576200-
- ac2f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:275891bbcf12f2f2465e75756893593e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T105000
-DTEND;TZID=Asia/Yekaterinburg:20260930T122000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 211\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ерина Анна Николаевна\nПар
- а: 2 пара\nДополнительно: ПД-297\nURALCAMPUS_SYNC_ID:
- 275891bbcf12f2f2465e75756893593e\nURALCAMPUS_SOURCE:preco:teacher:9057620
- 0-ac2f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7b237bceb8e58addb42a219789afafbc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T130000
-DTEND;TZID=Asia/Yekaterinburg:20260930T143000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 402\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ерина Анна Николаевна\nПар
- а: 3 пара\nДополнительно: ПД-398\nURALCAMPUS_SYNC_ID:
- 7b237bceb8e58addb42a219789afafbc\nURALCAMPUS_SOURCE:preco:teacher:9057620
- 0-ac2f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9e464982bb979eff8ade25f40cec3072@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T145000
-DTEND;TZID=Asia/Yekaterinburg:20260930T162000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 402\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ерина Анна Николаевна\nПар
- а: 4 пара\nДополнительно: ПД-398\nURALCAMPUS_SYNC_ID:
- 9e464982bb979eff8ade25f40cec3072\nURALCAMPUS_SOURCE:preco:teacher:9057620
- 0-ac2f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c0f05d119d050a3d85d8e49467dd272d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T090000
@@ -131,20 +75,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  0-ac2f-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:71af053616a5b96c78ab6d80ad8cdbe5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T130000
-DTEND;TZID=Asia/Yekaterinburg:20261005T143000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ерина Анна Николаевна\nПар
- а: 3 пара\nДополнительно: ПД-299\nURALCAMPUS_SYNC_ID:
- 71af053616a5b96c78ab6d80ad8cdbe5\nURALCAMPUS_SOURCE:preco:teacher:9057620
- 0-ac2f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:a20e2fcb842cdd8bd47cfd9ed0d1b189@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T130000
@@ -156,6 +86,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ерина Анна Николаевна\nПар
  а: 3 пара\nДополнительно: ПД-298\nURALCAMPUS_SYNC_ID:
  a20e2fcb842cdd8bd47cfd9ed0d1b189\nURALCAMPUS_SOURCE:preco:teacher:9057620
+ 0-ac2f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:71af053616a5b96c78ab6d80ad8cdbe5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T130000
+DTEND;TZID=Asia/Yekaterinburg:20261005T143000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Анна Николаевна\nПар
+ а: 3 пара\nДополнительно: ПД-299\nURALCAMPUS_SYNC_ID:
+ 71af053616a5b96c78ab6d80ad8cdbe5\nURALCAMPUS_SOURCE:preco:teacher:9057620
  0-ac2f-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -201,20 +145,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:90576200-ac2f-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:0858d4fe328d7ea1bfbf0dabcf996ca7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T105000
-DTEND;TZID=Asia/Yekaterinburg:20261006T122000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ерина Анна Николаевна\nПар
- а: 2 пара\nДополнительно: ПД-299\nURALCAMPUS_SYNC_ID:
- 0858d4fe328d7ea1bfbf0dabcf996ca7\nURALCAMPUS_SOURCE:preco:teacher:9057620
- 0-ac2f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:87f1422f8634e35944510fbc10671ef9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T105000
@@ -226,6 +156,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ерина Анна Николаевна\nПар
  а: 2 пара\nДополнительно: ПД-298\nURALCAMPUS_SYNC_ID:
  87f1422f8634e35944510fbc10671ef9\nURALCAMPUS_SOURCE:preco:teacher:9057620
+ 0-ac2f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0858d4fe328d7ea1bfbf0dabcf996ca7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T105000
+DTEND;TZID=Asia/Yekaterinburg:20261006T122000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Анна Николаевна\nПар
+ а: 2 пара\nДополнительно: ПД-299\nURALCAMPUS_SYNC_ID:
+ 0858d4fe328d7ea1bfbf0dabcf996ca7\nURALCAMPUS_SOURCE:preco:teacher:9057620
  0-ac2f-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

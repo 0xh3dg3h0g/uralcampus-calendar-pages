@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Ю-287\, Ю-286А
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0f184963b7749777d5a0a0e657af7f98@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T130000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-287\, Ю-286А\nПара: 3 пара\nДополнитель
+ но: Таманская Л.Л.\nURALCAMPUS_SYNC_ID:0f184963b7749777d5a0a
+ 0e657af7f98\nURALCAMPUS_SOURCE:preco:group:ae6fbf74-ac2a-11f1-ad9c-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6b29afb7e161192dd6f8b1c896d96e0f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T163000
+DTEND;TZID=Asia/Yekaterinburg:20260930T180000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-287\, Ю-286А\nПара: 5 пара\nДополнитель
+ но: Чиркова О.И.\nURALCAMPUS_SYNC_ID:6b29afb7e161192dd6f8b1c89
+ 6d96e0f\nURALCAMPUS_SOURCE:preco:group:ae6fbf74-ac2a-11f1-ad9c-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:90d32301f2ae564657b7ddb2169f7b48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T145000
+DTEND;TZID=Asia/Yekaterinburg:20260930T162000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-287\, Ю-286А\nПара: 4 пара\nДополнитель
+ но: Чиркова О.И.\nURALCAMPUS_SYNC_ID:90d32301f2ae564657b7ddb21
+ 69f7b48\nURALCAMPUS_SOURCE:preco:group:ae6fbf74-ac2a-11f1-ad9c-04421acb87
+ 7d
+END:VEVENT
+END:VCALENDAR

@@ -18,55 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:29ce39864d4d4c7a9febd797a24cf0cd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T083000
-DTEND;TZID=Asia/Yekaterinburg:20260930T100000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 139к\nПара: 1 пара\nДополнительно: Нов
- окрещенов Д.В.\nURALCAMPUS_SYNC_ID:29ce39864d4d4c7a9febd797a24
- cf0cd\nURALCAMPUS_SOURCE:preco:group:5e1be3c3-25ba-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ad59bd29ad3a620d051c261a9266c132@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T101000
-DTEND;TZID=Asia/Yekaterinburg:20260930T114000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 139к\nПара: 2 пара\nДополнительно: Стр
- унина Е.Ф.\nURALCAMPUS_SYNC_ID:ad59bd29ad3a620d051c261a9266c132\nU
- RALCAMPUS_SOURCE:preco:group:5e1be3c3-25ba-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:48c751a928a82d381064f56fbd9e879b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T120000
-DTEND;TZID=Asia/Yekaterinburg:20260930T133000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 139к\nПара: 3 пара\nДополнительно: Кор
- остина Е.А.\nURALCAMPUS_SYNC_ID:48c751a928a82d381064f56fbd9e879b\
- nURALCAMPUS_SOURCE:preco:group:5e1be3c3-25ba-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:abb41bb53a70ff2d5146ba07678e8326@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20260930T135000
-DTEND;TZID=Asia/Yekaterinburg:20260930T152000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 139к\nПара: 4 пара\nДополнительно: Кор
- балев И.А.\nURALCAMPUS_SYNC_ID:abb41bb53a70ff2d5146ba07678e8326\nU
- RALCAMPUS_SOURCE:preco:group:5e1be3c3-25ba-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:7599f1843871071ec7d99fceec74341e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261001T083000
@@ -152,18 +103,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 139к\nПара: 2 пара\nДополнительно: Тют
  ин А.А.\nURALCAMPUS_SYNC_ID:2a405ff42a92b2e09f148554c2efa186\nURALCAM
  PUS_SOURCE:preco:group:5e1be3c3-25ba-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:6b0e7cfe1a180cffa541ed515ccba54e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T120000
-DTEND;TZID=Asia/Yekaterinburg:20261005T133000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 139к\nПара: 3 пара\nДополнительно: Пат
- раков Н.И.\nURALCAMPUS_SYNC_ID:6b0e7cfe1a180cffa541ed515ccba54e\nU
- RALCAMPUS_SOURCE:preco:group:5e1be3c3-25ba-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:2c18bd16294b762e3e4ae78d8bbb16c9@uralcampus-calendar-pages
@@ -286,6 +225,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 139к\nПара: 3 пара\nДополнительно: Тим
  охин Е.А.\nURALCAMPUS_SYNC_ID:a7d503531ba48b4252731f7ca610ade2\nURA
  LCAMPUS_SOURCE:preco:group:5e1be3c3-25ba-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:905afeab6063a3a86e5ca8e42a21a505@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
+DTEND;TZID=Asia/Yekaterinburg:20261008T152000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 139к\nПара: 4 пара\nДополнительно: Пат
+ раков Н.И.\nURALCAMPUS_SYNC_ID:905afeab6063a3a86e5ca8e42a21a505\nU
+ RALCAMPUS_SOURCE:preco:group:5e1be3c3-25ba-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:ce462ea9081ae4a0485af5d69041fafc@uralcampus-calendar-pages

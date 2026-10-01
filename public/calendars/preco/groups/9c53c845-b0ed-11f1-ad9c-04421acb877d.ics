@@ -17,4 +17,56 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:d1652ef10e839a53e08bea3103c60797@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T083000
+DTEND;TZID=Asia/Yekaterinburg:20261001T100000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 8\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270ю\nПара: 1 пара\nДополнительно: Д
+ егтярева Д.О.\nURALCAMPUS_SYNC_ID:d1652ef10e839a53e08bea3103c60
+ 797\nURALCAMPUS_SOURCE:preco:group:9c53c845-b0ed-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8be473d834300a43cbabea4ce547530a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T101000
+DTEND;TZID=Asia/Yekaterinburg:20261001T114000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 16\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270ю\nПара: 2 пара\nДополнительно: Н
+ осенко И.М.\nURALCAMPUS_SYNC_ID:8be473d834300a43cbabea4ce547530a\
+ nURALCAMPUS_SOURCE:preco:group:9c53c845-b0ed-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6c175a3bd5915bd4ed1e0454f21c63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T101000
+DTEND;TZID=Asia/Yekaterinburg:20261002T114000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 8\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270ю\nПара: 2 пара\nДополнительно: Д
+ еева М.А.\nURALCAMPUS_SYNC_ID:4c6c175a3bd5915bd4ed1e0454f21c63\nURA
+ LCAMPUS_SOURCE:preco:group:9c53c845-b0ed-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:82faa71263aa26e38f6ba57a1018beb0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T120000
+DTEND;TZID=Asia/Yekaterinburg:20261002T133000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 8\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270ю\nПара: 3 пара\nДополнительно: Н
+ осенко И.М.\nURALCAMPUS_SYNC_ID:82faa71263aa26e38f6ba57a1018beb0\
+ nURALCAMPUS_SOURCE:preco:group:9c53c845-b0ed-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

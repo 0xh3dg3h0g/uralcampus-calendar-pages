@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Захаров Але
+ ксандр Викторович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:008f80500fbb1a22d5bbcc54a8aa73df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T145000
+DTEND;TZID=Asia/Yekaterinburg:20260930T162000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал 1\, Полярной-Правды 8\, М
+ урманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Захаров Александр Викторо
+ вич\nПара: 4 пара\nДополнительно: ПД-298\nURALC
+ AMPUS_SYNC_ID:008f80500fbb1a22d5bbcc54a8aa73df\nURALCAMPUS_SOURCE:preco:t
+ eacher:6644f5e5-ac2f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5d4252f3f781bf4e45f27766a81f5d5b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T145000
+DTEND;TZID=Asia/Yekaterinburg:20260930T162000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал 1\, Полярной-Правды 8\, М
+ урманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Захаров Александр Викторо
+ вич\nПара: 4 пара\nДополнительно: ПД-299\nURALC
+ AMPUS_SYNC_ID:5d4252f3f781bf4e45f27766a81f5d5b\nURALCAMPUS_SOURCE:preco:t
+ eacher:6644f5e5-ac2f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:695d7293a9f5b9f9f3205be43ecc3a88@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20260930T130000
+DTEND;TZID=Asia/Yekaterinburg:20260930T143000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал 2\, Полярной-Правды 8\, М
+ урманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Захаров Александр Викторо
+ вич\nПара: 3 пара\nДополнительно: Ю-186\nURALCAM
+ PUS_SYNC_ID:695d7293a9f5b9f9f3205be43ecc3a88\nURALCAMPUS_SOURCE:preco:tea
+ cher:6644f5e5-ac2f-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR
