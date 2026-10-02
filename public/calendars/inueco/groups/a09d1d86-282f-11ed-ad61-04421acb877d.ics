@@ -18,45 +18,84 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1ec7f344f5abea81ce5461a915d849cd@uralcampus-calendar-pages
+UID:6ce5c748607b3bbed239c65263fe3be9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T171000
-DTEND;TZID=Asia/Yekaterinburg:20261001T182000
+DTSTART;TZID=Asia/Yekaterinburg:20261006T171000
+DTEND;TZID=Asia/Yekaterinburg:20261006T182000
+SUMMARY:Строительная механика (Лаб.)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/03\nПара: 6 пара\nДополните
+ льно: Дегтярева Н.В.\nURALCAMPUS_SYNC_ID:6ce5c748607b3bbed
+ 239c65263fe3be9\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:961c7973f47ae2b0d138b6f970aa9fba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T183000
+DTEND;TZID=Asia/Yekaterinburg:20261006T194000
+SUMMARY:Строительная механика (Лаб.)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/03\nПара: 7 пара\nДополните
+ льно: Дегтярева Н.В.\nURALCAMPUS_SYNC_ID:961c7973f47ae2b0d
+ 138b6f970aa9fba\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ec189a8a6a5c76d72b4b037b0fe42186@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T195000
+DTEND;TZID=Asia/Yekaterinburg:20261006T205000
+SUMMARY:Строительная механика (Лаб.)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/03\nПара: 8 пара\nДополните
+ льно: Дегтярева Н.В.\nURALCAMPUS_SYNC_ID:ec189a8a6a5c76d72
+ b4b037b0fe42186\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34921cacf31be07bd0a001a13b0f1480@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T171000
+DTEND;TZID=Asia/Yekaterinburg:20261008T182000
 SUMMARY:Технологии строительных процессов (
  Лекция)
 LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: СЗ-301/03\nПара: 6 пара\nДополните
- льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:1ec7f344f5abea81ce5461a
- 915d849cd\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-04421ac
+ льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:34921cacf31be07bd0a001a
+ 13b0f1480\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-04421ac
  b877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b49e9eda4a346619c3945306ac21dbab@uralcampus-calendar-pages
+UID:d48fb1f2cc376c6615081bb381e909e6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T183000
-DTEND;TZID=Asia/Yekaterinburg:20261001T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261008T183000
+DTEND;TZID=Asia/Yekaterinburg:20261008T194000
 SUMMARY:Технологии строительных процессов (
  Лекция)
 LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: СЗ-301/03\nПара: 7 пара\nДополните
- льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:b49e9eda4a346619c394530
- 6ac21dbab\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-04421ac
+ льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:d48fb1f2cc376c6615081bb
+ 381e909e6\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-04421ac
  b877d
 END:VEVENT
 BEGIN:VEVENT
-UID:655ea8cffd19e7480073b7c3fc391405@uralcampus-calendar-pages
+UID:0eafb9a9f098ad5d56d38a020e866f00@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T195000
-DTEND;TZID=Asia/Yekaterinburg:20261001T205000
+DTSTART;TZID=Asia/Yekaterinburg:20261008T195000
+DTEND;TZID=Asia/Yekaterinburg:20261008T205000
 SUMMARY:Технологии строительных процессов (
  Практика)
 LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: СЗ-301/03\nПара: 8 пара\nДополните
- льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:655ea8cffd19e7480073b7c
- 3fc391405\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-04421ac
+ льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:0eafb9a9f098ad5d56d38a0
+ 20e866f00\nURALCAMPUS_SOURCE:inueco:group:a09d1d86-282f-11ed-ad61-04421ac
  b877d
 END:VEVENT
 END:VCALENDAR

@@ -18,51 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5c3a2c00b35cc92bf1249cca3c55da7e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T101000
-DTEND;TZID=Asia/Yekaterinburg:20261001T114000
-SUMMARY:Товароведение и экспертиза в таможе
- нном деле (продовольственные и непродов
- ольственные товары) (Лекция)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-206\nПара: 2 пара\nДополнитель
- но: Салахова Е.А.\nURALCAMPUS_SYNC_ID:5c3a2c00b35cc92bf1249cc
- a3c55da7e\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
- b877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e040c38ca88ab4f473069d89147907fa@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T120000
-DTEND;TZID=Asia/Yekaterinburg:20261001T133000
-SUMMARY:Товароведение и экспертиза в таможе
- нном деле (продовольственные и непродов
- ольственные товары) (Лекция)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-206\nПара: 3 пара\nДополнитель
- но: Салахова Е.А.\nURALCAMPUS_SYNC_ID:e040c38ca88ab4f473069d8
- 9147907fa\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
- b877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5160dec1eda090174bd62ea01ec7910c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
-DTEND;TZID=Asia/Yekaterinburg:20261001T152000
-SUMMARY:Товароведение и экспертиза в таможе
- нном деле (продовольственные и непродов
- ольственные товары) (Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-206\nПара: 4 пара\nДополнитель
- но: Салахова Е.А.\nURALCAMPUS_SYNC_ID:5160dec1eda090174bd62ea
- 01ec7910c\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421ac
- b877d
-END:VEVENT
-BEGIN:VEVENT
 UID:cf00689341b7d85ce71e1d9b9e64f0eb@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T083000
@@ -170,6 +125,20 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ТД-206\nПара: 4 пара\nДополнитель
  но: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:425c1607a5593ebf7ec9d7
  da70f9e7fe\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:63c20f9a9fa47eb3c21b0ed99fc63dcd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T153000
+DTEND;TZID=Asia/Yekaterinburg:20261005T170000
+SUMMARY:Оздоровительная рекреационная двиг
+ ательная активность (Практика)
+LOCATION:ауд. 504\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-206\nПара: 5 пара\nДополнитель
+ но: Васильев С. А.\nURALCAMPUS_SYNC_ID:63c20f9a9fa47eb3c21b0e
+ d99fc63dcd\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421a
  cb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -336,19 +305,5 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  но: Сенчихина И.А.\nURALCAMPUS_SYNC_ID:dd4f21b89b215f05c5d28
  8c3a48e85d1\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421
  acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:167009cf91571e2c56dc64601146d61c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261010T152000
-DTEND;TZID=Asia/Yekaterinburg:20261010T165000
-SUMMARY:Оздоровительная рекреационная двиг
- ательная активность (Практика)
-LOCATION:ауд. 504\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-206\nПара: 5 пара\nДополнитель
- но: Васильев С. А.\nURALCAMPUS_SYNC_ID:167009cf91571e2c56dc64
- 601146d61c\nURALCAMPUS_SOURCE:inueco:group:a09d1dc4-282f-11ed-ad61-04421a
- cb877d
 END:VEVENT
 END:VCALENDAR

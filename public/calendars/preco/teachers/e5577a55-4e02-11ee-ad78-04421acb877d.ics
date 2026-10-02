@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2926de7016e817daf4bef5af0b48abab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T083000
+DTEND;TZID=Asia/Yekaterinburg:20261002T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 1 пара\nДополнительно: Ф-162\nURALCAMPUS_
+ SYNC_ID:2926de7016e817daf4bef5af0b48abab\nURALCAMPUS_SOURCE:preco:teacher
+ :e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2522e2e0c0e2b5b2fda29001738a4893@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T101000
+DTEND;TZID=Asia/Yekaterinburg:20261002T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 2 пара\nДополнительно: П-170\nURALCAMPUS_
+ SYNC_ID:2522e2e0c0e2b5b2fda29001738a4893\nURALCAMPUS_SOURCE:preco:teacher
+ :e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

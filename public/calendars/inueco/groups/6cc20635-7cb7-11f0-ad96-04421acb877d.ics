@@ -18,33 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:56f6834030a438e21c81212853bd920f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T120000
-DTEND;TZID=Asia/Yekaterinburg:20261001T133000
-SUMMARY:История России (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-112\nПара: 3 пара\nДополнител
- ьно: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:56f6834030a438e21c8
- 1212853bd920f\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-044
- 21acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e6678f0b53ebdf75e8aaf607e0faf196@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T135000
-DTEND;TZID=Asia/Yekaterinburg:20261001T152000
-SUMMARY:Основы российской государственност
- и (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-112\nПара: 4 пара\nДополнител
- ьно: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:e6678f0b53ebdf75e8a
- af607e0faf196\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-044
- 21acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:dda81eeac552d3f97da25228545f7640@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T083000
@@ -84,19 +57,6 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ьно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:86f8fcf714d222544
  4543a23d841d85f\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-0
  4421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:86198fad42095b7fd4661dd57237fd3b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T101000
-DTEND;TZID=Asia/Yekaterinburg:20261005T114000
-SUMMARY:Иностранный язык (Практика)
-LOCATION:ауд. 217\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-112\nПара: 2 пара\nДополнител
- ьно: Денисова И. В.\nURALCAMPUS_SYNC_ID:86198fad42095b7fd466
- 1dd57237fd3b\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-0442
- 1acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:b37dde2526df2554f97fe24714bc7877@uralcampus-calendar-pages
@@ -217,6 +177,32 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ьно: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:ed3d6df6fb4f8dee76b
  63d8f32a1d864\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-044
  21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:22e93f4975ffd2d71ae87117732c098b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T120000
+DTEND;TZID=Asia/Yekaterinburg:20261010T133000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-112\nПара: 3 пара\nДополнител
+ ьно: Денисова И. В.\nURALCAMPUS_SYNC_ID:22e93f4975ffd2d71ae8
+ 7117732c098b\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b7cbd3c835ffa9e8a8ab9a57966951@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T134000
+DTEND;TZID=Asia/Yekaterinburg:20261010T151000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-112\nПара: 4 пара\nДополнител
+ ьно: Денисова И. В.\nURALCAMPUS_SYNC_ID:c1b7cbd3c835ffa9e8a8
+ ab9a57966951\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-0442
+ 1acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:9fbf7b50ed3dfbcfd20553a421464d8c@uralcampus-calendar-pages

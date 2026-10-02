@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3d8ac3d83a0bd2379fea81c1e26714ed@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T183000
-DTEND;TZID=Asia/Yekaterinburg:20261001T194000
-SUMMARY:Химия (Лаб.)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗу-201/05\nПара: 7 пара\nДополнит
- ельно: Батовская Е. К.\nURALCAMPUS_SYNC_ID:3d8ac3d83a0bd2
- 379fea81c1e26714ed\nURALCAMPUS_SOURCE:inueco:group:a09d1dab-282f-11ed-ad6
- 1-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:377257bb12fb424f7c42cc83d974cdde@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T195000
-DTEND;TZID=Asia/Yekaterinburg:20261001T205000
-SUMMARY:Химия (Лаб.)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗу-201/05\nПара: 8 пара\nДополнит
- ельно: Батовская Е. К.\nURALCAMPUS_SYNC_ID:377257bb12fb42
- 4f7c42cc83d974cdde\nURALCAMPUS_SOURCE:inueco:group:a09d1dab-282f-11ed-ad6
- 1-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:2655071f7fd153baabc47855788d1edd@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261003T120000
@@ -83,5 +57,72 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:0d5c1b4bbe141275e9110
  3682bd01222\nURALCAMPUS_SOURCE:inueco:group:a09d1dab-282f-11ed-ad61-04421
  acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bd134acd598c45a9a795036d28da0534@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T171000
+DTEND;TZID=Asia/Yekaterinburg:20261006T182000
+SUMMARY:Химия (Лаб.)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/05\nПара: 6 пара\nДополнит
+ ельно: Батовская Е. К.\nURALCAMPUS_SYNC_ID:bd134acd598c45
+ a9a795036d28da0534\nURALCAMPUS_SOURCE:inueco:group:a09d1dab-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:178262d5619b8df87290068f8612c6b5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T183000
+DTEND;TZID=Asia/Yekaterinburg:20261006T194000
+SUMMARY:Теоретическая механика (Лаб.)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/05\nПара: 7 пара\nДополнит
+ ельно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:178262d5619b8d
+ f87290068f8612c6b5\nURALCAMPUS_SOURCE:inueco:group:a09d1dab-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:83ac10cf882030b6c89a227339144801@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T195000
+DTEND;TZID=Asia/Yekaterinburg:20261006T205000
+SUMMARY:Теоретическая механика (Лаб.)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/05\nПара: 8 пара\nДополнит
+ ельно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:83ac10cf882030
+ b6c89a227339144801\nURALCAMPUS_SOURCE:inueco:group:a09d1dab-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1eaa474a2e141a0af4e4405203d1d874@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T183000
+DTEND;TZID=Asia/Yekaterinburg:20261008T194000
+SUMMARY:Инженерная и компьютерная графика (
+ Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/05\nПара: 7 пара\nДополнит
+ ельно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:1eaa474a2e141a0af4e440
+ 5203d1d874\nURALCAMPUS_SOURCE:inueco:group:a09d1dab-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dcace7caaf9c7dd2a426380ec9fcb466@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T195000
+DTEND;TZID=Asia/Yekaterinburg:20261008T205000
+SUMMARY:Инженерная и компьютерная графика (
+ Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/05\nПара: 8 пара\nДополнит
+ ельно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:dcace7caaf9c7dd2a42638
+ 0ec9fcb466\nURALCAMPUS_SOURCE:inueco:group:a09d1dab-282f-11ed-ad61-04421a
+ cb877d
 END:VEVENT
 END:VCALENDAR

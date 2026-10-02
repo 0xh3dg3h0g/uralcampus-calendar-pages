@@ -18,4 +18,46 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:e214a44d7305b4b09e131e5ea019ca3c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T135000
+DTEND;TZID=Asia/Yekaterinburg:20261002T152000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Язаева Айгуль Фазильевна\n
+ Пара: 4 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
+ CAMPUS_SYNC_ID:e214a44d7305b4b09e131e5ea019ca3c\nURALCAMPUS_SOURCE:preco:
+ teacher:848c3ecc-4e06-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:143728f7150bb6c28de81ee0deb77f60@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T153000
+DTEND;TZID=Asia/Yekaterinburg:20261002T170000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Язаева Айгуль Фазильевна\n
+ Пара: 5 пара\nДополнительно: Ф-362\, Ф-362А\nURAL
+ CAMPUS_SYNC_ID:143728f7150bb6c28de81ee0deb77f60\nURALCAMPUS_SOURCE:preco:
+ teacher:848c3ecc-4e06-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ddb6a839dc98c92d547f74be2d981b24@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T171000
+DTEND;TZID=Asia/Yekaterinburg:20261002T182000
+SUMMARY:Лекарствоведение с основами фармак
+ ологии (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Язаева Айгуль Фазильевна\n
+ Пара: 6 пара\nДополнительно: Ф-362\, Ф-362А\nURAL
+ CAMPUS_SYNC_ID:ddb6a839dc98c92d547f74be2d981b24\nURALCAMPUS_SOURCE:preco:
+ teacher:848c3ecc-4e06-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

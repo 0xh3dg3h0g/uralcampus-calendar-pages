@@ -18,45 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4eca13d90de20ca24983a98d0c4ff3be@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T090000
-DTEND;TZID=Asia/Yekaterinburg:20261001T103000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 105\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-197\nПара: 1 пара\nДополнительно: Е
- рина А.Н.\nURALCAMPUS_SYNC_ID:4eca13d90de20ca24983a98d0c4ff3be\nURA
- LCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:bb85530c15f9109185ca982c149e3db9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T105000
-DTEND;TZID=Asia/Yekaterinburg:20261001T122000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 105\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-197\nПара: 2 пара\nДополнительно: Ш
- ачин С.В.\nURALCAMPUS_SYNC_ID:bb85530c15f9109185ca982c149e3db9\nURA
- LCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:69969b60aeaab9493988415c7ac1e142@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T130000
-DTEND;TZID=Asia/Yekaterinburg:20261001T143000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал 1\, Полярной-Правды 8\, М
- урманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-197\nПара: 3 пара\nДополнительно: З
- ахаров А.В.\nURALCAMPUS_SYNC_ID:69969b60aeaab9493988415c7ac1e142\
- nURALCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:26388005ad3b11f59102e9cb7fe8c031@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T105000
@@ -115,6 +76,30 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-197\nПара: 2 пара\nДополнительно: Т
  имохин О.П.\nURALCAMPUS_SYNC_ID:0be4061e5d649b3908b9872a70ab5138\
  nURALCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:52fcb137d800789c34b01a573fb45003@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T130000
+DTEND;TZID=Asia/Yekaterinburg:20261003T143000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 213\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-197\nПара: 3 пара\nДополнительно: С
+ афронова А.А.\nURALCAMPUS_SYNC_ID:52fcb137d800789c34b01a573fb45
+ 003\nURALCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0aed2be8f57dd659601909305f362704@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261003T145000
+DTEND;TZID=Asia/Yekaterinburg:20261003T162000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 213\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-197\nПара: 4 пара\nДополнительно: С
+ афронова А.А.\nURALCAMPUS_SYNC_ID:0aed2be8f57dd659601909305f362
+ 704\nURALCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:7f3baf9e51b37e840806be15a5d2c2f6@uralcampus-calendar-pages
@@ -227,18 +212,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  LCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:11a7c708ad524da630a7f4deae270169@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261007T163000
-DTEND;TZID=Asia/Yekaterinburg:20261007T180000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 213\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-197\nПара: 5 пара\nДополнительно: С
- афронова А.А.\nURALCAMPUS_SYNC_ID:11a7c708ad524da630a7f4deae270
- 169\nURALCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:92eae305760d68ae00b10100176a6121@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261008T090000
@@ -336,5 +309,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-197\nПара: 2 пара\nДополнительно: Т
  имохин О.П.\nURALCAMPUS_SYNC_ID:c39fe7da0cfe6794e7ed9586fd07237a\
  nURALCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe94399cdccae66664d147b4e97ee12@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T130000
+DTEND;TZID=Asia/Yekaterinburg:20261010T143000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 213\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-197\nПара: 3 пара\nДополнительно: Ш
+ ачин С.В.\nURALCAMPUS_SYNC_ID:ffe94399cdccae66664d147b4e97ee12\nURA
+ LCAMPUS_SOURCE:preco:group:1a050124-52d9-11ee-ad79-04421acb877d
 END:VEVENT
 END:VCALENDAR

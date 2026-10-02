@@ -19,17 +19,17 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2a10f8f805b74dc96d20275bfc755d60@uralcampus-calendar-pages
+UID:70f3307768e8d203a0b535271d042b10@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T130000
-DTEND;TZID=Asia/Yekaterinburg:20261001T143000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
-LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
+DTSTART;TZID=Asia/Yekaterinburg:20261002T105000
+DTEND;TZID=Asia/Yekaterinburg:20261002T122000
+SUMMARY:Основы медицинской подготовки (Ауди
+ торные занятия)
+LOCATION:ауд. 401\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
- вич\nПара: 3 пара\nДополнительно: ПД-198\nURALC
- AMPUS_SYNC_ID:2a10f8f805b74dc96d20275bfc755d60\nURALCAMPUS_SOURCE:preco:t
+ вич\nПара: 2 пара\nДополнительно: ПД-399\nURALC
+ AMPUS_SYNC_ID:70f3307768e8d203a0b535271d042b10\nURALCAMPUS_SOURCE:preco:t
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -47,20 +47,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:70f3307768e8d203a0b535271d042b10@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261002T105000
-DTEND;TZID=Asia/Yekaterinburg:20261002T122000
-SUMMARY:Основы медицинской подготовки (Ауди
- торные занятия)
-LOCATION:ауд. 401\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролов Александр Анатолье
- вич\nПара: 2 пара\nДополнительно: ПД-399\nURALC
- AMPUS_SYNC_ID:70f3307768e8d203a0b535271d042b10\nURALCAMPUS_SOURCE:preco:t
- eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e1f3a117d88de19834d333e95a0efe01@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T130000
@@ -73,20 +59,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  вич\nПара: 3 пара\nДополнительно: Ю-186\nURALCAM
  PUS_SYNC_ID:e1f3a117d88de19834d333e95a0efe01\nURALCAMPUS_SOURCE:preco:tea
  cher:19561aa0-76d9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a58af4cf15bd137a1da10d5d2b44f7a9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261002T145000
-DTEND;TZID=Asia/Yekaterinburg:20261002T162000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролов Александр Анатолье
- вич\nПара: 4 пара\nДополнительно: ПД-496\, ПД
- -499\nURALCAMPUS_SYNC_ID:a58af4cf15bd137a1da10d5d2b44f7a9\nURALCAMPUS_SOU
- RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:0934881938f4dc85b00a28a174cbef78@uralcampus-calendar-pages
@@ -117,18 +89,32 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:eec3f627ad4f1dbfae09835764ea716c@uralcampus-calendar-pages
+UID:a58af4cf15bd137a1da10d5d2b44f7a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T145000
+DTEND;TZID=Asia/Yekaterinburg:20261002T162000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Фролов Александр Анатолье
+ вич\nПара: 4 пара\nДополнительно: ПД-496\, ПД
+ -499\nURALCAMPUS_SYNC_ID:a58af4cf15bd137a1da10d5d2b44f7a9\nURALCAMPUS_SOU
+ RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fd8823232c714f7bdd0affac1814e306@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T163000
 DTEND;TZID=Asia/Yekaterinburg:20261002T180000
 SUMMARY:Тактико-специальная подготовка (Ауд
  иторные занятия)
-LOCATION:ауд. 409\, Полярной-Правды 8\, Мурманск
+LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
- вич\nПара: 5 пара\nДополнительно: ПД-498\nURALC
- AMPUS_SYNC_ID:eec3f627ad4f1dbfae09835764ea716c\nURALCAMPUS_SOURCE:preco:t
- eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+ вич\nПара: 5 пара\nДополнительно: ПД-496\, ПД
+ -499\nURALCAMPUS_SYNC_ID:fd8823232c714f7bdd0affac1814e306\nURALCAMPUS_SOU
+ RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:62eb0764803258479456104a6041d869@uralcampus-calendar-pages
@@ -145,18 +131,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:fd8823232c714f7bdd0affac1814e306@uralcampus-calendar-pages
+UID:eec3f627ad4f1dbfae09835764ea716c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T163000
 DTEND;TZID=Asia/Yekaterinburg:20261002T180000
 SUMMARY:Тактико-специальная подготовка (Ауд
  иторные занятия)
-LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
+LOCATION:ауд. 409\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
- вич\nПара: 5 пара\nДополнительно: ПД-496\, ПД
- -499\nURALCAMPUS_SYNC_ID:fd8823232c714f7bdd0affac1814e306\nURALCAMPUS_SOU
- RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+ вич\nПара: 5 пара\nДополнительно: ПД-498\nURALC
+ AMPUS_SYNC_ID:eec3f627ad4f1dbfae09835764ea716c\nURALCAMPUS_SOURCE:preco:t
+ eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:5595e9e06408e5aa3174d64427a926f5@uralcampus-calendar-pages
@@ -229,20 +215,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:4f4ecf1f50451cb1cc4aa5ec7a2a73c4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T163000
-DTEND;TZID=Asia/Yekaterinburg:20261005T180000
-SUMMARY:Основы медицинской подготовки (Ауди
- торные занятия)
-LOCATION:ауд. 23\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролов Александр Анатолье
- вич\nПара: 5 пара\nДополнительно: ПД-397\nURALC
- AMPUS_SYNC_ID:4f4ecf1f50451cb1cc4aa5ec7a2a73c4\nURALCAMPUS_SOURCE:preco:t
- eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:63ed92dd47d83773c600c27a414734c7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261005T163000
@@ -254,6 +226,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
  вич\nПара: 5 пара\nДополнительно: ПД-396\nURALC
  AMPUS_SYNC_ID:63ed92dd47d83773c600c27a414734c7\nURALCAMPUS_SOURCE:preco:t
+ eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4ecf1f50451cb1cc4aa5ec7a2a73c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T163000
+DTEND;TZID=Asia/Yekaterinburg:20261005T180000
+SUMMARY:Основы медицинской подготовки (Ауди
+ торные занятия)
+LOCATION:ауд. 23\, Садовая 9\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Фролов Александр Анатолье
+ вич\nПара: 5 пара\nДополнительно: ПД-397\nURALC
+ AMPUS_SYNC_ID:4f4ecf1f50451cb1cc4aa5ec7a2a73c4\nURALCAMPUS_SOURCE:preco:t
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -369,18 +355,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:5d996562ec2bf05e43f8a239759866ea@uralcampus-calendar-pages
+UID:dbb0a7d66dad86f489e4953ac4cb02fe@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T130000
 DTEND;TZID=Asia/Yekaterinburg:20261007T143000
 SUMMARY:Тактико-специальная подготовка (Ауд
  иторные занятия)
-LOCATION:ауд. 409\, Полярной-Правды 8\, Мурманск
+LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
- вич\nПара: 3 пара\nДополнительно: ПД-498\nURALC
- AMPUS_SYNC_ID:5d996562ec2bf05e43f8a239759866ea\nURALCAMPUS_SOURCE:preco:t
- eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+ вич\nПара: 3 пара\nДополнительно: ПД-496\, ПД
+ -499\nURALCAMPUS_SYNC_ID:dbb0a7d66dad86f489e4953ac4cb02fe\nURALCAMPUS_SOU
+ RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:fc5d5baf283beb27eb933b6c7958177c@uralcampus-calendar-pages
@@ -397,32 +383,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:dbb0a7d66dad86f489e4953ac4cb02fe@uralcampus-calendar-pages
+UID:5d996562ec2bf05e43f8a239759866ea@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T130000
 DTEND;TZID=Asia/Yekaterinburg:20261007T143000
 SUMMARY:Тактико-специальная подготовка (Ауд
  иторные занятия)
-LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
+LOCATION:ауд. 409\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
- вич\nПара: 3 пара\nДополнительно: ПД-496\, ПД
- -499\nURALCAMPUS_SYNC_ID:dbb0a7d66dad86f489e4953ac4cb02fe\nURALCAMPUS_SOU
- RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:647bf45eec5fa686ea0feeb4ff86ec78@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261007T145000
-DTEND;TZID=Asia/Yekaterinburg:20261007T162000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролов Александр Анатолье
- вич\nПара: 4 пара\nДополнительно: ПД-496\, ПД
- -499\nURALCAMPUS_SYNC_ID:647bf45eec5fa686ea0feeb4ff86ec78\nURALCAMPUS_SOU
- RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+ вич\nПара: 3 пара\nДополнительно: ПД-498\nURALC
+ AMPUS_SYNC_ID:5d996562ec2bf05e43f8a239759866ea\nURALCAMPUS_SOURCE:preco:t
+ eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:1dee11c802f66f154949695a11f76534@uralcampus-calendar-pages
@@ -453,6 +425,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:647bf45eec5fa686ea0feeb4ff86ec78@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T145000
+DTEND;TZID=Asia/Yekaterinburg:20261007T162000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Фролов Александр Анатолье
+ вич\nПара: 4 пара\nДополнительно: ПД-496\, ПД
+ -499\nURALCAMPUS_SYNC_ID:647bf45eec5fa686ea0feeb4ff86ec78\nURALCAMPUS_SOU
+ RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:abc2181dc4c8fba70b1bd3577d00a862@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T163000
@@ -481,17 +467,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:89a60c402311d0c5e096a73ed675b560@uralcampus-calendar-pages
+UID:534c5e6c7d07dbe6ab0faa50402ddd30@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T130000
-DTEND;TZID=Asia/Yekaterinburg:20261008T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261008T145000
+DTEND;TZID=Asia/Yekaterinburg:20261008T162000
 SUMMARY:Основы безопасности и защиты Родины
   (Аудиторные занятия)
 LOCATION:ауд. 212\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
- вич\nПара: 3 пара\nДополнительно: ПД-198\nURALC
- AMPUS_SYNC_ID:89a60c402311d0c5e096a73ed675b560\nURALCAMPUS_SOURCE:preco:t
+ вич\nПара: 4 пара\nДополнительно: ПД-198\nURALC
+ AMPUS_SYNC_ID:534c5e6c7d07dbe6ab0faa50402ddd30\nURALCAMPUS_SOURCE:preco:t
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -565,20 +551,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  cher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:c35f43dce94467515b2ed4e14a605880@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T145000
-DTEND;TZID=Asia/Yekaterinburg:20261009T162000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 409\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролов Александр Анатолье
- вич\nПара: 4 пара\nДополнительно: ПД-498\nURALC
- AMPUS_SYNC_ID:c35f43dce94467515b2ed4e14a605880\nURALCAMPUS_SOURCE:preco:t
- eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:0aef152a2007ae46d099523f95269af3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T145000
@@ -593,6 +565,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:c35f43dce94467515b2ed4e14a605880@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T145000
+DTEND;TZID=Asia/Yekaterinburg:20261009T162000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 409\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Фролов Александр Анатолье
+ вич\nПара: 4 пара\nДополнительно: ПД-498\nURALC
+ AMPUS_SYNC_ID:c35f43dce94467515b2ed4e14a605880\nURALCAMPUS_SOURCE:preco:t
+ eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:5b84e7a74247937642344b088cfbc77d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T145000
@@ -604,20 +590,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
  вич\nПара: 4 пара\nДополнительно: ПД-496\, ПД
  -499\nURALCAMPUS_SYNC_ID:5b84e7a74247937642344b088cfbc77d\nURALCAMPUS_SOU
- RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:53ef0b3287fc7d1769c82a58af640ec8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T163000
-DTEND;TZID=Asia/Yekaterinburg:20261009T180000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролов Александр Анатолье
- вич\nПара: 5 пара\nДополнительно: ПД-496\, ПД
- -499\nURALCAMPUS_SYNC_ID:53ef0b3287fc7d1769c82a58af640ec8\nURALCAMPUS_SOU
  RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -647,6 +619,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  вич\nПара: 5 пара\nДополнительно: ПД-498\nURALC
  AMPUS_SYNC_ID:32e9098847ec9c30a8c200f03c2549f4\nURALCAMPUS_SOURCE:preco:t
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:53ef0b3287fc7d1769c82a58af640ec8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T163000
+DTEND;TZID=Asia/Yekaterinburg:20261009T180000
+SUMMARY:Тактико-специальная подготовка (Ауд
+ иторные занятия)
+LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Фролов Александр Анатолье
+ вич\nПара: 5 пара\nДополнительно: ПД-496\, ПД
+ -499\nURALCAMPUS_SYNC_ID:53ef0b3287fc7d1769c82a58af640ec8\nURALCAMPUS_SOU
+ RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:ca9eb6640d2b4c4bf68dea81de9c9a8a@uralcampus-calendar-pages

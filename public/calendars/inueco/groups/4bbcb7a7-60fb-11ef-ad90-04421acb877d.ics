@@ -18,17 +18,73 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4d1546a8712439d0ef392f56032a73df@uralcampus-calendar-pages
+UID:b16ed19d9baac8fe5f6d3ffaecf8566a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T171000
-DTEND;TZID=Asia/Yekaterinburg:20261001T182000
-SUMMARY:Обследование и испытание зданий и с
- ооружений (Практика)
-LOCATION:ауд. 108\, Кожзаводская 1
+DTSTART;TZID=Asia/Yekaterinburg:20261006T171000
+DTEND;TZID=Asia/Yekaterinburg:20261006T182000
+SUMMARY:Основы организации строительного п
+ роизводства (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: СЗу-301/06\nПара: 6 пара\nДополнит
- ельно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:4d1546a8712439d0
- ef392f56032a73df\nURALCAMPUS_SOURCE:inueco:group:4bbcb7a7-60fb-11ef-ad90-
- 04421acb877d
+ ельно: Терещук С.В.\nURALCAMPUS_SYNC_ID:b16ed19d9baac8fe5f6
+ d3ffaecf8566a\nURALCAMPUS_SOURCE:inueco:group:4bbcb7a7-60fb-11ef-ad90-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:22ff3d6ad2f0066ac74a59563468dec9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T183000
+DTEND;TZID=Asia/Yekaterinburg:20261006T194000
+SUMMARY:Основы организации строительного п
+ роизводства (Практика)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/06\nПара: 7 пара\nДополнит
+ ельно: Терещук С.В.\nURALCAMPUS_SYNC_ID:22ff3d6ad2f0066ac74
+ a59563468dec9\nURALCAMPUS_SOURCE:inueco:group:4bbcb7a7-60fb-11ef-ad90-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1ecf52be703dd94617c7907423775275@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T195000
+DTEND;TZID=Asia/Yekaterinburg:20261006T205000
+SUMMARY:Основы организации строительного п
+ роизводства (Практика)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/06\nПара: 8 пара\nДополнит
+ ельно: Терещук С.В.\nURALCAMPUS_SYNC_ID:1ecf52be703dd94617c
+ 7907423775275\nURALCAMPUS_SOURCE:inueco:group:4bbcb7a7-60fb-11ef-ad90-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bc3236c9a673a63a37fc749517d49f98@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T171000
+DTEND;TZID=Asia/Yekaterinburg:20261008T182000
+SUMMARY:Средства механизации строительства
+  (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/06\nПара: 6 пара\nДополнит
+ ельно: Пономарева О.А.\nURALCAMPUS_SYNC_ID:bc3236c9a673a
+ 63a37fc749517d49f98\nURALCAMPUS_SOURCE:inueco:group:4bbcb7a7-60fb-11ef-ad
+ 90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34dca01a46e7593e811e9ba47d3ba325@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T183000
+DTEND;TZID=Asia/Yekaterinburg:20261008T194000
+SUMMARY:Средства механизации строительства
+  (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-301/06\nПара: 7 пара\nДополнит
+ ельно: Пономарева О.А.\nURALCAMPUS_SYNC_ID:34dca01a46e75
+ 93e811e9ba47d3ba325\nURALCAMPUS_SOURCE:inueco:group:4bbcb7a7-60fb-11ef-ad
+ 90-04421acb877d
 END:VEVENT
 END:VCALENDAR

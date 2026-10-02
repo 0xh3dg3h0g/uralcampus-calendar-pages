@@ -18,31 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1a6f3800aff6e21a136780a80fb5bcce@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T083000
-DTEND;TZID=Asia/Yekaterinburg:20261001T100000
-SUMMARY:Иностранный язык (Практика)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: М-103\nПара: 1 пара\nДополнительн
- о: Де К.Г.\nURALCAMPUS_SYNC_ID:1a6f3800aff6e21a136780a80fb5bcce\nURA
- LCAMPUS_SOURCE:inueco:group:a09d1d44-282f-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:fde83506aa61c61513f4f382a4e7c1a3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T101000
-DTEND;TZID=Asia/Yekaterinburg:20261001T114000
-SUMMARY:Основы менеджмента (Лекция)
-LOCATION:ауд. 418\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: М-103\nПара: 2 пара\nДополнительн
- о: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:fde83506aa61c61513f4f3
- 82a4e7c1a3\nURALCAMPUS_SOURCE:inueco:group:a09d1d44-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:03cab35480fd00c05c007f4043084830@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261002T120000
@@ -111,6 +86,19 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  877d
 END:VEVENT
 BEGIN:VEVENT
+UID:57f017e616ac50e16fd50a56e34991db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T120000
+DTEND;TZID=Asia/Yekaterinburg:20261005T133000
+SUMMARY:Мультимедиа технологии и компьютер
+ ная графика (Лекция)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: М-103\nПара: 3 пара\nДополнительн
+ о: Мусин А.Р.\nURALCAMPUS_SYNC_ID:57f017e616ac50e16fd50a56e34991d
+ b\nURALCAMPUS_SOURCE:inueco:group:a09d1d44-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:cbe8a8f1424cabdb4ff6813973853b61@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T120000
@@ -136,6 +124,19 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Васильев С. А.\nURALCAMPUS_SYNC_ID:14dbe1d88e9615b6de334b37
  ed2ab716\nURALCAMPUS_SOURCE:inueco:group:a09d1d44-282f-11ed-ad61-04421acb
  877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4c21686b39e856ce365deac156d52b4d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T120000
+DTEND;TZID=Asia/Yekaterinburg:20261007T133000
+SUMMARY:Правоведение (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: М-103\nПара: 3 пара\nДополнительн
+ о: Васильева Д.Д.\nURALCAMPUS_SYNC_ID:4c21686b39e856ce365deac
+ 156d52b4d\nURALCAMPUS_SOURCE:inueco:group:a09d1d44-282f-11ed-ad61-04421ac
+ b877d
 END:VEVENT
 BEGIN:VEVENT
 UID:7344bca172d7e6f524e2bd3994d980d9@uralcampus-calendar-pages
@@ -215,6 +216,32 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:6c710399dff6aa233e5999e
  62903d692\nURALCAMPUS_SOURCE:inueco:group:a09d1d44-282f-11ed-ad61-04421ac
  b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d2834bdcfd03a261998cf592ec3391d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
+DTEND;TZID=Asia/Yekaterinburg:20261010T100000
+SUMMARY:Мультимедиа технологии и компьютер
+ ная графика (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: М-103\nПара: 1 пара\nДополнительн
+ о: Мусин А.Р.\nURALCAMPUS_SYNC_ID:d2834bdcfd03a261998cf592ec3391d
+ 6\nURALCAMPUS_SOURCE:inueco:group:a09d1d44-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4e92981d6872d2edadd11b9cc1f4f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T101000
+DTEND;TZID=Asia/Yekaterinburg:20261010T114000
+SUMMARY:Мультимедиа технологии и компьютер
+ ная графика (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: М-103\nПара: 2 пара\nДополнительн
+ о: Мусин А.Р.\nURALCAMPUS_SYNC_ID:0a4e92981d6872d2edadd11b9cc1f4f
+ 5\nURALCAMPUS_SOURCE:inueco:group:a09d1d44-282f-11ed-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:a05e4e2fbfaaca0d107bcc82b3f60134@uralcampus-calendar-pages

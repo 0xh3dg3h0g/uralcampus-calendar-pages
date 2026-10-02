@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:f017be2cc076be52bb5dc44a65e7a827@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T171000
+DTEND;TZID=Asia/Yekaterinburg:20261008T182000
+SUMMARY:Государственные закупки (Практика)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-501/05\nПара: 6 пара\nДополни
+ тельно: Акентьева К.И.\nURALCAMPUS_SYNC_ID:f017be2cc076b
+ e52bb5dc44a65e7a827\nURALCAMPUS_SOURCE:inueco:group:a6999188-1878-11f1-ad
+ 98-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:725104dbd24850edc842d9d3e657d15f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T183000
+DTEND;TZID=Asia/Yekaterinburg:20261008T194000
+SUMMARY:Государственные закупки (Практика)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-501/05\nПара: 7 пара\nДополни
+ тельно: Акентьева К.И.\nURALCAMPUS_SYNC_ID:725104dbd2485
+ 0edc842d9d3e657d15f\nURALCAMPUS_SOURCE:inueco:group:a6999188-1878-11f1-ad
+ 98-04421acb877d
+END:VEVENT
 END:VCALENDAR

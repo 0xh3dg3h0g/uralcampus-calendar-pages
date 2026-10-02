@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Панческу Пе
+ тр Иванович
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3c5ab81d18fad082fb1c83f9a771ec72@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T145000
+DTEND;TZID=Asia/Yekaterinburg:20261001T162000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал 1\, Полярной-Правды 8\, М
+ урманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панческу Петр Иванович\nПа
+ ра: 4 пара\nДополнительно: ПД-296\nURALCAMPUS_SYNC_I
+ D:3c5ab81d18fad082fb1c83f9a771ec72\nURALCAMPUS_SOURCE:preco:teacher:6e243
+ c86-52c3-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ffde7618645fbda10bdf3254697f0aa5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261001T130000
+DTEND;TZID=Asia/Yekaterinburg:20261001T143000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал 2\, Полярной-Правды 8\, М
+ урманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Панческу Петр Иванович\nПа
+ ра: 3 пара\nДополнительно: ПД-196\nURALCAMPUS_SYNC_I
+ D:ffde7618645fbda10bdf3254697f0aa5\nURALCAMPUS_SOURCE:preco:teacher:6e243
+ c86-52c3-11ee-ad79-04421acb877d
+END:VEVENT
+END:VCALENDAR

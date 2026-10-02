@@ -18,45 +18,73 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ccbb563b3039b6337886e6070d8227a9@uralcampus-calendar-pages
+UID:bc54ea4c6ed7a4116e44e573dad634fa@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T171000
-DTEND;TZID=Asia/Yekaterinburg:20261001T182000
+DTSTART;TZID=Asia/Yekaterinburg:20261006T171000
+DTEND;TZID=Asia/Yekaterinburg:20261006T182000
+SUMMARY:Принятие и исполнение государствен
+ ных решений (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-401/05\nПара: 6 пара\nДополни
+ тельно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:bc54ea4c6ed7a4
+ 116e44e573dad634fa\nURALCAMPUS_SOURCE:inueco:group:5cc3f0ce-5894-11f0-ad9
+ 3-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a2127d1c94101fe8ecff8983e634dd8a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T183000
+DTEND;TZID=Asia/Yekaterinburg:20261006T194000
+SUMMARY:Принятие и исполнение государствен
+ ных решений (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-401/05\nПара: 7 пара\nДополни
+ тельно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:a2127d1c94101f
+ e8ecff8983e634dd8a\nURALCAMPUS_SOURCE:inueco:group:5cc3f0ce-5894-11f0-ad9
+ 3-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:05f3620ff929a09098ed96cb1112df25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T195000
+DTEND;TZID=Asia/Yekaterinburg:20261006T205000
+SUMMARY:Региональное управление и территор
+ иальное планирование (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-401/05\nПара: 8 пара\nДополни
+ тельно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:05f3620ff929a0
+ 9098ed96cb1112df25\nURALCAMPUS_SOURCE:inueco:group:5cc3f0ce-5894-11f0-ad9
+ 3-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e721fb7684d73eab3d31b56a75808ca1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T171000
+DTEND;TZID=Asia/Yekaterinburg:20261008T182000
 SUMMARY:Государственные и муниципальные фи
- нансы (Лекция)
+ нансы (Практика)
 LOCATION:ауд. 418\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ГМУЗ-401/05\nПара: 6 пара\nДополни
- тельно: Масленникова Е.В.\nURALCAMPUS_SYNC_ID:ccbb563
- b3039b6337886e6070d8227a9\nURALCAMPUS_SOURCE:inueco:group:5cc3f0ce-5894-1
+ тельно: Масленникова Е.В.\nURALCAMPUS_SYNC_ID:e721fb7
+ 684d73eab3d31b56a75808ca1\nURALCAMPUS_SOURCE:inueco:group:5cc3f0ce-5894-1
  1f0-ad93-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:bb71efcd9006d2853ce482d828e8025e@uralcampus-calendar-pages
+UID:095ba4243529437cf21858e1fca1033d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T183000
-DTEND;TZID=Asia/Yekaterinburg:20261001T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261008T183000
+DTEND;TZID=Asia/Yekaterinburg:20261008T194000
 SUMMARY:Государственные и муниципальные фи
  нансы (Практика)
 LOCATION:ауд. 418\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ГМУЗ-401/05\nПара: 7 пара\nДополни
- тельно: Масленникова Е.В.\nURALCAMPUS_SYNC_ID:bb71efc
- d9006d2853ce482d828e8025e\nURALCAMPUS_SOURCE:inueco:group:5cc3f0ce-5894-1
- 1f0-ad93-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:02c274431edbfdfa0e03c27f76a86a96@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261001T195000
-DTEND;TZID=Asia/Yekaterinburg:20261001T205000
-SUMMARY:Государственные и муниципальные фи
- нансы (Практика)
-LOCATION:ауд. 418\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ГМУЗ-401/05\nПара: 8 пара\nДополни
- тельно: Масленникова Е.В.\nURALCAMPUS_SYNC_ID:02c2744
- 31edbfdfa0e03c27f76a86a96\nURALCAMPUS_SOURCE:inueco:group:5cc3f0ce-5894-1
+ тельно: Масленникова Е.В.\nURALCAMPUS_SYNC_ID:095ba42
+ 43529437cf21858e1fca1033d\nURALCAMPUS_SOURCE:inueco:group:5cc3f0ce-5894-1
  1f0-ad93-04421acb877d
 END:VEVENT
 END:VCALENDAR

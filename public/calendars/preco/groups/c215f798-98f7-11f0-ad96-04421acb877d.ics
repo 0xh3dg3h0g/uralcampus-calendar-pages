@@ -17,4 +17,40 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:a146ca412b11ddc44a45b8bc78b46cae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T083000
+DTEND;TZID=Asia/Yekaterinburg:20261002T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-178ю\nПара: 1 пара\nДополнительно: 
+ Носенко И.М.\nURALCAMPUS_SYNC_ID:a146ca412b11ddc44a45b8bc78b46ca
+ e\nURALCAMPUS_SOURCE:preco:group:c215f798-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0c378d9d235e0f47ac953cbaca52cb53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T101000
+DTEND;TZID=Asia/Yekaterinburg:20261002T114000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-178ю\nПара: 2 пара\nДополнительно: 
+ Величко Е.Г.\nURALCAMPUS_SYNC_ID:0c378d9d235e0f47ac953cbaca52cb5
+ 3\nURALCAMPUS_SOURCE:preco:group:c215f798-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:799d419c14c51932f289cff1f7161de0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261002T120000
+DTEND;TZID=Asia/Yekaterinburg:20261002T133000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-178ю\nПара: 3 пара\nДополнительно: 
+ Перонкова А.Н.\nURALCAMPUS_SYNC_ID:799d419c14c51932f289cff1f71
+ 61de0\nURALCAMPUS_SOURCE:preco:group:c215f798-98f7-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR
