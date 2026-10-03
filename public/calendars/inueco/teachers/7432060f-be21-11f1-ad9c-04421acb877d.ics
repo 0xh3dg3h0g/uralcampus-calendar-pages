@@ -18,4 +18,36 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:53e7047514fb167fac707b32b6fdea33@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
+DTEND;TZID=Asia/Yekaterinburg:20261010T100000
+SUMMARY:Специальные налоговые режимы (Лекци
+ я)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Воргуданова Анастаси
+ я Валерьевна\nПара: 1 пара\nДополнительно
+ : ЭЗ-401/02\, ЭЗ-401/03\, ЭЗ-401/05\, ЭЗ-401/07б\, ЭЗ-401/09\,
+  ЭЗ-401/13\, ЭЗд-401\nURALCAMPUS_SYNC_ID:53e7047514fb167fac707b32b6f
+ dea33\nURALCAMPUS_SOURCE:inueco:teacher:7432060f-be21-11f1-ad9c-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:af7b503295a41926e0c57a51554a4eb3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T101000
+DTEND;TZID=Asia/Yekaterinburg:20261010T114000
+SUMMARY:Специальные налоговые режимы (Лекци
+ я)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Воргуданова Анастаси
+ я Валерьевна\nПара: 2 пара\nДополнительно
+ : ЭЗ-401/02\, ЭЗ-401/03\, ЭЗ-401/05\, ЭЗ-401/07б\, ЭЗ-401/09\,
+  ЭЗ-401/13\, ЭЗд-401\nURALCAMPUS_SYNC_ID:af7b503295a41926e0c57a51554
+ a4eb3\nURALCAMPUS_SOURCE:inueco:teacher:7432060f-be21-11f1-ad9c-04421acb8
+ 77d
+END:VEVENT
 END:VCALENDAR

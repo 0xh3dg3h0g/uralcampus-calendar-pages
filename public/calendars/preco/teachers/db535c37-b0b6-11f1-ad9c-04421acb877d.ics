@@ -19,31 +19,59 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fd5eff6c73ecde94ae7538bf3b23a5e8@uralcampus-calendar-pages
+UID:c9f97a81372da66484fc90d8bfea8bf1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261002T101000
-DTEND;TZID=Asia/Yekaterinburg:20261002T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261007T083000
+DTEND;TZID=Asia/Yekaterinburg:20261007T100000
 SUMMARY:Рисунок и живопись (Аудиторные заня
  тия)
-LOCATION:ауд. 9\, Анапа
+LOCATION:ауд. 8\, Анапа
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Кочкина Марина Григорьевн
- а\nПара: 2 пара\nДополнительно: ИК-230ю\nURALCAM
- PUS_SYNC_ID:fd5eff6c73ecde94ae7538bf3b23a5e8\nURALCAMPUS_SOURCE:preco:tea
+ а\nПара: 1 пара\nДополнительно: ИК-230ю\nURALCAM
+ PUS_SYNC_ID:c9f97a81372da66484fc90d8bfea8bf1\nURALCAMPUS_SOURCE:preco:tea
  cher:db535c37-b0b6-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:e1814a17509383b8c6b3538699091550@uralcampus-calendar-pages
+UID:a49703d5699eea80c0c35182c566d3ff@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261002T120000
-DTEND;TZID=Asia/Yekaterinburg:20261002T133000
-SUMMARY:Рисунок и живопись (Аудиторные заня
- тия)
+DTSTART;TZID=Asia/Yekaterinburg:20261007T101000
+DTEND;TZID=Asia/Yekaterinburg:20261007T114000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
 LOCATION:ауд. 9\, Анапа
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Кочкина Марина Григорьевн
- а\nПара: 3 пара\nДополнительно: ИК-230ю\nURALCAM
- PUS_SYNC_ID:e1814a17509383b8c6b3538699091550\nURALCAMPUS_SOURCE:preco:tea
+ а\nПара: 2 пара\nДополнительно: ПД-278ю\, ПД-2
+ 78Аю\nURALCAMPUS_SYNC_ID:a49703d5699eea80c0c35182c566d3ff\nURALCAMPUS_S
+ OURCE:preco:teacher:db535c37-b0b6-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:86a34c2ea1968f31fd236db877befcbb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
+DTEND;TZID=Asia/Yekaterinburg:20261009T100000
+SUMMARY:Рисунок и живопись (Аудиторные заня
+ тия)
+LOCATION:ауд. 8\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кочкина Марина Григорьевн
+ а\nПара: 1 пара\nДополнительно: ИК-230ю\nURALCAM
+ PUS_SYNC_ID:86a34c2ea1968f31fd236db877befcbb\nURALCAMPUS_SOURCE:preco:tea
+ cher:db535c37-b0b6-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d5bcffee86a8315de51a482f85f014e1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
+DTEND;TZID=Asia/Yekaterinburg:20261009T114000
+SUMMARY:Рисунок и живопись (Аудиторные заня
+ тия)
+LOCATION:ауд. 8\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кочкина Марина Григорьевн
+ а\nПара: 2 пара\nДополнительно: ИК-230ю\nURALCAM
+ PUS_SYNC_ID:d5bcffee86a8315de51a482f85f014e1\nURALCAMPUS_SOURCE:preco:tea
  cher:db535c37-b0b6-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

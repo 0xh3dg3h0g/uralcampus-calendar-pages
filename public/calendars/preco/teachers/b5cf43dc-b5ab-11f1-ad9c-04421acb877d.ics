@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:e7b887907c7d5449f708ca28b39bdfd8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T101000
+DTEND;TZID=Asia/Yekaterinburg:20261007T114000
+SUMMARY:Санитария и гигиена в сфере услуг (А
+ удиторные занятия)
+LOCATION:ауд. 8\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Черкасова Нина Руслановна\
+ nПара: 2 пара\nДополнительно: ИК-230ю\nURALCAMPUS
+ _SYNC_ID:e7b887907c7d5449f708ca28b39bdfd8\nURALCAMPUS_SOURCE:preco:teache
+ r:b5cf43dc-b5ab-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7a9796b55dd68520ef321f2bc008855f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261007T120000
+DTEND;TZID=Asia/Yekaterinburg:20261007T133000
+SUMMARY:Санитария и гигиена в сфере услуг (А
+ удиторные занятия)
+LOCATION:ауд. 8\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Черкасова Нина Руслановна\
+ nПара: 3 пара\nДополнительно: ИК-230ю\nURALCAMPUS
+ _SYNC_ID:7a9796b55dd68520ef321f2bc008855f\nURALCAMPUS_SOURCE:preco:teache
+ r:b5cf43dc-b5ab-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR
