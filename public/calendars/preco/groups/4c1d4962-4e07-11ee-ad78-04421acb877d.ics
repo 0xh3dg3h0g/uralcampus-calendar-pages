@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:9f69c262d419f286cba1d8cf690ef87c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T135000
+DTEND;TZID=Asia/Yekaterinburg:20261005T152000
+SUMMARY:Русский язык и культура речи (Аудито
+ рные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 4 пара\nДополнитель
+ но: Индирбаева Э. А.\nURALCAMPUS_SYNC_ID:9f69c262d419f286cb
+ a1d8cf690ef87c\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0c758b2c0d5576fb129f4588780546f7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T153000
+DTEND;TZID=Asia/Yekaterinburg:20261005T170000
+SUMMARY:Русский язык и культура речи (Аудито
+ рные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 5 пара\nДополнитель
+ но: Индирбаева Э. А.\nURALCAMPUS_SYNC_ID:0c758b2c0d5576fb12
+ 9f4588780546f7\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-044
+ 21acb877d
+END:VEVENT
 END:VCALENDAR

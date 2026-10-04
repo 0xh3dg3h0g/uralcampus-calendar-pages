@@ -17,4 +17,44 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:492e7ba2d24844f2ca5aed55f6ba29af@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T135000
+DTEND;TZID=Asia/Yekaterinburg:20261005T152000
+SUMMARY:Основы медицинской подготовки (Ауди
+ торные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-378\, ПД-378А\nПара: 4 пара\nДополните
+ льно: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:492e7ba2d24844f2ca5aed5
+ 5f6ba29af\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cb1b57cb035731bdff5365df5ed592fc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T153000
+DTEND;TZID=Asia/Yekaterinburg:20261005T170000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-378\, ПД-378А\nПара: 5 пара\nДополните
+ льно: Разуваева Л.Д.\nURALCAMPUS_SYNC_ID:cb1b57cb035731bdf
+ f5365df5ed592fc\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1eb620e2d2ba1e1574416d9e31781b87@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T171000
+DTEND;TZID=Asia/Yekaterinburg:20261005T182000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-378\, ПД-378А\nПара: 6 пара\nДополните
+ льно: Разуваева Л.Д.\nURALCAMPUS_SYNC_ID:1eb620e2d2ba1e157
+ 4416d9e31781b87\nURALCAMPUS_SOURCE:preco:group:7ed7ac24-4e07-11ee-ad78-04
+ 421acb877d
+END:VEVENT
 END:VCALENDAR

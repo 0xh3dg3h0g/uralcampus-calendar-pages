@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:c6c13dcb1f27ae443dbd11c27f362983@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T083000
+DTEND;TZID=Asia/Yekaterinburg:20261005T100000
+SUMMARY:Безопасность жизнедеятельности (Ау
+ диторные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тукуева Елена Васильевна\n
+ Пара: 1 пара\nДополнительно: П-370\, П-370А\nURAL
+ CAMPUS_SYNC_ID:c6c13dcb1f27ae443dbd11c27f362983\nURALCAMPUS_SOURCE:preco:
+ teacher:fb8ca2bc-4e05-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f009a43bb2dcf9d47ef14ab2004e93c6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T101000
+DTEND;TZID=Asia/Yekaterinburg:20261005T114000
+SUMMARY:Безопасность жизнедеятельности (Ау
+ диторные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тукуева Елена Васильевна\n
+ Пара: 2 пара\nДополнительно: П-370\, П-370А\nURAL
+ CAMPUS_SYNC_ID:f009a43bb2dcf9d47ef14ab2004e93c6\nURALCAMPUS_SOURCE:preco:
+ teacher:fb8ca2bc-4e05-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

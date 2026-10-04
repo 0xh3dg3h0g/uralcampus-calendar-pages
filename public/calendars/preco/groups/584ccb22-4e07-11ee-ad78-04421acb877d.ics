@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:95afca7f10182125335e94cd4f167391@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T083000
+DTEND;TZID=Asia/Yekaterinburg:20261005T100000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 1 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:95afca7f10182125335e94cd4f167391\
+ nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dd5c9eb0482525883797a4ace56e1711@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261005T101000
+DTEND;TZID=Asia/Yekaterinburg:20261005T114000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 2 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:dd5c9eb0482525883797a4ace56e1711\
+ nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

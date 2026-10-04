@@ -197,20 +197,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:09c05c43-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:3977dbd3b746293a601593b26e5c14a6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
-DTEND;TZID=Asia/Yekaterinburg:20261009T133000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Анапа
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Величко Елена Григорьевна\
- nПара: 3 пара\nДополнительно: ИК-230ю\nURALCAMPUS
- _SYNC_ID:3977dbd3b746293a601593b26e5c14a6\nURALCAMPUS_SOURCE:preco:teache
- r:09c05c43-4e03-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ee706495481453c434d428dc77c7c2ac@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
@@ -223,5 +209,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 3 пара\nДополнительно: ПД-278ю\, ПД-278
  Аю\nURALCAMPUS_SYNC_ID:ee706495481453c434d428dc77c7c2ac\nURALCAMPUS_SOU
  RCE:preco:teacher:09c05c43-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3977dbd3b746293a601593b26e5c14a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
+DTEND;TZID=Asia/Yekaterinburg:20261009T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Величко Елена Григорьевна\
+ nПара: 3 пара\nДополнительно: ИК-230ю\nURALCAMPUS
+ _SYNC_ID:3977dbd3b746293a601593b26e5c14a6\nURALCAMPUS_SOURCE:preco:teache
+ r:09c05c43-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
