@@ -166,19 +166,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :8bdab957-fa99-11f0-ad97-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:36d9287bdc14d0f9b6079a7052c0a6df@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
-DTEND;TZID=Asia/Yekaterinburg:20261008T114000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 12\, Анапа
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Носенко Ирина Михайловна\n
- Пара: 2 пара\nДополнительно: ОЛ-150ю\nURALCAMPUS_
- SYNC_ID:36d9287bdc14d0f9b6079a7052c0a6df\nURALCAMPUS_SOURCE:preco:teacher
- :8bdab957-fa99-11f0-ad97-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:add0e08b0824e45009bc60372cadd870@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
@@ -192,16 +179,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :8bdab957-fa99-11f0-ad97-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:7d613f3c832cd5559caa8420d927bfc6@uralcampus-calendar-pages
+UID:36d9287bdc14d0f9b6079a7052c0a6df@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
-DTEND;TZID=Asia/Yekaterinburg:20261008T133000
+DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
+DTEND;TZID=Asia/Yekaterinburg:20261008T114000
 SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 16\, Анапа
+LOCATION:ауд. 12\, Анапа
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Носенко Ирина Михайловна\n
- Пара: 3 пара\nДополнительно: ИК-130ю\nURALCAMPUS_
- SYNC_ID:7d613f3c832cd5559caa8420d927bfc6\nURALCAMPUS_SOURCE:preco:teacher
+ Пара: 2 пара\nДополнительно: ОЛ-150ю\nURALCAMPUS_
+ SYNC_ID:36d9287bdc14d0f9b6079a7052c0a6df\nURALCAMPUS_SOURCE:preco:teacher
  :8bdab957-fa99-11f0-ad97-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -216,5 +203,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  Пара: 3 пара\nДополнительно: П-170ю\nURALCAMPUS_SY
  NC_ID:c72b9156ab0919a280a5a1606a7dc74e\nURALCAMPUS_SOURCE:preco:teacher:8
  bdab957-fa99-11f0-ad97-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7d613f3c832cd5559caa8420d927bfc6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
+DTEND;TZID=Asia/Yekaterinburg:20261008T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 16\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Носенко Ирина Михайловна\n
+ Пара: 3 пара\nДополнительно: ИК-130ю\nURALCAMPUS_
+ SYNC_ID:7d613f3c832cd5559caa8420d927bfc6\nURALCAMPUS_SOURCE:preco:teacher
+ :8bdab957-fa99-11f0-ad97-04421acb877d
 END:VEVENT
 END:VCALENDAR
