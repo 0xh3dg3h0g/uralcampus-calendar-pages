@@ -89,20 +89,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  er:063f15fd-f836-11f0-ad97-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:8a1f1962ee4edceeb1757194a4879934@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
-DTEND;TZID=Asia/Yekaterinburg:20261008T114000
-SUMMARY:Иностранный язык в профессионально
- й деятельности (Аудиторные занятия)
-LOCATION:ауд. 8\, Анапа
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дегтярева Диана Оганесовн
- а\nПара: 2 пара\nДополнительно: ПД-278ю\, ПД-2
- 78Аю\nURALCAMPUS_SYNC_ID:8a1f1962ee4edceeb1757194a4879934\nURALCAMPUS_S
- OURCE:preco:teacher:063f15fd-f836-11f0-ad97-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c4994bde0ae8106701c8fe9505ab2a6d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
@@ -115,5 +101,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 2 пара\nДополнительно: ИК-230ю\nURALCAM
  PUS_SYNC_ID:c4994bde0ae8106701c8fe9505ab2a6d\nURALCAMPUS_SOURCE:preco:tea
  cher:063f15fd-f836-11f0-ad97-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1f1962ee4edceeb1757194a4879934@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
+DTEND;TZID=Asia/Yekaterinburg:20261008T114000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 8\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дегтярева Диана Оганесовн
+ а\nПара: 2 пара\nДополнительно: ПД-278ю\, ПД-2
+ 78Аю\nURALCAMPUS_SYNC_ID:8a1f1962ee4edceeb1757194a4879934\nURALCAMPUS_S
+ OURCE:preco:teacher:063f15fd-f836-11f0-ad97-04421acb877d
 END:VEVENT
 END:VCALENDAR

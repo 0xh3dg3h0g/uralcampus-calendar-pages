@@ -19,84 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a27c938759f83087496595d54d4b6743@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T083000
-DTEND;TZID=Asia/Yekaterinburg:20261005T100000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 202\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Сатаева Маргарита Рустамо
- вна\nПара: 1 пара\nДополнительно: 157к\nURALCAMP
- US_SYNC_ID:a27c938759f83087496595d54d4b6743\nURALCAMPUS_SOURCE:preco:teac
- her:a6823112-5fb0-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5db1d1ad4628e578d4528ac588475d42@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T101000
-DTEND;TZID=Asia/Yekaterinburg:20261005T114000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 302\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Сатаева Маргарита Рустамо
- вна\nПара: 2 пара\nДополнительно: 147к\nURALCAMP
- US_SYNC_ID:5db1d1ad4628e578d4528ac588475d42\nURALCAMPUS_SOURCE:preco:teac
- her:a6823112-5fb0-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:894bbaf84fbb21dfc7b08cb170155d86@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T120000
-DTEND;TZID=Asia/Yekaterinburg:20261005T133000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 212\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Сатаева Маргарита Рустамо
- вна\nПара: 3 пара\nДополнительно: 149к\nURALCAMP
- US_SYNC_ID:894bbaf84fbb21dfc7b08cb170155d86\nURALCAMPUS_SOURCE:preco:teac
- her:a6823112-5fb0-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a05ea3ba1fd26371e746ca424df1f936@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T135000
-DTEND;TZID=Asia/Yekaterinburg:20261005T152000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Сатаева Маргарита Рустамо
- вна\nПара: 4 пара\nДополнительно: 130к\nURALCAMP
- US_SYNC_ID:a05ea3ba1fd26371e746ca424df1f936\nURALCAMPUS_SOURCE:preco:teac
- her:a6823112-5fb0-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:cf7e7a0405c85ee159a79dcdce13890b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T153000
-DTEND;TZID=Asia/Yekaterinburg:20261005T170000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 312\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Сатаева Маргарита Рустамо
- вна\nПара: 5 пара\nДополнительно: 142к\nURALCAMP
- US_SYNC_ID:cf7e7a0405c85ee159a79dcdce13890b\nURALCAMPUS_SOURCE:preco:teac
- her:a6823112-5fb0-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f242035099aac2963fd6bff6ff855ffb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261005T171000
-DTEND;TZID=Asia/Yekaterinburg:20261005T182000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 212\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Сатаева Маргарита Рустамо
- вна\nПара: 6 пара\nДополнительно: 150к\nURALCAMP
- US_SYNC_ID:f242035099aac2963fd6bff6ff855ffb\nURALCAMPUS_SOURCE:preco:teac
- her:a6823112-5fb0-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:521bfaff1283a7844ea764d09b315fad@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261006T083000
@@ -383,17 +305,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  her:a6823112-5fb0-11ef-ad90-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:a627aed7d208aa2bb97d7fb540549593@uralcampus-calendar-pages
+UID:d7eccae63a543fd712a8fcd9ac89221c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
 DTEND;TZID=Asia/Yekaterinburg:20261010T100000
 SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
+LOCATION:ауд. 422\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Сатаева Маргарита Рустамо
  вна\nПара: 1 пара\nДополнительно: 134к\nURALCAMP
- US_SYNC_ID:a627aed7d208aa2bb97d7fb540549593\nURALCAMPUS_SOURCE:preco:teac
+ US_SYNC_ID:d7eccae63a543fd712a8fcd9ac89221c\nURALCAMPUS_SOURCE:preco:teac
  her:a6823112-5fb0-11ef-ad90-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
