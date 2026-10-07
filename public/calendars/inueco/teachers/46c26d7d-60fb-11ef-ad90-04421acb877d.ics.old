@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Неверов Але
+ ксей Яковлевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4a4fc912a068240772beff33afaf78b4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T171000
+DTEND;TZID=Asia/Yekaterinburg:20261006T182000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неверов Алексей Яковл
+ евич\nПара: 6 пара\nДополнительно: ЮЗ-201/01\,
+  ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, ЮЗ-201/05а\
+ , ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\, ЮЗ-201/08
+ \, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, ЮЗ-201/13
+ а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:4a4fc912a068240772beff3
+ 3afaf78b4\nURALCAMPUS_SOURCE:inueco:teacher:46c26d7d-60fb-11ef-ad90-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b5bc61702685b2624b6b5cdcc47d7e08@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261006T183000
+DTEND;TZID=Asia/Yekaterinburg:20261006T194000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неверов Алексей Яковл
+ евич\nПара: 7 пара\nДополнительно: ЮЗ-201/01\,
+  ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, ЮЗ-201/05а\
+ , ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\, ЮЗ-201/08
+ \, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, ЮЗ-201/13
+ а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:b5bc61702685b2624b6b5cd
+ cc47d7e08\nURALCAMPUS_SOURCE:inueco:teacher:46c26d7d-60fb-11ef-ad90-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

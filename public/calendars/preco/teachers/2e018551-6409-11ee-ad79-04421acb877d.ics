@@ -19,47 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:16d92fcae6809c330cbe1958d9d2ebf1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T083000
-DTEND;TZID=Asia/Yekaterinburg:20261006T100000
-SUMMARY:Общая и неорганическая химия (Аудит
- орные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Киреева Фирюза Зуфаровна\n
- Пара: 1 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
- CAMPUS_SYNC_ID:16d92fcae6809c330cbe1958d9d2ebf1\nURALCAMPUS_SOURCE:preco:
- teacher:2e018551-6409-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:2b471e4d6f7a96e07f2cea66826687b5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T101000
-DTEND;TZID=Asia/Yekaterinburg:20261006T114000
-SUMMARY:Основы латинского языка с медицинск
- ой терминологией (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Киреева Фирюза Зуфаровна\n
- Пара: 2 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
- CAMPUS_SYNC_ID:2b471e4d6f7a96e07f2cea66826687b5\nURALCAMPUS_SOURCE:preco:
- teacher:2e018551-6409-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:99066f360950a64ce3297f98f2a71b1d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T120000
-DTEND;TZID=Asia/Yekaterinburg:20261006T133000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Киреева Фирюза Зуфаровна\n
- Пара: 3 пара\nДополнительно: Б-164\nURALCAMPUS_SYNC
- _ID:99066f360950a64ce3297f98f2a71b1d\nURALCAMPUS_SOURCE:preco:teacher:2e0
- 18551-6409-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:f0e6d697f030031bcdaaea01b5920c15@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T083000
@@ -85,6 +44,59 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Киреева Фирюза Зуфаровна\n
  Пара: 2 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
  CAMPUS_SYNC_ID:38055751c6ffcec242fdf6643e090844\nURALCAMPUS_SOURCE:preco:
+ teacher:2e018551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:188ac59da4ce6f5820ed2755b2ab80aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
+DTEND;TZID=Asia/Yekaterinburg:20261008T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 3 пара\nДополнительно: П-170\nURALCAMPUS_SYNC
+ _ID:188ac59da4ce6f5820ed2755b2ab80aa\nURALCAMPUS_SOURCE:preco:teacher:2e0
+ 18551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a8dde0fc0df569234b9fcc8ae67cb2c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
+DTEND;TZID=Asia/Yekaterinburg:20261008T152000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 4 пара\nДополнительно: ГС-176\nURALCAMPUS_SY
+ NC_ID:a8dde0fc0df569234b9fcc8ae67cb2c2\nURALCAMPUS_SOURCE:preco:teacher:2
+ e018551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:36a5d5016ae053853b48a995a5d31706@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T153000
+DTEND;TZID=Asia/Yekaterinburg:20261008T170000
+SUMMARY:Ботаника (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 5 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
+ CAMPUS_SYNC_ID:36a5d5016ae053853b48a995a5d31706\nURALCAMPUS_SOURCE:preco:
+ teacher:2e018551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5d80adc7544d70f47b37771ba3c566dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T171000
+DTEND;TZID=Asia/Yekaterinburg:20261008T182000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 6 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
+ CAMPUS_SYNC_ID:5d80adc7544d70f47b37771ba3c566dd\nURALCAMPUS_SOURCE:preco:
  teacher:2e018551-6409-11ee-ad79-04421acb877d
 END:VEVENT
 END:VCALENDAR

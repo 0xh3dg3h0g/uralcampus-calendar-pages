@@ -18,30 +18,4 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:d03089d35f8a42050f33fb28911ed572@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T083000
-DTEND;TZID=Asia/Yekaterinburg:20261006T100000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тукуева Елена Васильевна\n
- Пара: 1 пара\nДополнительно: ПД-178\nURALCAMPUS_SY
- NC_ID:d03089d35f8a42050f33fb28911ed572\nURALCAMPUS_SOURCE:preco:teacher:f
- b8ca2bc-4e05-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:352abb1e17be29b807f54d7c81f5ea08@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T101000
-DTEND;TZID=Asia/Yekaterinburg:20261006T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тукуева Елена Васильевна\n
- Пара: 2 пара\nДополнительно: Ю-168\nURALCAMPUS_SYNC
- _ID:352abb1e17be29b807f54d7c81f5ea08\nURALCAMPUS_SOURCE:preco:teacher:fb8
- ca2bc-4e05-11ee-ad78-04421acb877d
-END:VEVENT
 END:VCALENDAR

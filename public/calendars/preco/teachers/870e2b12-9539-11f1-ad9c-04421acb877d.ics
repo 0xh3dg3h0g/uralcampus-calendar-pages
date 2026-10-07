@@ -19,63 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:921b074f5abf7ef058e4656e5c80f5dc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T083000
-DTEND;TZID=Asia/Yekaterinburg:20261006T100000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 1 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:921b074f5abf7ef058e4656e5c80f5dc\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a7815de73c7b50621c72c2ad62c1dc52@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T101000
-DTEND;TZID=Asia/Yekaterinburg:20261006T114000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:a7815de73c7b50621c72c2ad62c1dc52\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:28f445327cc247de96b8cc37e85d3579@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T120000
-DTEND;TZID=Asia/Yekaterinburg:20261006T133000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:28f445327cc247de96b8cc37e85d3579\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1382846adadb153bdf896842f7f9b53b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T135000
-DTEND;TZID=Asia/Yekaterinburg:20261006T152000
-SUMMARY:Генетика человека с основами медици
- нской генетики (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 4 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:1382846adadb153bdf896842f7f9b53b\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:d61e3bc8efad999e07fc12f06b623afd@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T083000
@@ -719,5 +662,65 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  Пара: 2 пара\nДополнительно: СД-253к\, СД-253А
  к\nURALCAMPUS_SYNC_ID:3124ce90c9bdb829ad0568f7a71ed6c6\nURALCAMPUS_SOURC
  E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:982effcee574865fe273caf1b7ddc26f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T120000
+DTEND;TZID=Asia/Yekaterinburg:20261024T133000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 3 пара\nДополнительно: СД/оз-222А\nURALCA
+ MPUS_SYNC_ID:982effcee574865fe273caf1b7ddc26f\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e1495981dd1521e31288fabf8fcbbeee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T134000
+DTEND;TZID=Asia/Yekaterinburg:20261024T151000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 4 пара\nДополнительно: СД/оз-222А\nURALCA
+ MPUS_SYNC_ID:e1495981dd1521e31288fabf8fcbbeee\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8c63064d353887ea5f89bddd2560d4f3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T152000
+DTEND;TZID=Asia/Yekaterinburg:20261024T165000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 5 пара\nДополнительно: СД/оз-222А\nURALCA
+ MPUS_SYNC_ID:8c63064d353887ea5f89bddd2560d4f3\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f87db861a7408711b2947e19b50a7c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T170000
+DTEND;TZID=Asia/Yekaterinburg:20261024T181000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 6 пара\nДополнительно: СД/оз-222А\nURALCA
+ MPUS_SYNC_ID:a0f87db861a7408711b2947e19b50a7c\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

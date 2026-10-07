@@ -18,33 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:33f19366f2f8cafc55d234e439b092c0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T083000
-DTEND;TZID=Asia/Yekaterinburg:20261006T100000
-SUMMARY:Численные методы (Аудиторные заняти
- я)
-LOCATION:ауд. 7\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-370\, П-370А\nПара: 1 пара\nДополнитель
- но: Карасова А.А.\nURALCAMPUS_SYNC_ID:33f19366f2f8cafc55d234e
- 439b092c0\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9c129c91741d545dee455a33e9d7cc69@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T101000
-DTEND;TZID=Asia/Yekaterinburg:20261006T114000
-SUMMARY:WEB-технологии (Аудиторные занятия)
-LOCATION:ауд. 7\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-370\, П-370А\nПара: 2 пара\nДополнитель
- но: Карасова А.А.\nURALCAMPUS_SYNC_ID:9c129c91741d545dee455a3
- 3e9d7cc69\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:89282e715c0c3d14b1eefde82fdf2674@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T083000
@@ -84,6 +57,61 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-370\, П-370А\nПара: 3 пара\nДополнитель
  но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:2ac1ac25be9d29f741b464255
  1650102\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:9520107d7d924e2ac69a3895e47fb5e0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T083000
+DTEND;TZID=Asia/Yekaterinburg:20261008T100000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-370\, П-370А\nПара: 1 пара\nДополнитель
+ но: Карасова А.А.\nURALCAMPUS_SYNC_ID:9520107d7d924e2ac69a389
+ 5e47fb5e0\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4cee92b46b41cb27ed472d4553575855@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
+DTEND;TZID=Asia/Yekaterinburg:20261008T114000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-370\, П-370А\nПара: 2 пара\nДополнитель
+ но: Карасова А.А.\nURALCAMPUS_SYNC_ID:4cee92b46b41cb27ed472d4
+ 553575855\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d22fdcde3bf094b9a8452a17de78ee53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
+DTEND;TZID=Asia/Yekaterinburg:20261008T133000
+SUMMARY:WEB-технологии (Аудиторные занятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-370\, П-370А\nПара: 3 пара\nДополнитель
+ но: Карасова А.А.\nURALCAMPUS_SYNC_ID:d22fdcde3bf094b9a8452a1
+ 7de78ee53\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fc19fb1c161b64f2bf646ee5fa084128@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
+DTEND;TZID=Asia/Yekaterinburg:20261008T152000
+SUMMARY:Менеджмент в профессиональной деят
+ ельности (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-370\, П-370А\nПара: 4 пара\nДополнитель
+ но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:fc19fb1c161b64f2bf646ee5f
+ a084128\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb87
  7d
 END:VEVENT
 END:VCALENDAR

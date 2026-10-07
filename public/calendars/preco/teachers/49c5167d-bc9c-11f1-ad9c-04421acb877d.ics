@@ -19,17 +19,31 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a0c772b0810a02849c064e5d1f423f51@uralcampus-calendar-pages
+UID:e6f16004b6e32e783d0e8924f7519b03@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T083000
-DTEND;TZID=Asia/Yekaterinburg:20261006T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Исмаилова Вусала Аташовна\
+ nПара: 3 пара\nДополнительно: 130\nURALCAMPUS_SYNC_I
+ D:e6f16004b6e32e783d0e8924f7519b03\nURALCAMPUS_SOURCE:preco:teacher:49c51
+ 67d-bc9c-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c0535c8f22de606d8415f0afd25e411f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
+DTEND;TZID=Asia/Yekaterinburg:20261020T100000
 SUMMARY:Основы безопасности и защиты Родины
   (Аудиторные занятия)
 LOCATION:ауд. 312\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Исмаилова Вусала Аташовна\
  nПара: 1 пара\nДополнительно: 130\nURALCAMPUS_SYNC_I
- D:a0c772b0810a02849c064e5d1f423f51\nURALCAMPUS_SOURCE:preco:teacher:49c51
+ D:c0535c8f22de606d8415f0afd25e411f\nURALCAMPUS_SOURCE:preco:teacher:49c51
  67d-bc9c-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

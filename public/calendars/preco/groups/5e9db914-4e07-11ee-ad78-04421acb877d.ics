@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d66b11d4368bfe21fa11497df94dbab8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T083000
-DTEND;TZID=Asia/Yekaterinburg:20261006T100000
-SUMMARY:Общая и неорганическая химия (Аудит
- орные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-262\, Ф-262А\nПара: 1 пара\nДополнитель
- но: Киреева Ф.З.\nURALCAMPUS_SYNC_ID:d66b11d4368bfe21fa11497df
- 94dbab8\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
-UID:f876b330940c1e9001f7557ee5b7d998@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261006T101000
-DTEND;TZID=Asia/Yekaterinburg:20261006T114000
-SUMMARY:Основы латинского языка с медицинск
- ой терминологией (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-262\, Ф-262А\nПара: 2 пара\nДополнитель
- но: Киреева Ф.З.\nURALCAMPUS_SYNC_ID:f876b330940c1e9001f7557ee
- 5b7d998\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
 UID:21bfb0139976a1eb6d9d456a10b22f4c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261007T083000
@@ -71,6 +43,46 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ф-262\, Ф-262А\nПара: 2 пара\nДополнитель
  но: Киреева Ф.З.\nURALCAMPUS_SYNC_ID:dd71ac1cf383b805e922624ec
  960219c\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:6e26050347c383b157ef667d6ecc6daa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
+DTEND;TZID=Asia/Yekaterinburg:20261008T152000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-262\, Ф-262А\nПара: 4 пара\nДополнитель
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:6e26050347c383b157ef667d6ec
+ c6daa\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1eb4be0adee5d3f898c2679ba080df5b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T153000
+DTEND;TZID=Asia/Yekaterinburg:20261008T170000
+SUMMARY:Ботаника (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-262\, Ф-262А\nПара: 5 пара\nДополнитель
+ но: Киреева Ф.З.\nURALCAMPUS_SYNC_ID:1eb4be0adee5d3f898c2679ba
+ 080df5b\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:ec30909a983d5df06c04518123a68792@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261008T171000
+DTEND;TZID=Asia/Yekaterinburg:20261008T182000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-262\, Ф-262А\nПара: 6 пара\nДополнитель
+ но: Киреева Ф.З.\nURALCAMPUS_SYNC_ID:ec30909a983d5df06c0451812
+ 3a68792\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
  7d
 END:VEVENT
 END:VCALENDAR
