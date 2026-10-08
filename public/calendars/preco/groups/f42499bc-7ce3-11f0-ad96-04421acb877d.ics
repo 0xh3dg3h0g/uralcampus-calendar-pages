@@ -18,43 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4def1bf41986f77bee30c4b0a4a01ce3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261007T083000
-DTEND;TZID=Asia/Yekaterinburg:20261007T100000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 304\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 109\nПара: 1 пара\nДополнительно: Муси
- н А.Р.\nURALCAMPUS_SYNC_ID:4def1bf41986f77bee30c4b0a4a01ce3\nURALCAMPU
- S_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d41eb0541002df3dd2b0f613dc76caad@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261007T101000
-DTEND;TZID=Asia/Yekaterinburg:20261007T114000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 203\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 109\nПара: 2 пара\nДополнительно: Попо
- ва К.С.\nURALCAMPUS_SYNC_ID:d41eb0541002df3dd2b0f613dc76caad\nURALCAM
- PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8f1a048bc63df390ecdb087ce1e246fd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261007T120000
-DTEND;TZID=Asia/Yekaterinburg:20261007T133000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 207\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 109\nПара: 3 пара\nДополнительно: Степ
- анова С.Л.\nURALCAMPUS_SYNC_ID:8f1a048bc63df390ecdb087ce1e246fd\nU
- RALCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:508f320ea7493bfdaf3d786b8739ab37@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
@@ -149,6 +112,385 @@ LOCATION:ауд. 408\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 109\nПара: 5 пара\nДополнительно: Балы
  кова О.В.\nURALCAMPUS_SYNC_ID:ce12e2c772cfa8ca2c2cdda63843290e\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b7eb67956b9f63bc06864b96d18047e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 2 пара\nДополнительно: Друж
+ инин В.А.\nURALCAMPUS_SYNC_ID:b7eb67956b9f63bc06864b96d18047e8\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3274a4e39d1a291c154575404d27bcb0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 3 пара\nДополнительно: Зено
+ ва И.А.\nURALCAMPUS_SYNC_ID:3274a4e39d1a291c154575404d27bcb0\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3bbb345c4678148ec059bf282ae023bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T135000
+DTEND;TZID=Asia/Yekaterinburg:20261012T152000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 4 пара\nДополнительно: Алек
+ сандрова Ю.В.\nURALCAMPUS_SYNC_ID:3bbb345c4678148ec059bf282ae02
+ 3bf\nURALCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aa75e66cabd02b8a37a46a7d6ce4c34b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 2 пара\nДополнительно: Корб
+ алев И.А.\nURALCAMPUS_SYNC_ID:aa75e66cabd02b8a37a46a7d6ce4c34b\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10f9fd7317b3d8491bc33a3133a4adc0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 3 пара\nДополнительно: Степ
+ анова С.Л.\nURALCAMPUS_SYNC_ID:10f9fd7317b3d8491bc33a3133a4adc0\nU
+ RALCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4a310ef52a53a45da11e69f87f898ae1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T083000
+DTEND;TZID=Asia/Yekaterinburg:20261014T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 1 пара\nДополнительно: Муси
+ н А.Р.\nURALCAMPUS_SYNC_ID:4a310ef52a53a45da11e69f87f898ae1\nURALCAMPU
+ S_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1635b61d5c6ff995e68c215f144514df@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T101000
+DTEND;TZID=Asia/Yekaterinburg:20261014T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 2 пара\nДополнительно: Попо
+ ва К.С.\nURALCAMPUS_SYNC_ID:1635b61d5c6ff995e68c215f144514df\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e67b63a311515ac64d4e19f3c17afd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T120000
+DTEND;TZID=Asia/Yekaterinburg:20261014T133000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 3 пара\nДополнительно: Степ
+ анова С.Л.\nURALCAMPUS_SYNC_ID:d0e67b63a311515ac64d4e19f3c17afd\nU
+ RALCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:637143778b771ae437dbe776f6e8002b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T135000
+DTEND;TZID=Asia/Yekaterinburg:20261015T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 4 пара\nДополнительно: Друж
+ инин В.А.\nURALCAMPUS_SYNC_ID:637143778b771ae437dbe776f6e8002b\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:011574cc6dcc59b110e2a01275ded87f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T153000
+DTEND;TZID=Asia/Yekaterinburg:20261015T170000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 5 пара\nДополнительно: Коже
+ вникова Е.Б.\nURALCAMPUS_SYNC_ID:011574cc6dcc59b110e2a01275ded87
+ f\nURALCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6f348bb33b3db79f68ab4b21d5149d48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T171000
+DTEND;TZID=Asia/Yekaterinburg:20261015T182000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 6 пара\nДополнительно: Сата
+ ева М.Р.\nURALCAMPUS_SYNC_ID:6f348bb33b3db79f68ab4b21d5149d48\nURALC
+ AMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe29c4eae2f9c1e45cbfc1b94de08d9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T083000
+DTEND;TZID=Asia/Yekaterinburg:20261016T100000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 1 пара\nДополнительно: Друж
+ инин В.А.\nURALCAMPUS_SYNC_ID:1fe29c4eae2f9c1e45cbfc1b94de08d9\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6167fbf245f1f76effed439f507f7b5a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T101000
+DTEND;TZID=Asia/Yekaterinburg:20261016T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 2 пара\nДополнительно: Пано
+ ва Л.В.\nURALCAMPUS_SYNC_ID:6167fbf245f1f76effed439f507f7b5a\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7f106a1883727e7067cd1d4d23efc857@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T134000
+DTEND;TZID=Asia/Yekaterinburg:20261017T151000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 4 пара\nДополнительно: Жусу
+ пов А.Д.\nURALCAMPUS_SYNC_ID:7f106a1883727e7067cd1d4d23efc857\nURALC
+ AMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7004a5317cc9b16744e1439d49cb57@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T152000
+DTEND;TZID=Asia/Yekaterinburg:20261017T165000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 5 пара\nДополнительно: Балы
+ кова О.В.\nURALCAMPUS_SYNC_ID:4d7004a5317cc9b16744e1439d49cb57\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:200097aff0cf493944f15693b424342d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
+DTEND;TZID=Asia/Yekaterinburg:20261019T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 2 пара\nДополнительно: Друж
+ инин В.А.\nURALCAMPUS_SYNC_ID:200097aff0cf493944f15693b424342d\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b026967c6ca8ae1bbd26bb0f7b8ecf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 3 пара\nДополнительно: Зено
+ ва И.А.\nURALCAMPUS_SYNC_ID:b2b026967c6ca8ae1bbd26bb0f7b8ecf\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7bfbbb19445a23671df5bcefd8f6503a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
+DTEND;TZID=Asia/Yekaterinburg:20261020T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 1 пара\nДополнительно: Зено
+ ва И.А.\nURALCAMPUS_SYNC_ID:7bfbbb19445a23671df5bcefd8f6503a\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9d4b157fedc50482b6b5f3b38173b061@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T101000
+DTEND;TZID=Asia/Yekaterinburg:20261020T114000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 2 пара\nДополнительно: Корб
+ алев И.А.\nURALCAMPUS_SYNC_ID:9d4b157fedc50482b6b5f3b38173b061\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:12fc5da8b7e0f46050cb188c8a1b3c4c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T120000
+DTEND;TZID=Asia/Yekaterinburg:20261020T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 3 пара\nДополнительно: Степ
+ анова С.Л.\nURALCAMPUS_SYNC_ID:12fc5da8b7e0f46050cb188c8a1b3c4c\nU
+ RALCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:61f553c84bde431892f632b26ad86002@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T083000
+DTEND;TZID=Asia/Yekaterinburg:20261021T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 1 пара\nДополнительно: Муси
+ н А.Р.\nURALCAMPUS_SYNC_ID:61f553c84bde431892f632b26ad86002\nURALCAMPU
+ S_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8d0c2220e5b5c13b0f55da93f56d54ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T101000
+DTEND;TZID=Asia/Yekaterinburg:20261021T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 2 пара\nДополнительно: Попо
+ ва К.С.\nURALCAMPUS_SYNC_ID:8d0c2220e5b5c13b0f55da93f56d54ee\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f46b3746f9fc56bec82808ebb716a7e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T120000
+DTEND;TZID=Asia/Yekaterinburg:20261021T133000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 3 пара\nДополнительно: Степ
+ анова С.Л.\nURALCAMPUS_SYNC_ID:f46b3746f9fc56bec82808ebb716a7e5\nU
+ RALCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f7de2cbbafd913b52aaf54e366c525ef@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T120000
+DTEND;TZID=Asia/Yekaterinburg:20261022T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 3 пара\nДополнительно: Пано
+ ва Л.В.\nURALCAMPUS_SYNC_ID:f7de2cbbafd913b52aaf54e366c525ef\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:14acdffd65d754190cbf94f4734152d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T135000
+DTEND;TZID=Asia/Yekaterinburg:20261022T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 4 пара\nДополнительно: Пано
+ ва Л.В.\nURALCAMPUS_SYNC_ID:14acdffd65d754190cbf94f4734152d6\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1406b9a883565763bd64ce7b3af658a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T153000
+DTEND;TZID=Asia/Yekaterinburg:20261022T170000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 5 пара\nДополнительно: Коже
+ вникова Е.Б.\nURALCAMPUS_SYNC_ID:1406b9a883565763bd64ce7b3af658a
+ 5\nURALCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34c635d0ce9a325713c8dbd863ded0e6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T171000
+DTEND;TZID=Asia/Yekaterinburg:20261022T182000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 6 пара\nДополнительно: Сата
+ ева М.Р.\nURALCAMPUS_SYNC_ID:34c635d0ce9a325713c8dbd863ded0e6\nURALC
+ AMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fd5cdadbecdd19b337ca6870d07e9642@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T083000
+DTEND;TZID=Asia/Yekaterinburg:20261023T100000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 1 пара\nДополнительно: Друж
+ инин В.А.\nURALCAMPUS_SYNC_ID:fd5cdadbecdd19b337ca6870d07e9642\nURA
+ LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7a6af1eca9c18f16b9b0c497842c0684@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T101000
+DTEND;TZID=Asia/Yekaterinburg:20261023T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 2 пара\nДополнительно: Зено
+ ва И.А.\nURALCAMPUS_SYNC_ID:7a6af1eca9c18f16b9b0c497842c0684\nURALCAM
+ PUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e356cda4726d4917276bc18ce2aa5128@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T134000
+DTEND;TZID=Asia/Yekaterinburg:20261024T151000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 4 пара\nДополнительно: Жусу
+ пов А.Д.\nURALCAMPUS_SYNC_ID:e356cda4726d4917276bc18ce2aa5128\nURALC
+ AMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ef2a24a9fc07e6918d61c3b0c1ab0028@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T152000
+DTEND;TZID=Asia/Yekaterinburg:20261024T165000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 408\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 109\nПара: 5 пара\nДополнительно: Балы
+ кова О.В.\nURALCAMPUS_SYNC_ID:ef2a24a9fc07e6918d61c3b0c1ab0028\nURA
  LCAMPUS_SOURCE:preco:group:f42499bc-7ce3-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

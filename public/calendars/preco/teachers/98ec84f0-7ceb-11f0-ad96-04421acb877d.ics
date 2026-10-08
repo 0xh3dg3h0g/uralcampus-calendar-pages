@@ -19,18 +19,32 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f98bdbab0b24e7d31b0f7616e601d6b6@uralcampus-calendar-pages
+UID:4be48b65087fa089315f1df687895c20@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
+DTEND;TZID=Asia/Yekaterinburg:20261009T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 3 пара\nДополнительно: ПД-219\, ПД-219А\
+ nURALCAMPUS_SYNC_ID:4be48b65087fa089315f1df687895c20\nURALCAMPUS_SOURCE:p
+ reco:teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0d7bf95dd252a3be3f4d0b1343cadc1a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
 DTEND;TZID=Asia/Yekaterinburg:20261009T152000
 SUMMARY:Иностранный язык (Аудиторные заняти
  я)
-LOCATION:ауд. 207\, Комаровского 9А
+LOCATION:ауд. 403\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Сазонова Инна Анатольевна\
- nПара: 4 пара\nДополнительно: СД-323\nURALCAMPUS_S
- YNC_ID:f98bdbab0b24e7d31b0f7616e601d6b6\nURALCAMPUS_SOURCE:preco:teacher:
- 98ec84f0-7ceb-11f0-ad96-04421acb877d
+ nПара: 4 пара\nДополнительно: ПД-219\, ПД-219А\
+ nURALCAMPUS_SYNC_ID:0d7bf95dd252a3be3f4d0b1343cadc1a\nURALCAMPUS_SOURCE:p
+ reco:teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:8a12f6b52dcbacd82c0ca539d243c2a4@uralcampus-calendar-pages
@@ -61,34 +75,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:978fd791213492b3da8ff2db2f225807@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
-DTEND;TZID=Asia/Yekaterinburg:20261010T100000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 504\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Сазонова Инна Анатольевна\
- nПара: 1 пара\nДополнительно: ПД-219\, ПД-219А\
- nURALCAMPUS_SYNC_ID:978fd791213492b3da8ff2db2f225807\nURALCAMPUS_SOURCE:p
- reco:teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7880d8e90041d1082f57da4bf0b24b30@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261010T101000
-DTEND;TZID=Asia/Yekaterinburg:20261010T114000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 504\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Сазонова Инна Анатольевна\
- nПара: 2 пара\nДополнительно: ПД-219\, ПД-219А\
- nURALCAMPUS_SYNC_ID:7880d8e90041d1082f57da4bf0b24b30\nURALCAMPUS_SOURCE:p
- reco:teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:443640021abba7023370c1938af8b9f0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261010T120000
@@ -114,6 +100,258 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Сазонова Инна Анатольевна\
  nПара: 4 пара\nДополнительно: СД-322\nURALCAMPUS_S
  YNC_ID:6589f953557480730007d5db58f6cec8\nURALCAMPUS_SOURCE:preco:teacher:
+ 98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:583ef810cc34bffac0e2d15bfd048dcf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 1 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:583ef810cc34bffac0e2d15bfd048dcf\nURALCAMPUS_SOURCE:preco
+ :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:814776753d51cfa1bb5d1ba88062f373@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 2 пара\nДополнительно: Ф-202\, Ф-202А\nURA
+ LCAMPUS_SYNC_ID:814776753d51cfa1bb5d1ba88062f373\nURALCAMPUS_SOURCE:preco
+ :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:483e8f61f509e90b497daf854c2bdbd4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
+DTEND;TZID=Asia/Yekaterinburg:20261016T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 4 пара\nДополнительно: СД-323\nURALCAMPUS_S
+ YNC_ID:483e8f61f509e90b497daf854c2bdbd4\nURALCAMPUS_SOURCE:preco:teacher:
+ 98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:df205acfe9b0ad12a2863b2f35d8c1ce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T153000
+DTEND;TZID=Asia/Yekaterinburg:20261016T170000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 303\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 5 пара\nДополнительно: Ю-208\, Ю-208А\nURA
+ LCAMPUS_SYNC_ID:df205acfe9b0ad12a2863b2f35d8c1ce\nURALCAMPUS_SOURCE:preco
+ :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:553ce60c5fc9ce42cabd00d9ba8add34@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T171000
+DTEND;TZID=Asia/Yekaterinburg:20261016T182000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 6 пара\nДополнительно: Ю-308\, Ю-308А\nURA
+ LCAMPUS_SYNC_ID:553ce60c5fc9ce42cabd00d9ba8add34\nURALCAMPUS_SOURCE:preco
+ :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e16906eb1fa026edd130ed42cce5db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
+DTEND;TZID=Asia/Yekaterinburg:20261017T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 1 пара\nДополнительно: ПД-218\, ПД-218А\
+ nURALCAMPUS_SYNC_ID:f2e16906eb1fa026edd130ed42cce5db\nURALCAMPUS_SOURCE:p
+ reco:teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:351964e82432653afe3b7af76a46ea11@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 2 пара\nДополнительно: ПД-218\, ПД-218А\
+ nURALCAMPUS_SYNC_ID:351964e82432653afe3b7af76a46ea11\nURALCAMPUS_SOURCE:p
+ reco:teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6cc3d30d925033f197035789f5c60876@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 3 пара\nДополнительно: СД-222\nURALCAMPUS_S
+ YNC_ID:6cc3d30d925033f197035789f5c60876\nURALCAMPUS_SOURCE:preco:teacher:
+ 98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c320a9cf05bdfdbcaa882823e88c8458@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T134000
+DTEND;TZID=Asia/Yekaterinburg:20261017T151000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 4 пара\nДополнительно: СД-222\nURALCAMPUS_S
+ YNC_ID:c320a9cf05bdfdbcaa882823e88c8458\nURALCAMPUS_SOURCE:preco:teacher:
+ 98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5b70d0e20d409af3453434853389d5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
+DTEND;TZID=Asia/Yekaterinburg:20261020T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 1 пара\nДополнительно: Ф-302\, Ф-302А\nURA
+ LCAMPUS_SYNC_ID:6e5b70d0e20d409af3453434853389d5\nURALCAMPUS_SOURCE:preco
+ :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0a59bb7a91db19c02e90810d76c27422@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T101000
+DTEND;TZID=Asia/Yekaterinburg:20261020T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 2 пара\nДополнительно: Ф-202\, Ф-202А\nURA
+ LCAMPUS_SYNC_ID:0a59bb7a91db19c02e90810d76c27422\nURALCAMPUS_SOURCE:preco
+ :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c425c143f8bdfbf29ffde466d6623cbf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T135000
+DTEND;TZID=Asia/Yekaterinburg:20261023T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 207\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 4 пара\nДополнительно: СД-323\nURALCAMPUS_S
+ YNC_ID:c425c143f8bdfbf29ffde466d6623cbf\nURALCAMPUS_SOURCE:preco:teacher:
+ 98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1e6cda99c05edc515de7f5f5ed839d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T153000
+DTEND;TZID=Asia/Yekaterinburg:20261023T170000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 5 пара\nДополнительно: Ю-208\, Ю-208А\nURA
+ LCAMPUS_SYNC_ID:8d1e6cda99c05edc515de7f5f5ed839d\nURALCAMPUS_SOURCE:preco
+ :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:da9f8ba17457915e3472aa43bae710c5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T171000
+DTEND;TZID=Asia/Yekaterinburg:20261023T182000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 6 пара\nДополнительно: Ю-308\, Ю-308А\nURA
+ LCAMPUS_SYNC_ID:da9f8ba17457915e3472aa43bae710c5\nURALCAMPUS_SOURCE:preco
+ :teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb1e20f1e376855b92a2d39a0d86258@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T083000
+DTEND;TZID=Asia/Yekaterinburg:20261024T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 1 пара\nДополнительно: ПД-219\, ПД-219А\
+ nURALCAMPUS_SYNC_ID:0cb1e20f1e376855b92a2d39a0d86258\nURALCAMPUS_SOURCE:p
+ reco:teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:95d3c3806a408696c39c1f23865a9f60@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T101000
+DTEND;TZID=Asia/Yekaterinburg:20261024T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 504\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 2 пара\nДополнительно: ПД-219\, ПД-219А\
+ nURALCAMPUS_SYNC_ID:95d3c3806a408696c39c1f23865a9f60\nURALCAMPUS_SOURCE:p
+ reco:teacher:98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:818c07cdde9307c8f1868a0b032c9101@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T120000
+DTEND;TZID=Asia/Yekaterinburg:20261024T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 3 пара\nДополнительно: СД-322\nURALCAMPUS_S
+ YNC_ID:818c07cdde9307c8f1868a0b032c9101\nURALCAMPUS_SOURCE:preco:teacher:
+ 98ec84f0-7ceb-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ac68d7fc1b7ec558121f2148b6edfa08@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T134000
+DTEND;TZID=Asia/Yekaterinburg:20261024T151000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сазонова Инна Анатольевна\
+ nПара: 4 пара\nДополнительно: СД-322\nURALCAMPUS_S
+ YNC_ID:ac68d7fc1b7ec558121f2148b6edfa08\nURALCAMPUS_SOURCE:preco:teacher:
  98ec84f0-7ceb-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

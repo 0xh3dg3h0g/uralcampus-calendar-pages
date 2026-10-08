@@ -17,4 +17,41 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:bd012834b03c836901b958a393b4643b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
+DTEND;TZID=Asia/Yekaterinburg:20261017T100000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДЗ-118\nПара: 1 пара\nДополнительно: 
+ Жусупов А.Д.\nURALCAMPUS_SYNC_ID:bd012834b03c836901b958a393b4643
+ b\nURALCAMPUS_SOURCE:preco:group:745b5112-7961-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:99e6301ed26d4573f45d7b8948f0a18a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДЗ-118\nПара: 2 пара\nДополнительно: 
+ Зенова И.А.\nURALCAMPUS_SYNC_ID:99e6301ed26d4573f45d7b8948f0a18a\
+ nURALCAMPUS_SOURCE:preco:group:745b5112-7961-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:81ccdd327a2f1b6f3ee1b384521f1d9a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДЗ-118\nПара: 3 пара\nДополнительно: 
+ Зенова И.А.\nURALCAMPUS_SYNC_ID:81ccdd327a2f1b6f3ee1b384521f1d9a\
+ nURALCAMPUS_SOURCE:preco:group:745b5112-7961-11ee-ad7a-04421acb877d
+END:VEVENT
 END:VCALENDAR

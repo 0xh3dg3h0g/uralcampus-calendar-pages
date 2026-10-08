@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:8e3c9f7584b2a5a1253c17ff05b073be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T101000
+DTEND;TZID=Asia/Yekaterinburg:20261010T114000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шулигина Светлана Юрьевна\
+ nПара: 2 пара\nДополнительно: СД/оз-202А/02\nUR
+ ALCAMPUS_SYNC_ID:8e3c9f7584b2a5a1253c17ff05b073be\nURALCAMPUS_SOURCE:prec
+ o:teacher:f516572c-a7ea-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:60b5e27ec9f7175928989f0edc0107ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261010T120000
+DTEND;TZID=Asia/Yekaterinburg:20261010T133000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шулигина Светлана Юрьевна\
+ nПара: 3 пара\nДополнительно: СД/оз-202А/02\nUR
+ ALCAMPUS_SYNC_ID:60b5e27ec9f7175928989f0edc0107ca\nURALCAMPUS_SOURCE:prec
+ o:teacher:f516572c-a7ea-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR

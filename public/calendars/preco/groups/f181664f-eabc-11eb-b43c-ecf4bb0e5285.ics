@@ -18,47 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e20af82e41724280102ae54dda509d2a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261007T120000
-DTEND;TZID=Asia/Yekaterinburg:20261007T133000
-SUMMARY:Основы финансовой грамотности (Ауди
- торные занятия)
-LOCATION:ауд. 503\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-219\, ПД-219А\nПара: 3 пара\nДополните
- льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:e20af82e41724280102ae
- 54dda509d2a\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
- 0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:a143a67bfef4e7d7b46d6bf8e6973be5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261007T135000
-DTEND;TZID=Asia/Yekaterinburg:20261007T152000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 503\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
- льно: Дружинин В.А.\nURALCAMPUS_SYNC_ID:a143a67bfef4e7d7b46
- d6bf8e6973be5\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
- bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:d045bd3079ef0f270eb5ccbf3e182bc3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261007T153000
-DTEND;TZID=Asia/Yekaterinburg:20261007T170000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 503\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-219\, ПД-219А\nПара: 5 пара\nДополните
- льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:d045bd3079ef0f270eb5c
- cbf3e182bc3\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
- 0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:e9105e0d1fe40003dc7b578a8031c576@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261008T083000
@@ -85,6 +44,34 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:724c40a160bea8e540088
  534125170a7\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
  0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:500d724242865dd7c8ceb1d556ad35f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
+DTEND;TZID=Asia/Yekaterinburg:20261009T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 3 пара\nДополните
+ льно: Сазонова И.А.\nURALCAMPUS_SYNC_ID:500d724242865dd7c8c
+ eb1d556ad35f2\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:35e68bcf37dcda9bf34c842baf83e242@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
+DTEND;TZID=Asia/Yekaterinburg:20261009T152000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
+ льно: Сазонова И.А.\nURALCAMPUS_SYNC_ID:35e68bcf37dcda9bf34
+ c842baf83e242\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
+ bb0e5285
 END:VEVENT
 BEGIN:VEVENT
 UID:5bcfa0199337b20952e0ddeef67d3e20@uralcampus-calendar-pages
@@ -115,31 +102,425 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  0e5285
 END:VEVENT
 BEGIN:VEVENT
-UID:535ce22a94d3d9f81b7e9feb2cd1bae9@uralcampus-calendar-pages
+UID:ac9b67631bbead6a50bad9d80aa374e2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
-DTEND;TZID=Asia/Yekaterinburg:20261010T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 2 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:ac9b67631bbead6a50bad
+ 9d80aa374e2\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3c80d426c1464dd742e2dfe50d198f00@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 3 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:3c80d426c1464dd742e2d
+ fe50d198f00\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:fe85d29f878b6d10f1988784774def5f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T135000
+DTEND;TZID=Asia/Yekaterinburg:20261012T152000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:fe85d29f878b6d10f1988
+ 784774def5f\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4142ee1f2f0a9f9cf096ff78bfa7bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T153000
+DTEND;TZID=Asia/Yekaterinburg:20261012T170000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 5 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:3c4142ee1f2f0a9f9cf09
+ 6ff78bfa7bb\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a35a70362f623f39df8ad60eb01226f3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 2 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:a35a70362f623f39df8ad
+ 60eb01226f3\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9afbf8c8494ca9da1873a16504023fa4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 3 пара\nДополните
+ льно: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:9afbf8c8494ca9da1
+ 873a16504023fa4\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ec
+ f4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9707e743ccd21623b48a870063191a35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
+DTEND;TZID=Asia/Yekaterinburg:20261013T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
+ льно: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:9707e743ccd21623b
+ 48a870063191a35\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ec
+ f4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ca84b44a15502b8beb7fe10252bf7119@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T135000
+DTEND;TZID=Asia/Yekaterinburg:20261014T152000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
+ льно: Дружинин В.А.\nURALCAMPUS_SYNC_ID:ca84b44a15502b8beb7
+ fe10252bf7119\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3016531802eb59e32332860b68a980ad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T153000
+DTEND;TZID=Asia/Yekaterinburg:20261014T170000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 5 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:3016531802eb59e323328
+ 60b68a980ad\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:61de4ec3c0f5e31f68b9bad6bce3c8f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T171000
+DTEND;TZID=Asia/Yekaterinburg:20261014T182000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 6 пара\nДополните
+ льно: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:61de4ec3c0f5e31f68b9b
+ ad6bce3c8f5\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:25b86822035742310be53f9ed76352b3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T083000
+DTEND;TZID=Asia/Yekaterinburg:20261015T100000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 1 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:25b86822035742310be53
+ f9ed76352b3\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b8d09a35dadbb7abb3a4d7d36c454842@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T101000
+DTEND;TZID=Asia/Yekaterinburg:20261015T114000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 2 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:b8d09a35dadbb7abb3a4d
+ 7d36c454842\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:110d402e02dc0ba5e75962b8b8a6b1bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T153000
+DTEND;TZID=Asia/Yekaterinburg:20261016T170000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 5 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:110d402e02dc0ba5e7596
+ 2b8b8a6b1bd\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:a58c97898fb8e9b7d23dfbd95465eb20@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T171000
+DTEND;TZID=Asia/Yekaterinburg:20261016T182000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 6 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:a58c97898fb8e9b7d23df
+ bd95465eb20\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:fc72502df37d962df2185fc6f99cd237@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
+DTEND;TZID=Asia/Yekaterinburg:20261019T114000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 2 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:fc72502df37d962df2185
+ fc6f99cd237\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:97ffc37c3b3ccf63ae680fa487b66f82@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 3 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:97ffc37c3b3ccf63ae680
+ fa487b66f82\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:c8861b4a2d482a71c297936cd3599348@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
+DTEND;TZID=Asia/Yekaterinburg:20261019T152000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:c8861b4a2d482a71c2979
+ 36cd3599348\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b71e7d13a99a0ef0b19eb64c20189a2d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T153000
+DTEND;TZID=Asia/Yekaterinburg:20261019T170000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 5 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:b71e7d13a99a0ef0b19eb
+ 64c20189a2d\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:45cb6062f92bd4789a88cc3cf9197321@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T101000
+DTEND;TZID=Asia/Yekaterinburg:20261020T114000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 2 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:45cb6062f92bd4789a88c
+ c3cf9197321\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:de6429fda54a3be63baf78f58fd3af11@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T120000
+DTEND;TZID=Asia/Yekaterinburg:20261020T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 3 пара\nДополните
+ льно: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:de6429fda54a3be63
+ baf78f58fd3af11\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ec
+ f4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3374d2e15d8158d3d798fa70d7eb6e05@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T135000
+DTEND;TZID=Asia/Yekaterinburg:20261020T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
+ льно: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:3374d2e15d8158d3d
+ 798fa70d7eb6e05\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ec
+ f4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e880071bffe84157606b73859df435@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T120000
+DTEND;TZID=Asia/Yekaterinburg:20261021T133000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 3 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:e2e880071bffe84157606
+ b73859df435\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4afeb986b04aaaba836951aca3752ec5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T135000
+DTEND;TZID=Asia/Yekaterinburg:20261021T152000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 4 пара\nДополните
+ льно: Дружинин В.А.\nURALCAMPUS_SYNC_ID:4afeb986b04aaaba836
+ 951aca3752ec5\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:72d4f41058c39c84462ce8189c7589c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T153000
+DTEND;TZID=Asia/Yekaterinburg:20261021T170000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 5 пара\nДополните
+ льно: Егорова Ю.Ф.\nURALCAMPUS_SYNC_ID:72d4f41058c39c84462ce
+ 8189c7589c7\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4f697b421bd4dff6978ade6850e92480@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
+DTEND;TZID=Asia/Yekaterinburg:20261022T100000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 1 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:4f697b421bd4dff6978ad
+ e6850e92480\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:80c3ad66b396676077d18c50c1718547@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
+DTEND;TZID=Asia/Yekaterinburg:20261022T114000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 2 пара\nДополните
+ льно: Певнева Т.В.\nURALCAMPUS_SYNC_ID:80c3ad66b396676077d18
+ c50c1718547\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:41ba4b2b462a14cc75bd5ba81960eeba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T153000
+DTEND;TZID=Asia/Yekaterinburg:20261023T170000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 5 пара\nДополните
+ льно: Е.Г. Суркова\nURALCAMPUS_SYNC_ID:41ba4b2b462a14cc75bd5
+ ba81960eeba\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:d31292c9d8e76eb88e5284a1fb06a4b1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T171000
+DTEND;TZID=Asia/Yekaterinburg:20261023T182000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-219\, ПД-219А\nПара: 6 пара\nДополните
+ льно: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:d31292c9d8e76eb88e528
+ 4a1fb06a4b1\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:37896d52078873ac5dccd107a0dd93ad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T083000
+DTEND;TZID=Asia/Yekaterinburg:20261024T100000
 SUMMARY:Иностранный язык (Аудиторные заняти
  я)
 LOCATION:ауд. 504\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-219\, ПД-219А\nПара: 1 пара\nДополните
- льно: Сазонова И.А.\nURALCAMPUS_SYNC_ID:535ce22a94d3d9f81b7
- e9feb2cd1bae9\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
+ льно: Сазонова И.А.\nURALCAMPUS_SYNC_ID:37896d52078873ac5dc
+ cd107a0dd93ad\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
  bb0e5285
 END:VEVENT
 BEGIN:VEVENT
-UID:0b77925038bf4101c91e1db9c94aa5fc@uralcampus-calendar-pages
+UID:92f529a8ed662ddb10c961f3139cc858@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261010T101000
-DTEND;TZID=Asia/Yekaterinburg:20261010T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261024T101000
+DTEND;TZID=Asia/Yekaterinburg:20261024T114000
 SUMMARY:Иностранный язык (Аудиторные заняти
  я)
 LOCATION:ауд. 504\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-219\, ПД-219А\nПара: 2 пара\nДополните
- льно: Сазонова И.А.\nURALCAMPUS_SYNC_ID:0b77925038bf4101c91
- e1db9c94aa5fc\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
+ льно: Сазонова И.А.\nURALCAMPUS_SYNC_ID:92f529a8ed662ddb10c
+ 961f3139cc858\nURALCAMPUS_SOURCE:preco:group:f181664f-eabc-11eb-b43c-ecf4
  bb0e5285
 END:VEVENT
 END:VCALENDAR

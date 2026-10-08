@@ -17,4 +17,55 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:d37e7217dea04dd4d92df4af17af8041@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
+DTEND;TZID=Asia/Yekaterinburg:20261017T100000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД/оз-102\nПара: 1 пара\nДополнительно
+ : Степанова С.Л.\nURALCAMPUS_SYNC_ID:d37e7217dea04dd4d92df4af1
+ 7af8041\nURALCAMPUS_SOURCE:preco:group:7cb628d0-816b-11ef-ad91-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed56c51cad122506e41b3ebd4a315b0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД/оз-102\nПара: 2 пара\nДополнительно
+ : Степанова С.Л.\nURALCAMPUS_SYNC_ID:6ed56c51cad122506e41b3ebd
+ 4a315b0\nURALCAMPUS_SOURCE:preco:group:7cb628d0-816b-11ef-ad91-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:8e15a3c9e38152ca1525bf3a5ae48d56@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД/оз-102\nПара: 3 пара\nДополнительно
+ : Жусупов А.Д.\nURALCAMPUS_SYNC_ID:8e15a3c9e38152ca1525bf3a5ae48
+ d56\nURALCAMPUS_SOURCE:preco:group:7cb628d0-816b-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1df22ac73100801da57cbefb4d7c092b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T134000
+DTEND;TZID=Asia/Yekaterinburg:20261017T151000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД/оз-102\nПара: 4 пара\nДополнительно
+ : Дружинин В.А.\nURALCAMPUS_SYNC_ID:1df22ac73100801da57cbefb4d7
+ c092b\nURALCAMPUS_SOURCE:preco:group:7cb628d0-816b-11ef-ad91-04421acb877d
+END:VEVENT
 END:VCALENDAR

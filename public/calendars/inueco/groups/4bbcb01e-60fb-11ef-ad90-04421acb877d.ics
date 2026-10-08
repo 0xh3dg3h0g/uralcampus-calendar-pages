@@ -17,4 +17,17 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:7c6e5c9b896e84a9e9d48ad0d22b5e0a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T183000
+DTEND;TZID=Asia/Yekaterinburg:20261016T194000
+SUMMARY:Реинжиниринг бизнеса (Экзамен)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-501/02\nПара: 7 пара\nДополните
+ льно: Лобанов В. С.\nURALCAMPUS_SYNC_ID:7c6e5c9b896e84a9e9d4
+ 8ad0d22b5e0a\nURALCAMPUS_SOURCE:inueco:group:4bbcb01e-60fb-11ef-ad90-0442
+ 1acb877d
+END:VEVENT
 END:VCALENDAR
