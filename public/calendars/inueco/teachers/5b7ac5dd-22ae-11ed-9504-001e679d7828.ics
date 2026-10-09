@@ -18,4 +18,43 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:9f273c5f17baf4e00058ab39f28f7b5e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
+DTEND;TZID=Asia/Yekaterinburg:20261013T152000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 4 пара\nДополнительно: С-216\nURALC
+ AMPUS_SYNC_ID:9f273c5f17baf4e00058ab39f28f7b5e\nURALCAMPUS_SOURCE:inueco:
+ teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e8dced80ad7c4e54fc514b94f6f58cee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T153000
+DTEND;TZID=Asia/Yekaterinburg:20261013T170000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 5 пара\nДополнительно: С-216\nURALC
+ AMPUS_SYNC_ID:e8dced80ad7c4e54fc514b94f6f58cee\nURALCAMPUS_SOURCE:inueco:
+ teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab1484384e4925ed22d0e7846a56865@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T153000
+DTEND;TZID=Asia/Yekaterinburg:20261014T170000
+SUMMARY:Теоретическая механика (Практика)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саврасова Наталья Рэм
+ овна\nПара: 5 пара\nДополнительно: С-216\nURALC
+ AMPUS_SYNC_ID:6ab1484384e4925ed22d0e7846a56865\nURALCAMPUS_SOURCE:inueco:
+ teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
+END:VEVENT
 END:VCALENDAR

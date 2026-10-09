@@ -18,17 +18,70 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2c49c5cdfd760771804196f0a1cc20b3@uralcampus-calendar-pages
+UID:40c41b384f5d2eddd4bdfb33f257c137@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T135000
-DTEND;TZID=Asia/Yekaterinburg:20261008T152000
+DTSTART;TZID=Asia/Yekaterinburg:20261013T153000
+DTEND;TZID=Asia/Yekaterinburg:20261013T170000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Босе Упасак\nПара: 5 па
+ ра\nДополнительно: Л-211\nURALCAMPUS_SYNC_ID:40c41b384f5d
+ 2eddd4bdfb33f257c137\nURALCAMPUS_SOURCE:inueco:teacher:9c6e3831-8fd1-11f1
+ -ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5345cc076171675c968cda0676e7a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T171000
+DTEND;TZID=Asia/Yekaterinburg:20261013T182000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Босе Упасак\nПара: 6 па
+ ра\nДополнительно: ЛЗ-101\, МКЗ-101\, ППОЗ-101\nU
+ RALCAMPUS_SYNC_ID:ad5345cc076171675c968cda0676e7a6\nURALCAMPUS_SOURCE:inu
+ eco:teacher:9c6e3831-8fd1-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:43856950d96a7e44d2ddd6cb3b45de0c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Босе Упасак\nПара: 7 па
+ ра\nДополнительно: ЛЗ-101\, МКЗ-101\, ППОЗ-101\nU
+ RALCAMPUS_SYNC_ID:43856950d96a7e44d2ddd6cb3b45de0c\nURALCAMPUS_SOURCE:inu
+ eco:teacher:9c6e3831-8fd1-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2e8691188da41077b088897c8d7199@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T195000
+DTEND;TZID=Asia/Yekaterinburg:20261013T205000
+SUMMARY:Философия (Практика)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Босе Упасак\nПара: 8 па
+ ра\nДополнительно: ЛЗ-101\, МКЗ-101\, ППОЗ-101\nU
+ RALCAMPUS_SYNC_ID:9d2e8691188da41077b088897c8d7199\nURALCAMPUS_SOURCE:inu
+ eco:teacher:9c6e3831-8fd1-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b41871bb287042ecc5ae3f4d2eabb1d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T135000
+DTEND;TZID=Asia/Yekaterinburg:20261015T152000
 SUMMARY:Практический курс первого иностран
  ного языка (Практика)
 LOCATION:ауд. 215\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Босе Упасак\nПара: 4 па
- ра\nДополнительно: Л-311\nURALCAMPUS_SYNC_ID:2c49c5cdfd76
- 0771804196f0a1cc20b3\nURALCAMPUS_SOURCE:inueco:teacher:9c6e3831-8fd1-11f1
+ ра\nДополнительно: Л-311\nURALCAMPUS_SYNC_ID:b41871bb2870
+ 42ecc5ae3f4d2eabb1d8\nURALCAMPUS_SOURCE:inueco:teacher:9c6e3831-8fd1-11f1
  -ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

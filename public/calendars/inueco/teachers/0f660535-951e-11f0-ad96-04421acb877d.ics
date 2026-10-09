@@ -19,40 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9548ea4806b5fa621b36d79da19ca259@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T171000
-DTEND;TZID=Asia/Yekaterinburg:20261008T182000
-SUMMARY:Государственные закупки (Практика)
-LOCATION:ауд. 321\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Акентьева Карина Ильд
- аровна\nПара: 6 пара\nДополнительно: ГМУЗ-
- 501/02\, ГМУЗ-501/03\, ГМУЗ-501/04\, ГМУЗ-501/04а\, ГМУЗ
- -501/05\, ГМУЗ-501/06\, ГМУЗ-501/07а\, ГМУЗ-501/09\, ГМУ
- З-501/10\, ГМУЗ-501/11\, ГМУЗ-501/12\, ГМУЗ-501/13\, ГМУ
- З-501/13А\, ГМУЗД-501\nURALCAMPUS_SYNC_ID:9548ea4806b5fa621b36d79d
- a19ca259\nURALCAMPUS_SOURCE:inueco:teacher:0f660535-951e-11f0-ad96-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:12dcaf1f3de9640152d731574830c47f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T183000
-DTEND;TZID=Asia/Yekaterinburg:20261008T194000
-SUMMARY:Государственные закупки (Практика)
-LOCATION:ауд. 321\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Акентьева Карина Ильд
- аровна\nПара: 7 пара\nДополнительно: ГМУЗ-
- 501/02\, ГМУЗ-501/03\, ГМУЗ-501/04\, ГМУЗ-501/04а\, ГМУЗ
- -501/05\, ГМУЗ-501/06\, ГМУЗ-501/07а\, ГМУЗ-501/09\, ГМУ
- З-501/10\, ГМУЗ-501/11\, ГМУЗ-501/12\, ГМУЗ-501/13\, ГМУ
- З-501/13А\, ГМУЗД-501\nURALCAMPUS_SYNC_ID:12dcaf1f3de9640152d73157
- 4830c47f\nURALCAMPUS_SOURCE:inueco:teacher:0f660535-951e-11f0-ad96-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:5d399212f4c48a226cbc2f41045b2001@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
@@ -102,6 +68,45 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Акентьева Карина Ильд
  аровна\nПара: 4 пара\nДополнительно: ГМУЗ-
  501\nURALCAMPUS_SYNC_ID:9c5ec70e1c37bb5240e55ae347e7aa0e\nURALCAMPUS_SOUR
+ CE:inueco:teacher:0f660535-951e-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5a1efa3f0eddf1dbe2e66d7871433bea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T171000
+DTEND;TZID=Asia/Yekaterinburg:20261016T182000
+SUMMARY:Государственные закупки (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Акентьева Карина Ильд
+ аровна\nПара: 6 пара\nДополнительно: ГМУЗ-
+ 501\nURALCAMPUS_SYNC_ID:5a1efa3f0eddf1dbe2e66d7871433bea\nURALCAMPUS_SOUR
+ CE:inueco:teacher:0f660535-951e-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a01f8d9ce048277fc6c1e92fcf004056@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T183000
+DTEND;TZID=Asia/Yekaterinburg:20261016T194000
+SUMMARY:Государственные закупки (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Акентьева Карина Ильд
+ аровна\nПара: 7 пара\nДополнительно: ГМУЗ-
+ 501\nURALCAMPUS_SYNC_ID:a01f8d9ce048277fc6c1e92fcf004056\nURALCAMPUS_SOUR
+ CE:inueco:teacher:0f660535-951e-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e28a990984ad9508eee93b444cad8163@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T195000
+DTEND;TZID=Asia/Yekaterinburg:20261016T205000
+SUMMARY:Государственные закупки (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Акентьева Карина Ильд
+ аровна\nПара: 8 пара\nДополнительно: ГМУЗ-
+ 501\nURALCAMPUS_SYNC_ID:e28a990984ad9508eee93b444cad8163\nURALCAMPUS_SOUR
  CE:inueco:teacher:0f660535-951e-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

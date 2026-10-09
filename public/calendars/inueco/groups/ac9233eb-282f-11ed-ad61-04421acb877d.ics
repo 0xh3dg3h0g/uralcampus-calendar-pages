@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:70b9e57197f424e21c8f664e030b0f0b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T183000
-DTEND;TZID=Asia/Yekaterinburg:20261008T194000
-SUMMARY:Финансовое право (Практика)
-LOCATION:ауд. 222-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЮЗу-201/04\nПара: 7 пара\nДополнит
- ельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:70b9e57197f4
- 24e21c8f664e030b0f0b\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-a
- d61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f7b3373fa752e836021778cd5b61f403@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T195000
-DTEND;TZID=Asia/Yekaterinburg:20261008T205000
-SUMMARY:Финансовое право (Практика)
-LOCATION:ауд. 222-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЮЗу-201/04\nПара: 8 пара\nДополнит
- ельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:f7b3373fa752
- e836021778cd5b61f403\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-a
- d61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:df0013dfcf14009b8534c93926eb143e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
@@ -165,42 +139,56 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:303d5cef14d03ba90480eac0a5ba721e@uralcampus-calendar-pages
+UID:1e0811745611f34fb183cf1c74f39abf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Профессиональная этика юриста (Заче
+ т)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/04\nПара: 3 пара\nДополнит
+ ельно: Задорожная В.А.\nURALCAMPUS_SYNC_ID:1e0811745611f
+ 34fb183cf1c74f39abf\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:449607a581d87eb16d98a7b941798498@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T171000
 DTEND;TZID=Asia/Yekaterinburg:20261013T182000
 SUMMARY:Гражданское право (Лекция)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
+LOCATION:ауд. 209-1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЮЗу-201/04\nПара: 6 пара\nДополнит
- ельно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:303d5cef14
- d03ba90480eac0a5ba721e\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed
+ ельно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:449607a581
+ d87eb16d98a7b941798498\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed
  -ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:26bfa53d0e2b1b89216527411987268f@uralcampus-calendar-pages
+UID:f5feaf77a35dfb40792a65b15b4820b0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
 DTEND;TZID=Asia/Yekaterinburg:20261013T194000
 SUMMARY:Гражданское право (Практика)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
+LOCATION:ауд. 209-1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЮЗу-201/04\nПара: 7 пара\nДополнит
- ельно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:26bfa53d0e
- 2b1b89216527411987268f\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed
+ ельно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:f5feaf77a3
+ 5dfb40792a65b15b4820b0\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed
  -ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:c27b272ec77dbd7c89635888ceb22503@uralcampus-calendar-pages
+UID:499ae8d3683f7b09e540cc3505da7842@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T195000
 DTEND;TZID=Asia/Yekaterinburg:20261013T205000
 SUMMARY:Гражданское право (Практика)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
+LOCATION:ауд. 209-1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЮЗу-201/04\nПара: 8 пара\nДополнит
- ельно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:c27b272ec7
- 7dbd7c89635888ceb22503\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed
+ ельно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:499ae8d368
+ 3f7b09e540cc3505da7842\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed
  -ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -243,42 +231,121 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  4421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:eb8b3a15162cfa6319ab39b11e1f8421@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T135000
-DTEND;TZID=Asia/Yekaterinburg:20261015T152000
-SUMMARY:Семейное право (Практика)
-LOCATION:ауд. 318\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЮЗу-201/04\nПара: 4 пара\nДополнит
- ельно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:eb8b3a15162cfa63
- 19ab39b11e1f8421\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-
- 04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:355c9a3210225532693b1492a5425f50@uralcampus-calendar-pages
+UID:63a0e631229942d9c57e2f1b1ac23be2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T153000
 DTEND;TZID=Asia/Yekaterinburg:20261015T170000
 SUMMARY:Семейное право (Практика)
-LOCATION:ауд. 318\, Комсомольский проспект 113А
+LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЮЗу-201/04\nПара: 5 пара\nДополнит
- ельно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:355c9a3210225532
- 693b1492a5425f50\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-
+ ельно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:63a0e631229942d9
+ c57e2f1b1ac23be2\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-
  04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b58692c99d0e6080002bc2aca24c4c22@uralcampus-calendar-pages
+UID:b59758d80f804a1fde0000bb5bd517a7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T171000
 DTEND;TZID=Asia/Yekaterinburg:20261015T182000
-SUMMARY:Семейное право (Зачет)
-LOCATION:ауд. 318\, Комсомольский проспект 113А
+SUMMARY:Семейное право (Практика)
+LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЮЗу-201/04\nПара: 6 пара\nДополнит
- ельно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:b58692c99d0e6080
- 002bc2aca24c4c22\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-
+ ельно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:b59758d80f804a1f
+ de0000bb5bd517a7\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-
  04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:40cfcc95e6d6b51a3c1c2373ed4f31de@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T183000
+DTEND;TZID=Asia/Yekaterinburg:20261015T194000
+SUMMARY:Семейное право (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/04\nПара: 7 пара\nДополнит
+ ельно: Макашова Т. П.\nURALCAMPUS_SYNC_ID:40cfcc95e6d6b51a
+ 3c1c2373ed4f31de\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9345b50a09a4c33377402544a955bd99@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T101000
+DTEND;TZID=Asia/Yekaterinburg:20261016T114000
+SUMMARY:Иностранный язык в сфере юриспруден
+ ции (Зачет с оценкой)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/04\nПара: 2 пара\nДополнит
+ ельно: Ещеркина Л. В.\nURALCAMPUS_SYNC_ID:9345b50a09a4c333
+ 77402544a955bd99\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed7c6230bd55c9ba2409c864d16e2e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
+DTEND;TZID=Asia/Yekaterinburg:20261016T152000
+SUMMARY:Избирательное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/04\nПара: 4 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:3ed7c6230bd55c9ba
+ 2409c864d16e2e5\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b526b6011cc4a3da4681665481e1bd95@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T153000
+DTEND;TZID=Asia/Yekaterinburg:20261016T170000
+SUMMARY:Избирательное право (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/04\nПара: 5 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:b526b6011cc4a3da4
+ 681665481e1bd95\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:042b035afa01e0d8751a31b4101969f9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T171000
+DTEND;TZID=Asia/Yekaterinburg:20261016T182000
+SUMMARY:Избирательное право (Экзамен)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/04\nПара: 6 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:042b035afa01e0d87
+ 51a31b4101969f9\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:63fa441fbfcafdac1544313c57c0f242@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T152000
+DTEND;TZID=Asia/Yekaterinburg:20261017T165000
+SUMMARY:Гражданское право (Экзамен)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/04\nПара: 5 пара\nДополнит
+ ельно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:63fa441fbf
+ cafdac1544313c57c0f242\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed
+ -ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:df1ded3e1e2ffb006af6333373202fbd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
+DTEND;TZID=Asia/Yekaterinburg:20261017T181000
+SUMMARY:Финансовое право (Зачет с оценкой)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-201/04\nПара: 6 пара\nДополнит
+ ельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:df1ded3e1e2f
+ fb006af6333373202fbd\nURALCAMPUS_SOURCE:inueco:group:ac9233eb-282f-11ed-a
+ d61-04421acb877d
 END:VEVENT
 END:VCALENDAR

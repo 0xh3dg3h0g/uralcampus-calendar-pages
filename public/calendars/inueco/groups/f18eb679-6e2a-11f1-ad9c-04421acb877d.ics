@@ -18,46 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1171695135fc71ed3c8eb78e3b9c903b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T083000
-DTEND;TZID=Asia/Yekaterinburg:20261008T100000
-SUMMARY:Уголовное право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-212\nПара: 1 пара\nДополнител
- ьно: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:1171695135fc71ed3c8e
- b78e3b9c903b\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a75ef4f08c25338321a730ef823e173c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
-DTEND;TZID=Asia/Yekaterinburg:20261008T114000
-SUMMARY:Уголовное право (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-212\nПара: 2 пара\nДополнител
- ьно: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:a75ef4f08c25338321a7
- 30ef823e173c\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:95725467bb5abe1d3f6668bd6596820d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T120000
-DTEND;TZID=Asia/Yekaterinburg:20261008T133000
-SUMMARY:Правовое регулирование информацион
- ной безопасности (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-212\nПара: 3 пара\nДополнител
- ьно: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:95725467bb5abe1d3f6668b
- d6596820d\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-04421ac
- b877d
-END:VEVENT
-BEGIN:VEVENT
 UID:cf61c4c469d2c197e49ffedaa2013541@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
@@ -109,6 +69,151 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: СПД-212\nПара: 4 пара\nДополнител
  ьно: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:c30a7fda315b318d0f657c9
  80e3b270c\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a93e6a5fc73d63991bc03bcb88e8bde4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:Гражданское право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 1 пара\nДополнител
+ ьно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:a93e6a5fc73d63
+ 991bc03bcb88e8bde4\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9
+ c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:47943bd449c319b0b0be114f7d6875ba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 2 пара\nДополнител
+ ьно: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:47943bd449c319
+ b0b0be114f7d6875ba\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9
+ c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b81e6e7f923a388a3ee97697a231cecf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T083000
+DTEND;TZID=Asia/Yekaterinburg:20261014T100000
+SUMMARY:Муниципальное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 1 пара\nДополнител
+ ьно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:b81e6e7f923a388a3ee97
+ 697a231cecf\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bdebe98aea961825908ec1874968b6f1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T101000
+DTEND;TZID=Asia/Yekaterinburg:20261014T114000
+SUMMARY:Конституционное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 2 пара\nДополнител
+ ьно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:bdebe98aea961825908ec
+ 1874968b6f1\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf26f7acb2142210593f6aeba8fd89e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T120000
+DTEND;TZID=Asia/Yekaterinburg:20261014T133000
+SUMMARY:Муниципальное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 3 пара\nДополнител
+ ьно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:eaf26f7acb2142210593f
+ 6aeba8fd89e\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dee151ae2794de85b0c343be23512f94@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T083000
+DTEND;TZID=Asia/Yekaterinburg:20261015T100000
+SUMMARY:Уголовное право (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 1 пара\nДополнител
+ ьно: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:dee151ae2794de85b0c3
+ 43be23512f94\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:78c2216965c4c33a7b5960d9628120d7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T101000
+DTEND;TZID=Asia/Yekaterinburg:20261015T114000
+SUMMARY:Уголовное право (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 2 пара\nДополнител
+ ьно: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:78c2216965c4c33a7b59
+ 60d9628120d7\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:af323a5bd792adcfdb8837d2e5657fad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T083000
+DTEND;TZID=Asia/Yekaterinburg:20261016T100000
+SUMMARY:Логика (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 1 пара\nДополнител
+ ьно: Колесников М.А.\nURALCAMPUS_SYNC_ID:af323a5bd792adcfd
+ b8837d2e5657fad\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:45a52c7e990186c21da5ac654d8b9f08@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T101000
+DTEND;TZID=Asia/Yekaterinburg:20261016T114000
+SUMMARY:Логика (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 2 пара\nДополнител
+ ьно: Колесников М.А.\nURALCAMPUS_SYNC_ID:45a52c7e990186c21
+ da5ac654d8b9f08\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:28068dc6f8a05c4e133168d7bb04d823@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
+DTEND;TZID=Asia/Yekaterinburg:20261016T133000
+SUMMARY:Правовое регулирование информацион
+ ной безопасности (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 3 пара\nДополнител
+ ьно: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:28068dc6f8a05c4e133168d
+ 7bb04d823\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c98ec8814e40dc6a6e77e694c1cfb6f3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
+DTEND;TZID=Asia/Yekaterinburg:20261016T152000
+SUMMARY:Правовое регулирование информацион
+ ной безопасности (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-212\nПара: 4 пара\nДополнител
+ ьно: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:c98ec8814e40dc6a6e77e69
+ 4c1cfb6f3\nURALCAMPUS_SOURCE:inueco:group:f18eb679-6e2a-11f1-ad9c-04421ac
  b877d
 END:VEVENT
 END:VCALENDAR

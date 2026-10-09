@@ -18,31 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b8823e0587dd7a8e82dea78f9235bf74@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T083000
-DTEND;TZID=Asia/Yekaterinburg:20261008T100000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-211\nПара: 1 пара\nДополнительно: На
- деждина О.А.\nURALCAMPUS_SYNC_ID:b8823e0587dd7a8e82dea78f9235bf7
- 4\nURALCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a6355c043651d01db0ea6f169c1333fc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261008T101000
-DTEND;TZID=Asia/Yekaterinburg:20261008T114000
-SUMMARY:Экономика отрасли (Аудиторные занят
- ия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-211\nПара: 2 пара\nДополнительно: Цв
- етникова Я.В.\nURALCAMPUS_SYNC_ID:a6355c043651d01db0ea6f169c133
- 3fc\nURALCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:b137da3f0198f6aa7c9519059ff24284@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
@@ -261,6 +236,58 @@ LOCATION:ауд. 508\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-211\nПара: 3 пара\nДополнительно: По
  пова К.С.\nURALCAMPUS_SYNC_ID:154c3295cea8538e49550fde46c7421d\nURA
+ LCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2ca90b4666f70aeb2d9ed3c43c144402@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
+DTEND;TZID=Asia/Yekaterinburg:20261017T100000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-211\nПара: 1 пара\nДополнительно: Га
+ пчук А.А.\nURALCAMPUS_SYNC_ID:2ca90b4666f70aeb2d9ed3c43c144402\nURA
+ LCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:39d0d6a7b941b6dbcbe8854e75ec7fad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-211\nПара: 2 пара\nДополнительно: Га
+ пчук А.А.\nURALCAMPUS_SYNC_ID:39d0d6a7b941b6dbcbe8854e75ec7fad\nURA
+ LCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:711552b9c39e6a9de6369954be24cdca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-211\nПара: 3 пара\nДополнительно: Га
+ пчук А.А.\nURALCAMPUS_SYNC_ID:711552b9c39e6a9de6369954be24cdca\nURA
+ LCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ffba8d7507058c9500258e674aa81851@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T134000
+DTEND;TZID=Asia/Yekaterinburg:20261017T151000
+SUMMARY:Основы алголритмизации и программи
+ рования (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-211\nПара: 4 пара\nДополнительно: Га
+ пчук А.А.\nURALCAMPUS_SYNC_ID:ffba8d7507058c9500258e674aa81851\nURA
  LCAMPUS_SOURCE:preco:group:ff4f8bc5-3db5-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
