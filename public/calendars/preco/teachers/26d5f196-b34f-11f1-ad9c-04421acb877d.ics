@@ -19,29 +19,42 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:196963112fabfea82b69e252635ba07d@uralcampus-calendar-pages
+UID:4695faa206b20ae3164a851cfb720291@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
-DTEND;TZID=Asia/Yekaterinburg:20261009T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
 SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ситников Павел Владимиров
- ич\nПара: 1 пара\nДополнительно: Б-164\nURALCAMPU
- S_SYNC_ID:196963112fabfea82b69e252635ba07d\nURALCAMPUS_SOURCE:preco:teach
+ ич\nПара: 1 пара\nДополнительно: П-170\nURALCAMPU
+ S_SYNC_ID:4695faa206b20ae3164a851cfb720291\nURALCAMPUS_SOURCE:preco:teach
  er:26d5f196-b34f-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:ea682b2592f7b6b175e7bcb2cbaa7961@uralcampus-calendar-pages
+UID:dafc322b09dec2915133cc885f5878d1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
-DTEND;TZID=Asia/Yekaterinburg:20261009T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
 SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ситников Павел Владимиров
- ич\nПара: 2 пара\nДополнительно: Ю-168\nURALCAMPU
- S_SYNC_ID:ea682b2592f7b6b175e7bcb2cbaa7961\nURALCAMPUS_SOURCE:preco:teach
- er:26d5f196-b34f-11f1-ad9c-04421acb877d
+ ич\nПара: 2 пара\nДополнительно: ПД-178\nURALCAM
+ PUS_SYNC_ID:dafc322b09dec2915133cc885f5878d1\nURALCAMPUS_SOURCE:preco:tea
+ cher:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7ccfa2ebf7a4b6f7908faf625fe1aa81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 3 пара\nДополнительно: ГС-176\nURALCAM
+ PUS_SYNC_ID:7ccfa2ebf7a4b6f7908faf625fe1aa81\nURALCAMPUS_SOURCE:preco:tea
+ cher:26d5f196-b34f-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

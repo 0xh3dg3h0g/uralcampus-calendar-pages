@@ -18,27 +18,40 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8e69f4ad5004c147385f3ae7bbc0d7b5@uralcampus-calendar-pages
+UID:9df0afea6b75a9678df9e793b5ef339b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
-DTEND;TZID=Asia/Yekaterinburg:20261009T100000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 1 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:8e69f4ad5004c147385f3ae7bbc0d7b5\
- nURALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
+ уппа: Б-164\nПара: 1 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:9df0afea6b75a9678df9e793b5ef339b\nU
+ RALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:3dc11c9aa823dda0f6cb471a4272fa4b@uralcampus-calendar-pages
+UID:5d1bcb84ec97825c0d8c23323b713bea@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
-DTEND;TZID=Asia/Yekaterinburg:20261009T114000
-SUMMARY:Русский язык (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Обществознание (Аудиторные занятия)
 LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-164\nПара: 2 пара\nДополнительно: Тр
- ясцина О.А.\nURALCAMPUS_SYNC_ID:3dc11c9aa823dda0f6cb471a4272fa4b\
+ уппа: Б-164\nПара: 2 пара\nДополнительно: Ко
+ йшина Е.А.\nURALCAMPUS_SYNC_ID:5d1bcb84ec97825c0d8c23323b713bea\nU
+ RALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad19a75d446e60a1292739104cc92bda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-164\nПара: 3 пара\nДополнительно: Ко
+ пытцев С.М.\nURALCAMPUS_SYNC_ID:ad19a75d446e60a1292739104cc92bda\
  nURALCAMPUS_SOURCE:preco:group:1e9dfd08-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

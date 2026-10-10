@@ -18,42 +18,71 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7b9de763363d3ca859dafde222ae6825@uralcampus-calendar-pages
+UID:7ed7ba13db02e6913ba69d88fa1946b9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T171000
-DTEND;TZID=Asia/Yekaterinburg:20261009T182000
-SUMMARY:Экономика предприятия (Лекция)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: МЗ-201/03\nПара: 6 пара\nДополните
- льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:7b9de763363d3ca859d
- afde222ae6825\nURALCAMPUS_SOURCE:inueco:group:b4e97eb9-4be6-11ee-ad78-044
- 21acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:662046b8e589928bc62d91e3799b914e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T183000
-DTEND;TZID=Asia/Yekaterinburg:20261009T194000
-SUMMARY:Экономика предприятия (Практика)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: МЗ-201/03\nПара: 7 пара\nДополните
- льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:662046b8e589928bc62
- d91e3799b914e\nURALCAMPUS_SOURCE:inueco:group:b4e97eb9-4be6-11ee-ad78-044
+ льно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:7ed7ba13db02e691
+ 3ba69d88fa1946b9\nURALCAMPUS_SOURCE:inueco:group:b4e97eb9-4be6-11ee-ad78-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:30f19e7967837236bd5900ce2accb76d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T195000
+DTEND;TZID=Asia/Yekaterinburg:20261013T205000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-201/03\nПара: 8 пара\nДополните
+ льно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:30f19e7967837236
+ bd5900ce2accb76d\nURALCAMPUS_SOURCE:inueco:group:b4e97eb9-4be6-11ee-ad78-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:77b8c6d41899bca042900c6bc3e0e594@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T171000
+DTEND;TZID=Asia/Yekaterinburg:20261015T182000
+SUMMARY:Теория организации и организационн
+ ое поведение (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-201/03\nПара: 6 пара\nДополните
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:77b8c6d41899bca0429
+ 00c6bc3e0e594\nURALCAMPUS_SOURCE:inueco:group:b4e97eb9-4be6-11ee-ad78-044
  21acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:eabd5463d67435fa7aa903619cc980b4@uralcampus-calendar-pages
+UID:956e424f6f2dee4e03dfd11d6febb66f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T195000
-DTEND;TZID=Asia/Yekaterinburg:20261009T205000
-SUMMARY:Экономика предприятия (Практика)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20261015T183000
+DTEND;TZID=Asia/Yekaterinburg:20261015T194000
+SUMMARY:Теория организации и организационн
+ ое поведение (Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-201/03\nПара: 7 пара\nДополните
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:956e424f6f2dee4e03d
+ fd11d6febb66f\nURALCAMPUS_SOURCE:inueco:group:b4e97eb9-4be6-11ee-ad78-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5b034c316c6ee3b597068a3958fa38b3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T195000
+DTEND;TZID=Asia/Yekaterinburg:20261015T205000
+SUMMARY:Теория организации и организационн
+ ое поведение (Практика)
+LOCATION:ауд. 204
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: МЗ-201/03\nПара: 8 пара\nДополните
- льно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:eabd5463d67435fa7aa
- 903619cc980b4\nURALCAMPUS_SOURCE:inueco:group:b4e97eb9-4be6-11ee-ad78-044
+ льно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:5b034c316c6ee3b5970
+ 68a3958fa38b3\nURALCAMPUS_SOURCE:inueco:group:b4e97eb9-4be6-11ee-ad78-044
  21acb877d
 END:VEVENT
 END:VCALENDAR

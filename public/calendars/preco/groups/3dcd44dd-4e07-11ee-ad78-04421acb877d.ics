@@ -18,27 +18,41 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a0f2d41678db104970894945300baf93@uralcampus-calendar-pages
+UID:478a65c8d43c7655e7e38927ae5ea518@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
-DTEND;TZID=Asia/Yekaterinburg:20261009T100000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
+SUMMARY:Иностранный язык(подгруппа:Ю-168 (1)) (А
+ удиторные занятия)
+LOCATION:ауд. 1а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 1 пара\nДополнительно: Ма
- лышева С.И.\nURALCAMPUS_SYNC_ID:a0f2d41678db104970894945300baf93\
+ уппа: Ю-168\nПара: 1 пара\nДополнительно: Бе
+ жецких Ж.Г.\nURALCAMPUS_SYNC_ID:478a65c8d43c7655e7e38927ae5ea518\
  nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:3b2343d1c72ec855d92e9ab40c50864c@uralcampus-calendar-pages
+UID:0b4eea0b9dc7d00035a9a7d02f803290@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
-DTEND;TZID=Asia/Yekaterinburg:20261009T114000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 2 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:3b2343d1c72ec855d92e9ab40c50864c\
+ уппа: Ю-168\nПара: 2 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:0b4eea0b9dc7d00035a9a7d02f803290\
+ nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bcd2f16667286c7249951ba2acb8b940@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Иностранный язык(подгруппа:Ю-168 (2)) (А
+ удиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-168\nПара: 3 пара\nДополнительно: Бе
+ жецких Ж.Г.\nURALCAMPUS_SYNC_ID:bcd2f16667286c7249951ba2acb8b940\
  nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

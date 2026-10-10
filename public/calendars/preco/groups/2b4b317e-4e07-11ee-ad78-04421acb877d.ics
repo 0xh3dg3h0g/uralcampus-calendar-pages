@@ -18,40 +18,28 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d30c44ea23d641088e05d4625d07d88a@uralcampus-calendar-pages
+UID:c5d2e863cdfacaf51db3cb2eedf9a352@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
-DTEND;TZID=Asia/Yekaterinburg:20261009T100000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 1 пара\nДополнительно: Тр
- ясцина О.А.\nURALCAMPUS_SYNC_ID:d30c44ea23d641088e05d4625d07d88a\
+ уппа: П-170\nПара: 1 пара\nДополнительно: Си
+ тников П.В.\nURALCAMPUS_SYNC_ID:c5d2e863cdfacaf51db3cb2eedf9a352\
  nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:009e9ceca0616b7ec95e09e929b1fcee@uralcampus-calendar-pages
+UID:47fcfae301341914696879ed3cc3bb87@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
-DTEND;TZID=Asia/Yekaterinburg:20261009T114000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 2 пара\nДополнительно: Ма
- лышева С.И.\nURALCAMPUS_SYNC_ID:009e9ceca0616b7ec95e09e929b1fcee\
- nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:2b08aec8d29018f807fd9c660ad15f65@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
-DTEND;TZID=Asia/Yekaterinburg:20261009T133000
-SUMMARY:Иностранный язык(подгруппа:П-170 (2)) (А
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Иностранный язык(подгруппа:П-170 (1)) (А
  удиторные занятия)
 LOCATION:ауд. 6\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 3 пара\nДополнительно: Ма
- ксютова З.Г.\nURALCAMPUS_SYNC_ID:2b08aec8d29018f807fd9c660ad15f6
- 5\nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+ уппа: П-170\nПара: 2 пара\nДополнительно: Ма
+ ксютова З.Г.\nURALCAMPUS_SYNC_ID:47fcfae301341914696879ed3cc3bb8
+ 7\nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

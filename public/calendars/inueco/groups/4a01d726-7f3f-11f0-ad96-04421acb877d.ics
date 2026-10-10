@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЭЛЗу-101/03
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4b3abe5b47cf210b9aab93a600c6f649@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-101/03\nПара: 1 пара\nДополни
+ тельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:4b3abe5b47cf21
+ 0b9aab93a600c6f649\nURALCAMPUS_SOURCE:inueco:group:4a01d726-7f3f-11f0-ad9
+ 6-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:50e4c226f608418ef3926d614ceeaaec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-101/03\nПара: 2 пара\nДополни
+ тельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:50e4c226f60841
+ 8ef3926d614ceeaaec\nURALCAMPUS_SOURCE:inueco:group:4a01d726-7f3f-11f0-ad9
+ 6-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ae44f8ae950de9e235ceb7d162a866be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T153000
+DTEND;TZID=Asia/Yekaterinburg:20261014T170000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-101/03\nПара: 5 пара\nДополни
+ тельно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:ae44f
+ 8ae950de9e235ceb7d162a866be\nURALCAMPUS_SOURCE:inueco:group:4a01d726-7f3f
+ -11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b795f124352ce1c711552f5cd2954aec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T171000
+DTEND;TZID=Asia/Yekaterinburg:20261014T182000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-101/03\nПара: 6 пара\nДополни
+ тельно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:b795f
+ 124352ce1c711552f5cd2954aec\nURALCAMPUS_SOURCE:inueco:group:4a01d726-7f3f
+ -11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4818ef760bb76753efdfbcaf954ea3d9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T183000
+DTEND;TZID=Asia/Yekaterinburg:20261016T194000
+SUMMARY:Правоведение (Лекция)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-101/03\nПара: 7 пара\nДополни
+ тельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:4818ef760b
+ b76753efdfbcaf954ea3d9\nURALCAMPUS_SOURCE:inueco:group:4a01d726-7f3f-11f0
+ -ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2bf349893945b6f59bef5a05434b94a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T195000
+DTEND;TZID=Asia/Yekaterinburg:20261016T205000
+SUMMARY:Правоведение (Лекция)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-101/03\nПара: 8 пара\nДополни
+ тельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:2bf3498939
+ 45b6f59bef5a05434b94a9\nURALCAMPUS_SOURCE:inueco:group:4a01d726-7f3f-11f0
+ -ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8d20dce6cdeb09fb5f97a58c66b81e72@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
+DTEND;TZID=Asia/Yekaterinburg:20261017T181000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-101/03\nПара: 6 пара\nДополни
+ тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:8d20dce6c
+ deb09fb5f97a58c66b81e72\nURALCAMPUS_SOURCE:inueco:group:4a01d726-7f3f-11f
+ 0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:afdf8f8e2c75497b2eb020625b851ebe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T182000
+DTEND;TZID=Asia/Yekaterinburg:20261017T193000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-101/03\nПара: 7 пара\nДополни
+ тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:afdf8f8e2
+ c75497b2eb020625b851ebe\nURALCAMPUS_SOURCE:inueco:group:4a01d726-7f3f-11f
+ 0-ad96-04421acb877d
+END:VEVENT
+END:VCALENDAR

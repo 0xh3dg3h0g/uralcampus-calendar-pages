@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:3ecca65429286209d21aa947e9d3143b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 1а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бежецких Жанна Геннадьевн
+ а\nПара: 1 пара\nДополнительно: Ю-168\nURALCAMPUS_
+ SYNC_ID:3ecca65429286209d21aa947e9d3143b\nURALCAMPUS_SOURCE:preco:teacher
+ :10671955-8ecc-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a68bffea38da20dab15cbd400146a7e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бежецких Жанна Геннадьевн
+ а\nПара: 3 пара\nДополнительно: Ю-168\nURALCAMPUS_
+ SYNC_ID:a68bffea38da20dab15cbd400146a7e5\nURALCAMPUS_SOURCE:preco:teacher
+ :10671955-8ecc-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

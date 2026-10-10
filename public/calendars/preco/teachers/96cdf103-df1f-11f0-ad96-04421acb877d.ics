@@ -18,4 +18,46 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:712b306914419dc1192da85fa0e67977@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T135000
+DTEND;TZID=Asia/Yekaterinburg:20261012T152000
+SUMMARY:Основы гидравлики\, теплотехники и а
+ эродинамики (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 4 пара\nДополнительно: ГС-276\nURALCAMPUS_SYNC_I
+ D:712b306914419dc1192da85fa0e67977\nURALCAMPUS_SOURCE:preco:teacher:96cdf
+ 103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b9b1317698d4f0c7203f95eb77cf53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T153000
+DTEND;TZID=Asia/Yekaterinburg:20261012T170000
+SUMMARY:Основы гидравлики\, теплотехники и а
+ эродинамики (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 5 пара\nДополнительно: ГС-376\, ГС-376А\nURAL
+ CAMPUS_SYNC_ID:b9b9b1317698d4f0c7203f95eb77cf53\nURALCAMPUS_SOURCE:preco:
+ teacher:96cdf103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:45d1ae9ab91d6cb427ae3b8a54dcce2c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T171000
+DTEND;TZID=Asia/Yekaterinburg:20261012T182000
+SUMMARY:Основы гидравлики\, теплотехники и а
+ эродинамики (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ерина Мария Алексеевна\nПа
+ ра: 6 пара\nДополнительно: ГС-376\, ГС-376А\nURAL
+ CAMPUS_SYNC_ID:45d1ae9ab91d6cb427ae3b8a54dcce2c\nURALCAMPUS_SOURCE:preco:
+ teacher:96cdf103-df1f-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -18,4 +18,38 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:901f261fd0f2f40834f1c8242e5e3616@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+SUMMARY:Информационные технологии расчета 
+ строительных конструкций (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 7 пара\nДополнительно: С
+ З-301/01\, СЗ-301/02\, СЗ-301/03\, СЗ-301/04\, СЗ-301/04а\, С
+ З-301/05\, СЗ-301/06\, СЗ-301/07\, СЗ-301/07а\, СЗ-301/12\, С
+ З-301/12а\, СЗ-301/13\, СЗ-301/13А\, СЗД-301\nURALCAMPUS_SYNC_I
+ D:901f261fd0f2f40834f1c8242e5e3616\nURALCAMPUS_SOURCE:inueco:teacher:c3c8
+ b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:31992187d37b38e078c2a1f40dc7c82e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T195000
+DTEND;TZID=Asia/Yekaterinburg:20261013T205000
+SUMMARY:Информационные технологии расчета 
+ строительных конструкций (Лекция)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дегтярева Наталья Вла
+ димировна\nПара: 8 пара\nДополнительно: С
+ З-301/01\, СЗ-301/02\, СЗ-301/03\, СЗ-301/04\, СЗ-301/04а\, С
+ З-301/05\, СЗ-301/06\, СЗ-301/07\, СЗ-301/07а\, СЗ-301/12\, С
+ З-301/12а\, СЗ-301/13\, СЗ-301/13А\, СЗД-301\nURALCAMPUS_SYNC_I
+ D:31992187d37b38e078c2a1f40dc7c82e\nURALCAMPUS_SOURCE:inueco:teacher:c3c8
+ b13f-a7fe-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

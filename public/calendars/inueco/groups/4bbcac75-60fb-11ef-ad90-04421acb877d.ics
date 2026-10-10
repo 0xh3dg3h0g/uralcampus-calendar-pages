@@ -18,42 +18,71 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eb0d1093dba18837921556948dcafe60@uralcampus-calendar-pages
+UID:1b3b241067cf590f83f8ec5c4c660274@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T171000
-DTEND;TZID=Asia/Yekaterinburg:20261009T182000
-SUMMARY:Экономика предприятия (Лекция)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: МЗ-201/07б\nПара: 6 пара\nДополнит
- ельно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:eb0d1093dba188379
- 21556948dcafe60\nURALCAMPUS_SOURCE:inueco:group:4bbcac75-60fb-11ef-ad90-0
- 4421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:aa64d50876bce50f1f2d080f4a1edadb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T183000
-DTEND;TZID=Asia/Yekaterinburg:20261009T194000
-SUMMARY:Экономика предприятия (Практика)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: МЗ-201/07б\nПара: 7 пара\nДополнит
- ельно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:aa64d50876bce50f1
- f2d080f4a1edadb\nURALCAMPUS_SOURCE:inueco:group:4bbcac75-60fb-11ef-ad90-0
+ ельно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:1b3b241067cf59
+ 0f83f8ec5c4c660274\nURALCAMPUS_SOURCE:inueco:group:4bbcac75-60fb-11ef-ad9
+ 0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:82c4734526bd18f7944afcb588f7ec26@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T195000
+DTEND;TZID=Asia/Yekaterinburg:20261013T205000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-201/07б\nПара: 8 пара\nДополнит
+ ельно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:82c4734526bd18
+ f7944afcb588f7ec26\nURALCAMPUS_SOURCE:inueco:group:4bbcac75-60fb-11ef-ad9
+ 0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:95ed319c4974cfbaf593758f6b8b6857@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T171000
+DTEND;TZID=Asia/Yekaterinburg:20261015T182000
+SUMMARY:Теория организации и организационн
+ ое поведение (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-201/07б\nПара: 6 пара\nДополнит
+ ельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:95ed319c4974cfbaf
+ 593758f6b8b6857\nURALCAMPUS_SOURCE:inueco:group:4bbcac75-60fb-11ef-ad90-0
  4421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:66070c166c2c73e188634e0f9f4c97f0@uralcampus-calendar-pages
+UID:71289d1897350822cdd56c89dfcb2fd3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T195000
-DTEND;TZID=Asia/Yekaterinburg:20261009T205000
-SUMMARY:Экономика предприятия (Практика)
-LOCATION:ауд. 320\, Комсомольский проспект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20261015T183000
+DTEND;TZID=Asia/Yekaterinburg:20261015T194000
+SUMMARY:Теория организации и организационн
+ ое поведение (Практика)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-201/07б\nПара: 7 пара\nДополнит
+ ельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:71289d1897350822c
+ dd56c89dfcb2fd3\nURALCAMPUS_SOURCE:inueco:group:4bbcac75-60fb-11ef-ad90-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c3973040e7d86af06b25f798ee801155@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T195000
+DTEND;TZID=Asia/Yekaterinburg:20261015T205000
+SUMMARY:Теория организации и организационн
+ ое поведение (Практика)
+LOCATION:ауд. 204
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: МЗ-201/07б\nПара: 8 пара\nДополнит
- ельно: Швейкерт М.И.\nURALCAMPUS_SYNC_ID:66070c166c2c73e18
- 8634e0f9f4c97f0\nURALCAMPUS_SOURCE:inueco:group:4bbcac75-60fb-11ef-ad90-0
+ ельно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:c3973040e7d86af06
+ b25f798ee801155\nURALCAMPUS_SOURCE:inueco:group:4bbcac75-60fb-11ef-ad90-0
  4421acb877d
 END:VEVENT
 END:VCALENDAR

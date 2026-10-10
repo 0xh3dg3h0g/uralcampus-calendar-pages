@@ -19,76 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3f4479f884da3996cff498526c8926ad@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
-DTEND;TZID=Asia/Yekaterinburg:20261009T152000
-SUMMARY:Валютное регулирование и валютный к
- онтроль (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Дьяченко Олег Вячесла
- вович\nПара: 4 пара\nДополнительно: ТД-406\nU
- RALCAMPUS_SYNC_ID:3f4479f884da3996cff498526c8926ad\nURALCAMPUS_SOURCE:inu
- eco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8143be6f2fc20ba23868032bd91269ce@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T153000
-DTEND;TZID=Asia/Yekaterinburg:20261009T170000
-SUMMARY:Валютное регулирование и валютный к
- онтроль (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Дьяченко Олег Вячесла
- вович\nПара: 5 пара\nДополнительно: ТД-406\nU
- RALCAMPUS_SYNC_ID:8143be6f2fc20ba23868032bd91269ce\nURALCAMPUS_SOURCE:inu
- eco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5cfe2cc79be3d6f2feeffcf6ab105d9d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T171000
-DTEND;TZID=Asia/Yekaterinburg:20261009T182000
-SUMMARY:Государственные и муниципальные ус
- луги (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Дьяченко Олег Вячесла
- вович\nПара: 6 пара\nДополнительно: ГМУЗ-30
- 1\nURALCAMPUS_SYNC_ID:5cfe2cc79be3d6f2feeffcf6ab105d9d\nURALCAMPUS_SOURCE
- :inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e6673440d44181b64e6171ff6ba07832@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T183000
-DTEND;TZID=Asia/Yekaterinburg:20261009T194000
-SUMMARY:Государственные и муниципальные ус
- луги (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Дьяченко Олег Вячесла
- вович\nПара: 7 пара\nДополнительно: ГМУЗ-30
- 1\nURALCAMPUS_SYNC_ID:e6673440d44181b64e6171ff6ba07832\nURALCAMPUS_SOURCE
- :inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4054a82de7dd8d2c245e19b1915bbba7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T195000
-DTEND;TZID=Asia/Yekaterinburg:20261009T205000
-SUMMARY:Государственные и муниципальные ус
- луги (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Дьяченко Олег Вячесла
- вович\nПара: 8 пара\nДополнительно: ГМУЗ-30
- 1\nURALCAMPUS_SYNC_ID:4054a82de7dd8d2c245e19b1915bbba7\nURALCAMPUS_SOURCE
- :inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e2a92536b2b06b5ac45e74dfb647cf12@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
@@ -129,6 +59,156 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  вович\nПара: 4 пара\nДополнительно: ТД-206\nU
  RALCAMPUS_SYNC_ID:2ff4ad6bdeb5de24615b53ca09515b25\nURALCAMPUS_SOURCE:inu
  eco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9427011e588f683301fbb54f4fd669e7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 3 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:9427011e588f683301fbb54f4fd669e
+ 7\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cf302bee96d337cbe58426db0be4d38d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
+DTEND;TZID=Asia/Yekaterinburg:20261013T152000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 4 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:cf302bee96d337cbe58426db0be4d38
+ d\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa3a5264bc1e7fb4d4c7468cfef42cf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T153000
+DTEND;TZID=Asia/Yekaterinburg:20261013T170000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 5 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:dfa3a5264bc1e7fb4d4c7468cfef42c
+ f\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ed24636566c683c6c1798e28f12804@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T171000
+DTEND;TZID=Asia/Yekaterinburg:20261013T182000
+SUMMARY:Региональное управление и территор
+ иальное планирование (Лекция)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 6 пара\nДополнительно: ГМУЗ-40
+ 1/01\, ГМУЗ-401/02\, ГМУЗ-401/03\, ГМУЗ-401/04\, ГМУЗ-401
+ /04а\, ГМУЗ-401/05\, ГМУЗ-401/06\, ГМУЗ-401/07а\, ГМУЗ-
+ 401/08\, ГМУЗ-401/09\, ГМУЗ-401/12\, ГМУЗ-401/12а\, ГМУЗ
+ -401/13\, ГМУЗ-401/13а\, ГМУЗД-401\nURALCAMPUS_SYNC_ID:c3ed2463
+ 6566c683c6c1798e28f12804\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-
+ 11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf5f52609454e264242a1cbf3a7226a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+SUMMARY:Региональное управление и территор
+ иальное планирование (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 7 пара\nДополнительно: ГМУЗ-40
+ 1/01\, ГМУЗ-401/02\, ГМУЗ-401/03\, ГМУЗ-401/04\, ГМУЗ-401
+ /04а\, ГМУЗ-401/05\, ГМУЗ-401/06\, ГМУЗ-401/07а\, ГМУЗ-
+ 401/08\, ГМУЗ-401/09\, ГМУЗ-401/12\, ГМУЗ-401/12а\, ГМУЗ
+ -401/13\, ГМУЗ-401/13а\, ГМУЗД-401\nURALCAMPUS_SYNC_ID:cdf5f526
+ 09454e264242a1cbf3a7226a\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-
+ 11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ffbfb8ec63563a53bea00186c4822e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T195000
+DTEND;TZID=Asia/Yekaterinburg:20261013T205000
+SUMMARY:Региональное управление и территор
+ иальное планирование (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 8 пара\nДополнительно: ГМУЗ-40
+ 1/01\, ГМУЗ-401/02\, ГМУЗ-401/03\, ГМУЗ-401/04\, ГМУЗ-401
+ /04а\, ГМУЗ-401/05\, ГМУЗ-401/06\, ГМУЗ-401/07а\, ГМУЗ-
+ 401/08\, ГМУЗ-401/09\, ГМУЗ-401/12\, ГМУЗ-401/12а\, ГМУЗ
+ -401/13\, ГМУЗ-401/13а\, ГМУЗД-401\nURALCAMPUS_SYNC_ID:e9ffbfb8
+ ec63563a53bea00186c4822e\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-
+ 11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f39f739e99585ee239900c461f705963@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T120000
+DTEND;TZID=Asia/Yekaterinburg:20261014T133000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 3 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:f39f739e99585ee239900c461f70596
+ 3\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c10b25c50a7c6660ccdfe3c991dead@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T135000
+DTEND;TZID=Asia/Yekaterinburg:20261014T152000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 4 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:d8c10b25c50a7c6660ccdfe3c991dea
+ d\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e500b3e77753afea60a1bf2cd2fbf706@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T153000
+DTEND;TZID=Asia/Yekaterinburg:20261014T170000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 5 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:e500b3e77753afea60a1bf2cd2fbf70
+ 6\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:2bbc6d8aec99193078b75678ecd3708e@uralcampus-calendar-pages
@@ -184,6 +264,52 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  вович\nПара: 2 пара\nДополнительно: М-103\nURA
  LCAMPUS_SYNC_ID:367ae493130d2d32c723bbad8d5ef76b\nURALCAMPUS_SOURCE:inuec
  o:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b596af84d0b5db59eeb169bf7724bf53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T153000
+DTEND;TZID=Asia/Yekaterinburg:20261015T170000
+SUMMARY:Региональная экономика (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 5 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:b596af84d0b5db59eeb169bf7724bf5
+ 3\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:75b3c0a963007fbff5d519488cacc864@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T171000
+DTEND;TZID=Asia/Yekaterinburg:20261015T182000
+SUMMARY:Региональная экономика (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 6 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:75b3c0a963007fbff5d519488cacc86
+ 4\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8226e7a300c07d383b33ba276d80d7c6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
+DTEND;TZID=Asia/Yekaterinburg:20261016T133000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Экзамен)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 3 пара\nДополнительно: ГМУЗм-
+ 101/01\, ГМУЗм-101/03\, ГМУЗм-101/05\, ГМУЗм-101/07\, ГМ
+ УЗм-101/07а\, ГМУЗм-101/08\, ГМУЗм-101/11\, ГМУЗм-101/
+ 12\, ГМУЗмД-101\nURALCAMPUS_SYNC_ID:8226e7a300c07d383b33ba276d80d7c
+ 6\nURALCAMPUS_SOURCE:inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:782e543a092de886895688c01954d251@uralcampus-calendar-pages

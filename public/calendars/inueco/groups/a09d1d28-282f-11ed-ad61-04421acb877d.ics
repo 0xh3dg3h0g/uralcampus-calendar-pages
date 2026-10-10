@@ -18,6 +18,19 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:1baa38af33c409a21149fc43bb9cbe6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Собрание
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗу-101\nПара: 3 пара\nДополнител
+ ьно: Крайнева С. В.\nURALCAMPUS_SYNC_ID:1baa38af33c409a21149
+ fc43bb9cbe6b\nURALCAMPUS_SOURCE:inueco:group:a09d1d28-282f-11ed-ad61-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:d3f8a958f54edb3e62443f7d59928f75@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261012T135000

@@ -19,71 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8ca991f44759a9848419333930bb24cd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
-DTEND;TZID=Asia/Yekaterinburg:20261009T100000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 404\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 1 пара\nДополнительно: З-113\, С-1
- 16\nURALCAMPUS_SYNC_ID:8ca991f44759a9848419333930bb24cd\nURALCAMPUS_SOURC
- E:inueco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:a3aa2fcda4d863cb69c45c59dba01aa2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
-DTEND;TZID=Asia/Yekaterinburg:20261009T114000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 2 пара\nДополнительно: И-207\nURALC
- AMPUS_SYNC_ID:a3aa2fcda4d863cb69c45c59dba01aa2\nURALCAMPUS_SOURCE:inueco:
- teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:68ee172140c969be63c62a78da94f983@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
-DTEND;TZID=Asia/Yekaterinburg:20261009T133000
-SUMMARY:Высшая математика (Лекция)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 3 пара\nДополнительно: И-207\, С-2
- 16\nURALCAMPUS_SYNC_ID:68ee172140c969be63c62a78da94f983\nURALCAMPUS_SOURC
- E:inueco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:528dd35b02c5980e0caebf2bae6b35c2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
-DTEND;TZID=Asia/Yekaterinburg:20261009T152000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 4 пара\nДополнительно: ЗЗУ-201\nU
- RALCAMPUS_SYNC_ID:528dd35b02c5980e0caebf2bae6b35c2\nURALCAMPUS_SOURCE:inu
- eco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:8735e7c1ca5ae13e4fcac03d225eea9c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T153000
-DTEND;TZID=Asia/Yekaterinburg:20261009T170000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 5 пара\nДополнительно: ЗЗУ-201\nU
- RALCAMPUS_SYNC_ID:8735e7c1ca5ae13e4fcac03d225eea9c\nURALCAMPUS_SOURCE:inu
- eco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:6c0658c3cb755fb017e6e37e3cfaa191@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
@@ -121,6 +56,58 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  евич\nПара: 3 пара\nДополнительно: СЗ-101\, С
  Зу-101\nURALCAMPUS_SYNC_ID:95b1e264e6e5c2b28caf7c08bf86c82d\nURALCAMPUS
  _SOURCE:inueco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe1e8bea2b5dac1b824ab6ec67f8f50@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Завьялов Олег Геннадь
+ евич\nПара: 1 пара\nДополнительно: ЗЗ-101/03\,
+  ЗЗ-101/04\, ЗЗ-101/08\, ЗЗ-101/12б\, ТТПЗ-101/02\, ТТПЗ-1
+ 01/03\, ТТПЗ-101/04а\, ТТПЗ-101/05а\, ТТПЗ-101/06\, ТТП
+ З-101/07б\, ТТПЗ-101/12\, ТТПЗ-101/13\, ТТПЗ-101/13а\, Т
+ ТПЗу-101/03\, ТТПЗу-101/04\, ТТПЗу-101/05а\, ТТПЗу-10
+ 1/06\, ТТПЗу-101/07б\, ТТПЗу-101/12\, ТТПЗу-101/13\, ЭЛ
+ З-101/02\, ЭЛЗ-101/03\, ЭЛЗ-101/04\, ЭЛЗ-101/04а\, ЭЛЗ-101/
+ 05а\, ЭЛЗ-101/06\, ЭЛЗ-101/07\, ЭЛЗ-101/07б\, ЭЛЗ-101/11\, 
+ ЭЛЗ-101/12\, ЭЛЗ-101/12а\, ЭЛЗ-101/12б\, ЭЛЗ-101/13\, ЭЛ
+ З-101/13а\, ЭЛЗу-101/03\, ЭЛЗу-101/04а\, ЭЛЗу-101/05а\, 
+ ЭЛЗу-101/06\, ЭЛЗу-101/07\, ЭЛЗу-101/07а\, ЭЛЗу-101/07б
+ \, ЭЛЗу-101/11\, ЭЛЗу-101/12\, ЭЛЗу-101/13а\, ЮЗу-101/02\
+ , ЮЗу-101/03\, ЮЗу-101/04\, ЮЗу-101/04а\, ЮЗу-101/05\, ЮЗ
+ у-101/06\, ЮЗу-101/07\, ЮЗу-101/07а\, ЮЗу-101/07б\, ЮЗу-10
+ 1/08\, ЮЗу-101/13\nURALCAMPUS_SYNC_ID:cfe1e8bea2b5dac1b824ab6ec67f8f50
+ \nURALCAMPUS_SOURCE:inueco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ab9167438d5a6fef2b9722d2fcd029@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Завьялов Олег Геннадь
+ евич\nПара: 2 пара\nДополнительно: ЗЗ-101/03\,
+  ЗЗ-101/04\, ЗЗ-101/08\, ЗЗ-101/12б\, ТТПЗ-101/02\, ТТПЗ-1
+ 01/03\, ТТПЗ-101/04а\, ТТПЗ-101/05а\, ТТПЗ-101/06\, ТТП
+ З-101/07б\, ТТПЗ-101/12\, ТТПЗ-101/13\, ТТПЗ-101/13а\, Т
+ ТПЗу-101/03\, ТТПЗу-101/04\, ТТПЗу-101/05а\, ТТПЗу-10
+ 1/06\, ТТПЗу-101/07б\, ТТПЗу-101/12\, ТТПЗу-101/13\, ЭЛ
+ З-101/02\, ЭЛЗ-101/03\, ЭЛЗ-101/04\, ЭЛЗ-101/04а\, ЭЛЗ-101/
+ 05а\, ЭЛЗ-101/06\, ЭЛЗ-101/07\, ЭЛЗ-101/07б\, ЭЛЗ-101/11\, 
+ ЭЛЗ-101/12\, ЭЛЗ-101/12а\, ЭЛЗ-101/12б\, ЭЛЗ-101/13\, ЭЛ
+ З-101/13а\, ЭЛЗу-101/03\, ЭЛЗу-101/04а\, ЭЛЗу-101/05а\, 
+ ЭЛЗу-101/06\, ЭЛЗу-101/07\, ЭЛЗу-101/07а\, ЭЛЗу-101/07б
+ \, ЭЛЗу-101/11\, ЭЛЗу-101/12\, ЭЛЗу-101/13а\, ЮЗу-101/02\
+ , ЮЗу-101/03\, ЮЗу-101/04\, ЮЗу-101/04а\, ЮЗу-101/05\, ЮЗ
+ у-101/06\, ЮЗу-101/07\, ЮЗу-101/07а\, ЮЗу-101/07б\, ЮЗу-10
+ 1/08\, ЮЗу-101/13\nURALCAMPUS_SYNC_ID:b9ab9167438d5a6fef2b9722d2fcd029
+ \nURALCAMPUS_SOURCE:inueco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
 UID:22fe1271f2047a9b2616f3fb1dd954fc@uralcampus-calendar-pages

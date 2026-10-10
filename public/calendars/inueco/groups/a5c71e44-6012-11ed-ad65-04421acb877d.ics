@@ -17,4 +17,57 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:b9cf3e689e45867d76144186537e0fcf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+SUMMARY:Уголовное право (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 7 пара\nДополнител
+ ьно: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:b9cf3e689e45867d7614
+ 4186537e0fcf\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7f3107fc8250ead5f111df4f7db010ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T195000
+DTEND;TZID=Asia/Yekaterinburg:20261013T205000
+SUMMARY:Уголовное право (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 8 пара\nДополнител
+ ьно: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:7f3107fc8250ead5f111
+ df4f7db010ff\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4e8392b3c90ffa4ff9e6c92088463962@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T182000
+DTEND;TZID=Asia/Yekaterinburg:20261017T193000
+SUMMARY:Правоохранительные органы (Лекция)
+LOCATION:ауд. 111
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 7 пара\nДополнител
+ ьно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:4e8392b3c90ffa4ff9
+ e6c92088463962\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc160c653822e5918770e96156cd22bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T194000
+DTEND;TZID=Asia/Yekaterinburg:20261017T205000
+SUMMARY:Правоохранительные органы (Практик
+ а)
+LOCATION:ауд. 111
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-201\nПара: 8 пара\nДополнител
+ ьно: Василенко Л. А.\nURALCAMPUS_SYNC_ID:dc160c653822e59187
+ 70e96156cd22bf\nURALCAMPUS_SOURCE:inueco:group:a5c71e44-6012-11ed-ad65-04
+ 421acb877d
+END:VEVENT
 END:VCALENDAR

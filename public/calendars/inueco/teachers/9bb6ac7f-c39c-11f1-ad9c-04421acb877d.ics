@@ -19,6 +19,19 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:3c5090624b1e900c116ced067fa32b59@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Собрание
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяев Николай Конста
+ нтинович\nПара: 3 пара\nДополнительно: ЭЛ
+ Зу-101\nURALCAMPUS_SYNC_ID:3c5090624b1e900c116ced067fa32b59\nURALCAMPUS
+ _SOURCE:inueco:teacher:9bb6ac7f-c39c-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:0f09ffd1006c202460dd01558dd0d884@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261012T153000

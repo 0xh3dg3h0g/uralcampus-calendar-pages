@@ -18,28 +18,39 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:22b5e888c73d56e7d5c6200a48fe1e09@uralcampus-calendar-pages
+UID:a704c3ce4c53e21087e0c7da23de4510@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
-DTEND;TZID=Asia/Yekaterinburg:20261009T100000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 3.2\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 1 пара\nДополнительно: М
- аксютова З.Г.\nURALCAMPUS_SYNC_ID:22b5e888c73d56e7d5c6200a48fe1
- e09\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+ уппа: ГС-176\nПара: 1 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:a704c3ce4c53e21087e0c7da23de4510\nU
+ RALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:c66cb2d2cfd9b04cbf9c297b4416970a@uralcampus-calendar-pages
+UID:261548f3ec7400f2c8f6fede37a49cb1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
-DTEND;TZID=Asia/Yekaterinburg:20261009T114000
-SUMMARY:Обществознание (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Химия (Аудиторные занятия)
 LOCATION:ауд. 3.2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ГС-176\nПара: 2 пара\nДополнительно: К
- ойшина Е.А.\nURALCAMPUS_SYNC_ID:c66cb2d2cfd9b04cbf9c297b4416970a\
+ иреева Ф.З.\nURALCAMPUS_SYNC_ID:261548f3ec7400f2c8f6fede37a49cb1\
  nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb1e81c1295cdcba881c7e3cb9a68d5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 3 пара\nДополнительно: С
+ итников П.В.\nURALCAMPUS_SYNC_ID:fcb1e81c1295cdcba881c7e3cb9a68d
+ 5\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:3b98bb5e79ebf3b28f0eecadf6015cb5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
+DTEND;TZID=Asia/Yekaterinburg:20261013T194000
+SUMMARY:Уголовно-исполнительное право (Лекц
+ ия)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401/12\nПара: 7 пара\nДополните
+ льно: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:3b98bb5e79ebf3b28f0ee
+ cadf6015cb5\nURALCAMPUS_SOURCE:inueco:group:6fba53c7-4b24-11ee-ad78-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9766309975e8f6ee50e33df33d6c35e4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T195000
+DTEND;TZID=Asia/Yekaterinburg:20261013T205000
+SUMMARY:Уголовно-исполнительное право (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗ-401/12\nПара: 8 пара\nДополните
+ льно: Арапова О.Ю.\nURALCAMPUS_SYNC_ID:9766309975e8f6ee50e33
+ df33d6c35e4\nURALCAMPUS_SOURCE:inueco:group:6fba53c7-4b24-11ee-ad78-04421
+ acb877d
+END:VEVENT
 END:VCALENDAR

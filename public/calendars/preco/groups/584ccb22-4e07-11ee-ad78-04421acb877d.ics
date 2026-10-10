@@ -18,29 +18,42 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9ac8d9a0a020451240c741f0ab30b362@uralcampus-calendar-pages
+UID:190b609339a993380022516079a693fb@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
-DTEND;TZID=Asia/Yekaterinburg:20261009T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
 SUMMARY:Основы алголритмизации и программи
  рования (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-270\nПара: 1 пара\nДополнительно: Ка
- расова А.А.\nURALCAMPUS_SYNC_ID:9ac8d9a0a020451240c741f0ab30b362\
+ расова А.А.\nURALCAMPUS_SYNC_ID:190b609339a993380022516079a693fb\
  nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:de5c8da520c9f3d72549a32a45938858@uralcampus-calendar-pages
+UID:287abcd94f91d25d03132643d34f5e87@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
-DTEND;TZID=Asia/Yekaterinburg:20261009T114000
-SUMMARY:Основы алголритмизации и программи
- рования (Аудиторные занятия)
-LOCATION:ауд. 7\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 1а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-270\nПара: 2 пара\nДополнительно: Ка
- расова А.А.\nURALCAMPUS_SYNC_ID:de5c8da520c9f3d72549a32a45938858\
+ уппа: П-270\nПара: 2 пара\nДополнительно: См
+ ирнова Н.В.\nURALCAMPUS_SYNC_ID:287abcd94f91d25d03132643d34f5e87\
  nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:24301e12c7d43a3b402642f2f2ed843c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-270\nПара: 3 пара\nДополнительно: Ма
+ ксютова З.Г.\nURALCAMPUS_SYNC_ID:24301e12c7d43a3b402642f2f2ed843
+ c\nURALCAMPUS_SOURCE:preco:group:584ccb22-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -19,48 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:65eac7899aa31e07267fa1fdef1938ec@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
-DTEND;TZID=Asia/Yekaterinburg:20261009T133000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 313\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ещеркина Людмила Владимир
- овна\nПара: 3 пара\nДополнительно: Ю-338к\, Ю
- -338Ак\nURALCAMPUS_SYNC_ID:65eac7899aa31e07267fa1fdef1938ec\nURALCAMPUS
- _SOURCE:preco:teacher:bda7b041-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:6215c0569ae3e76789a6cc07ffea6228@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
-DTEND;TZID=Asia/Yekaterinburg:20261009T152000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 410\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ещеркина Людмила Владимир
- овна\nПара: 4 пара\nДополнительно: Ю-238к\, Ю
- -238Ак\nURALCAMPUS_SYNC_ID:6215c0569ae3e76789a6cc07ffea6228\nURALCAMPUS
- _SOURCE:preco:teacher:bda7b041-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:50ee83b69896157a828bb921d8671bf3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T153000
-DTEND;TZID=Asia/Yekaterinburg:20261009T170000
-SUMMARY:Основы языкознания (Аудиторные заня
- тия)
-LOCATION:ауд. 303\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ещеркина Людмила Владимир
- овна\nПара: 5 пара\nДополнительно: НК-256к\, 
- НК-256Ак\nURALCAMPUS_SYNC_ID:50ee83b69896157a828bb921d8671bf3\nURALCA
- MPUS_SOURCE:preco:teacher:bda7b041-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:40f18e8413aba768dbac27e70b1ad503@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T083000
@@ -201,20 +159,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  _SOURCE:preco:teacher:bda7b041-04b1-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:b7bba7bf3afa560c772bedb6fd4f3b9b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
-DTEND;TZID=Asia/Yekaterinburg:20261022T114000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 411\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ещеркина Людмила Владимир
- овна\nПара: 2 пара\nДополнительно: П-341к\, П
- -341Ак\nURALCAMPUS_SYNC_ID:b7bba7bf3afa560c772bedb6fd4f3b9b\nURALCAMPUS
- _SOURCE:preco:teacher:bda7b041-04b1-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:332d0d5dd24d45ae7184949916855dbe@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
@@ -227,6 +171,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  овна\nПара: 2 пара\nДополнительно: ОЛ-250к\nU
  RALCAMPUS_SYNC_ID:332d0d5dd24d45ae7184949916855dbe\nURALCAMPUS_SOURCE:pre
  co:teacher:bda7b041-04b1-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:b7bba7bf3afa560c772bedb6fd4f3b9b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
+DTEND;TZID=Asia/Yekaterinburg:20261022T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 411\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ещеркина Людмила Владимир
+ овна\nПара: 2 пара\nДополнительно: П-341к\, П
+ -341Ак\nURALCAMPUS_SYNC_ID:b7bba7bf3afa560c772bedb6fd4f3b9b\nURALCAMPUS
+ _SOURCE:preco:teacher:bda7b041-04b1-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:3e6e2bad017ee4fe19cf37aa526264c5@uralcampus-calendar-pages

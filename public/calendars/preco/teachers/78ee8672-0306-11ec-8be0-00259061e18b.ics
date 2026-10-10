@@ -19,48 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e70d10d181b1721c19429d71bc81067c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T101000
-DTEND;TZID=Asia/Yekaterinburg:20261009T114000
-SUMMARY:Безопасность жизнедеятельности (Ау
- диторные занятия)
-LOCATION:ауд. 111\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дресвянникова Татьяна Ник
- олаевна\nПара: 2 пара\nДополнительно: П-310\
- , П-310А\nURALCAMPUS_SYNC_ID:e70d10d181b1721c19429d71bc81067c\nURALCAMP
- US_SOURCE:preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:ad265c24368e4971ae746ad65d79cf3e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T120000
-DTEND;TZID=Asia/Yekaterinburg:20261009T133000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дресвянникова Татьяна Ник
- олаевна\nПара: 3 пара\nДополнительно: СД-32
- 2\nURALCAMPUS_SYNC_ID:ad265c24368e4971ae746ad65d79cf3e\nURALCAMPUS_SOURCE
- :preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:60b22b3ca72df0586f8a53ccc87d8bfe@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261009T135000
-DTEND;TZID=Asia/Yekaterinburg:20261009T152000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 207\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дресвянникова Татьяна Ник
- олаевна\nПара: 4 пара\nДополнительно: СД-32
- 3\nURALCAMPUS_SYNC_ID:60b22b3ca72df0586f8a53ccc87d8bfe\nURALCAMPUS_SOURCE
- :preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:e1f44892521e2a62278de590b7c6bfc3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
@@ -148,34 +106,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  олаевна\nПара: 6 пара\nДополнительно: СД/о
  з-303А\nURALCAMPUS_SYNC_ID:a14e1544ff4dd89befc032219282414a\nURALCAMPUS
  _SOURCE:preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:a62615793613d4d576650b842686ddf0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
-DTEND;TZID=Asia/Yekaterinburg:20261012T114000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 111\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дресвянникова Татьяна Ник
- олаевна\nПара: 2 пара\nДополнительно: СД-32
- 2\nURALCAMPUS_SYNC_ID:a62615793613d4d576650b842686ddf0\nURALCAMPUS_SOURCE
- :preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:0f7cae80320e5b80d574dd6c6dcb9f4c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
-DTEND;TZID=Asia/Yekaterinburg:20261012T133000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 111\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дресвянникова Татьяна Ник
- олаевна\nПара: 3 пара\nДополнительно: СД-32
- 2\nURALCAMPUS_SYNC_ID:0f7cae80320e5b80d574dd6c6dcb9f4c\nURALCAMPUS_SOURCE
- :preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:519c9619fd1a5727726e2b329c8bacd1@uralcampus-calendar-pages
@@ -315,6 +245,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Дресвянникова Татьяна Ник
  олаевна\nПара: 3 пара\nДополнительно: СД-32
  2\nURALCAMPUS_SYNC_ID:ce9a2ec06bfd4aef588a49bd30c52f55\nURALCAMPUS_SOURCE
+ :preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:47b659a7368992cce32b4b6c18b34d01@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
+DTEND;TZID=Asia/Yekaterinburg:20261016T152000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. 101\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дресвянникова Татьяна Ник
+ олаевна\nПара: 4 пара\nДополнительно: СД-32
+ 2\nURALCAMPUS_SYNC_ID:47b659a7368992cce32b4b6c18b34d01\nURALCAMPUS_SOURCE
  :preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
@@ -542,6 +486,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Дресвянникова Татьяна Ник
  олаевна\nПара: 3 пара\nДополнительно: СД-32
  2\nURALCAMPUS_SYNC_ID:54bdf62d549f2ef84b107897539f64cd\nURALCAMPUS_SOURCE
+ :preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:0f148b01e657cbd0c0620aa0839576b2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T135000
+DTEND;TZID=Asia/Yekaterinburg:20261023T152000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. 101\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дресвянникова Татьяна Ник
+ олаевна\nПара: 4 пара\nДополнительно: СД-32
+ 2\nURALCAMPUS_SYNC_ID:0f148b01e657cbd0c0620aa0839576b2\nURALCAMPUS_SOURCE
  :preco:teacher:78ee8672-0306-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
