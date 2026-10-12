@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:b6478d1d57aeda9d658f8e2ba7b142d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Основы экономики (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗД-101\nПара: 3 пара\nДополнител
+ ьно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:b6478d1d57aeda9d658f8e
+ 2ba7b142d2\nURALCAMPUS_SOURCE:inueco:group:94fd51b7-6726-11ee-ad79-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcc5c47d9bc2b4d92bc18ad07a5e1fa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T134000
+DTEND;TZID=Asia/Yekaterinburg:20261017T151000
+SUMMARY:Основы экономики (Практика)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗД-101\nПара: 4 пара\nДополнител
+ ьно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:9fcc5c47d9bc2b4d92bc18
+ ad07a5e1fa\nURALCAMPUS_SOURCE:inueco:group:94fd51b7-6726-11ee-ad79-04421a
+ cb877d
+END:VEVENT
 END:VCALENDAR

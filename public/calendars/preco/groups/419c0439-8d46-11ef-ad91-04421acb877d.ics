@@ -17,4 +17,56 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:9abe32f6b65e60eea67d1753f4284c4b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
+DTEND;TZID=Asia/Yekaterinburg:20261017T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДз-103/02\nПара: 1 пара\nДополнительно
+ : Свириденко А.Н.\nURALCAMPUS_SYNC_ID:9abe32f6b65e60eea67d175
+ 3f4284c4b\nURALCAMPUS_SOURCE:preco:group:419c0439-8d46-11ef-ad91-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0204293b23ff71701cb68c69653fdabc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261018T101000
+DTEND;TZID=Asia/Yekaterinburg:20261018T114000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 206\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДз-103/02\nПара: 2 пара\nДополнительно
+ : Корчагина Д.Т.\nURALCAMPUS_SYNC_ID:0204293b23ff71701cb68c696
+ 53fdabc\nURALCAMPUS_SOURCE:preco:group:419c0439-8d46-11ef-ad91-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:f5660bad788875905b3dfb735aa113cd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261018T120000
+DTEND;TZID=Asia/Yekaterinburg:20261018T133000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 206\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДз-103/02\nПара: 3 пара\nДополнительно
+ : Корчагина Д.Т.\nURALCAMPUS_SYNC_ID:f5660bad788875905b3dfb735
+ aa113cd\nURALCAMPUS_SOURCE:preco:group:419c0439-8d46-11ef-ad91-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f6d9ac4ffaeff3db4ae5ac112d16e3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261018T135000
+DTEND;TZID=Asia/Yekaterinburg:20261018T152000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 206\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДз-103/02\nПара: 4 пара\nДополнительно
+ : Корчагина Д.Т.\nURALCAMPUS_SYNC_ID:d3f6d9ac4ffaeff3db4ae5ac1
+ 12d16e3\nURALCAMPUS_SOURCE:preco:group:419c0439-8d46-11ef-ad91-04421acb87
+ 7d
+END:VEVENT
 END:VCALENDAR
