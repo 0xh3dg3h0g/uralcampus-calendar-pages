@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ГМУЗм-101/03
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:172186618f4dc6a1a756b5962e1152dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T183000
+DTEND;TZID=Asia/Yekaterinburg:20261012T194000
+SUMMARY:Управление связями с общественност
+ ью (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗм-101/03\nПара: 7 пара\nДополн
+ ительно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:172186618f4dc
+ 6a1a756b5962e1152dc\nURALCAMPUS_SOURCE:inueco:group:a09d1d00-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:68e6a033735a52de0247b014a88e055e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T171000
+DTEND;TZID=Asia/Yekaterinburg:20261012T182000
+SUMMARY:Управление связями с общественност
+ ью (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗм-101/03\nПара: 6 пара\nДополн
+ ительно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:68e6a033735a5
+ 2de0247b014a88e055e\nURALCAMPUS_SOURCE:inueco:group:a09d1d00-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a71082d24726b7c9da175749a4c29634@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T195000
+DTEND;TZID=Asia/Yekaterinburg:20261012T205000
+SUMMARY:Управление связями с общественност
+ ью (Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗм-101/03\nПара: 8 пара\nДополн
+ ительно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:a71082d24726b
+ 7c9da175749a4c29634\nURALCAMPUS_SOURCE:inueco:group:a09d1d00-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
+END:VCALENDAR

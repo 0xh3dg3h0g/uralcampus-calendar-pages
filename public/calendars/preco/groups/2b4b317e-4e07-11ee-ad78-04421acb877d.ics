@@ -18,28 +18,27 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c5d2e863cdfacaf51db3cb2eedf9a352@uralcampus-calendar-pages
+UID:6664ddc3724aa6170b76b86782e85c2e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
-DTEND;TZID=Asia/Yekaterinburg:20261012T100000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 4а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 1 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:c5d2e863cdfacaf51db3cb2eedf9a352\
- nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:47fcfae301341914696879ed3cc3bb87@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
-DTEND;TZID=Asia/Yekaterinburg:20261012T114000
-SUMMARY:Иностранный язык(подгруппа:П-170 (1)) (А
- удиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:Обществознание (Аудиторные занятия)
 LOCATION:ауд. 6\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 2 пара\nДополнительно: Ма
- ксютова З.Г.\nURALCAMPUS_SYNC_ID:47fcfae301341914696879ed3cc3bb8
- 7\nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+ уппа: П-170\nПара: 1 пара\nДополнительно: Ко
+ йшина Е.А.\nURALCAMPUS_SYNC_ID:6664ddc3724aa6170b76b86782e85c2e\nU
+ RALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:62b614cb44200d3ea4b417ffa35a9ca5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170\nПара: 2 пара\nДополнительно: Си
+ тников П.В.\nURALCAMPUS_SYNC_ID:62b614cb44200d3ea4b417ffa35a9ca5\
+ nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

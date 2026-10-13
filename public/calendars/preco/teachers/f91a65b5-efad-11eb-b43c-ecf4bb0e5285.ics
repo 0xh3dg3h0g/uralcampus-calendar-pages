@@ -19,20 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:61b7741c0dc83fb06d39dc0b724b434b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T153000
-DTEND;TZID=Asia/Yekaterinburg:20261012T170000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Суркова Елена Геннадьевна\
- nПара: 5 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
- nURALCAMPUS_SYNC_ID:61b7741c0dc83fb06d39dc0b724b434b\nURALCAMPUS_SOURCE:p
- reco:teacher:f91a65b5-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:d875c0d4a681de544eed869484ee9451@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
@@ -100,6 +86,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Суркова Елена Геннадьевна\
  nПара: 4 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
  nURALCAMPUS_SYNC_ID:47073854388bc28627b3bedb5203b990\nURALCAMPUS_SOURCE:p
+ reco:teacher:f91a65b5-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b8369ed824dfd5d7cec486afe19b7b1e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T083000
+DTEND;TZID=Asia/Yekaterinburg:20261015T100000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Суркова Елена Геннадьевна\
+ nПара: 1 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
+ nURALCAMPUS_SYNC_ID:b8369ed824dfd5d7cec486afe19b7b1e\nURALCAMPUS_SOURCE:p
  reco:teacher:f91a65b5-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT

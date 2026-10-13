@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: МКЗ-101
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:56d0ef61cfe9558cd9d1226549733e8b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
+DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+SUMMARY:Русский язык и культура речи (Лекция
+ )
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МКЗ-101\nПара: 3 пара\nДополнител
+ ьно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:56d0ef61cfe9558cd9d
+ 1226549733e8b\nURALCAMPUS_SOURCE:inueco:group:d74f487d-9f78-11f1-ad9c-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9b8c230004bc556fb8968a397767830e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T153000
+DTEND;TZID=Asia/Yekaterinburg:20261012T170000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МКЗ-101\nПара: 5 пара\nДополнител
+ ьно: Колесников М.А.\nURALCAMPUS_SYNC_ID:9b8c230004bc556fb
+ 8968a397767830e\nURALCAMPUS_SOURCE:inueco:group:d74f487d-9f78-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dd454d55b8d15d920dcc20db66ee6f66@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T135000
+DTEND;TZID=Asia/Yekaterinburg:20261012T152000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МКЗ-101\nПара: 4 пара\nДополнител
+ ьно: Колесников М.А.\nURALCAMPUS_SYNC_ID:dd454d55b8d15d920
+ dcc20db66ee6f66\nURALCAMPUS_SOURCE:inueco:group:d74f487d-9f78-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f35ef284b61fd837f500944a359e64e0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T171000
+DTEND;TZID=Asia/Yekaterinburg:20261012T182000
+SUMMARY:Оздоровительная рекреационная двиг
+ ательная активность (Практика)
+LOCATION:ауд. 504\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МКЗ-101\nПара: 6 пара\nДополнител
+ ьно: Васильев С. А.\nURALCAMPUS_SYNC_ID:f35ef284b61fd837f500
+ 944a359e64e0\nURALCAMPUS_SOURCE:inueco:group:d74f487d-9f78-11f1-ad9c-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR

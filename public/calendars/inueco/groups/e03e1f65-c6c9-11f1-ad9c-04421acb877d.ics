@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗу-101/12б
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a95ca8c4be441b970924838e646bf8b3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 2 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:a95ca8c4be441b97
+ 0924838e646bf8b3\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ec4696dc29dbd34983b258660c683b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 3 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:d7ec4696dc29dbd3
+ 4983b258660c683b\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3ff22f674c6d97ac6265a5d6f68f1f32@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T101000
+DTEND;TZID=Asia/Yekaterinburg:20261014T114000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 2 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:3ff22f674c6d97ac
+ 6265a5d6f68f1f32\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7a02955dd217cb60f9c792b7193fb53e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T120000
+DTEND;TZID=Asia/Yekaterinburg:20261014T133000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 3 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:7a02955dd217cb60
+ f9c792b7193fb53e\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b5768785fc87c87ea1326899238a5732@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T183000
+DTEND;TZID=Asia/Yekaterinburg:20261015T194000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 7 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:b5768785fc87c87e
+ a1326899238a5732\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:64638a9288bf93c608e4e53b9a50d4a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T195000
+DTEND;TZID=Asia/Yekaterinburg:20261015T205000
+SUMMARY:Теория государства и права (Практик
+ а)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 8 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:64638a9288bf93c6
+ 08e4e53b9a50d4a8\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:42b24403a20d50708623118aad1b0bea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
+DTEND;TZID=Asia/Yekaterinburg:20261016T133000
+SUMMARY:Теория государства и права (Практик
+ а)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 3 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:42b24403a20d5070
+ 8623118aad1b0bea\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f67b7f477171b2d86bb6b50da183d1c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
+DTEND;TZID=Asia/Yekaterinburg:20261016T152000
+SUMMARY:Теория государства и права (Практик
+ а)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 4 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:f67b7f477171b2d8
+ 6bb6b50da183d1c4\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ec6e26624bf1059a657addbae5738bb6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T153000
+DTEND;TZID=Asia/Yekaterinburg:20261016T170000
+SUMMARY:Теория государства и права (Практик
+ а)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 5 пара\nДополни
+ тельно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:ec6e26624bf1059a
+ 657addbae5738bb6\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f1-ad9c-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4b3b1c3e3e270b96ef35f2dc7d7bdeb6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
+DTEND;TZID=Asia/Yekaterinburg:20261017T181000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 6 пара\nДополни
+ тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:4b3b1c3e3
+ e270b96ef35f2dc7d7bdeb6\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f
+ 1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:01bccf3f2f746dd420276fb6661cdb4b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T182000
+DTEND;TZID=Asia/Yekaterinburg:20261017T193000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-101/12б\nПара: 7 пара\nДополни
+ тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:01bccf3f2
+ f746dd420276fb6661cdb4b\nURALCAMPUS_SOURCE:inueco:group:e03e1f65-c6c9-11f
+ 1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

@@ -18,44 +18,28 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8e9db941c615aa00e5d43065c5b0eaaa@uralcampus-calendar-pages
+UID:62e3cd8d82eca90ad9f441b346fae9d4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T135000
-DTEND;TZID=Asia/Yekaterinburg:20261012T152000
-SUMMARY:Основы гидравлики\, теплотехники и а
- эродинамики (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
+DTEND;TZID=Asia/Yekaterinburg:20261013T152000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 4 пара\nДополнительно: К
+ ойшина Е.А.\nURALCAMPUS_SYNC_ID:62e3cd8d82eca90ad9f441b346fae9d4\
+ nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:acc6cf3051462c4c2fb06e1ff24324f9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T153000
+DTEND;TZID=Asia/Yekaterinburg:20261013T170000
+SUMMARY:Электротехника и электроника (Аудит
+ орные занятия)
 LOCATION:ауд. 5\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 4 пара\nДополнительно: Е
- рина М.А.\nURALCAMPUS_SYNC_ID:8e9db941c615aa00e5d43065c5b0eaaa\nURA
- LCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4ebe9ddb45ae89dff851a3a43abfa60d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T153000
-DTEND;TZID=Asia/Yekaterinburg:20261012T170000
-SUMMARY:Русский язык и культура речи (Аудито
- рные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 5 пара\nДополнительно: И
- ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:4ebe9ddb45ae89dff851a3a43a
- bfa60d\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
-UID:a4bc1ed5c3c0afdfca54af394ee0700d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T171000
-DTEND;TZID=Asia/Yekaterinburg:20261012T182000
-SUMMARY:Русский язык и культура речи (Аудито
- рные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 6 пара\nДополнительно: И
- ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:a4bc1ed5c3c0afdfca54af394e
- e0700d\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877
- d
+ уппа: ГС-276\nПара: 5 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:acc6cf3051462c4c2fb06e1ff24324f9\nU
+ RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

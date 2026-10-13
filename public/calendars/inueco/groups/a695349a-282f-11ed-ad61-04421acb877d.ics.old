@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЛЗ-101/07
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0d344000c16d6dcd89a65fed2afdf4aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
+DTEND;TZID=Asia/Yekaterinburg:20261012T100000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 1 пара\nДополнит
+ ельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:0d344000c16d6dcd
+ 89a65fed2afdf4aa\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1dfb03329a9ea1afcea3cd79c96cd340@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
+DTEND;TZID=Asia/Yekaterinburg:20261012T114000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 2 пара\nДополнит
+ ельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:1dfb03329a9ea1af
+ cea3cd79c96cd340\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+END:VCALENDAR

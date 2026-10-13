@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Группа: ЮЗм-101/11
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:40a05e1f952d1a63b764ca901672959e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T083000
+DTEND;TZID=Asia/Yekaterinburg:20261014T100000
+SUMMARY:Конституционное право зарубежных с
+ тран (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 1 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:40a05e1f952d1a63b
+ 764ca901672959e\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b81c2f7a6d3109920cdbb530773b2468@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T101000
+DTEND;TZID=Asia/Yekaterinburg:20261014T114000
+SUMMARY:Конституционное право зарубежных с
+ тран (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 2 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:b81c2f7a6d3109920
+ cdbb530773b2468\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d9be3b92b67260ea8d35466d0f3d7ec3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T120000
+DTEND;TZID=Asia/Yekaterinburg:20261014T133000
+SUMMARY:Конституционное право зарубежных с
+ тран (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 3 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:d9be3b92b67260ea8
+ d35466d0f3d7ec3\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0af8b53eb481e5e6e147eb95a6e4a076@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T135000
+DTEND;TZID=Asia/Yekaterinburg:20261014T152000
+SUMMARY:Конституционное право зарубежных с
+ тран (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 4 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:0af8b53eb481e5e6e
+ 147eb95a6e4a076\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0a9ddfc523c871a57df70ffc1fd25126@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T183000
+DTEND;TZID=Asia/Yekaterinburg:20261016T194000
+SUMMARY:Иностранный язык в профессионально
+ й сфере (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 7 пара\nДополнит
+ ельно: Саллам М.Э.\nURALCAMPUS_SYNC_ID:0a9ddfc523c871a57df70
+ ffc1fd25126\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-ad9c-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:804fee52885b7a1d2e7011d8f72d9d5d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T195000
+DTEND;TZID=Asia/Yekaterinburg:20261016T205000
+SUMMARY:Иностранный язык в профессионально
+ й сфере (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 8 пара\nДополнит
+ ельно: Саллам М.Э.\nURALCAMPUS_SYNC_ID:804fee52885b7a1d2e701
+ 1d8f72d9d5d\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-ad9c-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e95d34718e2c66ff49b52b2e2500860d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
+DTEND;TZID=Asia/Yekaterinburg:20261017T181000
+SUMMARY:Государственная политика по против
+ одействию коррупции (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 6 пара\nДополнит
+ ельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:e95d34718e2c
+ 66ff49b52b2e2500860d\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-a
+ d9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:956a47175298034a3b0a26ba30e95744@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T182000
+DTEND;TZID=Asia/Yekaterinburg:20261017T193000
+SUMMARY:Методология и организация научных и
+ сследований (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 7 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:956a47175298034a3
+ b0a26ba30e95744\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5552c5c1f168c705a21c3b8aeef1a130@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T194000
+DTEND;TZID=Asia/Yekaterinburg:20261017T205000
+SUMMARY:Конституционное право зарубежных с
+ тран (Зачет)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/11\nПара: 8 пара\nДополнит
+ ельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:5552c5c1f168c705a
+ 21c3b8aeef1a130\nURALCAMPUS_SOURCE:inueco:group:89139645-c629-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+END:VCALENDAR

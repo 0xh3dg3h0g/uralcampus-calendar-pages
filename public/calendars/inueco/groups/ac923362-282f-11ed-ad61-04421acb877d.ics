@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8d4bac0306edbb9f1e993a6d7f7a651e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
-DTEND;TZID=Asia/Yekaterinburg:20261012T114000
-SUMMARY:Информационное право (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Ю-201\nПара: 2 пара\nДополнительн
- о: Кузьмина М.Е.\nURALCAMPUS_SYNC_ID:8d4bac0306edbb9f1e993a6d7
- f7a651e\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
-UID:044deae2cfec53b4c770a5ba62347f36@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
-DTEND;TZID=Asia/Yekaterinburg:20261012T133000
-SUMMARY:Уголовное право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
- о: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:044deae2cfec53b4c770a5ba
- 62347f36\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e5a5440fe082b8a8c43b9e2febcab8c3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
@@ -57,16 +31,29 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:9c19f6fee57a13b00f8c839728f734c0@uralcampus-calendar-pages
+UID:875e8a751f3a29429adbd9b1acbc42f8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
 DTEND;TZID=Asia/Yekaterinburg:20261013T133000
-SUMMARY:Гражданское право (Практика)
+SUMMARY:Гражданское право (Лекция)
 LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
- о: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:9c19f6fee57a13b00f
- 8c839728f734c0\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04
+ о: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:875e8a751f3a29429a
+ dbd9b1acbc42f8\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:652a9f7a1ed922749e5384b55f07292d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
+DTEND;TZID=Asia/Yekaterinburg:20261013T152000
+SUMMARY:Гражданское право (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 4 пара\nДополнительн
+ о: Новокшонова Н. А.\nURALCAMPUS_SYNC_ID:652a9f7a1ed922749e
+ 5384b55f07292d\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04
  421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -120,5 +107,33 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Василенко Л. А.\nURALCAMPUS_SYNC_ID:4b983ba9e2347398262b68
  f52bd37efb\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421a
  cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:67f0294dd14e7d5c5e438d555935671f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Наследственное право и нотариат (Ле
+ кция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 2 пара\nДополнительн
+ о: Ткаченко Н. Б.\nURALCAMPUS_SYNC_ID:67f0294dd14e7d5c5e438d55
+ 5935671f\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:da4aa1d64297324afac4c799fb92df5b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Наследственное право и нотариат (Пр
+ актика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
+ о: Ткаченко Н. Б.\nURALCAMPUS_SYNC_ID:da4aa1d64297324afac4c799
+ fb92df5b\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
+ 877d
 END:VEVENT
 END:VCALENDAR

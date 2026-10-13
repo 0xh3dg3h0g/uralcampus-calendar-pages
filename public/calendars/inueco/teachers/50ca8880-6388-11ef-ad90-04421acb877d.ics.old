@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Фёдоров Але
+ ксей Николаевич
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6b386c7c31287640a539b4717c765d03@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T195000
+DTEND;TZID=Asia/Yekaterinburg:20261012T205000
+SUMMARY:История государства и права России (
+ Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Фёдоров Алексей Никол
+ аевич\nПара: 8 пара\nДополнительно: ЮЗУ-101
+ б\nURALCAMPUS_SYNC_ID:6b386c7c31287640a539b4717c765d03\nURALCAMPUS_SOURC
+ E:inueco:teacher:50ca8880-6388-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e43b37a3813850fa26019d8631f6886f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T171000
+DTEND;TZID=Asia/Yekaterinburg:20261012T182000
+SUMMARY:История государства и права России (
+ Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Фёдоров Алексей Никол
+ аевич\nПара: 6 пара\nДополнительно: ЮЗУ-101
+ б\nURALCAMPUS_SYNC_ID:e43b37a3813850fa26019d8631f6886f\nURALCAMPUS_SOURC
+ E:inueco:teacher:50ca8880-6388-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fc52c6fc85ad1a8c81bf7e18c6ec805b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T183000
+DTEND;TZID=Asia/Yekaterinburg:20261012T194000
+SUMMARY:История государства и права России (
+ Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Фёдоров Алексей Никол
+ аевич\nПара: 7 пара\nДополнительно: ЮЗУ-101
+ б\nURALCAMPUS_SYNC_ID:fc52c6fc85ad1a8c81bf7e18c6ec805b\nURALCAMPUS_SOURC
+ E:inueco:teacher:50ca8880-6388-11ef-ad90-04421acb877d
+END:VEVENT
+END:VCALENDAR

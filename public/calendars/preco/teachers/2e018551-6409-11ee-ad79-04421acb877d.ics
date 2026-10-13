@@ -19,29 +19,55 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:994edb8e2d97d7abd60fa8da97f9d369@uralcampus-calendar-pages
+UID:43624c7eedd656779f213f6ca4d49a55@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
-DTEND;TZID=Asia/Yekaterinburg:20261012T100000
-SUMMARY:Химия (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:Биология (Аудиторные занятия)
 LOCATION:ауд. 3.2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Киреева Фирюза Зуфаровна\n
- Пара: 1 пара\nДополнительно: Б-164\nURALCAMPUS_SYNC
- _ID:994edb8e2d97d7abd60fa8da97f9d369\nURALCAMPUS_SOURCE:preco:teacher:2e0
+ Пара: 1 пара\nДополнительно: ГС-176\nURALCAMPUS_SY
+ NC_ID:43624c7eedd656779f213f6ca4d49a55\nURALCAMPUS_SOURCE:preco:teacher:2
+ e018551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a4c7b32d1518eb78b26a7815a6b27eae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 2 пара\nДополнительно: Б-164\nURALCAMPUS_SYNC
+ _ID:a4c7b32d1518eb78b26a7815a6b27eae\nURALCAMPUS_SOURCE:preco:teacher:2e0
  18551-6409-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:327172601682cbcf6ff74c643670a5e9@uralcampus-calendar-pages
+UID:f9205f18287e290c41aef13d10bbe5e4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T101000
-DTEND;TZID=Asia/Yekaterinburg:20261012T114000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 3.2\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Киреева Фирюза Зуфаровна\n
- Пара: 2 пара\nДополнительно: ГС-176\nURALCAMPUS_SY
- NC_ID:327172601682cbcf6ff74c643670a5e9\nURALCAMPUS_SOURCE:preco:teacher:2
- e018551-6409-11ee-ad79-04421acb877d
+ Пара: 3 пара\nДополнительно: Ф-162\nURALCAMPUS_SYNC
+ _ID:f9205f18287e290c41aef13d10bbe5e4\nURALCAMPUS_SOURCE:preco:teacher:2e0
+ 18551-6409-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c49a637909e4d553d8efc79481ec4fc9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
+DTEND;TZID=Asia/Yekaterinburg:20261013T152000
+SUMMARY:Ботаника (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Киреева Фирюза Зуфаровна\n
+ Пара: 4 пара\nДополнительно: Ф-262\, Ф-262А\nURAL
+ CAMPUS_SYNC_ID:c49a637909e4d553d8efc79481ec4fc9\nURALCAMPUS_SOURCE:preco:
+ teacher:2e018551-6409-11ee-ad79-04421acb877d
 END:VEVENT
 END:VCALENDAR

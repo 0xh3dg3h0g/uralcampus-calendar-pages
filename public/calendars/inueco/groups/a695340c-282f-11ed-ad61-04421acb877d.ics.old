@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ТДЗ-101
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2f4e534e63547599591f409db002cd24@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T153000
+DTEND;TZID=Asia/Yekaterinburg:20261012T170000
+SUMMARY:Собрание
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-101\nПара: 5 пара\nДополнител
+ ьно: Сергеичева И. А.\nURALCAMPUS_SYNC_ID:2f4e534e63547599
+ 591f409db002cd24\nURALCAMPUS_SOURCE:inueco:group:a695340c-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:495fc66be3cbf660a99b0f322649b74d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T171000
+DTEND;TZID=Asia/Yekaterinburg:20261012T182000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-101\nПара: 6 пара\nДополнител
+ ьно: Казаченок Ю. В.\nURALCAMPUS_SYNC_ID:495fc66be3cbf660a9
+ 9b0f322649b74d\nURALCAMPUS_SOURCE:inueco:group:a695340c-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:89a66ae1f5d95df86757c4df9804c7e6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T183000
+DTEND;TZID=Asia/Yekaterinburg:20261012T194000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-101\nПара: 7 пара\nДополнител
+ ьно: Казаченок Ю. В.\nURALCAMPUS_SYNC_ID:89a66ae1f5d95df867
+ 57c4df9804c7e6\nURALCAMPUS_SOURCE:inueco:group:a695340c-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b938d9062ad6527b1260f86f9ee9b418@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261012T195000
+DTEND;TZID=Asia/Yekaterinburg:20261012T205000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-101\nПара: 8 пара\nДополнител
+ ьно: Колесников М.А.\nURALCAMPUS_SYNC_ID:b938d9062ad6527b1
+ 260f86f9ee9b418\nURALCAMPUS_SOURCE:inueco:group:a695340c-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+END:VCALENDAR

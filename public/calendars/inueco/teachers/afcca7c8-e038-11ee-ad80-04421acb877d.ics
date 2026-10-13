@@ -19,71 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0432876855494172be20d6dc5bd8b6dd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T135000
-DTEND;TZID=Asia/Yekaterinburg:20261012T152000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Черепашкин Алексей Се
- ргеевич\nПара: 4 пара\nДополнительно: ЗЗу-
- 101\, ЭЛЗу-101\nURALCAMPUS_SYNC_ID:0432876855494172be20d6dc5bd8b6dd\n
- URALCAMPUS_SOURCE:inueco:teacher:afcca7c8-e038-11ee-ad80-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:6f83e1fd978a8b136237a6588ce7fcc1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T153000
-DTEND;TZID=Asia/Yekaterinburg:20261012T170000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Черепашкин Алексей Се
- ргеевич\nПара: 5 пара\nДополнительно: ЗЗу-
- 101\, ЭЛЗу-101\nURALCAMPUS_SYNC_ID:6f83e1fd978a8b136237a6588ce7fcc1\n
- URALCAMPUS_SOURCE:inueco:teacher:afcca7c8-e038-11ee-ad80-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7bd9bc76abfe1146ee6dd08d1a0bd676@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T171000
-DTEND;TZID=Asia/Yekaterinburg:20261012T182000
-SUMMARY:Правоведение (Практика)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Черепашкин Алексей Се
- ргеевич\nПара: 6 пара\nДополнительно: ЗЗу-
- 101\, ЭЛЗу-101\nURALCAMPUS_SYNC_ID:7bd9bc76abfe1146ee6dd08d1a0bd676\n
- URALCAMPUS_SOURCE:inueco:teacher:afcca7c8-e038-11ee-ad80-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ad3676effa9b4a3d9c49e451694d1f08@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T183000
-DTEND;TZID=Asia/Yekaterinburg:20261012T194000
-SUMMARY:Финансовое право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Черепашкин Алексей Се
- ргеевич\nПара: 7 пара\nДополнительно: ЮЗу-
- 201\nURALCAMPUS_SYNC_ID:ad3676effa9b4a3d9c49e451694d1f08\nURALCAMPUS_SOUR
- CE:inueco:teacher:afcca7c8-e038-11ee-ad80-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:732bd83412ab26147215a88e19e1706c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T195000
-DTEND;TZID=Asia/Yekaterinburg:20261012T205000
-SUMMARY:Финансовое право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Черепашкин Алексей Се
- ргеевич\nПара: 8 пара\nДополнительно: ЮЗу-
- 201\nURALCAMPUS_SYNC_ID:732bd83412ab26147215a88e19e1706c\nURALCAMPUS_SOUR
- CE:inueco:teacher:afcca7c8-e038-11ee-ad80-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:6e044026e1ca411a4ccd962374e530ca@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261013T183000
@@ -359,7 +294,7 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  0-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:5cfd1b1cefaf32ffcde5e5da468b448b@uralcampus-calendar-pages
+UID:c6d07a371b29e47be1691fd7c36dcccf@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
 DTEND;TZID=Asia/Yekaterinburg:20261017T181000
@@ -369,9 +304,10 @@ LOCATION:ауд. 209-1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Черепашкин Алексей Се
  ргеевич\nПара: 6 пара\nДополнительно: ЮЗм-
- 101/01\, ЮЗм-101/03\, ЮЗм-101/04\, ЮЗм-101/04а\, ЮЗм-101/05\
- , ЮЗм-101/07б\, ЮЗм-101/12\, ЮЗм-101/13\, ЮЗМд-101\nURALCAM
- PUS_SYNC_ID:5cfd1b1cefaf32ffcde5e5da468b448b\nURALCAMPUS_SOURCE:inueco:te
- acher:afcca7c8-e038-11ee-ad80-04421acb877d
+ 101/01\, ЮЗм-101/02\, ЮЗм-101/03\, ЮЗм-101/04\, ЮЗм-101/04а\
+ , ЮЗм-101/05\, ЮЗм-101/06\, ЮЗм-101/07\, ЮЗм-101/07б\, ЮЗ
+ м-101/08\, ЮЗм-101/11\, ЮЗм-101/12\, ЮЗм-101/13\, ЮЗМд-101\
+ nURALCAMPUS_SYNC_ID:c6d07a371b29e47be1691fd7c36dcccf\nURALCAMPUS_SOURCE:i
+ nueco:teacher:afcca7c8-e038-11ee-ad80-04421acb877d
 END:VEVENT
 END:VCALENDAR

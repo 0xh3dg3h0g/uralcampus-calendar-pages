@@ -19,31 +19,56 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:824c334e4fe235b0e68955795713adfc@uralcampus-calendar-pages
+UID:f03df04c953f2e2f6e163cb5713f81ed@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T135000
-DTEND;TZID=Asia/Yekaterinburg:20261012T152000
-SUMMARY:Здания и сооружения (Аудиторные зан
- ятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:География (Аудиторные занятия)
 LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Лукманова Светлана Вячесл
- авовна\nПара: 4 пара\nДополнительно: ЗИ-374\
- , ЗИ-374А\nURALCAMPUS_SYNC_ID:824c334e4fe235b0e68955795713adfc\nURALCA
+ авовна\nПара: 1 пара\nДополнительно: Ю-168\nU
+ RALCAMPUS_SYNC_ID:f03df04c953f2e2f6e163cb5713f81ed\nURALCAMPUS_SOURCE:pre
+ co:teacher:edf55e73-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e2382eb4f6e95a521847ac43e8f00f81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Лукманова Светлана Вячесл
+ авовна\nПара: 2 пара\nДополнительно: ГС-176\
+ nURALCAMPUS_SYNC_ID:e2382eb4f6e95a521847ac43e8f00f81\nURALCAMPUS_SOURCE:p
+ reco:teacher:edf55e73-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3d72a83eec262a8ee4ec452d0922e27a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Основы строительного производства (
+ Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Лукманова Светлана Вячесл
+ авовна\nПара: 3 пара\nДополнительно: ГС-376\
+ , ГС-376А\nURALCAMPUS_SYNC_ID:3d72a83eec262a8ee4ec452d0922e27a\nURALCA
  MPUS_SOURCE:preco:teacher:edf55e73-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b6850b5b6f463072a4f62db1f2eed010@uralcampus-calendar-pages
+UID:25a9697f53db686a5bd8d74296a4bea3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T153000
-DTEND;TZID=Asia/Yekaterinburg:20261012T170000
-SUMMARY:Здания и сооружения (Аудиторные зан
- ятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
+DTEND;TZID=Asia/Yekaterinburg:20261013T152000
+SUMMARY:География (Аудиторные занятия)
 LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Лукманова Светлана Вячесл
- авовна\nПара: 5 пара\nДополнительно: ЗИ-374\
- , ЗИ-374А\nURALCAMPUS_SYNC_ID:b6850b5b6f463072a4f62db1f2eed010\nURALCA
- MPUS_SOURCE:preco:teacher:edf55e73-4e03-11ee-ad78-04421acb877d
+ авовна\nПара: 4 пара\nДополнительно: Ф-162\nU
+ RALCAMPUS_SYNC_ID:25a9697f53db686a5bd8d74296a4bea3\nURALCAMPUS_SOURCE:pre
+ co:teacher:edf55e73-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

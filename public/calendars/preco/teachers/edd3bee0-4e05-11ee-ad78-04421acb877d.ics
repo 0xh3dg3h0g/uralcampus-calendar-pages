@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:d89b9d26b098cb2775d930ff39f9b03e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Трясцина Олеся Александро
+ вна\nПара: 1 пара\nДополнительно: Б-164\nURALCAM
+ PUS_SYNC_ID:d89b9d26b098cb2775d930ff39f9b03e\nURALCAMPUS_SOURCE:preco:tea
+ cher:edd3bee0-4e05-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:61e65dc1d1fd912f4807952994c268aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Трясцина Олеся Александро
+ вна\nПара: 2 пара\nДополнительно: Ю-168\nURALCAM
+ PUS_SYNC_ID:61e65dc1d1fd912f4807952994c268aa\nURALCAMPUS_SOURCE:preco:tea
+ cher:edd3bee0-4e05-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

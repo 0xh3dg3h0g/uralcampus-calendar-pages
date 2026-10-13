@@ -18,30 +18,42 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4347e9e9428db1c1f10ae884c703269a@uralcampus-calendar-pages
+UID:037a68f083ec08c4c205e1dabdcb250f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T120000
-DTEND;TZID=Asia/Yekaterinburg:20261012T133000
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-362\, Ф-362А\nПара: 1 пара\nДополнитель
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:037a68f083ec08c4c205e1dabdc
+ b250f\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7fad80802bae9b0b33bc3702b3d88526@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-362\, Ф-362А\nПара: 2 пара\nДополнитель
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:7fad80802bae9b0b33bc3702b3d
+ 88526\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6386600e3a5f5883896d700c98ac08d1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
 SUMMARY:Технология изготовления лекарствен
  ных форм (Аудиторные занятия)
 LOCATION:ауд. 3.2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ф-362\, Ф-362А\nПара: 3 пара\nДополнитель
- но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:4347e9e9428db1c1f10ae884c70
- 3269a\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:98229186eea4fb52a968aa1d0061242c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261012T135000
-DTEND;TZID=Asia/Yekaterinburg:20261012T152000
-SUMMARY:Иностранный язык в профессионально
- й деятельности (Аудиторные занятия)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-362\, Ф-362А\nПара: 4 пара\nДополнитель
- но: Максютова З.Г.\nURALCAMPUS_SYNC_ID:98229186eea4fb52a968a
- a1d0061242c\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421a
- cb877d
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:6386600e3a5f5883896d700c98a
+ c08d1\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
