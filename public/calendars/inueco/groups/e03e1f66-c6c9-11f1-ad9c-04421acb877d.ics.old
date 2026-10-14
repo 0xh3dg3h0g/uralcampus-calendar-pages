@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЮЗУд-101
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:272ca964ab76e5ad5c8c4eb9b8e80597@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗУд-101\nПара: 3 пара\nДополните
+ льно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:272ca964ab76e5ad5c8c
+ 4eb9b8e80597\nURALCAMPUS_SOURCE:inueco:group:e03e1f66-c6c9-11f1-ad9c-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aa8664abbf6bc145da504f1854f1c91b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗУд-101\nПара: 2 пара\nДополните
+ льно: Фабрика Т. А.\nURALCAMPUS_SYNC_ID:aa8664abbf6bc145da50
+ 4f1854f1c91b\nURALCAMPUS_SOURCE:inueco:group:e03e1f66-c6c9-11f1-ad9c-0442
+ 1acb877d
+END:VEVENT
+END:VCALENDAR

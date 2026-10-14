@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ТТПЗ-101/05а
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7932f14b320203a10eb9b4e5217ebe6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-101/05а\nПара: 2 пара\nДополн
+ ительно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:7932f14b320
+ 203a10eb9b4e5217ebe6e\nURALCAMPUS_SOURCE:inueco:group:99819334-6012-11ed-
+ ad65-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f5f81ffeb0bbb68080dfe2d663ecd799@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-101/05а\nПара: 1 пара\nДополн
+ ительно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:f5f81ffeb0b
+ bb68080dfe2d663ecd799\nURALCAMPUS_SOURCE:inueco:group:99819334-6012-11ed-
+ ad65-04421acb877d
+END:VEVENT
+END:VCALENDAR

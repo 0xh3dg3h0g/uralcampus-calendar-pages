@@ -18,29 +18,31 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e143dcdce21cacc8914f40f2371b7664@uralcampus-calendar-pages
+UID:9340a8ffdaaf058561256c5ced9da81f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
-DTEND;TZID=Asia/Yekaterinburg:20261013T152000
-SUMMARY:Ботаника (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261014T120000
+DTEND;TZID=Asia/Yekaterinburg:20261014T133000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-262\, Ф-262А\nПара: 3 пара\nДополнитель
+ но: Максютова З.Г.\nURALCAMPUS_SYNC_ID:9340a8ffdaaf058561256
+ c5ced9da81f\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:68a8d25730ec2984798f49b826a8b020@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261014T135000
+DTEND;TZID=Asia/Yekaterinburg:20261014T152000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
 LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ф-262\, Ф-262А\nПара: 4 пара\nДополнитель
- но: Киреева Ф.З.\nURALCAMPUS_SYNC_ID:e143dcdce21cacc8914f40f23
- 71b7664\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
+ но: Киреева Ф.З.\nURALCAMPUS_SYNC_ID:68a8d25730ec2984798f49b82
+ 6a8b020\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb87
  7d
-END:VEVENT
-BEGIN:VEVENT
-UID:87db6b8b45e246de1c2843b45ae5fb7f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261013T153000
-DTEND;TZID=Asia/Yekaterinburg:20261013T170000
-SUMMARY:Лекарствоведение с основами фармак
- огнозии (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-262\, Ф-262А\nПара: 5 пара\nДополнитель
- но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:87db6b8b45e246de1c2843b45ae
- 5fb7f\nURALCAMPUS_SOURCE:preco:group:5e9db914-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

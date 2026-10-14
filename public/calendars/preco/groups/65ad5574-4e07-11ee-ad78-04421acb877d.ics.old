@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//uralcampus-calendar-pages//Schedule//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Архив: Группа: Ю-268
+X-WR-CALNAME:Архив: Группа: Ю-268\, Ю-268А
 X-WR-TIMEZONE:Asia/Yekaterinburg
 BEGIN:VTIMEZONE
 TZID:Asia/Yekaterinburg
@@ -882,6 +882,32 @@ LOCATION:ауд. 1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ю-268\nПара: 2 пара\nДополнительно: Ус
  тинова Г.И.\nURALCAMPUS_SYNC_ID:629a713ac888629460e6f14437d5dbbe\
+ nURALCAMPUS_SOURCE:preco:group:65ad5574-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:017368ab3f081a655b81922f3a2dd6e4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T101000
+DTEND;TZID=Asia/Yekaterinburg:20261013T114000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 1а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-268\nПара: 2 пара\nДополнительно: Ус
+ тинова Г.И.\nURALCAMPUS_SYNC_ID:017368ab3f081a655b81922f3a2dd6e4\
+ nURALCAMPUS_SOURCE:preco:group:65ad5574-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf8382b6f4528c30b7f9a77d3504596@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T083000
+DTEND;TZID=Asia/Yekaterinburg:20261013T100000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 1а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-268\nПара: 1 пара\nДополнительно: Ус
+ тинова Г.И.\nURALCAMPUS_SYNC_ID:ecf8382b6f4528c30b7f9a77d3504596\
  nURALCAMPUS_SOURCE:preco:group:65ad5574-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

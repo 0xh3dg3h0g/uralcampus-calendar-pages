@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ГМУЗм-101/12б
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0d9fa8c2dcbf1d8b9f04c1c2d54c3861@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T120000
+DTEND;TZID=Asia/Yekaterinburg:20261013T133000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗм-101/12б\nПара: 3 пара\nДопол
+ нительно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:0d9fa8c2dc
+ bf1d8b9f04c1c2d54c3861\nURALCAMPUS_SOURCE:inueco:group:93661832-c61f-11f1
+ -ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3dbc4752fe6d9f5ce9aaf95dcf8199@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T135000
+DTEND;TZID=Asia/Yekaterinburg:20261013T152000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗм-101/12б\nПара: 4 пара\nДопол
+ нительно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:1d3dbc4752
+ fe6d9f5ce9aaf95dcf8199\nURALCAMPUS_SOURCE:inueco:group:93661832-c61f-11f1
+ -ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2b51a067e94116b26127265d16d2b96a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261013T153000
+DTEND;TZID=Asia/Yekaterinburg:20261013T170000
+SUMMARY:Теория государственного и муниципа
+ льного управления (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗм-101/12б\nПара: 5 пара\nДопол
+ нительно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:2b51a067e9
+ 4116b26127265d16d2b96a\nURALCAMPUS_SOURCE:inueco:group:93661832-c61f-11f1
+ -ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR
