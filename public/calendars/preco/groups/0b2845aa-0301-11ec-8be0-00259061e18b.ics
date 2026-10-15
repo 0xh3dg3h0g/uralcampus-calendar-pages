@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:417bf39125e0dfdeb8f5c0925692198c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T153000
-DTEND;TZID=Asia/Yekaterinburg:20261014T170000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 414\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 133к\nПара: 5 пара\nДополнительно: Нов
- окрещенов Д.В.\nURALCAMPUS_SYNC_ID:417bf39125e0dfdeb8f5c092569
- 2198c\nURALCAMPUS_SOURCE:preco:group:0b2845aa-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:273c350b5c632ca2a99fa5e515353aa1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T171000
-DTEND;TZID=Asia/Yekaterinburg:20261014T182000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Комсомольский просп
- ект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 133к\nПара: 6 пара\nДополнительно: Тют
- ин А.А.\nURALCAMPUS_SYNC_ID:273c350b5c632ca2a99fa5e515353aa1\nURALCAM
- PUS_SOURCE:preco:group:0b2845aa-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:8f40af3c8ef82e507bfff880a7921289@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261015T153000
@@ -91,6 +65,19 @@ LOCATION:ауд. 417\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 133к\nПара: 2 пара\nДополнительно: Куц
  ко Т.Р.\nURALCAMPUS_SYNC_ID:0e467dd16988c18077584692f9a0cbb2\nURALCAM
+ PUS_SOURCE:preco:group:0b2845aa-0301-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:ca07acc732d7ed7f126a9261ba6b210d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
+DTEND;TZID=Asia/Yekaterinburg:20261016T133000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 417\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 133к\nПара: 3 пара\nДополнительно: Куц
+ ко Т.Р.\nURALCAMPUS_SYNC_ID:ca07acc732d7ed7f126a9261ba6b210d\nURALCAM
  PUS_SOURCE:preco:group:0b2845aa-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT

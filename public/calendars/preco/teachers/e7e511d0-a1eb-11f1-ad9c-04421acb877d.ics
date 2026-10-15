@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b6e67509fdc66ee6ad50dc2de421369d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T083000
-DTEND;TZID=Asia/Yekaterinburg:20261014T100000
-SUMMARY:Рисунок с основами перспективы (Ауд
- иторные занятия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Лопяткина Ирина Борисовна\
- nПара: 1 пара\nДополнительно: Д-342\nURALCAMPUS_SYN
- C_ID:b6e67509fdc66ee6ad50dc2de421369d\nURALCAMPUS_SOURCE:preco:teacher:e7
- e511d0-a1eb-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:103a0e58836dd446eac5732155064e03@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T101000
-DTEND;TZID=Asia/Yekaterinburg:20261014T114000
-SUMMARY:Рисунок с основами перспективы (Ауд
- иторные занятия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Лопяткина Ирина Борисовна\
- nПара: 2 пара\nДополнительно: Д-342\nURALCAMPUS_SYN
- C_ID:103a0e58836dd446eac5732155064e03\nURALCAMPUS_SOURCE:preco:teacher:e7
- e511d0-a1eb-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8961d6d4aecadb5f339f24d2fd29b678@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T120000
-DTEND;TZID=Asia/Yekaterinburg:20261014T133000
-SUMMARY:Рисунок с основами перспективы (Ауд
- иторные занятия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Лопяткина Ирина Борисовна\
- nПара: 3 пара\nДополнительно: Д-242\nURALCAMPUS_SYN
- C_ID:8961d6d4aecadb5f339f24d2fd29b678\nURALCAMPUS_SOURCE:preco:teacher:e7
- e511d0-a1eb-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:aa1b4fabada23da63f64d67d563e49ec@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T135000
-DTEND;TZID=Asia/Yekaterinburg:20261014T152000
-SUMMARY:Рисунок с основами перспективы (Ауд
- иторные занятия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Лопяткина Ирина Борисовна\
- nПара: 4 пара\nДополнительно: Д-242\nURALCAMPUS_SYN
- C_ID:aa1b4fabada23da63f64d67d563e49ec\nURALCAMPUS_SOURCE:preco:teacher:e7
- e511d0-a1eb-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:9560783fade4050c7c83021612cd8768@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T083000
@@ -131,20 +75,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  e511d0-a1eb-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b44e533f7a5e2bc9a37af0505b7c5870@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T083000
-DTEND;TZID=Asia/Yekaterinburg:20261019T100000
-SUMMARY:Рисунок с основами перспективы (Ауд
- иторные занятия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Лопяткина Ирина Борисовна\
- nПара: 1 пара\nДополнительно: Д-212\, Д-212А\nURA
- LCAMPUS_SYNC_ID:b44e533f7a5e2bc9a37af0505b7c5870\nURALCAMPUS_SOURCE:preco
- :teacher:e7e511d0-a1eb-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:526b76a54bf875a590fda360535f9826@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T083000
@@ -173,6 +103,34 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  her:e7e511d0-a1eb-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:b44e533f7a5e2bc9a37af0505b7c5870@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T083000
+DTEND;TZID=Asia/Yekaterinburg:20261019T100000
+SUMMARY:Рисунок с основами перспективы (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Лопяткина Ирина Борисовна\
+ nПара: 1 пара\nДополнительно: Д-212\, Д-212А\nURA
+ LCAMPUS_SYNC_ID:b44e533f7a5e2bc9a37af0505b7c5870\nURALCAMPUS_SOURCE:preco
+ :teacher:e7e511d0-a1eb-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7c4aca6d19589f99ff597eef7c856757@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
+DTEND;TZID=Asia/Yekaterinburg:20261019T114000
+SUMMARY:Рисунок с основами перспективы (Ауд
+ иторные занятия)
+LOCATION:ауд. 104\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Лопяткина Ирина Борисовна\
+ nПара: 2 пара\nДополнительно: Д-212\, Д-212А\nURA
+ LCAMPUS_SYNC_ID:7c4aca6d19589f99ff597eef7c856757\nURALCAMPUS_SOURCE:preco
+ :teacher:e7e511d0-a1eb-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:e37e1609592b0f6d1fa15051a92a94ac@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
@@ -199,20 +157,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 2 пара\nДополнительно: Д-212А (2)\nURALCAMP
  US_SYNC_ID:84e9b68981d7e9a2cf44d28ea0beee8c\nURALCAMPUS_SOURCE:preco:teac
  her:e7e511d0-a1eb-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7c4aca6d19589f99ff597eef7c856757@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
-DTEND;TZID=Asia/Yekaterinburg:20261019T114000
-SUMMARY:Рисунок с основами перспективы (Ауд
- иторные занятия)
-LOCATION:ауд. 104\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Лопяткина Ирина Борисовна\
- nПара: 2 пара\nДополнительно: Д-212\, Д-212А\nURA
- LCAMPUS_SYNC_ID:7c4aca6d19589f99ff597eef7c856757\nURALCAMPUS_SOURCE:preco
- :teacher:e7e511d0-a1eb-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:bece8548f83511efc5a9b7324113fd19@uralcampus-calendar-pages

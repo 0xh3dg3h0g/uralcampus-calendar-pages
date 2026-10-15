@@ -18,4 +18,33 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:75df582db5f42e124dd64d269182151a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T083000
+DTEND;TZID=Asia/Yekaterinburg:20261015T100000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 1а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смирнова Наталья Васильев
+ на\nПара: 1 пара\nДополнительно: П-270\nURALCAMPU
+ S_SYNC_ID:75df582db5f42e124dd64d269182151a\nURALCAMPUS_SOURCE:preco:teach
+ er:6e01dbee-8987-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe66ecf2bbf37e059b3126d0e987eff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T101000
+DTEND;TZID=Asia/Yekaterinburg:20261015T114000
+SUMMARY:Математические методы решения прик
+ ладных профессиональных задач (Аудитор
+ ные занятия)
+LOCATION:ауд. 1а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смирнова Наталья Васильев
+ на\nПара: 2 пара\nДополнительно: ГС-276\nURALCAM
+ PUS_SYNC_ID:cfe66ecf2bbf37e059b3126d0e987eff\nURALCAMPUS_SOURCE:preco:tea
+ cher:6e01dbee-8987-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

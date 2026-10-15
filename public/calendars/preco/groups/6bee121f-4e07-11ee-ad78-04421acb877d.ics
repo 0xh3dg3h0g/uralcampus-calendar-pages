@@ -18,45 +18,45 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bbfc8f8def629d1f37276ed852ae8698@uralcampus-calendar-pages
+UID:c1de4cda111a4d0e98cf48d387421de6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T120000
-DTEND;TZID=Asia/Yekaterinburg:20261014T133000
+DTSTART;TZID=Asia/Yekaterinburg:20261015T135000
+DTEND;TZID=Asia/Yekaterinburg:20261015T152000
+SUMMARY:Страхование (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-364\, Б-364А\nПара: 4 пара\nДополнитель
+ но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:c1de4cda111a4d0e98cf48d38
+ 7421de6\nURALCAMPUS_SOURCE:preco:group:6bee121f-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:1b89860737b87c3dabf1cca6a41fd3e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T153000
+DTEND;TZID=Asia/Yekaterinburg:20261015T170000
+SUMMARY:Организация кредитной работы (Аудит
+ орные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-364\, Б-364А\nПара: 5 пара\nДополнитель
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:1b89860737b87c3dabf1cca
+ 6a41fd3e8\nURALCAMPUS_SOURCE:preco:group:6bee121f-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c7960fa190a44b3a58d0e15f45adc91b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261015T171000
+DTEND;TZID=Asia/Yekaterinburg:20261015T182000
 SUMMARY:Информационные технологии в профес
  сиональной деятельности (Аудиторные за
  нятия)
 LOCATION:ауд. 9\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-364\, Б-364А\nПара: 3 пара\nДополнитель
- но: Малышева С.И.\nURALCAMPUS_SYNC_ID:bbfc8f8def629d1f37276ed
- 852ae8698\nURALCAMPUS_SOURCE:preco:group:6bee121f-4e07-11ee-ad78-04421acb
+ уппа: Б-364\, Б-364А\nПара: 6 пара\nДополнитель
+ но: Малышева С.И.\nURALCAMPUS_SYNC_ID:c7960fa190a44b3a58d0e15
+ f45adc91b\nURALCAMPUS_SOURCE:preco:group:6bee121f-4e07-11ee-ad78-04421acb
  877d
-END:VEVENT
-BEGIN:VEVENT
-UID:82490813a587edae93b8321a0a7229a6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T135000
-DTEND;TZID=Asia/Yekaterinburg:20261014T152000
-SUMMARY:Организация кредитной работы (Аудит
- орные занятия)
-LOCATION:ауд. 2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-364\, Б-364А\nПара: 4 пара\nДополнитель
- но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:82490813a587edae93b8321
- a0a7229a6\nURALCAMPUS_SOURCE:preco:group:6bee121f-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b0871a13f24c503c57f67c3db7d2dbc2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261014T153000
-DTEND;TZID=Asia/Yekaterinburg:20261014T170000
-SUMMARY:Страхование (Аудиторные занятия)
-LOCATION:ауд. 3.3\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-364\, Б-364А\nПара: 5 пара\nДополнитель
- но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:b0871a13f24c503c57f67c3db
- 7d2dbc2\nURALCAMPUS_SOURCE:preco:group:6bee121f-4e07-11ee-ad78-04421acb87
- 7d
 END:VEVENT
 END:VCALENDAR
