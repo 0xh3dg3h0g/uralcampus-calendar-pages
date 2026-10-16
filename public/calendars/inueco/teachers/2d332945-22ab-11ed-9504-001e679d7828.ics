@@ -19,46 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8ea1c64a885b1c8f57d517fc8705b341@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T120000
-DTEND;TZID=Asia/Yekaterinburg:20261015T133000
-SUMMARY:Архитектурные конструкции (Лекция)
-LOCATION:ауд. 108\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Алабугин Александр Ни
- колаевич\nПара: 3 пара\nДополнительно: А-21
- 0\nURALCAMPUS_SYNC_ID:8ea1c64a885b1c8f57d517fc8705b341\nURALCAMPUS_SOURCE
- :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:c0c20cf6ee629b2b81230c8a62e4ecdc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T135000
-DTEND;TZID=Asia/Yekaterinburg:20261015T152000
-SUMMARY:Архитектурные конструкции (Лекция)
-LOCATION:ауд. 108\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Алабугин Александр Ни
- колаевич\nПара: 4 пара\nДополнительно: А-21
- 0\nURALCAMPUS_SYNC_ID:c0c20cf6ee629b2b81230c8a62e4ecdc\nURALCAMPUS_SOURCE
- :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:4827898110bf2e3ad1cde9ebb0c30ebf@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T153000
-DTEND;TZID=Asia/Yekaterinburg:20261015T170000
-SUMMARY:Архитектурные конструкции (Практик
- а)
-LOCATION:ауд. 108\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Алабугин Александр Ни
- колаевич\nПара: 5 пара\nДополнительно: А-31
- 0\nURALCAMPUS_SYNC_ID:4827898110bf2e3ad1cde9ebb0c30ebf\nURALCAMPUS_SOURCE
- :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:26148f2f8b7008e6c87524885f6d201d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T153000
@@ -113,5 +73,101 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  колаевич\nПара: 8 пара\nДополнительно: СЗ
  У-401\nURALCAMPUS_SYNC_ID:a357bc6b898966d2205ec2fd35c680f5\nURALCAMPUS_S
  OURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:4580ec772e93ca78efb620460d1ca1b4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T153000
+DTEND;TZID=Asia/Yekaterinburg:20261021T170000
+SUMMARY:Архитектурные конструкции (Практик
+ а)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 5 пара\nДополнительно: А-31
+ 0\nURALCAMPUS_SYNC_ID:4580ec772e93ca78efb620460d1ca1b4\nURALCAMPUS_SOURCE
+ :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d713e698d0284a3ae123ee1f819d4bdf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
+DTEND;TZID=Asia/Yekaterinburg:20261021T182000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 6 пара\nДополнительно: СЗ
+ У-301\nURALCAMPUS_SYNC_ID:d713e698d0284a3ae123ee1f819d4bdf\nURALCAMPUS_S
+ OURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1d7f382147431b03e77326b368232e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T183000
+DTEND;TZID=Asia/Yekaterinburg:20261021T194000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 7 пара\nДополнительно: СЗ
+ У-301\nURALCAMPUS_SYNC_ID:2b1d7f382147431b03e77326b368232e\nURALCAMPUS_S
+ OURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:335e93efb4410ce5a7092055b6b5e2a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T195000
+DTEND;TZID=Asia/Yekaterinburg:20261021T205000
+SUMMARY:Обследование и испытание зданий и с
+ ооружений (Практика)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 8 пара\nДополнительно: СЗ
+ У-301\nURALCAMPUS_SYNC_ID:335e93efb4410ce5a7092055b6b5e2a9\nURALCAMPUS_S
+ OURCE:inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:e87f12017e7c5390293165eea949b479@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T120000
+DTEND;TZID=Asia/Yekaterinburg:20261022T133000
+SUMMARY:Архитектурные конструкции (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 3 пара\nДополнительно: А-21
+ 0\nURALCAMPUS_SYNC_ID:e87f12017e7c5390293165eea949b479\nURALCAMPUS_SOURCE
+ :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:95071d1fd52a4003cd7039459226626d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T135000
+DTEND;TZID=Asia/Yekaterinburg:20261022T152000
+SUMMARY:Архитектурные конструкции (Лекция)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 4 пара\nДополнительно: А-21
+ 0\nURALCAMPUS_SYNC_ID:95071d1fd52a4003cd7039459226626d\nURALCAMPUS_SOURCE
+ :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f5db92a599f02531b7cb2dbb204c8465@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T153000
+DTEND;TZID=Asia/Yekaterinburg:20261022T170000
+SUMMARY:Архитектурные конструкции (Практик
+ а)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Алабугин Александр Ни
+ колаевич\nПара: 5 пара\nДополнительно: А-31
+ 0\nURALCAMPUS_SYNC_ID:f5db92a599f02531b7cb2dbb204c8465\nURALCAMPUS_SOURCE
+ :inueco:teacher:2d332945-22ab-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

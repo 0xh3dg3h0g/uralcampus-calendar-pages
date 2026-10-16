@@ -17,4 +17,28 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:1f8d44c65a7d3ffd69f3104c65de7396@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
+DTEND;TZID=Asia/Yekaterinburg:20261017T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЮЗ-168\nПара: 1 пара\nДополнительно: С
+ мирнова Н.В.\nURALCAMPUS_SYNC_ID:1f8d44c65a7d3ffd69f3104c65de739
+ 6\nURALCAMPUS_SOURCE:preco:group:7aa08f3c-8e9c-11ee-ad7d-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6efe2eb030ad0f7b9215a1796db87d5d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЮЗ-168\nПара: 2 пара\nДополнительно: С
+ мирнова Н.В.\nURALCAMPUS_SYNC_ID:6efe2eb030ad0f7b9215a1796db87d5
+ d\nURALCAMPUS_SOURCE:preco:group:7aa08f3c-8e9c-11ee-ad7d-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:383592b46f8d97ee0fcdcd261b6bf889@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T083000
-DTEND;TZID=Asia/Yekaterinburg:20261015T100000
-SUMMARY:Иностранный язык (Практика)
-LOCATION:ауд. 222-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЗЗ-101/03\nПара: 1 пара\nДополните
- льно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:383592b46f8d97ee0
- fcdcd261b6bf889\nURALCAMPUS_SOURCE:inueco:group:7447ef14-6be4-11ee-ad7a-0
- 4421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:316df40e94e28a5b19603b540da46214@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T101000
-DTEND;TZID=Asia/Yekaterinburg:20261015T114000
-SUMMARY:Иностранный язык (Практика)
-LOCATION:ауд. 222-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЗЗ-101/03\nПара: 2 пара\nДополните
- льно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:316df40e94e28a5b1
- 9603b540da46214\nURALCAMPUS_SOURCE:inueco:group:7447ef14-6be4-11ee-ad7a-0
- 4421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:3dd15a25fbfb394b9bfb9d46f053c0fc@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
@@ -133,5 +107,31 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  льно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:ecc6e5f0bb64a
  1f0938f80ea76ea17f5\nURALCAMPUS_SOURCE:inueco:group:7447ef14-6be4-11ee-ad
  7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3129939626e06bc927a0eaedd1bdbfdb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
+DTEND;TZID=Asia/Yekaterinburg:20261019T152000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/03\nПара: 4 пара\nДополните
+ льно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:3129939626e06bc92
+ 7a0eaedd1bdbfdb\nURALCAMPUS_SOURCE:inueco:group:7447ef14-6be4-11ee-ad7a-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5c097aa619d18272821e74baba777a61@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T153000
+DTEND;TZID=Asia/Yekaterinburg:20261019T170000
+SUMMARY:Высшая математика (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/03\nПара: 5 пара\nДополните
+ льно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:5c097aa61
+ 9d18272821e74baba777a61\nURALCAMPUS_SOURCE:inueco:group:7447ef14-6be4-11e
+ e-ad7a-04421acb877d
 END:VEVENT
 END:VCALENDAR

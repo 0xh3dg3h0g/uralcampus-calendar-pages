@@ -19,29 +19,56 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4a5e12edc1275503fac5e99d2a54bb52@uralcampus-calendar-pages
+UID:718ae1e44402658b3e82c51c59d2ce61@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T083000
-DTEND;TZID=Asia/Yekaterinburg:20261015T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261019T083000
+DTEND;TZID=Asia/Yekaterinburg:20261019T100000
+SUMMARY:Международные бизнес-коммуникации 
+ на иностранном языке (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Де Карвальо Гомес Анж
+ ело\nПара: 1 пара\nДополнительно: Л-211\nURALCAM
+ PUS_SYNC_ID:718ae1e44402658b3e82c51c59d2ce61\nURALCAMPUS_SOURCE:inueco:te
+ acher:46c269d2-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5c2a76b494241f3c99997b30d8d56d41@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
+DTEND;TZID=Asia/Yekaterinburg:20261019T114000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Де Карвальо Гомес Анж
+ ело\nПара: 2 пара\nДополнительно: Э-109\nURALCAM
+ PUS_SYNC_ID:5c2a76b494241f3c99997b30d8d56d41\nURALCAMPUS_SOURCE:inueco:te
+ acher:46c269d2-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bde5d82e2994c8ec920ffd5122e5a881@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
+DTEND;TZID=Asia/Yekaterinburg:20261022T100000
 SUMMARY:Иностранный язык (Практика)
 LOCATION:ауд. 218\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Де Карвальо Гомес Анж
  ело\nПара: 1 пара\nДополнительно: М-103\nURALCAM
- PUS_SYNC_ID:4a5e12edc1275503fac5e99d2a54bb52\nURALCAMPUS_SOURCE:inueco:te
+ PUS_SYNC_ID:bde5d82e2994c8ec920ffd5122e5a881\nURALCAMPUS_SOURCE:inueco:te
  acher:46c269d2-60fb-11ef-ad90-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:f250fb652f72b213a6b109c365d7f10f@uralcampus-calendar-pages
+UID:fcb9cc626c29240d7b13a6dbe2ada14c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T101000
-DTEND;TZID=Asia/Yekaterinburg:20261015T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
+DTEND;TZID=Asia/Yekaterinburg:20261022T114000
 SUMMARY:Иностранный язык (Практика)
 LOCATION:ауд. 218\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Де Карвальо Гомес Анж
  ело\nПара: 2 пара\nДополнительно: ГМУ-102\nURA
- LCAMPUS_SYNC_ID:f250fb652f72b213a6b109c365d7f10f\nURALCAMPUS_SOURCE:inuec
+ LCAMPUS_SYNC_ID:fcb9cc626c29240d7b13a6dbe2ada14c\nURALCAMPUS_SOURCE:inuec
  o:teacher:46c269d2-60fb-11ef-ad90-04421acb877d
 END:VEVENT
 END:VCALENDAR

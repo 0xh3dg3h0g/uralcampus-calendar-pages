@@ -18,60 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:aa1d640f3871b6bd8101ab2e4774bf83@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T120000
-DTEND;TZID=Asia/Yekaterinburg:20261015T133000
-SUMMARY:Управление ИТ-проектами (Лекция)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: И-407\nПара: 3 пара\nДополнительн
- о: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:aa1d640f3871b6b
- d8101ab2e4774bf83\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61
- -04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:58a8208662fde69b79ac70d88faa4998@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T135000
-DTEND;TZID=Asia/Yekaterinburg:20261015T152000
-SUMMARY:Управление ИТ-проектами (Практика)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: И-407\nПара: 4 пара\nДополнительн
- о: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:58a8208662fde69
- b79ac70d88faa4998\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61
- -04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:24ab32dd39c0aab1369992e25366226a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T153000
-DTEND;TZID=Asia/Yekaterinburg:20261015T170000
-SUMMARY:Инфокоммуникационные системы и сет
- и (Лекция)
-LOCATION:ауд. 217\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: И-407\nПара: 5 пара\nДополнительн
- о: Шевякин М.А.\nURALCAMPUS_SYNC_ID:24ab32dd39c0aab1369992e2536
- 6226a\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
-UID:a0df715688876ee5dbf1aa87bc74c899@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T171000
-DTEND;TZID=Asia/Yekaterinburg:20261015T182000
-SUMMARY:Инфокоммуникационные системы и сет
- и (Лекция)
-LOCATION:ауд. 217\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: И-407\nПара: 6 пара\nДополнительн
- о: Шевякин М.А.\nURALCAMPUS_SYNC_ID:a0df715688876ee5dbf1aa87bc7
- 4c899\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
 UID:56c5b10db8abb9703bfbb584d3da12b6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T083000
@@ -151,6 +97,154 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: И-407\nПара: 6 пара\nДополнительн
  о: Семянников И.М.\nURALCAMPUS_SYNC_ID:95293fa085cc5b1145c13
  4c9a50f0eea\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c1c93b6acc6fafb83ee54546eda653d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T135000
+DTEND;TZID=Asia/Yekaterinburg:20261020T152000
+SUMMARY:Правовая защита интеллектуальной с
+ обственности (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 4 пара\nДополнительн
+ о: Задорожная В.А.\nURALCAMPUS_SYNC_ID:c1c93b6acc6fafb83ee54
+ 546eda653d6\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:70a1ff4d9a593d09b8563231471715f1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T153000
+DTEND;TZID=Asia/Yekaterinburg:20261020T170000
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 5 пара\nДополнительн
+ о: Перцев Ю.В.\nURALCAMPUS_SYNC_ID:70a1ff4d9a593d09b856323147171
+ 5f1\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4d26a556ab1ae5eff82bee1f45f5de41@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T171000
+DTEND;TZID=Asia/Yekaterinburg:20261020T182000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 6 пара\nДополнительн
+ о: Перцев Ю.В.\nURALCAMPUS_SYNC_ID:4d26a556ab1ae5eff82bee1f45f5d
+ e41\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6177feca631b6597b328f229cde26cfb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T135000
+DTEND;TZID=Asia/Yekaterinburg:20261021T152000
+SUMMARY:Методы и системы обработки больших 
+ данных (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 4 пара\nДополнительн
+ о: Саллам М.Э.\nURALCAMPUS_SYNC_ID:6177feca631b6597b328f229cde26
+ cfb\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a8dcf276ed609f5996cdaa9ace731fe0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T153000
+DTEND;TZID=Asia/Yekaterinburg:20261021T170000
+SUMMARY:Методы и системы обработки больших 
+ данных (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 5 пара\nДополнительн
+ о: Саллам М.Э.\nURALCAMPUS_SYNC_ID:a8dcf276ed609f5996cdaa9ace731
+ fe0\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:894936ef35c83dd398bcadcef713ffd3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T083000
+DTEND;TZID=Asia/Yekaterinburg:20261023T100000
+SUMMARY:Проектирование и разработка баз дан
+ ных (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 1 пара\nДополнительн
+ о: Блинов А.В.\nURALCAMPUS_SYNC_ID:894936ef35c83dd398bcadcef713f
+ fd3\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a90afc96333d8e3060e1d74f4ab33f59@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T101000
+DTEND;TZID=Asia/Yekaterinburg:20261023T114000
+SUMMARY:Проектирование и разработка баз дан
+ ных (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 2 пара\nДополнительн
+ о: Блинов А.В.\nURALCAMPUS_SYNC_ID:a90afc96333d8e3060e1d74f4ab33
+ f59\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a491e961422e0a7f5a9d09451ec5acb4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T120000
+DTEND;TZID=Asia/Yekaterinburg:20261023T133000
+SUMMARY:Инфокоммуникационные системы и сет
+ и (Лаб.)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 3 пара\nДополнительн
+ о: Галанин В.А.\nURALCAMPUS_SYNC_ID:a491e961422e0a7f5a9d09451ec
+ 5acb4\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:ded09bbb862a629d7da5c2ec6b750f03@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T135000
+DTEND;TZID=Asia/Yekaterinburg:20261023T152000
+SUMMARY:Инфокоммуникационные системы и сет
+ и (Лаб.)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 4 пара\nДополнительн
+ о: Галанин В.А.\nURALCAMPUS_SYNC_ID:ded09bbb862a629d7da5c2ec6b7
+ 50f03\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:8a410af9e566b7b3080345e9320fe607@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T152000
+DTEND;TZID=Asia/Yekaterinburg:20261024T165000
+SUMMARY:Основы инженерии программных систе
+ м (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 5 пара\nДополнительн
+ о: Семянников И.М.\nURALCAMPUS_SYNC_ID:8a410af9e566b7b308034
+ 5e9320fe607\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f333c6222db376e95a30f8f2a34ba9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T170000
+DTEND;TZID=Asia/Yekaterinburg:20261024T181000
+SUMMARY:Основы инженерии программных систе
+ м (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-407\nПара: 6 пара\nДополнительн
+ о: Семянников И.М.\nURALCAMPUS_SYNC_ID:d1f333c6222db376e95a3
+ 0f8f2a34ba9\nURALCAMPUS_SOURCE:inueco:group:a09d1d36-282f-11ed-ad61-04421
  acb877d
 END:VEVENT
 END:VCALENDAR

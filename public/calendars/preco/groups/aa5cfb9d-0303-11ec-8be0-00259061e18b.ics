@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:14085cfe49aad583fcc3e9f9d3e836fe@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T120000
-DTEND;TZID=Asia/Yekaterinburg:20261015T133000
-SUMMARY:Основы философии (Аудиторные заняти
- я)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-240\nПара: 3 пара\nДополнительно: Ор
- лова Д.Н.\nURALCAMPUS_SYNC_ID:14085cfe49aad583fcc3e9f9d3e836fe\nURA
- LCAMPUS_SOURCE:preco:group:aa5cfb9d-0303-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:fc7730b74b0544770151b710e40cfccc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T135000
-DTEND;TZID=Asia/Yekaterinburg:20261015T152000
-SUMMARY:Экономика отрасли (Аудиторные занят
- ия)
-LOCATION:ауд. 301\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-240\nПара: 4 пара\nДополнительно: До
- барских Н.Б.\nURALCAMPUS_SYNC_ID:fc7730b74b0544770151b710e40cfcc
- c\nURALCAMPUS_SOURCE:preco:group:aa5cfb9d-0303-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:0ada8a246af67f0b17e25e7ea7694a02@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
@@ -94,32 +68,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-240\nПара: 6 пара\nДополнительно: Му
  син А.Р.\nURALCAMPUS_SYNC_ID:6b68feede53decf1e2fdfe0770add322\nURALC
  AMPUS_SOURCE:preco:group:aa5cfb9d-0303-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:1f20e4a877094517e4b5233f6a8e55d6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
-DTEND;TZID=Asia/Yekaterinburg:20261019T152000
-SUMMARY:Элементы высшей математики (Аудитор
- ные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-240\nПара: 4 пара\nДополнительно: Еф
- ремова Л.В.\nURALCAMPUS_SYNC_ID:1f20e4a877094517e4b5233f6a8e55d6\
- nURALCAMPUS_SOURCE:preco:group:aa5cfb9d-0303-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:7069973209112714fec97feac7380495@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T153000
-DTEND;TZID=Asia/Yekaterinburg:20261019T170000
-SUMMARY:Элементы высшей математики (Аудитор
- ные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-240\nПара: 5 пара\nДополнительно: Еф
- ремова Л.В.\nURALCAMPUS_SYNC_ID:7069973209112714fec97feac7380495\
- nURALCAMPUS_SOURCE:preco:group:aa5cfb9d-0303-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:ff8e85989f874765208960254715f1bb@uralcampus-calendar-pages
@@ -275,5 +223,31 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-240\nПара: 6 пара\nДополнительно: Му
  син А.Р.\nURALCAMPUS_SYNC_ID:3283faae93b93beb7706292df5827972\nURALC
  AMPUS_SOURCE:preco:group:aa5cfb9d-0303-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:8b5ffae0b69bea53090adfd702293ad1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T083000
+DTEND;TZID=Asia/Yekaterinburg:20261024T100000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240\nПара: 1 пара\nДополнительно: Еф
+ ремова Л.В.\nURALCAMPUS_SYNC_ID:8b5ffae0b69bea53090adfd702293ad1\
+ nURALCAMPUS_SOURCE:preco:group:aa5cfb9d-0303-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:7551dbe3a27bc29db02df8193e383278@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T101000
+DTEND;TZID=Asia/Yekaterinburg:20261024T114000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 312\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-240\nПара: 2 пара\nДополнительно: Еф
+ ремова Л.В.\nURALCAMPUS_SYNC_ID:7551dbe3a27bc29db02df8193e383278\
+ nURALCAMPUS_SOURCE:preco:group:aa5cfb9d-0303-11ec-8be0-00259061e18b
 END:VEVENT
 END:VCALENDAR

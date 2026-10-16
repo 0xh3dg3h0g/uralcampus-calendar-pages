@@ -19,31 +19,45 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:50c756c1939b3292f39231cf5492b321@uralcampus-calendar-pages
+UID:4fbb14e713469f3bf235d9db4362fd84@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T183000
-DTEND;TZID=Asia/Yekaterinburg:20261015T194000
-SUMMARY:Композиционное моделирование (Лекц
- ия)
+DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
+DTEND;TZID=Asia/Yekaterinburg:20261020T100000
+SUMMARY:Архитектурное проектирование (базо
+ вое) (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Исламова Виктория Рад
+ иковна\nПара: 1 пара\nДополнительно: А-110\nU
+ RALCAMPUS_SYNC_ID:4fbb14e713469f3bf235d9db4362fd84\nURALCAMPUS_SOURCE:inu
+ eco:teacher:fcf79981-7cd2-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b5dd1e270cdd13b8983b03c1cd3e6953@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T183000
+DTEND;TZID=Asia/Yekaterinburg:20261022T194000
+SUMMARY:Композиционное моделирование (Прак
+ тика)
 LOCATION:ауд. 201\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Исламова Виктория Рад
  иковна\nПара: 7 пара\nДополнительно: АЗ-301\
- nURALCAMPUS_SYNC_ID:50c756c1939b3292f39231cf5492b321\nURALCAMPUS_SOURCE:i
+ nURALCAMPUS_SYNC_ID:b5dd1e270cdd13b8983b03c1cd3e6953\nURALCAMPUS_SOURCE:i
  nueco:teacher:fcf79981-7cd2-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:bec021942028961f219f5131a53b00d4@uralcampus-calendar-pages
+UID:fad1cb4865d4e356b5877249661f5a3f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261015T195000
-DTEND;TZID=Asia/Yekaterinburg:20261015T205000
-SUMMARY:Композиционное моделирование (Лекц
- ия)
+DTSTART;TZID=Asia/Yekaterinburg:20261022T195000
+DTEND;TZID=Asia/Yekaterinburg:20261022T205000
+SUMMARY:Композиционное моделирование (Прак
+ тика)
 LOCATION:ауд. 201\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Исламова Виктория Рад
  иковна\nПара: 8 пара\nДополнительно: АЗ-301\
- nURALCAMPUS_SYNC_ID:bec021942028961f219f5131a53b00d4\nURALCAMPUS_SOURCE:i
+ nURALCAMPUS_SYNC_ID:fad1cb4865d4e356b5877249661f5a3f\nURALCAMPUS_SOURCE:i
  nueco:teacher:fcf79981-7cd2-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

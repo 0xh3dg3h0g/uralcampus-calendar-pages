@@ -18,4 +18,60 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:29111ee2065f4179e99dccb8ae19bca1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T120000
+DTEND;TZID=Asia/Yekaterinburg:20261021T133000
+SUMMARY:Архитектура зданий и сооружений (Ле
+ кция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буров Алексей Геннадь
+ евич\nПара: 3 пара\nДополнительно: С-216\nURALC
+ AMPUS_SYNC_ID:29111ee2065f4179e99dccb8ae19bca1\nURALCAMPUS_SOURCE:inueco:
+ teacher:115b2c15-22ac-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7c132363e59cc2e77d72cac71c39a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T135000
+DTEND;TZID=Asia/Yekaterinburg:20261021T152000
+SUMMARY:Планировка\, благоустройство\, ландш
+ афт территорий (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буров Алексей Геннадь
+ евич\nПара: 4 пара\nДополнительно: А-310\nURALC
+ AMPUS_SYNC_ID:fd7c132363e59cc2e77d72cac71c39a5\nURALCAMPUS_SOURCE:inueco:
+ teacher:115b2c15-22ac-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:50c0830c1cf7cf3537c462fc4f42caac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T153000
+DTEND;TZID=Asia/Yekaterinburg:20261021T170000
+SUMMARY:Планировка\, благоустройство\, ландш
+ афт населенных мест (Лекция)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буров Алексей Геннадь
+ евич\nПара: 5 пара\nДополнительно: А-410\nURALC
+ AMPUS_SYNC_ID:50c0830c1cf7cf3537c462fc4f42caac\nURALCAMPUS_SOURCE:inueco:
+ teacher:115b2c15-22ac-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:ae53d23ffbafc2fa91501b16e014f2dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
+DTEND;TZID=Asia/Yekaterinburg:20261021T182000
+SUMMARY:Планировка\, благоустройство\, ландш
+ афт территорий (Практика)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Буров Алексей Геннадь
+ евич\nПара: 6 пара\nДополнительно: АЗ-301\nURA
+ LCAMPUS_SYNC_ID:ae53d23ffbafc2fa91501b16e014f2dd\nURALCAMPUS_SOURCE:inuec
+ o:teacher:115b2c15-22ac-11ed-9504-001e679d7828
+END:VEVENT
 END:VCALENDAR
