@@ -18,58 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:553801eb44914007b9ae8762a320166b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
-DTEND;TZID=Asia/Yekaterinburg:20261016T152000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-101/07\nПара: 4 пара\nДополнит
- ельно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:553801e
- b44914007b9ae8762a320166b\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-1
- 1ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0670773415f8a0ee193cceb39aa9e2bc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T153000
-DTEND;TZID=Asia/Yekaterinburg:20261016T170000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-101/07\nПара: 5 пара\nДополнит
- ельно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:0670773
- 415f8a0ee193cceb39aa9e2bc\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-1
- 1ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5f6555da56b8d97e9aac8d23e0deb839@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T183000
-DTEND;TZID=Asia/Yekaterinburg:20261016T194000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-101/07\nПара: 7 пара\nДополнит
- ельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:5f6555da56b8
- d97e9aac8d23e0deb839\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-a
- d61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4766e25b96883e96059b4208146a6cc7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T195000
-DTEND;TZID=Asia/Yekaterinburg:20261016T205000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-101/07\nПара: 8 пара\nДополнит
- ельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:4766e25b9688
- 3e96059b4208146a6cc7\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-a
- d61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:0628cae612734d730edb4d70453b0173@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
@@ -107,5 +55,111 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ельно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:0f694fe
  ca39e8cb0eb1a12c969f454d7\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-1
  1ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3c132ddad02ecf23929d8b7e6afe91e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
+DTEND;TZID=Asia/Yekaterinburg:20261020T100000
+SUMMARY:Основы системного анализа (Практика
+ )
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 1 пара\nДополнит
+ ельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:3c132ddad02ecf23
+ 929d8b7e6afe91e8\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fe5806949eb57c6407d47c0b1008aaea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T101000
+DTEND;TZID=Asia/Yekaterinburg:20261020T114000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 2 пара\nДополнит
+ ельно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:fe5806949eb57c6
+ 407d47c0b1008aaea\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c990d50c9e2d3568d50abab6d96a58c5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T120000
+DTEND;TZID=Asia/Yekaterinburg:20261020T133000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 3 пара\nДополнит
+ ельно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:c990d50c9e2d356
+ 8d50abab6d96a58c5\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:02c99f927a98e9d0134f019cb4d41e31@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T135000
+DTEND;TZID=Asia/Yekaterinburg:20261020T152000
+SUMMARY:Основы системного анализа (Практика
+ )
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 4 пара\nДополнит
+ ельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:02c99f927a98e9d0
+ 134f019cb4d41e31\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d75df5e84fe5b32dab40160aad357@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T120000
+DTEND;TZID=Asia/Yekaterinburg:20261021T133000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 3 пара\nДополнит
+ ельно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:6a0d75df5e84fe5
+ b32dab40160aad357\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e4cc5459231f53ca774cdcfa935e0313@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T135000
+DTEND;TZID=Asia/Yekaterinburg:20261021T152000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 4 пара\nДополнит
+ ельно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:e4cc5459231f53c
+ a774cdcfa935e0313\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5f599633d29859c9240779db1fb56bb7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T120000
+DTEND;TZID=Asia/Yekaterinburg:20261023T133000
+SUMMARY:Иностранный язык (Зачет)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 3 пара\nДополнит
+ ельно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:5f599633d29859c
+ 9240779db1fb56bb7\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e3ed9a89bf337c2e6c31b448be4881@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T194000
+DTEND;TZID=Asia/Yekaterinburg:20261024T205000
+SUMMARY:Основы системного анализа (Зачет)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-101/07\nПара: 8 пара\nДополнит
+ ельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:f9e3ed9a89bf337c
+ 2e6c31b448be4881\nURALCAMPUS_SOURCE:inueco:group:a695349a-282f-11ed-ad61-
+ 04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -18,58 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7c953e5afd6104e5bdf3ea2abe324f33@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
-DTEND;TZID=Asia/Yekaterinburg:20261016T152000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЗЗ-101/04\nПара: 4 пара\nДополните
- льно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:7c953e5af
- d6104e5bdf3ea2abe324f33\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f
- 1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:aab8a85eabdec6531e310f70902765ee@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T153000
-DTEND;TZID=Asia/Yekaterinburg:20261016T170000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЗЗ-101/04\nПара: 5 пара\nДополните
- льно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:aab8a85ea
- bdec6531e310f70902765ee\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f
- 1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8acf88553a2e8a1354ff8181d6aede0f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T183000
-DTEND;TZID=Asia/Yekaterinburg:20261016T194000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЗЗ-101/04\nПара: 7 пара\nДополните
- льно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:8acf88553a2e8a
- 1354ff8181d6aede0f\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9
- c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5d0279b098ad10d30c7d3a0d36b14566@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T195000
-DTEND;TZID=Asia/Yekaterinburg:20261016T205000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЗЗ-101/04\nПара: 8 пара\nДополните
- льно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:5d0279b098ad10
- d30c7d3a0d36b14566\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9
- c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:59451c4c1becbb2d5689d598ea19cfd6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
@@ -109,19 +57,6 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:f88851bdbfe06772d62a8f69a6d8d86a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
-DTEND;TZID=Asia/Yekaterinburg:20261019T152000
-SUMMARY:Иностранный язык (Практика)
-LOCATION:ауд. 222-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЗЗ-101/04\nПара: 4 пара\nДополните
- льно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:f88851bdbfe06772d
- 62a8f69a6d8d86a\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9c-0
- 4421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c26e832910367c35edfbbda01052158c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T153000
@@ -133,5 +68,70 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  льно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:c26e83291
  0367c35edfbbda01052158c\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f
  1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:01d7772e1a8da209f32e59b8143e29c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T135000
+DTEND;TZID=Asia/Yekaterinburg:20261020T152000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 4 пара\nДополните
+ льно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:01d7772e1a8da209f
+ 32e59b8143e29c7\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9c-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:078d56f3c46f081551e51f394b8d648e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
+DTEND;TZID=Asia/Yekaterinburg:20261021T182000
+SUMMARY:Правоведение (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 6 пара\nДополните
+ льно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:078d56f3c46f08
+ 1551e51f394b8d648e\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9
+ c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dca2f26d10ac4042960067cb6d7d6bf7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T183000
+DTEND;TZID=Asia/Yekaterinburg:20261021T194000
+SUMMARY:Правоведение (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 7 пара\nДополните
+ льно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:dca2f26d10ac40
+ 42960067cb6d7d6bf7\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9
+ c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bb9c15570387c394251db943e5afdd51@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T195000
+DTEND;TZID=Asia/Yekaterinburg:20261021T205000
+SUMMARY:Правоведение (Зачет)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 8 пара\nДополните
+ льно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:bb9c15570387c3
+ 94251db943e5afdd51\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9
+ c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd9491b8d2d847dda96b4f959b451bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T171000
+DTEND;TZID=Asia/Yekaterinburg:20261022T182000
+SUMMARY:Иностранный язык (Зачет)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 6 пара\nДополните
+ льно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:1cd9491b8d2d847dd
+ a96b4f959b451bb\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9c-0
+ 4421acb877d
 END:VEVENT
 END:VCALENDAR

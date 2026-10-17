@@ -18,32 +18,4 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:70be8f8ee81e178bb8dbfd1a233c3b61@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T135000
-DTEND;TZID=Asia/Yekaterinburg:20261022T152000
-SUMMARY:Проектирование в графическом дизай
- не (Практика)
-LOCATION:ауд. 212\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Трофимов Семён Алексе
- евич\nПара: 4 пара\nДополнительно: Д-305\nURALC
- AMPUS_SYNC_ID:70be8f8ee81e178bb8dbfd1a233c3b61\nURALCAMPUS_SOURCE:inueco:
- teacher:1d7a0458-a1f8-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:aafd57ca8dd93779a4bfc4660ef107e1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T153000
-DTEND;TZID=Asia/Yekaterinburg:20261022T170000
-SUMMARY:Проектирование в графическом дизай
- не (Практика)
-LOCATION:ауд. 212\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Трофимов Семён Алексе
- евич\nПара: 5 пара\nДополнительно: Д-305\nURALC
- AMPUS_SYNC_ID:aafd57ca8dd93779a4bfc4660ef107e1\nURALCAMPUS_SOURCE:inueco:
- teacher:1d7a0458-a1f8-11f1-ad9c-04421acb877d
-END:VEVENT
 END:VCALENDAR

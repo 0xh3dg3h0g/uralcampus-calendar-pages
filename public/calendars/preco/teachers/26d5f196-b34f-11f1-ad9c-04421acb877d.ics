@@ -18,4 +18,56 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:409bcfa63ec120659b2f84df9c5f15be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T083000
+DTEND;TZID=Asia/Yekaterinburg:20261019T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 1 пара\nДополнительно: ГС-176\nURALCAM
+ PUS_SYNC_ID:409bcfa63ec120659b2f84df9c5f15be\nURALCAMPUS_SOURCE:preco:tea
+ cher:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8ef564c27e55c303b36b5c49e3a0e8a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
+DTEND;TZID=Asia/Yekaterinburg:20261019T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 2 пара\nДополнительно: П-170\nURALCAMPU
+ S_SYNC_ID:8ef564c27e55c303b36b5c49e3a0e8a8\nURALCAMPUS_SOURCE:preco:teach
+ er:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d4da2ff8dc13018ff1f2ec04256b19e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 3 пара\nДополнительно: Ф-162\nURALCAMPU
+ S_SYNC_ID:d4da2ff8dc13018ff1f2ec04256b19e2\nURALCAMPUS_SOURCE:preco:teach
+ er:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8a07f7360c209a8e8883c5bc0bf48f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
+DTEND;TZID=Asia/Yekaterinburg:20261019T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 4 пара\nДополнительно: ПД-178\nURALCAM
+ PUS_SYNC_ID:cb8a07f7360c209a8e8883c5bc0bf48f\nURALCAMPUS_SOURCE:preco:tea
+ cher:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -18,39 +18,173 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d34b918a859f81f31de7de3ca54f3aec@uralcampus-calendar-pages
+UID:cb17fb83bc3ba7e7539a6cce4ab2a86b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T083000
-DTEND;TZID=Asia/Yekaterinburg:20261016T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
+DTEND;TZID=Asia/Yekaterinburg:20261019T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 2 пара\nДополнительно: К
+ окшаров А.Е.\nURALCAMPUS_SYNC_ID:cb17fb83bc3ba7e7539a6cce4ab2a86
+ b\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d20985d53a46fc17f3fb60920dafda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 3 пара\nДополнительно: В
+ еличко Е.Г.\nURALCAMPUS_SYNC_ID:d1d20985d53a46fc17f3fb60920dafda\
+ nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:248bc01b2432cf843cd140e320774b13@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
+DTEND;TZID=Asia/Yekaterinburg:20261020T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 1 пара\nДополнительно: Д
+ егтярева Д.О.\nURALCAMPUS_SYNC_ID:248bc01b2432cf843cd140e320774
+ b13\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9c2484a1638913b41031a6e007d66a1b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T101000
+DTEND;TZID=Asia/Yekaterinburg:20261020T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 2 пара\nДополнительно: Н
+ осенко И.М.\nURALCAMPUS_SYNC_ID:9c2484a1638913b41031a6e007d66a1b\
+ nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7f67e8828970ffb3f7717b50dee52e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T120000
+DTEND;TZID=Asia/Yekaterinburg:20261020T133000
+SUMMARY:География (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 3 пара\nДополнительно: В
+ еличко Е.Г.\nURALCAMPUS_SYNC_ID:9e7f67e8828970ffb3f7717b50dee52e\
+ nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:897233d8f0242197f9bb83d3697f28c5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T083000
+DTEND;TZID=Asia/Yekaterinburg:20261021T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 1 пара\nДополнительно: Н
+ осенко И.М.\nURALCAMPUS_SYNC_ID:897233d8f0242197f9bb83d3697f28c5\
+ nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b9aaac06e46fe98553d58b3bf484ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T101000
+DTEND;TZID=Asia/Yekaterinburg:20261021T114000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 2 пара\nДополнительно: Я
+ ковлева О.Г.\nURALCAMPUS_SYNC_ID:a3b9aaac06e46fe98553d58b3bf484f
+ f\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc64a6f3eaf4a6bc7d7fa8609f151fcb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T120000
+DTEND;TZID=Asia/Yekaterinburg:20261021T133000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 3 пара\nДополнительно: К
+ урда Е.С.\nURALCAMPUS_SYNC_ID:dc64a6f3eaf4a6bc7d7fa8609f151fcb\nURA
+ LCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7ccc288fd3e6521f7e550173f28166@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
+DTEND;TZID=Asia/Yekaterinburg:20261022T100000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 1 пара\nДополнительно: Я
+ ковлева О.Г.\nURALCAMPUS_SYNC_ID:0f7ccc288fd3e6521f7e550173f2816
+ 6\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9b06a05524c0e9efc9ab5cfe6e4b15a2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
+DTEND;TZID=Asia/Yekaterinburg:20261022T114000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 2 пара\nДополнительно: Б
+ уланова С.А.\nURALCAMPUS_SYNC_ID:9b06a05524c0e9efc9ab5cfe6e4b15a
+ 2\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e2562d98496b9e1b2843a271d96474@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T120000
+DTEND;TZID=Asia/Yekaterinburg:20261022T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 1\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170ю\nПара: 3 пара\nДополнительно: Н
+ осенко И.М.\nURALCAMPUS_SYNC_ID:b3e2562d98496b9e1b2843a271d96474\
+ nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3eec7d8c7e916e724904a11c64217a37@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T083000
+DTEND;TZID=Asia/Yekaterinburg:20261023T100000
 SUMMARY:История (Аудиторные занятия)
 LOCATION:ауд. 1\, Анапа
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-170ю\nПара: 1 пара\nДополнительно: К
- урда Е.С.\nURALCAMPUS_SYNC_ID:d34b918a859f81f31de7de3ca54f3aec\nURA
+ урда Е.С.\nURALCAMPUS_SYNC_ID:3eec7d8c7e916e724904a11c64217a37\nURA
  LCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:adce6856b6dcaae6eab75491c9482686@uralcampus-calendar-pages
+UID:0b7319b841edea51d4a3b86b4f6799a2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T101000
-DTEND;TZID=Asia/Yekaterinburg:20261016T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261023T101000
+DTEND;TZID=Asia/Yekaterinburg:20261023T114000
 SUMMARY:Русский язык (Аудиторные занятия)
 LOCATION:ауд. 1\, Анапа
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-170ю\nПара: 2 пара\nДополнительно: Б
- уланова С.А.\nURALCAMPUS_SYNC_ID:adce6856b6dcaae6eab75491c948268
- 6\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+ уланова С.А.\nURALCAMPUS_SYNC_ID:0b7319b841edea51d4a3b86b4f6799a
+ 2\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:8c6e9d5ccfbe07143666c5795956e001@uralcampus-calendar-pages
+UID:a9649167aa6173a1acc8999a2322be7d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
-DTEND;TZID=Asia/Yekaterinburg:20261016T133000
-SUMMARY:Литература (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261023T120000
+DTEND;TZID=Asia/Yekaterinburg:20261023T133000
+SUMMARY:Физика (Аудиторные занятия)
 LOCATION:ауд. 1\, Анапа
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170ю\nПара: 3 пара\nДополнительно: Б
- уланова С.А.\nURALCAMPUS_SYNC_ID:8c6e9d5ccfbe07143666c5795956e00
- 1\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
+ уппа: П-170ю\nПара: 3 пара\nДополнительно: К
+ окшаров А.Е.\nURALCAMPUS_SYNC_ID:a9649167aa6173a1acc8999a2322be7
+ d\nURALCAMPUS_SOURCE:preco:group:853698c2-98f7-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

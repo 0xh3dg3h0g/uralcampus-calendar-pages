@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7adf1b28d61938cdd590876ef7aab6d3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T183000
-DTEND;TZID=Asia/Yekaterinburg:20261016T194000
-SUMMARY:Специальный рисунок (Лекция)
-LOCATION:ауд. 206\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Радаев Евгений Виктор
- ович\nПара: 7 пара\nДополнительно: ДЗ-201\nURA
- LCAMPUS_SYNC_ID:7adf1b28d61938cdd590876ef7aab6d3\nURALCAMPUS_SOURCE:inuec
- o:teacher:f61dfb56-2536-11ee-ad76-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f1a7e046a0b2008a31f6fc0111717155@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T195000
-DTEND;TZID=Asia/Yekaterinburg:20261016T205000
-SUMMARY:Специальный рисунок (Практика)
-LOCATION:ауд. 206\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Радаев Евгений Виктор
- ович\nПара: 8 пара\nДополнительно: ДЗ-201\nURA
- LCAMPUS_SYNC_ID:f1a7e046a0b2008a31f6fc0111717155\nURALCAMPUS_SOURCE:inuec
- o:teacher:f61dfb56-2536-11ee-ad76-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:9cfbe22baf2906cf6774bccec4466376@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
@@ -114,6 +88,45 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  E:inueco:teacher:f61dfb56-2536-11ee-ad76-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:1eaecfe13165ce1c8f8f723541542292@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
+DTEND;TZID=Asia/Yekaterinburg:20261021T182000
+SUMMARY:Строительная механика (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Радаев Евгений Виктор
+ ович\nПара: 6 пара\nДополнительно: СЗ-301\nURA
+ LCAMPUS_SYNC_ID:1eaecfe13165ce1c8f8f723541542292\nURALCAMPUS_SOURCE:inuec
+ o:teacher:f61dfb56-2536-11ee-ad76-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a7cf14a64afa7d8abb29576f3dba59@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T183000
+DTEND;TZID=Asia/Yekaterinburg:20261021T194000
+SUMMARY:Строительная механика (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Радаев Евгений Виктор
+ ович\nПара: 7 пара\nДополнительно: СЗ-301\nURA
+ LCAMPUS_SYNC_ID:c8a7cf14a64afa7d8abb29576f3dba59\nURALCAMPUS_SOURCE:inuec
+ o:teacher:f61dfb56-2536-11ee-ad76-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:382a62f8777a1f10f6b3ce9bdb4f0f30@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T195000
+DTEND;TZID=Asia/Yekaterinburg:20261021T205000
+SUMMARY:Строительная механика (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Радаев Евгений Виктор
+ ович\nПара: 8 пара\nДополнительно: СЗ-301\nURA
+ LCAMPUS_SYNC_ID:382a62f8777a1f10f6b3ce9bdb4f0f30\nURALCAMPUS_SOURCE:inuec
+ o:teacher:f61dfb56-2536-11ee-ad76-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:b8593de8d86d53922b475712be827509@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T183000
@@ -164,5 +177,37 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ович\nПара: 3 пара\nДополнительно: Д-205\nURALC
  AMPUS_SYNC_ID:56a5dd75cbf18e7950acdea0df2abc2f\nURALCAMPUS_SOURCE:inueco:
  teacher:f61dfb56-2536-11ee-ad76-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d63c9b66eb8760fa1f92764bad270c97@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T134000
+DTEND;TZID=Asia/Yekaterinburg:20261024T151000
+SUMMARY:Металлические конструкции (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Радаев Евгений Виктор
+ ович\nПара: 4 пара\nДополнительно: СЗ-401/01\,
+  СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, СЗ-401/05а\
+ , СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, СЗ-401/12\, 
+ СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:d63c9b66eb8760fa1f92764bad27
+ 0c97\nURALCAMPUS_SOURCE:inueco:teacher:f61dfb56-2536-11ee-ad76-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:3683522242240b44cf500c1d28f5f949@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T152000
+DTEND;TZID=Asia/Yekaterinburg:20261024T165000
+SUMMARY:Металлические конструкции (Лекция)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Радаев Евгений Виктор
+ ович\nПара: 5 пара\nДополнительно: СЗ-401/01\,
+  СЗ-401/02\, СЗ-401/03\, СЗ-401/04\, СЗ-401/04а\, СЗ-401/05а\
+ , СЗ-401/06\, СЗ-401/07\, СЗ-401/08\, СЗ-401/09\, СЗ-401/12\, 
+ СЗ-401/13\, СЗД-401\nURALCAMPUS_SYNC_ID:3683522242240b44cf500c1d28f5
+ f949\nURALCAMPUS_SOURCE:inueco:teacher:f61dfb56-2536-11ee-ad76-04421acb87
+ 7d
 END:VEVENT
 END:VCALENDAR

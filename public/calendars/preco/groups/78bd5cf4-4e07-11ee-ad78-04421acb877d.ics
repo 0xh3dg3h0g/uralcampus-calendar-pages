@@ -18,31 +18,46 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:04900873c801aed591ded3fddce25d9b@uralcampus-calendar-pages
+UID:362b033d5741b9cea3275da36b5abb40@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
-DTEND;TZID=Asia/Yekaterinburg:20261016T133000
+DTSTART;TZID=Asia/Yekaterinburg:20261019T083000
+DTEND;TZID=Asia/Yekaterinburg:20261019T100000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-370\, П-370А\nПара: 1 пара\nДополнитель
+ но: Максютова З.Г.\nURALCAMPUS_SYNC_ID:362b033d5741b9cea3275
+ da36b5abb40\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d08db4d9d48367495daae861ae80e21a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
+DTEND;TZID=Asia/Yekaterinburg:20261019T114000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Аудиторные зан
+ ятия)
+LOCATION:ауд. 7\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-370\, П-370А\nПара: 2 пара\nДополнитель
+ но: Карасова А.А.\nURALCAMPUS_SYNC_ID:d08db4d9d48367495daae86
+ 1ae80e21a\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:032043b52011c0dd8373aa33d3503b93@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
 SUMMARY:Технология разработки и защиты баз 
  данных (Аудиторные занятия)
 LOCATION:ауд. 7\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-370\, П-370А\nПара: 3 пара\nДополнитель
- но: Карасова А.А.\nURALCAMPUS_SYNC_ID:04900873c801aed591ded3f
- ddce25d9b\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb
+ но: Карасова А.А.\nURALCAMPUS_SYNC_ID:032043b52011c0dd8373aa3
+ 3d3503b93\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb
  877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ab856f1508a3a53cd00fc0609b4a0dc1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
-DTEND;TZID=Asia/Yekaterinburg:20261016T152000
-SUMMARY:Стандартизация\,сертификация и техн
- ическое документоведение (Аудиторные з
- анятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-370\, П-370А\nПара: 4 пара\nДополнитель
- но: Бобнев С.В.\nURALCAMPUS_SYNC_ID:ab856f1508a3a53cd00fc0609b4
- a0dc1\nURALCAMPUS_SOURCE:preco:group:78bd5cf4-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

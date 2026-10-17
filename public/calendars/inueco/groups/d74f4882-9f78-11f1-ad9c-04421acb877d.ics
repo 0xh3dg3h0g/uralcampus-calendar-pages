@@ -18,58 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d031d281528af82dcbd68ed07175432a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
-DTEND;TZID=Asia/Yekaterinburg:20261016T152000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТТПЗу-101/13\nПара: 4 пара\nДополн
- ительно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:d03
- 1d281528af82dcbd68ed07175432a\nURALCAMPUS_SOURCE:inueco:group:d74f4882-9f
- 78-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:21410330edd8569e1dd8a5b649bccc77@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T153000
-DTEND;TZID=Asia/Yekaterinburg:20261016T170000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТТПЗу-101/13\nПара: 5 пара\nДополн
- ительно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:214
- 10330edd8569e1dd8a5b649bccc77\nURALCAMPUS_SOURCE:inueco:group:d74f4882-9f
- 78-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f2aa496e5616246e28335024d161aefb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T183000
-DTEND;TZID=Asia/Yekaterinburg:20261016T194000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТТПЗу-101/13\nПара: 7 пара\nДополн
- ительно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:f2aa496e
- 5616246e28335024d161aefb\nURALCAMPUS_SOURCE:inueco:group:d74f4882-9f78-11
- f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d1124296d0d6b21fd00dd55e5005742a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T195000
-DTEND;TZID=Asia/Yekaterinburg:20261016T205000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТТПЗу-101/13\nПара: 8 пара\nДополн
- ительно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:d1124296
- d0d6b21fd00dd55e5005742a\nURALCAMPUS_SOURCE:inueco:group:d74f4882-9f78-11
- f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e38434aeb582efab6135dc7409d59f4d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
@@ -120,5 +68,44 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ительно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:102
  9ffd1d3ee726257b14e65696c5844\nURALCAMPUS_SOURCE:inueco:group:d74f4882-9f
  78-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6d5e72af6d9d49089ecae69cec588e70@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
+DTEND;TZID=Asia/Yekaterinburg:20261021T182000
+SUMMARY:Правоведение (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗу-101/13\nПара: 6 пара\nДополн
+ ительно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:6d5e72af
+ 6d9d49089ecae69cec588e70\nURALCAMPUS_SOURCE:inueco:group:d74f4882-9f78-11
+ f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0a339c20362674d063529a90c09660f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T183000
+DTEND;TZID=Asia/Yekaterinburg:20261021T194000
+SUMMARY:Правоведение (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗу-101/13\nПара: 7 пара\nДополн
+ ительно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:0a339c20
+ 362674d063529a90c09660f2\nURALCAMPUS_SOURCE:inueco:group:d74f4882-9f78-11
+ f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5f996edd5506e0b0ddb875142a8013bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T195000
+DTEND;TZID=Asia/Yekaterinburg:20261021T205000
+SUMMARY:Правоведение (Зачет)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗу-101/13\nПара: 8 пара\nДополн
+ ительно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:5f996edd
+ 5506e0b0ddb875142a8013bd\nURALCAMPUS_SOURCE:inueco:group:d74f4882-9f78-11
+ f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

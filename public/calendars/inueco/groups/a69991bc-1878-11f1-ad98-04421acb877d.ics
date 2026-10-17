@@ -17,4 +17,43 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:9eaf2599d8f390aebf4c03a514e68f69@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T171000
+DTEND;TZID=Asia/Yekaterinburg:20261020T182000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-201/06\nПара: 6 пара\nДополнит
+ ельно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:9eaf2599d8f390
+ aebf4c03a514e68f69\nURALCAMPUS_SOURCE:inueco:group:a69991bc-1878-11f1-ad9
+ 8-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:41387017de067d2c858633f03ed263fe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T183000
+DTEND;TZID=Asia/Yekaterinburg:20261020T194000
+SUMMARY:Маркетинг (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-201/06\nПара: 7 пара\nДополнит
+ ельно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:41387017de067d
+ 2c858633f03ed263fe\nURALCAMPUS_SOURCE:inueco:group:a69991bc-1878-11f1-ad9
+ 8-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:760cbfe591b386b2fee35fd72e128c15@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T195000
+DTEND;TZID=Asia/Yekaterinburg:20261020T205000
+SUMMARY:Маркетинг (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-201/06\nПара: 8 пара\nДополнит
+ ельно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:760cbfe591b386
+ b2fee35fd72e128c15\nURALCAMPUS_SOURCE:inueco:group:a69991bc-1878-11f1-ad9
+ 8-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -18,39 +18,27 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6467e4bfc6919fd138f531937222afe3@uralcampus-calendar-pages
+UID:8d0477b3b8634b90c0947b5e140c7473@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T083000
-DTEND;TZID=Asia/Yekaterinburg:20261016T100000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-162\nПара: 1 пара\nДополнительно: Тр
- ясцина О.А.\nURALCAMPUS_SYNC_ID:6467e4bfc6919fd138f531937222afe3\
+ уппа: Ф-162\nПара: 3 пара\nДополнительно: Си
+ тников П.В.\nURALCAMPUS_SYNC_ID:8d0477b3b8634b90c0947b5e140c7473\
  nURALCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:42f9629d90ab0ede4d13e3aca74e51ed@uralcampus-calendar-pages
+UID:0cae5a18b522dd277c376f5c264ef52f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T101000
-DTEND;TZID=Asia/Yekaterinburg:20261016T114000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
+DTEND;TZID=Asia/Yekaterinburg:20261019T152000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-162\nПара: 2 пара\nДополнительно: Ки
- реева Ф.З.\nURALCAMPUS_SYNC_ID:42f9629d90ab0ede4d13e3aca74e51ed\nU
- RALCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:22da0e612d1ad055a67738a56425ef07@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
-DTEND;TZID=Asia/Yekaterinburg:20261016T133000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-162\nПара: 3 пара\nДополнительно: Ма
- лышева С.И.\nURALCAMPUS_SYNC_ID:22da0e612d1ad055a67738a56425ef07\
- nURALCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
+ уппа: Ф-162\nПара: 4 пара\nДополнительно: Бо
+ бнев С.В.\nURALCAMPUS_SYNC_ID:0cae5a18b522dd277c376f5c264ef52f\nURA
+ LCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

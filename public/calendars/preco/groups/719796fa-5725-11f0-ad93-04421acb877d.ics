@@ -18,43 +18,41 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a71ecb11506e5dc7defea9e4f56052c1@uralcampus-calendar-pages
+UID:1baa48e045847f7361a9d1a53feabb34@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T101000
-DTEND;TZID=Asia/Yekaterinburg:20261016T114000
-SUMMARY:Черчение(подгруппа:ЗИ-274 (2)) (Аудитор
- ные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ЗИ-274\nПара: 2 пара\nДополнительно: Б
- ойцова Л.П.\nURALCAMPUS_SYNC_ID:a71ecb11506e5dc7defea9e4f56052c1\
+ уппа: ЗИ-274\nПара: 3 пара\nДополнительно: К
+ ойшина Е.А.\nURALCAMPUS_SYNC_ID:1baa48e045847f7361a9d1a53feabb34\
  nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:9eb3a78ab8c42deb3cc8bcd49ccd0290@uralcampus-calendar-pages
+UID:c48f467f0553e1bcfad7e37f91f81c58@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T120000
-DTEND;TZID=Asia/Yekaterinburg:20261016T133000
-SUMMARY:Черчение(подгруппа:ЗИ-274 (2)) (Аудитор
- ные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ЗИ-274\nПара: 3 пара\nДополнительно: Б
- ойцова Л.П.\nURALCAMPUS_SYNC_ID:9eb3a78ab8c42deb3cc8bcd49ccd0290\
- nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:64b94963bf64a370b6fe8e68df2899c2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261016T135000
-DTEND;TZID=Asia/Yekaterinburg:20261016T152000
-SUMMARY:Основы геодезии и картографии\, топо
- графическая графика (Аудиторные заняти
- я)
+DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
+DTEND;TZID=Asia/Yekaterinburg:20261019T152000
+SUMMARY:Основы геологии\, геоморфологии\, по
+ чвоведения (Аудиторные занятия)
 LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ЗИ-274\nПара: 4 пара\nДополнительно: Е
- рина М.А.\nURALCAMPUS_SYNC_ID:64b94963bf64a370b6fe8e68df2899c2\nURA
- LCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+ уппа: ЗИ-274\nПара: 4 пара\nДополнительно: Л
+ укманова С.В.\nURALCAMPUS_SYNC_ID:c48f467f0553e1bcfad7e37f91f81
+ c58\nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a9864208d960cbc9e7b8ba437fd74925@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T153000
+DTEND;TZID=Asia/Yekaterinburg:20261019T170000
+SUMMARY:Основы геологии\, геоморфологии\, по
+ чвоведения (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-274\nПара: 5 пара\nДополнительно: Л
+ укманова С.В.\nURALCAMPUS_SYNC_ID:a9864208d960cbc9e7b8ba437fd74
+ 925\nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
 END:VEVENT
 END:VCALENDAR
