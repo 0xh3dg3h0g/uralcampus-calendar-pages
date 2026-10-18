@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ОЛз-102/13
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:45a329d2b23dca487acd5e02ce1dfcaa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T135000
+DTEND;TZID=Asia/Yekaterinburg:20261017T152000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 205\, Карабаш
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-102/13\nПара: 4 пара\nДополнительно
+ : Ахметзянов О.В.\nURALCAMPUS_SYNC_ID:45a329d2b23dca487acd5e0
+ 2ce1dfcaa\nURALCAMPUS_SOURCE:preco:group:cfa0a37d-b392-11ee-ad7f-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:538077fbf158905b36eb9939cb14e6a0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 205\, Карабаш
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-102/13\nПара: 3 пара\nДополнительно
+ : Ахметзянов О.В.\nURALCAMPUS_SYNC_ID:538077fbf158905b36eb993
+ 9cb14e6a0\nURALCAMPUS_SOURCE:preco:group:cfa0a37d-b392-11ee-ad7f-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fed78cfc908171fc01566fe1838c10fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T153000
+DTEND;TZID=Asia/Yekaterinburg:20261017T170000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 205\, Карабаш
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-102/13\nПара: 5 пара\nДополнительно
+ : Ахметзянов О.В.\nURALCAMPUS_SYNC_ID:fed78cfc908171fc01566fe
+ 1838c10fb\nURALCAMPUS_SOURCE:preco:group:cfa0a37d-b392-11ee-ad7f-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

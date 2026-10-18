@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ОЛз-102/05
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4843feb7049299876d0a231e20beb6a7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 407\, Курган
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-102/05\nПара: 2 пара\nДополнительно
+ : Григорьева О.А.\nURALCAMPUS_SYNC_ID:4843feb7049299876d0a231
+ e20beb6a7\nURALCAMPUS_SOURCE:preco:group:8e710fb5-a4d6-11f0-ad96-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c9c76d0f0197a6d83f79d0e61c7f7606@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T135000
+DTEND;TZID=Asia/Yekaterinburg:20261017T152000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 407\, Курган
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-102/05\nПара: 4 пара\nДополнительно
+ : Григорьева О.А.\nURALCAMPUS_SYNC_ID:c9c76d0f0197a6d83f79d0e
+ 61c7f7606\nURALCAMPUS_SOURCE:preco:group:8e710fb5-a4d6-11f0-ad96-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fb04a14d7652020684d1d4aec9550f4a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 407\, Курган
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-102/05\nПара: 3 пара\nДополнительно
+ : Григорьева О.А.\nURALCAMPUS_SYNC_ID:fb04a14d7652020684d1d4a
+ ec9550f4a\nURALCAMPUS_SOURCE:preco:group:8e710fb5-a4d6-11f0-ad96-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

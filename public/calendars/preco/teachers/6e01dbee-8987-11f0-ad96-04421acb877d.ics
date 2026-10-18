@@ -18,30 +18,4 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:12e6a485d3130bbedd87d7e8b398c58a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
-DTEND;TZID=Asia/Yekaterinburg:20261017T100000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смирнова Наталья Васильев
- на\nПара: 1 пара\nДополнительно: ЮЗ-168\nURALCAM
- PUS_SYNC_ID:12e6a485d3130bbedd87d7e8b398c58a\nURALCAMPUS_SOURCE:preco:tea
- cher:6e01dbee-8987-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5b1fbba60871efd37bae4677053065c8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
-DTEND;TZID=Asia/Yekaterinburg:20261017T114000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смирнова Наталья Васильев
- на\nПара: 2 пара\nДополнительно: ЮЗ-168\nURALCAM
- PUS_SYNC_ID:5b1fbba60871efd37bae4677053065c8\nURALCAMPUS_SOURCE:preco:tea
- cher:6e01dbee-8987-11f0-ad96-04421acb877d
-END:VEVENT
 END:VCALENDAR

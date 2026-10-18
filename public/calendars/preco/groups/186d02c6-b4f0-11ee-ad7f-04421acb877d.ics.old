@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: Юз-101/04а
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:969b2095c6b054245f5a3662caa76ea4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 1\, Кыштым
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Юз-101/04а\nПара: 2 пара\nДополнительно
+ : Важенина А.В.\nURALCAMPUS_SYNC_ID:969b2095c6b054245f5a3662caa
+ 76ea4\nURALCAMPUS_SOURCE:preco:group:186d02c6-b4f0-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8c38f6bffff8e41881d4eee067f840@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 1\, Кыштым
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Юз-101/04а\nПара: 3 пара\nДополнительно
+ : Важенина А.В.\nURALCAMPUS_SYNC_ID:bf8c38f6bffff8e41881d4eee06
+ 7f840\nURALCAMPUS_SOURCE:preco:group:186d02c6-b4f0-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f41fba2fd1a32dba4d8e5c159d02ccdb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
+DTEND;TZID=Asia/Yekaterinburg:20261017T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 1\, Кыштым
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Юз-101/04а\nПара: 1 пара\nДополнительно
+ : Важенина А.В.\nURALCAMPUS_SYNC_ID:f41fba2fd1a32dba4d8e5c159d0
+ 2ccdb\nURALCAMPUS_SOURCE:preco:group:186d02c6-b4f0-11ee-ad7f-04421acb877d
+END:VEVENT
+END:VCALENDAR

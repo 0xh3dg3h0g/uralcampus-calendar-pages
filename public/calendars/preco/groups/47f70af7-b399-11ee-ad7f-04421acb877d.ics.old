@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ОЛз-102/02
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:40ff1fbb53c81799dde07dadb15359bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-102/02\nПара: 2 пара\nДополнительно
+ : Свириденко А.Н.\nURALCAMPUS_SYNC_ID:40ff1fbb53c81799dde07da
+ db15359bd\nURALCAMPUS_SOURCE:preco:group:47f70af7-b399-11ee-ad7f-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Красильник
+ ова Екатерина Сергеевна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7d1e9ca2d14b7fcac550c7d817f719a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Миасское
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Красильникова Екатерина С
+ ергеевна\nПара: 2 пара\nДополнительно: Юз-
+ 101/08\nURALCAMPUS_SYNC_ID:7d1e9ca2d14b7fcac550c7d817f719a8\nURALCAMPUS_S
+ OURCE:preco:teacher:f402d74d-c2cb-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a4b7fb8e7839ad29c2ca7b539f0b1128@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Миасское
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Красильникова Екатерина С
+ ергеевна\nПара: 3 пара\nДополнительно: Юз-
+ 101/08\nURALCAMPUS_SYNC_ID:a4b7fb8e7839ad29c2ca7b539f0b1128\nURALCAMPUS_S
+ OURCE:preco:teacher:f402d74d-c2cb-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f7255e22d16936c3344e42d18e61eb8a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T135000
+DTEND;TZID=Asia/Yekaterinburg:20261017T152000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Миасское
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Красильникова Екатерина С
+ ергеевна\nПара: 4 пара\nДополнительно: Юз-
+ 101/08\nURALCAMPUS_SYNC_ID:f7255e22d16936c3344e42d18e61eb8a\nURALCAMPUS_S
+ OURCE:preco:teacher:f402d74d-c2cb-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

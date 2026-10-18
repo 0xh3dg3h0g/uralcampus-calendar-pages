@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЮЗ-101/12б
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4e00990840b2d45a15aaaa7d3f5b4706@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T101000
+DTEND;TZID=Asia/Yekaterinburg:20261017T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 2\, Усть-Катав
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЮЗ-101/12б\nПара: 2 пара\nДополнительно
+ : Гаскарова А.А.\nURALCAMPUS_SYNC_ID:4e00990840b2d45a15aaaa7d3
+ f5b4706\nURALCAMPUS_SOURCE:preco:group:7bc796e8-c3d1-11f1-ad9c-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:53b89ebbf77660fceaffefa6df956e59@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 2\, Усть-Катав
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЮЗ-101/12б\nПара: 3 пара\nДополнительно
+ : Гаскарова А.А.\nURALCAMPUS_SYNC_ID:53b89ebbf77660fceaffefa6d
+ f956e59\nURALCAMPUS_SOURCE:preco:group:7bc796e8-c3d1-11f1-ad9c-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0c50a9023fcfb7bee4b39ec594a4f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T135000
+DTEND;TZID=Asia/Yekaterinburg:20261017T152000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 2\, Усть-Катав
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЮЗ-101/12б\nПара: 4 пара\nДополнительно
+ : Гаскарова А.А.\nURALCAMPUS_SYNC_ID:dc0c50a9023fcfb7bee4b39ec
+ 594a4f4\nURALCAMPUS_SOURCE:preco:group:7bc796e8-c3d1-11f1-ad9c-04421acb87
+ 7d
+END:VEVENT
+END:VCALENDAR

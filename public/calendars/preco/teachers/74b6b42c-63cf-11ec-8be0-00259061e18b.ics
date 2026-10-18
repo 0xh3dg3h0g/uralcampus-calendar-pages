@@ -19,6 +19,19 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:d54f02b77aa5f9b2c86c75285ba6052e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
+DTEND;TZID=Asia/Yekaterinburg:20261019T133000
+SUMMARY:Пропедевтика (Аудиторные занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шкрабов Николай Игоревич\n
+ Пара: 3 пара\nДополнительно: Д-212\, Д-212А\nURAL
+ CAMPUS_SYNC_ID:d54f02b77aa5f9b2c86c75285ba6052e\nURALCAMPUS_SOURCE:preco:
+ teacher:74b6b42c-63cf-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:cfdcbf887f31f55427812148a53f7035@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
@@ -43,19 +56,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  Пара: 3 пара\nДополнительно: Д-212А (2)\nURALCAMPU
  S_SYNC_ID:05a0f60b161c40de53a4f8c7b23b34cd\nURALCAMPUS_SOURCE:preco:teach
  er:74b6b42c-63cf-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:d54f02b77aa5f9b2c86c75285ba6052e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
-DTEND;TZID=Asia/Yekaterinburg:20261019T133000
-SUMMARY:Пропедевтика (Аудиторные занятия)
-LOCATION:ауд. 302\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Шкрабов Николай Игоревич\n
- Пара: 3 пара\nДополнительно: Д-212\, Д-212А\nURAL
- CAMPUS_SYNC_ID:d54f02b77aa5f9b2c86c75285ba6052e\nURALCAMPUS_SOURCE:preco:
- teacher:74b6b42c-63cf-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:5a37beaa4607b3856f0a0fab767a980e@uralcampus-calendar-pages
@@ -238,6 +238,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  2c-63cf-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
+UID:4d8b96fc826ced2c7f443df66bac187a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T101000
+DTEND;TZID=Asia/Yekaterinburg:20261023T114000
+SUMMARY:Пропедевтика (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шкрабов Николай Игоревич\n
+ Пара: 2 пара\nДополнительно: Д-212\, Д-212А\nURAL
+ CAMPUS_SYNC_ID:4d8b96fc826ced2c7f443df66bac187a\nURALCAMPUS_SOURCE:preco:
+ teacher:74b6b42c-63cf-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:6826c7084b2e7ae8067e86ccf52af970@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T101000
@@ -262,19 +275,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  Пара: 2 пара\nДополнительно: Д-212А (2)\nURALCAMPU
  S_SYNC_ID:f02797b1ec103faa73b6d33f63feca57\nURALCAMPUS_SOURCE:preco:teach
  er:74b6b42c-63cf-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:4d8b96fc826ced2c7f443df66bac187a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T101000
-DTEND;TZID=Asia/Yekaterinburg:20261023T114000
-SUMMARY:Пропедевтика (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Шкрабов Николай Игоревич\n
- Пара: 2 пара\nДополнительно: Д-212\, Д-212А\nURAL
- CAMPUS_SYNC_ID:4d8b96fc826ced2c7f443df66bac187a\nURALCAMPUS_SOURCE:preco:
- teacher:74b6b42c-63cf-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:3cdb1fbc24e5f7d4ec08e2d33fcac5a4@uralcampus-calendar-pages

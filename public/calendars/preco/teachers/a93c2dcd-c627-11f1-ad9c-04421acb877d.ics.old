@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Заплатина И
+ рина Вадимовна
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:36c99d3e92c5aa06c4973f7ce1b6bb6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T120000
+DTEND;TZID=Asia/Yekaterinburg:20261017T133000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Заплатина Ирина Вадимовна\
+ nПара: 3 пара\nДополнительно: СД/оз-223А\nURALC
+ AMPUS_SYNC_ID:36c99d3e92c5aa06c4973f7ce1b6bb6b\nURALCAMPUS_SOURCE:preco:t
+ eacher:a93c2dcd-c627-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4d96d64f5d3e5dea79ff06bd3ceb8023@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T134000
+DTEND;TZID=Asia/Yekaterinburg:20261017T151000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Заплатина Ирина Вадимовна\
+ nПара: 4 пара\nДополнительно: СД/оз-223А\nURALC
+ AMPUS_SYNC_ID:4d96d64f5d3e5dea79ff06bd3ceb8023\nURALCAMPUS_SOURCE:preco:t
+ eacher:a93c2dcd-c627-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bf82db1876b578df796d47a294ced0ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T152000
+DTEND;TZID=Asia/Yekaterinburg:20261017T165000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Заплатина Ирина Вадимовна\
+ nПара: 5 пара\nДополнительно: СД/оз-223А\nURALC
+ AMPUS_SYNC_ID:bf82db1876b578df796d47a294ced0ca\nURALCAMPUS_SOURCE:preco:t
+ eacher:a93c2dcd-c627-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f8b487013175f22c12dece715e54abf7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261017T170000
+DTEND;TZID=Asia/Yekaterinburg:20261017T181000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Заплатина Ирина Вадимовна\
+ nПара: 6 пара\nДополнительно: СД/оз-223А\nURALC
+ AMPUS_SYNC_ID:f8b487013175f22c12dece715e54abf7\nURALCAMPUS_SOURCE:preco:t
+ eacher:a93c2dcd-c627-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR
