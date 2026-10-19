@@ -17,4 +17,20 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:4c4b28be31c9bce9968f40acda18d443@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261019T183000
+DTEND;TZID=Asia/Yekaterinburg:20261019T194000
+SUMMARY:Производственная практика (практик
+ а по получению профессиональных умений 
+ и опыта правоохранительной (Зачет по пр
+ актике)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭБЗ-601/15\nПара: 7 пара\nДополнит
+ ельно: Ефименко Е. Н.\nURALCAMPUS_SYNC_ID:4c4b28be31c9bce9
+ 968f40acda18d443\nURALCAMPUS_SOURCE:inueco:group:a6953450-282f-11ed-ad61-
+ 04421acb877d
+END:VEVENT
 END:VCALENDAR

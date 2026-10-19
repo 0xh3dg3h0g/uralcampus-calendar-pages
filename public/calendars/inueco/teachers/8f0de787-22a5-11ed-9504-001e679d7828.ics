@@ -19,16 +19,16 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fc1db8c885a330165589b01820f13b84@uralcampus-calendar-pages
+UID:ddc1b9c289341e5942ddde54347fce6e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
 DTEND;TZID=Asia/Yekaterinburg:20261019T114000
-SUMMARY:Криминология (Лекция)
+SUMMARY:Криминология (Практика)
 LOCATION:ауд. 320\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ефименко Евгения Нико
  лаевна\nПара: 2 пара\nДополнительно: Ю-301\nU
- RALCAMPUS_SYNC_ID:fc1db8c885a330165589b01820f13b84\nURALCAMPUS_SOURCE:inu
+ RALCAMPUS_SYNC_ID:ddc1b9c289341e5942ddde54347fce6e\nURALCAMPUS_SOURCE:inu
  eco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
@@ -61,21 +61,20 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  :inueco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:67e31829ebf4e569251aacd358d2175f@uralcampus-calendar-pages
+UID:04543d46e2671c5d24d34232eee2b931@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T171000
-DTEND;TZID=Asia/Yekaterinburg:20261020T182000
-SUMMARY:Уголовное право (Лекция)
-LOCATION:ауд. 209-1
+DTSTART;TZID=Asia/Yekaterinburg:20261019T183000
+DTEND;TZID=Asia/Yekaterinburg:20261019T194000
+SUMMARY:Производственная практика (практик
+ а по получению профессиональных умений 
+ и опыта правоохранительной (Зачет по пр
+ актике)
+LOCATION:ауд. 222-1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ефименко Евгения Нико
- лаевна\nПара: 6 пара\nДополнительно: ЮЗ-201/
- 01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, ЮЗ-201/0
- 5а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\, ЮЗ-20
- 1/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, ЮЗ-201
- /13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:67e31829ebf4e569251a
- acd358d2175f\nURALCAMPUS_SOURCE:inueco:teacher:8f0de787-22a5-11ed-9504-00
- 1e679d7828
+ лаевна\nПара: 7 пара\nДополнительно: ЭБЗ-60
+ 1/05\, ЭБЗ-601/15\nURALCAMPUS_SYNC_ID:04543d46e2671c5d24d34232eee2b931
+ \nURALCAMPUS_SOURCE:inueco:teacher:8f0de787-22a5-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
 UID:dd71d9035e4d9b283f565eb5b6956b0e@uralcampus-calendar-pages
@@ -92,6 +91,23 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  1/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, ЮЗ-201
  /13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:dd71d9035e4d9b283f56
  5eb5b6956b0e\nURALCAMPUS_SOURCE:inueco:teacher:8f0de787-22a5-11ed-9504-00
+ 1e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:3badac5ab551de75a3a01aec798b2de1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261020T195000
+DTEND;TZID=Asia/Yekaterinburg:20261020T205000
+SUMMARY:Уголовное право (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ефименко Евгения Нико
+ лаевна\nПара: 8 пара\nДополнительно: ЮЗ-201/
+ 01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, ЮЗ-201/0
+ 5а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\, ЮЗ-20
+ 1/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, ЮЗ-201
+ /13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:3badac5ab551de75a3a0
+ 1aec798b2de1\nURALCAMPUS_SOURCE:inueco:teacher:8f0de787-22a5-11ed-9504-00
  1e679d7828
 END:VEVENT
 BEGIN:VEVENT
