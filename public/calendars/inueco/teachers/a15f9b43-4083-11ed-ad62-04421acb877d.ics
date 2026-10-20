@@ -19,48 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:19e9524c07a505c5898e366a1161d165@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
-DTEND;TZID=Asia/Yekaterinburg:20261019T114000
-SUMMARY:Теория организации и организационн
- ое поведение (Лекция)
-LOCATION:ауд. 418\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Дьяченко Олег Вячесла
- вович\nПара: 2 пара\nДополнительно: М-103\nURA
- LCAMPUS_SYNC_ID:19e9524c07a505c5898e366a1161d165\nURALCAMPUS_SOURCE:inuec
- o:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9904c3b54265d98ea9f2e7938ab6af76@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
-DTEND;TZID=Asia/Yekaterinburg:20261019T133000
-SUMMARY:Теория государственного управления
-  (Лекция)
-LOCATION:ауд. 418\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Дьяченко Олег Вячесла
- вович\nПара: 3 пара\nДополнительно: ТД-206\nU
- RALCAMPUS_SYNC_ID:9904c3b54265d98ea9f2e7938ab6af76\nURALCAMPUS_SOURCE:inu
- eco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b6f1446b64775030022286f1e9450f74@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
-DTEND;TZID=Asia/Yekaterinburg:20261019T152000
-SUMMARY:Теория государственного управления
-  (Лекция)
-LOCATION:ауд. 418\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Дьяченко Олег Вячесла
- вович\nПара: 4 пара\nДополнительно: ТД-206\nU
- RALCAMPUS_SYNC_ID:b6f1446b64775030022286f1e9450f74\nURALCAMPUS_SOURCE:inu
- eco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:54f04b07bc17a8535654aa3ea218b26a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T153000
@@ -350,5 +308,37 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  вович\nПара: 8 пара\nДополнительно: ГМУЗ-30
  1\nURALCAMPUS_SYNC_ID:a5523bba8a73617f76169bfd1e7052c7\nURALCAMPUS_SOURCE
  :inueco:teacher:a15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e36b98ccd201e4dee557cb4753f55a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T134000
+DTEND;TZID=Asia/Yekaterinburg:20261024T151000
+SUMMARY:Стратегический менеджмент (Практик
+ а)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 4 пара\nДополнительно: МЗ-401/01
+ \, МЗ-401/01а\, МЗ-401/02\, МЗ-401/03\, МЗ-401/05\, МЗ-401/07
+ б\, МЗ-401/09\, МЗ-401/11\, МЗ-401/13\, МЗД-401\nURALCAMPUS_SYN
+ C_ID:b2e36b98ccd201e4dee557cb4753f55a\nURALCAMPUS_SOURCE:inueco:teacher:a
+ 15f9b43-4083-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ff213d5936ebe6d8edf1cb41c536688f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T152000
+DTEND;TZID=Asia/Yekaterinburg:20261024T165000
+SUMMARY:Стратегический менеджмент (Практик
+ а)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дьяченко Олег Вячесла
+ вович\nПара: 5 пара\nДополнительно: МЗ-401/01
+ \, МЗ-401/01а\, МЗ-401/02\, МЗ-401/03\, МЗ-401/05\, МЗ-401/07
+ б\, МЗ-401/09\, МЗ-401/11\, МЗ-401/13\, МЗД-401\nURALCAMPUS_SYN
+ C_ID:ff213d5936ebe6d8edf1cb41c536688f\nURALCAMPUS_SOURCE:inueco:teacher:a
+ 15f9b43-4083-11ed-ad62-04421acb877d
 END:VEVENT
 END:VCALENDAR

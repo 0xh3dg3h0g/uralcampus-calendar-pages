@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:540c3b0ac907d526b8af4996fe49d88a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T134000
+DTEND;TZID=Asia/Yekaterinburg:20261024T151000
+SUMMARY:Стратегический менеджмент (Практик
+ а)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-401/09\nПара: 4 пара\nДополните
+ льно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:540c3b0ac907d526b8
+ af4996fe49d88a\nURALCAMPUS_SOURCE:inueco:group:a69991b4-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2156778c916f8ca6718aa3c28f34affe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T152000
+DTEND;TZID=Asia/Yekaterinburg:20261024T165000
+SUMMARY:Стратегический менеджмент (Практик
+ а)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-401/09\nПара: 5 пара\nДополните
+ льно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:2156778c916f8ca671
+ 8aa3c28f34affe\nURALCAMPUS_SOURCE:inueco:group:a69991b4-1878-11f1-ad98-04
+ 421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -19,48 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ba6bfb56cff295dbb00d595e8f5f2e40@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T120000
-DTEND;TZID=Asia/Yekaterinburg:20261019T133000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 103\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Худолей Юлия Евгеньевна\nП
- ара: 3 пара\nДополнительно: ПД-448к\nURALCAMPUS_SY
- NC_ID:ba6bfb56cff295dbb00d595e8f5f2e40\nURALCAMPUS_SOURCE:preco:teacher:d
- 761d8d3-45af-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:33b067465eeaf01701704d2b48c634aa@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T135000
-DTEND;TZID=Asia/Yekaterinburg:20261019T152000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 321\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Худолей Юлия Евгеньевна\nП
- ара: 4 пара\nДополнительно: ПД-248к\, ПД-248Ак
- \nURALCAMPUS_SYNC_ID:33b067465eeaf01701704d2b48c634aa\nURALCAMPUS_SOURCE:
- preco:teacher:d761d8d3-45af-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:09e39f5c34becc4ee462f769c35fccbb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T153000
-DTEND;TZID=Asia/Yekaterinburg:20261019T170000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 322\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Худолей Юлия Евгеньевна\nП
- ара: 5 пара\nДополнительно: ПД-249к\, ПД-249Ак
- \nURALCAMPUS_SYNC_ID:09e39f5c34becc4ee462f769c35fccbb\nURALCAMPUS_SOURCE:
- preco:teacher:d761d8d3-45af-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e771782f11eb9d8a08ba9c62fd31ec28@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T083000
@@ -187,5 +145,33 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ара: 4 пара\nДополнительно: НК-356к\, НК-356Ак
  \nURALCAMPUS_SYNC_ID:939ae54cafc2d5c852746ebd60160357\nURALCAMPUS_SOURCE:
  preco:teacher:d761d8d3-45af-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:09a3b89c85e8000bdd4d8c80ed773e5f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T083000
+DTEND;TZID=Asia/Yekaterinburg:20261028T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Худолей Юлия Евгеньевна\nП
+ ара: 1 пара\nДополнительно: П-340к\nURALCAMPUS_SYNC
+ _ID:09a3b89c85e8000bdd4d8c80ed773e5f\nURALCAMPUS_SOURCE:preco:teacher:d76
+ 1d8d3-45af-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a4c85720fb2b25028b2e01643989625c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261104T083000
+DTEND;TZID=Asia/Yekaterinburg:20261104T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Худолей Юлия Евгеньевна\nП
+ ара: 1 пара\nДополнительно: П-340к\nURALCAMPUS_SYNC
+ _ID:a4c85720fb2b25028b2e01643989625c\nURALCAMPUS_SOURCE:preco:teacher:d76
+ 1d8d3-45af-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

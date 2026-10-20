@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d52b5fcc2df7d06f0e81204ce7d7e90a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T083000
-DTEND;TZID=Asia/Yekaterinburg:20261019T100000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 1 пара\nДополнительно: Ки
- реева Ф.З.\nURALCAMPUS_SYNC_ID:d52b5fcc2df7d06f0e81204ce7d7e90a\nU
- RALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4fa9255a61df08de79763c8376126d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261019T101000
-DTEND;TZID=Asia/Yekaterinburg:20261019T114000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 2 пара\nДополнительно: Бо
- бнев С.В.\nURALCAMPUS_SYNC_ID:fc4fa9255a61df08de79763c8376126d\nURA
- LCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:4a1982e5b5aca76a0b94deac0b9b8e82@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
@@ -88,5 +64,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ю-168\nПара: 2 пара\nДополнительно: Бо
  бнев С.В.\nURALCAMPUS_SYNC_ID:677d51bf420d01acd1b1cbe950afc2b5\nURA
  LCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f1c43c0091765eec80607e427a5cc0b2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261021T120000
+DTEND;TZID=Asia/Yekaterinburg:20261021T133000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-168\nПара: 3 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:f1c43c0091765eec80607e427a5cc0b2\nU
+ RALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
