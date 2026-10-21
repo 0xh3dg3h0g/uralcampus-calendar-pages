@@ -19,45 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cef9c38cf6d87becba9c70ed3377e905@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
-DTEND;TZID=Asia/Yekaterinburg:20261020T100000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ситников Павел Владимиров
- ич\nПара: 1 пара\nДополнительно: Б-164\nURALCAMPU
- S_SYNC_ID:cef9c38cf6d87becba9c70ed3377e905\nURALCAMPUS_SOURCE:preco:teach
- er:26d5f196-b34f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:00875a2a095b9df303bab01a70a15d93@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T101000
-DTEND;TZID=Asia/Yekaterinburg:20261020T114000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ситников Павел Владимиров
- ич\nПара: 2 пара\nДополнительно: П-170\nURALCAMPU
- S_SYNC_ID:00875a2a095b9df303bab01a70a15d93\nURALCAMPUS_SOURCE:preco:teach
- er:26d5f196-b34f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:cb2ffd9148cc683e6a70e49bd4da2f5d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T120000
-DTEND;TZID=Asia/Yekaterinburg:20261020T133000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 3.3\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ситников Павел Владимиров
- ич\nПара: 3 пара\nДополнительно: Ф-162\nURALCAMPU
- S_SYNC_ID:cb2ffd9148cc683e6a70e49bd4da2f5d\nURALCAMPUS_SOURCE:preco:teach
- er:26d5f196-b34f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:aab59971a8eb024f3ee38a975ffdc77c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T083000
@@ -95,5 +56,57 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ич\nПара: 3 пара\nДополнительно: Ф-162\nURALCAMPU
  S_SYNC_ID:405f5ea1f93509d2845397af6a961317\nURALCAMPUS_SOURCE:preco:teach
  er:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7616e2a9f880cbb47c73128b719cb3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
+DTEND;TZID=Asia/Yekaterinburg:20261022T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 1 пара\nДополнительно: Ю-168\nURALCAMPU
+ S_SYNC_ID:ce7616e2a9f880cbb47c73128b719cb3\nURALCAMPUS_SOURCE:preco:teach
+ er:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:398da04d63fb717c64b94a67e77544dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
+DTEND;TZID=Asia/Yekaterinburg:20261022T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 2 пара\nДополнительно: Ф-162\nURALCAMPU
+ S_SYNC_ID:398da04d63fb717c64b94a67e77544dc\nURALCAMPUS_SOURCE:preco:teach
+ er:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ccea18caa633a8467dfbd559fb11747c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T120000
+DTEND;TZID=Asia/Yekaterinburg:20261022T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 3 пара\nДополнительно: П-170\nURALCAMPU
+ S_SYNC_ID:ccea18caa633a8467dfbd559fb11747c\nURALCAMPUS_SOURCE:preco:teach
+ er:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b8b8ba75ed69c7ca343da10786e499d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T135000
+DTEND;TZID=Asia/Yekaterinburg:20261022T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 4 пара\nДополнительно: ГС-176\nURALCAM
+ PUS_SYNC_ID:b8b8ba75ed69c7ca343da10786e499d8\nURALCAMPUS_SOURCE:preco:tea
+ cher:26d5f196-b34f-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

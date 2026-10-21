@@ -19,6 +19,40 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ac6de800bf34ad2159dab43d12b75107@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
+DTEND;TZID=Asia/Yekaterinburg:20261022T114000
+SUMMARY:Ведение медицинской документации\, 
+ организация деятельности находящегося 
+ в распоряжении медицинского (Квалифика
+ ционный экзамен)
+LOCATION:ауд. Лаб.к. 104\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Марина Геннадье
+ вна\nПара: 2 пара\nДополнительно: СД/оз-422\,
+  СД/оз-422А\nURALCAMPUS_SYNC_ID:ac6de800bf34ad2159dab43d12b75107\nUR
+ ALCAMPUS_SOURCE:preco:teacher:476439a8-7e6d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c6898a42cc80d0f5d300030d119239ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T135000
+DTEND;TZID=Asia/Yekaterinburg:20261022T152000
+SUMMARY:Оказание медицинской помощи\, осуще
+ ствление сестринского ухода и наблюден
+ ия за пациентами при заболев (Квалифика
+ ционный экзамен)
+LOCATION:ауд. Лаб.к. 104\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Марина Геннадье
+ вна\nПара: 4 пара\nДополнительно: СД/оз-422\,
+  СД/оз-422А\nURALCAMPUS_SYNC_ID:c6898a42cc80d0f5d300030d119239ee\nUR
+ ALCAMPUS_SOURCE:preco:teacher:476439a8-7e6d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:329fa746324ffb166eb16bc8dfdd92fc@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261024T120000
@@ -47,6 +81,21 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  вна\nПара: 4 пара\nДополнительно: СД/оз-224А
  \nURALCAMPUS_SYNC_ID:97a9eadbf851e4a4b7d1b6fa4c68ce3c\nURALCAMPUS_SOURCE:
  preco:teacher:476439a8-7e6d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:734529c61c1f72794155c1de9c488cd5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T101000
+DTEND;TZID=Asia/Yekaterinburg:20261026T114000
+SUMMARY:Оказание медицинской помощи в экстр
+ енной форме (Квалификационный экзамен)
+LOCATION:ауд. Лаб.к. 104\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Крапивина Марина Геннадье
+ вна\nПара: 2 пара\nДополнительно: СД/оз-422\,
+  СД/оз-422А\nURALCAMPUS_SYNC_ID:734529c61c1f72794155c1de9c488cd5\nUR
+ ALCAMPUS_SOURCE:preco:teacher:476439a8-7e6d-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:01fc8d3653e76d5906c7b259d1e0a136@uralcampus-calendar-pages

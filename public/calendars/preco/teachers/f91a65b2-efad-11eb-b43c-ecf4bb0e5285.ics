@@ -19,84 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a7b02bba00ba3293a715df48d4f7c22a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T083000
-DTEND;TZID=Asia/Yekaterinburg:20261020T100000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 417\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кожевникова Елена Борисов
- на\nПара: 1 пара\nДополнительно: 133к\nURALCAMPUS
- _SYNC_ID:a7b02bba00ba3293a715df48d4f7c22a\nURALCAMPUS_SOURCE:preco:teache
- r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:531f095f1ba5cb448a52d4fd668cae73@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T101000
-DTEND;TZID=Asia/Yekaterinburg:20261020T114000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кожевникова Елена Борисов
- на\nПара: 2 пара\nДополнительно: 134к\nURALCAMPUS
- _SYNC_ID:531f095f1ba5cb448a52d4fd668cae73\nURALCAMPUS_SOURCE:preco:teache
- r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:ecab1768946e59a0e014986f4af899bc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T120000
-DTEND;TZID=Asia/Yekaterinburg:20261020T133000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кожевникова Елена Борисов
- на\nПара: 3 пара\nДополнительно: 134к\nURALCAMPUS
- _SYNC_ID:ecab1768946e59a0e014986f4af899bc\nURALCAMPUS_SOURCE:preco:teache
- r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:c4c592325c79dae4c935e34aeda5c996@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T135000
-DTEND;TZID=Asia/Yekaterinburg:20261020T152000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кожевникова Елена Борисов
- на\nПара: 4 пара\nДополнительно: 136к\nURALCAMPUS
- _SYNC_ID:c4c592325c79dae4c935e34aeda5c996\nURALCAMPUS_SOURCE:preco:teache
- r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:5b5ef3023565a9a41435ce51979b799f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T153000
-DTEND;TZID=Asia/Yekaterinburg:20261020T170000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 417\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кожевникова Елена Борисов
- на\nПара: 5 пара\nДополнительно: 137к\nURALCAMPUS
- _SYNC_ID:5b5ef3023565a9a41435ce51979b799f\nURALCAMPUS_SOURCE:preco:teache
- r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:52472cfe4747620610091d79167d910c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261020T171000
-DTEND;TZID=Asia/Yekaterinburg:20261020T182000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Кожевникова Елена Борисов
- на\nПара: 6 пара\nДополнительно: 138к\nURALCAMPUS
- _SYNC_ID:52472cfe4747620610091d79167d910c\nURALCAMPUS_SOURCE:preco:teache
- r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:62f9b1501a26e8d2fad93762c2bddb5d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261021T083000
@@ -400,6 +322,84 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  f91a65b2-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
+UID:439b5c7ce20dcdf87be55ccefb898af0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T083000
+DTEND;TZID=Asia/Yekaterinburg:20261026T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 1 пара\nДополнительно: 144к\nURALCAMPUS
+ _SYNC_ID:439b5c7ce20dcdf87be55ccefb898af0\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f1adbade08bb16b4b8104107d253b7c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T101000
+DTEND;TZID=Asia/Yekaterinburg:20261026T114000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 2 пара\nДополнительно: 146к\nURALCAMPUS
+ _SYNC_ID:f1adbade08bb16b4b8104107d253b7c7\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:daa75c11e617a49573d89d37eb5a6371@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T120000
+DTEND;TZID=Asia/Yekaterinburg:20261026T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 302\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 3 пара\nДополнительно: 147к\nURALCAMPUS
+ _SYNC_ID:daa75c11e617a49573d89d37eb5a6371\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:fa4b07cef6be4702104e07851a8b5ef9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T135000
+DTEND;TZID=Asia/Yekaterinburg:20261026T152000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 4 пара\nДополнительно: 148к\nURALCAMPUS
+ _SYNC_ID:fa4b07cef6be4702104e07851a8b5ef9\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7bca33e215add96fe672b624763ff0a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T153000
+DTEND;TZID=Asia/Yekaterinburg:20261026T170000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 5 пара\nДополнительно: 150к\nURALCAMPUS
+ _SYNC_ID:7bca33e215add96fe672b624763ff0a5\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:40e9c2eb859e3cc663550ba715559d2b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T171000
+DTEND;TZID=Asia/Yekaterinburg:20261026T182000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 6 пара\nДополнительно: 156к\nURALCAMPUS
+ _SYNC_ID:40e9c2eb859e3cc663550ba715559d2b\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
 UID:3c1b10a28b15601f4ef9f15be679f2a1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
@@ -478,6 +478,84 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
+UID:d61ee594bdb896a4a8bbfe2b3b38293d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T083000
+DTEND;TZID=Asia/Yekaterinburg:20261028T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 1 пара\nДополнительно: 142к\nURALCAMPUS
+ _SYNC_ID:d61ee594bdb896a4a8bbfe2b3b38293d\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:6207ed5fbd2c584b5f840b3c0ac37afd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T101000
+DTEND;TZID=Asia/Yekaterinburg:20261028T114000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 2 пара\nДополнительно: 145к\nURALCAMPUS
+ _SYNC_ID:6207ed5fbd2c584b5f840b3c0ac37afd\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:5b15837885757017e65fe6616e45e783@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T120000
+DTEND;TZID=Asia/Yekaterinburg:20261028T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 3 пара\nДополнительно: 143к\nURALCAMPUS
+ _SYNC_ID:5b15837885757017e65fe6616e45e783\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:66185985aa0eeadb43edab7b4b86556c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T135000
+DTEND;TZID=Asia/Yekaterinburg:20261028T152000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 4 пара\nДополнительно: 141к\nURALCAMPUS
+ _SYNC_ID:66185985aa0eeadb43edab7b4b86556c\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:c0318ed469498c3642c4088d7d9a3663@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T153000
+DTEND;TZID=Asia/Yekaterinburg:20261028T170000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 5 пара\nДополнительно: 149к\nURALCAMPUS
+ _SYNC_ID:c0318ed469498c3642c4088d7d9a3663\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd34c413a6c4bcab0d5aba8ab6d79c5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
+DTEND;TZID=Asia/Yekaterinburg:20261028T182000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 6 пара\nДополнительно: 157к\nURALCAMPUS
+ _SYNC_ID:2cd34c413a6c4bcab0d5aba8ab6d79c5\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
 UID:98c1d6d5a149144514afd93eb4116fc2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
@@ -540,6 +618,84 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Кожевникова Елена Борисов
  на\nПара: 5 пара\nДополнительно: 139к\nURALCAMPUS
  _SYNC_ID:51d8030ec8422c5abfc92df458895bc1\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:c36c0fb83e72926a3fbe40204ec72272@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 1 пара\nДополнительно: 144к\nURALCAMPUS
+ _SYNC_ID:c36c0fb83e72926a3fbe40204ec72272\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f027bbfbefded65718873d3c80c837@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 2 пара\nДополнительно: 146к\nURALCAMPUS
+ _SYNC_ID:b7f027bbfbefded65718873d3c80c837\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:af125f58248d1de66afafe44be5bc9d3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
+DTEND;TZID=Asia/Yekaterinburg:20261102T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 302\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 3 пара\nДополнительно: 147к\nURALCAMPUS
+ _SYNC_ID:af125f58248d1de66afafe44be5bc9d3\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3b74ebf0344485f9f5951a1c4357912f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T135000
+DTEND;TZID=Asia/Yekaterinburg:20261102T152000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 4 пара\nДополнительно: 148к\nURALCAMPUS
+ _SYNC_ID:3b74ebf0344485f9f5951a1c4357912f\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7a50226d2c1fadbcd1996fc85627c208@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T153000
+DTEND;TZID=Asia/Yekaterinburg:20261102T170000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 5 пара\nДополнительно: 150к\nURALCAMPUS
+ _SYNC_ID:7a50226d2c1fadbcd1996fc85627c208\nURALCAMPUS_SOURCE:preco:teache
+ r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:5bf72436bf077d8c9cc13f5cef573bef@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T171000
+DTEND;TZID=Asia/Yekaterinburg:20261102T182000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кожевникова Елена Борисов
+ на\nПара: 6 пара\nДополнительно: 156к\nURALCAMPUS
+ _SYNC_ID:5bf72436bf077d8c9cc13f5cef573bef\nURALCAMPUS_SOURCE:preco:teache
  r:f91a65b2-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
