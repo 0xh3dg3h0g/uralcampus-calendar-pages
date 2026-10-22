@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:48deb5b7e040332d88ce828cde64613d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T183000
-DTEND;TZID=Asia/Yekaterinburg:20261021T194000
-SUMMARY:Физика (Лекция)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗУ-201\nПара: 7 пара\nДополнител
- ьно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:48deb5b7e040332d88ce82
- 8cde64613d\nURALCAMPUS_SOURCE:inueco:group:a09d1daa-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:abd78350498a0943a13298c0ccefa403@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T195000
-DTEND;TZID=Asia/Yekaterinburg:20261021T205000
-SUMMARY:Физика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗУ-201\nПара: 8 пара\nДополнител
- ьно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:abd78350498a0943a13298
- c0ccefa403\nURALCAMPUS_SOURCE:inueco:group:a09d1daa-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:73981de930075ce211aef231a8c585f7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T171000
@@ -83,6 +57,60 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: СЗУ-201\nПара: 8 пара\nДополнител
  ьно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:c997d103a8eb670506a5f59661
  0a660e\nURALCAMPUS_SOURCE:inueco:group:a09d1daa-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:0564b3ad439abe7c3423bc0848186986@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T183000
+DTEND;TZID=Asia/Yekaterinburg:20261028T194000
+SUMMARY:Физика (Практика)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗУ-201\nПара: 7 пара\nДополнител
+ ьно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:0564b3ad439abe7c3423bc
+ 0848186986\nURALCAMPUS_SOURCE:inueco:group:a09d1daa-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4b26a67f27543532ad0c2aed52ac8052@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T195000
+DTEND;TZID=Asia/Yekaterinburg:20261028T205000
+SUMMARY:Физика (Практика)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗУ-201\nПара: 8 пара\nДополнител
+ ьно: Епишков Е. Н.\nURALCAMPUS_SYNC_ID:4b26a67f27543532ad0c2a
+ ed52ac8052\nURALCAMPUS_SOURCE:inueco:group:a09d1daa-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:374e833c2e0abf1d146838ffc84c939c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T183000
+DTEND;TZID=Asia/Yekaterinburg:20261030T194000
+SUMMARY:Инженерная и компьютерная графика (
+ Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗУ-201\nПара: 7 пара\nДополнител
+ ьно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:374e833c2e0abf1d146838ffc8
+ 4c939c\nURALCAMPUS_SOURCE:inueco:group:a09d1daa-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe667e81d28693b0e56b73ac22545d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T195000
+DTEND;TZID=Asia/Yekaterinburg:20261030T205000
+SUMMARY:Инженерная и компьютерная графика (
+ Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗУ-201\nПара: 8 пара\nДополнител
+ ьно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:1fe667e81d28693b0e56b73ac2
+ 2545d8\nURALCAMPUS_SOURCE:inueco:group:a09d1daa-282f-11ed-ad61-04421acb87
  7d
 END:VEVENT
 END:VCALENDAR

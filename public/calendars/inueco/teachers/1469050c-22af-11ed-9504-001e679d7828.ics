@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:925f365377da1c0388abdb9f17bcdaea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T101000
+DTEND;TZID=Asia/Yekaterinburg:20261031T114000
+SUMMARY:Наследственное право и нотариат (Ле
+ кция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ткаченко Нина Борисов
+ на\nПара: 2 пара\nДополнительно: Ю-201\nURALCAMPU
+ S_SYNC_ID:925f365377da1c0388abdb9f17bcdaea\nURALCAMPUS_SOURCE:inueco:teac
+ her:1469050c-22af-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:59e1a2fefef5d1ed9bbf159294238a56@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T120000
+DTEND;TZID=Asia/Yekaterinburg:20261031T133000
+SUMMARY:Наследственное право и нотариат (Ле
+ кция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ткаченко Нина Борисов
+ на\nПара: 3 пара\nДополнительно: Ю-201\nURALCAMPU
+ S_SYNC_ID:59e1a2fefef5d1ed9bbf159294238a56\nURALCAMPUS_SOURCE:inueco:teac
+ her:1469050c-22af-11ed-9504-001e679d7828
+END:VEVENT
 END:VCALENDAR

@@ -19,29 +19,57 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:42dd64c3d2a68de0ffbde15b1e8e53f1@uralcampus-calendar-pages
+UID:2fce9d5b45649038e9a7e6ad0481a17d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T183000
-DTEND;TZID=Asia/Yekaterinburg:20261021T194000
-SUMMARY:Антикризисное управление (Практика)
-LOCATION:ауд. 401\, Кожзаводская 1
+DTSTART;TZID=Asia/Yekaterinburg:20261026T183000
+DTEND;TZID=Asia/Yekaterinburg:20261026T194000
+SUMMARY:Антикризисное управление (Лекция)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Кожушко Елена Анатоль
- евна\nПара: 7 пара\nДополнительно: МЗу-401\nU
- RALCAMPUS_SYNC_ID:42dd64c3d2a68de0ffbde15b1e8e53f1\nURALCAMPUS_SOURCE:inu
- eco:teacher:204607cb-22aa-11ed-9504-001e679d7828
+ евна\nПара: 7 пара\nДополнительно: ТД-506\nURA
+ LCAMPUS_SYNC_ID:2fce9d5b45649038e9a7e6ad0481a17d\nURALCAMPUS_SOURCE:inuec
+ o:teacher:204607cb-22aa-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:b9482bd9288f9b0cc39ca288275224dd@uralcampus-calendar-pages
+UID:93b6338e8f6f599ce2b60a4ff68a7a86@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T195000
-DTEND;TZID=Asia/Yekaterinburg:20261021T205000
+DTSTART;TZID=Asia/Yekaterinburg:20261026T195000
+DTEND;TZID=Asia/Yekaterinburg:20261026T205000
 SUMMARY:Антикризисное управление (Практика)
-LOCATION:ауд. 401\, Кожзаводская 1
+LOCATION:ауд. 319\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Кожушко Елена Анатоль
- евна\nПара: 8 пара\nДополнительно: МЗу-401\nU
- RALCAMPUS_SYNC_ID:b9482bd9288f9b0cc39ca288275224dd\nURALCAMPUS_SOURCE:inu
- eco:teacher:204607cb-22aa-11ed-9504-001e679d7828
+ евна\nПара: 8 пара\nДополнительно: ТД-506\nURA
+ LCAMPUS_SYNC_ID:93b6338e8f6f599ce2b60a4ff68a7a86\nURALCAMPUS_SOURCE:inuec
+ o:teacher:204607cb-22aa-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:1e09b0733b55e1ba894ec0cb0ed6441d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T083000
+DTEND;TZID=Asia/Yekaterinburg:20261031T100000
+SUMMARY:Экономический потенциал территории
+  и регионалистика (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кожушко Елена Анатоль
+ евна\nПара: 1 пара\nДополнительно: ТД-106\nURA
+ LCAMPUS_SYNC_ID:1e09b0733b55e1ba894ec0cb0ed6441d\nURALCAMPUS_SOURCE:inuec
+ o:teacher:204607cb-22aa-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:88bdb33a482e3eda42340c46eb8b16e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T101000
+DTEND;TZID=Asia/Yekaterinburg:20261031T114000
+SUMMARY:Экономический потенциал территории
+  и регионалистика (Практика)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кожушко Елена Анатоль
+ евна\nПара: 2 пара\nДополнительно: ТД-106\nURA
+ LCAMPUS_SYNC_ID:88bdb33a482e3eda42340c46eb8b16e8\nURALCAMPUS_SOURCE:inuec
+ o:teacher:204607cb-22aa-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

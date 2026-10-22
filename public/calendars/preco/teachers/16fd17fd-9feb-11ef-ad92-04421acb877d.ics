@@ -19,84 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b453da0610595795c529f168c43ab654@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T083000
-DTEND;TZID=Asia/Yekaterinburg:20261021T100000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 304\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Герасимова Ксения Евгенье
- вна\nПара: 1 пара\nДополнительно: 130\nURALCAMPUS
- _SYNC_ID:b453da0610595795c529f168c43ab654\nURALCAMPUS_SOURCE:preco:teache
- r:16fd17fd-9feb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4af11ee73ebdd3d0d0729afc680094b8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T101000
-DTEND;TZID=Asia/Yekaterinburg:20261021T114000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 314\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Герасимова Ксения Евгенье
- вна\nПара: 2 пара\nДополнительно: 131\nURALCAMPUS
- _SYNC_ID:4af11ee73ebdd3d0d0729afc680094b8\nURALCAMPUS_SOURCE:preco:teache
- r:16fd17fd-9feb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:afca3a5f0a88173ff51e23ae64d5f858@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T120000
-DTEND;TZID=Asia/Yekaterinburg:20261021T133000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 302\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Герасимова Ксения Евгенье
- вна\nПара: 3 пара\nДополнительно: 133\nURALCAMPUS
- _SYNC_ID:afca3a5f0a88173ff51e23ae64d5f858\nURALCAMPUS_SOURCE:preco:teache
- r:16fd17fd-9feb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:75f6b35fa56727c4fd072b7154140a90@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T135000
-DTEND;TZID=Asia/Yekaterinburg:20261021T152000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Герасимова Ксения Евгенье
- вна\nПара: 4 пара\nДополнительно: 136\nURALCAMPUS
- _SYNC_ID:75f6b35fa56727c4fd072b7154140a90\nURALCAMPUS_SOURCE:preco:teache
- r:16fd17fd-9feb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:183390e7aad932f8b97f6f25bac65cec@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T153000
-DTEND;TZID=Asia/Yekaterinburg:20261021T170000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 304\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Герасимова Ксения Евгенье
- вна\nПара: 5 пара\nДополнительно: 135\nURALCAMPUS
- _SYNC_ID:183390e7aad932f8b97f6f25bac65cec\nURALCAMPUS_SOURCE:preco:teache
- r:16fd17fd-9feb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7b39fc6d0c2efb069fd4da4b6afb9c1d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
-DTEND;TZID=Asia/Yekaterinburg:20261021T182000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Герасимова Ксения Евгенье
- вна\nПара: 6 пара\nДополнительно: 136\nURALCAMPUS
- _SYNC_ID:7b39fc6d0c2efb069fd4da4b6afb9c1d\nURALCAMPUS_SOURCE:preco:teache
- r:16fd17fd-9feb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:6bda069ec07335c70a417f7b44673982@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
@@ -383,16 +305,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:16fd17fd-9feb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:e8fe4063e531a7b996450e92dbe99436@uralcampus-calendar-pages
+UID:825b8867903020ae9888f8a168ec4fc3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T135000
 DTEND;TZID=Asia/Yekaterinburg:20261028T152000
 SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
+LOCATION:ауд. 304\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Герасимова Ксения Евгенье
  вна\nПара: 4 пара\nДополнительно: 136\nURALCAMPUS
- _SYNC_ID:e8fe4063e531a7b996450e92dbe99436\nURALCAMPUS_SOURCE:preco:teache
+ _SYNC_ID:825b8867903020ae9888f8a168ec4fc3\nURALCAMPUS_SOURCE:preco:teache
  r:16fd17fd-9feb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -409,16 +331,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:16fd17fd-9feb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b335092f4afaa520f2481c1d68a6645e@uralcampus-calendar-pages
+UID:01c605a21b5dee0dd57614a532e84f0b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
 DTEND;TZID=Asia/Yekaterinburg:20261028T182000
 SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
+LOCATION:ауд. 304\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Герасимова Ксения Евгенье
  вна\nПара: 6 пара\nДополнительно: 136\nURALCAMPUS
- _SYNC_ID:b335092f4afaa520f2481c1d68a6645e\nURALCAMPUS_SOURCE:preco:teache
+ _SYNC_ID:01c605a21b5dee0dd57614a532e84f0b\nURALCAMPUS_SOURCE:preco:teache
  r:16fd17fd-9feb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -721,16 +643,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:16fd17fd-9feb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:7ecc6431a570dd99a3c4852ef9b65f51@uralcampus-calendar-pages
+UID:e83941f0416d1ca972d9b559162d7f36@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261104T135000
 DTEND;TZID=Asia/Yekaterinburg:20261104T152000
 SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
+LOCATION:ауд. 304\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Герасимова Ксения Евгенье
  вна\nПара: 4 пара\nДополнительно: 136\nURALCAMPUS
- _SYNC_ID:7ecc6431a570dd99a3c4852ef9b65f51\nURALCAMPUS_SOURCE:preco:teache
+ _SYNC_ID:e83941f0416d1ca972d9b559162d7f36\nURALCAMPUS_SOURCE:preco:teache
  r:16fd17fd-9feb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -747,16 +669,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:16fd17fd-9feb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:18beaa82c1098dfe4d2db69df1d6b16e@uralcampus-calendar-pages
+UID:59379555a8dbf52ceac53269ea5f2033@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261104T171000
 DTEND;TZID=Asia/Yekaterinburg:20261104T182000
 SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
+LOCATION:ауд. 304\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Герасимова Ксения Евгенье
  вна\nПара: 6 пара\nДополнительно: 136\nURALCAMPUS
- _SYNC_ID:18beaa82c1098dfe4d2db69df1d6b16e\nURALCAMPUS_SOURCE:preco:teache
+ _SYNC_ID:59379555a8dbf52ceac53269ea5f2033\nURALCAMPUS_SOURCE:preco:teache
  r:16fd17fd-9feb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

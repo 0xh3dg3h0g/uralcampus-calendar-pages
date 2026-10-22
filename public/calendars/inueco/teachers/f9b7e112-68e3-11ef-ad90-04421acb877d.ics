@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:f08d52cad79d2689bf39051cc99e40f7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
+DTEND;TZID=Asia/Yekaterinburg:20261028T182000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Плеханова Ольга Андре
+ евна\nПара: 6 пара\nДополнительно: Д-305\nURALC
+ AMPUS_SYNC_ID:f08d52cad79d2689bf39051cc99e40f7\nURALCAMPUS_SOURCE:inueco:
+ teacher:f9b7e112-68e3-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ccd27bfaa05bee7a63c7e0b8999541@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T183000
+DTEND;TZID=Asia/Yekaterinburg:20261028T194000
+SUMMARY:Дизайн - проектирование (Практика)
+LOCATION:ауд. 212\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Плеханова Ольга Андре
+ евна\nПара: 7 пара\nДополнительно: Д-305\nURALC
+ AMPUS_SYNC_ID:e1ccd27bfaa05bee7a63c7e0b8999541\nURALCAMPUS_SOURCE:inueco:
+ teacher:f9b7e112-68e3-11ef-ad90-04421acb877d
+END:VEVENT
 END:VCALENDAR

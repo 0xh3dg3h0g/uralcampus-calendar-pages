@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:5710b1955686a2ba9287926b7f0e77d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T135000
+DTEND;TZID=Asia/Yekaterinburg:20261027T152000
+SUMMARY:Третий иностранный язык (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Нэри Эстрада Франсиск
+ о Даниэль\nПара: 4 пара\nДополнительно: Л-3
+ 11\nURALCAMPUS_SYNC_ID:5710b1955686a2ba9287926b7f0e77d4\nURALCAMPUS_SOURC
+ E:inueco:teacher:46c26f3f-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ea6c9a562cc95f5448eecbe31c726aee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T153000
+DTEND;TZID=Asia/Yekaterinburg:20261027T170000
+SUMMARY:Третий иностранный язык (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Нэри Эстрада Франсиск
+ о Даниэль\nПара: 5 пара\nДополнительно: Л-3
+ 11\nURALCAMPUS_SYNC_ID:ea6c9a562cc95f5448eecbe31c726aee\nURALCAMPUS_SOURC
+ E:inueco:teacher:46c26f3f-60fb-11ef-ad90-04421acb877d
+END:VEVENT
 END:VCALENDAR

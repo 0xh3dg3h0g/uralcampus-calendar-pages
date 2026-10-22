@@ -18,6 +18,20 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2c95849183bb8abcb628fb7285897ee9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261023T120000
+DTEND;TZID=Asia/Yekaterinburg:20261023T133000
+SUMMARY:Практический курс второго иностран
+ ного языка (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дэн Лухао\nПара: 3 пара\
+ nДополнительно: Л-311\nURALCAMPUS_SYNC_ID:2c95849183bb8abcb
+ 628fb7285897ee9\nURALCAMPUS_SOURCE:inueco:teacher:e29be71a-84bb-11f0-ad96
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:7e9856da4f0b54764e85934010de951c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261024T083000
@@ -43,6 +57,34 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Дэн Лухао\nПара: 3 пара\
  nДополнительно: Л-311\nURALCAMPUS_SYNC_ID:f6af18c849d4e32a0
  684574d1179766a\nURALCAMPUS_SOURCE:inueco:teacher:e29be71a-84bb-11f0-ad96
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5cce68bdc6d9ccb6b26034916046c2d9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T083000
+DTEND;TZID=Asia/Yekaterinburg:20261031T100000
+SUMMARY:Практический курс второго иностран
+ ного языка (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дэн Лухао\nПара: 1 пара\
+ nДополнительно: Л-211\nURALCAMPUS_SYNC_ID:5cce68bdc6d9ccb6b
+ 26034916046c2d9\nURALCAMPUS_SOURCE:inueco:teacher:e29be71a-84bb-11f0-ad96
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8abbf7dd30e1a448d9c0cbb748b11f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T120000
+DTEND;TZID=Asia/Yekaterinburg:20261031T133000
+SUMMARY:Практический курс второго иностран
+ ного языка (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дэн Лухао\nПара: 3 пара\
+ nДополнительно: Л-311\nURALCAMPUS_SYNC_ID:8a8abbf7dd30e1a44
+ 8d9c0cbb748b11f\nURALCAMPUS_SOURCE:inueco:teacher:e29be71a-84bb-11f0-ad96
  -04421acb877d
 END:VEVENT
 END:VCALENDAR

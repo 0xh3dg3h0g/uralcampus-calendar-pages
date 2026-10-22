@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:458bad2feed580f5f127b3317254fb21@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T090000
+DTEND;TZID=Asia/Yekaterinburg:20261024T103000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 32\, Садовая 9\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Рыженина Анастасия Никола
+ евна\nПара: 1 пара\nДополнительно: ПД-296\nURA
+ LCAMPUS_SYNC_ID:458bad2feed580f5f127b3317254fb21\nURALCAMPUS_SOURCE:preco
+ :teacher:a2555d26-ac2f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cbeb6de5c6a9dd1db91498a9f91d8dae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T105000
+DTEND;TZID=Asia/Yekaterinburg:20261024T122000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 32\, Садовая 9\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Рыженина Анастасия Никола
+ евна\nПара: 2 пара\nДополнительно: ПД-296\nURA
+ LCAMPUS_SYNC_ID:cbeb6de5c6a9dd1db91498a9f91d8dae\nURALCAMPUS_SOURCE:preco
+ :teacher:a2555d26-ac2f-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR

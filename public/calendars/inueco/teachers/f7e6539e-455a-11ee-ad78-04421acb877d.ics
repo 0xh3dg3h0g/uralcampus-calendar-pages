@@ -19,36 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:632d672aa9349a1228326bf9157da2c2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
-DTEND;TZID=Asia/Yekaterinburg:20261021T182000
-SUMMARY:Трудовое право (Практика)
-LOCATION:ауд. 111
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Кузьмина Маргарита Ев
- геньевна\nПара: 6 пара\nДополнительно: ЮЗ-
- 401/04\, ЮЗ-401/04а\, ЮЗ-401/06\, ЮЗ-401/07\, ЮЗ-401/07б\, ЮЗ
- -401/08\, ЮЗ-401/09\, ЮЗ-401/11\, ЮЗ-401/12\, ЮЗ-401/13\, ЮЗ-40
- 1/13а\, ЮЗД-401\nURALCAMPUS_SYNC_ID:632d672aa9349a1228326bf9157da2c2\
- nURALCAMPUS_SOURCE:inueco:teacher:f7e6539e-455a-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:134ff6e5562c04455c4935a21e483428@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T183000
-DTEND;TZID=Asia/Yekaterinburg:20261021T194000
-SUMMARY:Трудовое право (Практика)
-LOCATION:ауд. 111
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Кузьмина Маргарита Ев
- геньевна\nПара: 7 пара\nДополнительно: ЮЗ-
- 401/04\, ЮЗ-401/04а\, ЮЗ-401/06\, ЮЗ-401/07\, ЮЗ-401/07б\, ЮЗ
- -401/08\, ЮЗ-401/09\, ЮЗ-401/11\, ЮЗ-401/12\, ЮЗ-401/13\, ЮЗ-40
- 1/13а\, ЮЗД-401\nURALCAMPUS_SYNC_ID:134ff6e5562c04455c4935a21e483428\
- nURALCAMPUS_SOURCE:inueco:teacher:f7e6539e-455a-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:aa3bb8ea9792bf4829a9dd40dbcab58e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T171000
@@ -75,5 +45,31 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  401/01\, ЮЗ-401/02\, ЮЗ-401/03\, ЮЗ-401/05\nURALCAMPUS_SYNC_ID:bf6c
  c036407f40223949a5b04e8f51b5\nURALCAMPUS_SOURCE:inueco:teacher:f7e6539e-4
  55a-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:01deebcd3450d2438c8a5120497aff6e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T101000
+DTEND;TZID=Asia/Yekaterinburg:20261026T114000
+SUMMARY:Информационное право (Практика)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кузьмина Маргарита Ев
+ геньевна\nПара: 2 пара\nДополнительно: Ю-20
+ 1\nURALCAMPUS_SYNC_ID:01deebcd3450d2438c8a5120497aff6e\nURALCAMPUS_SOURCE
+ :inueco:teacher:f7e6539e-455a-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:44ca0f634976d301afc729e249ab7d0e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T101000
+DTEND;TZID=Asia/Yekaterinburg:20261028T114000
+SUMMARY:Информационное право (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кузьмина Маргарита Ев
+ геньевна\nПара: 2 пара\nДополнительно: Ю-20
+ 1\nURALCAMPUS_SYNC_ID:44ca0f634976d301afc729e249ab7d0e\nURALCAMPUS_SOURCE
+ :inueco:teacher:f7e6539e-455a-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

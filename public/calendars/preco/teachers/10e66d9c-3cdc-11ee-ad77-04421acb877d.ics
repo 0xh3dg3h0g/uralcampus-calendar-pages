@@ -19,85 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6fe5a1611b56825a5bc8b949cf30d309@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T083000
-DTEND;TZID=Asia/Yekaterinburg:20261021T100000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Орлова Дарья Николаевна\nП
- ара: 1 пара\nДополнительно: Ю-238\, Ю-238А\nURALCA
- MPUS_SYNC_ID:6fe5a1611b56825a5bc8b949cf30d309\nURALCAMPUS_SOURCE:preco:te
- acher:10e66d9c-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9d1890ce7689706b3a44795d8d38ef2e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T101000
-DTEND;TZID=Asia/Yekaterinburg:20261021T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 310\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Орлова Дарья Николаевна\nП
- ара: 2 пара\nДополнительно: П-240\nURALCAMPUS_SYNC_I
- D:9d1890ce7689706b3a44795d8d38ef2e\nURALCAMPUS_SOURCE:preco:teacher:10e66
- d9c-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8de2940a96867d9214358c627c7e390b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T120000
-DTEND;TZID=Asia/Yekaterinburg:20261021T133000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 304\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Орлова Дарья Николаевна\nП
- ара: 3 пара\nДополнительно: 130\nURALCAMPUS_SYNC_ID:8
- de2940a96867d9214358c627c7e390b\nURALCAMPUS_SOURCE:preco:teacher:10e66d9c
- -3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b4d10e7b9fd57987363ac96ead893e14@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T135000
-DTEND;TZID=Asia/Yekaterinburg:20261021T152000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 314\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Орлова Дарья Николаевна\nП
- ара: 4 пара\nДополнительно: 134\nURALCAMPUS_SYNC_ID:b
- 4d10e7b9fd57987363ac96ead893e14\nURALCAMPUS_SOURCE:preco:teacher:10e66d9c
- -3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:bd42060810f7aab257dfad1bcc88aec1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T153000
-DTEND;TZID=Asia/Yekaterinburg:20261021T170000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Орлова Дарья Николаевна\nП
- ара: 5 пара\nДополнительно: ПД-248\, ПД-248А\nUR
- ALCAMPUS_SYNC_ID:bd42060810f7aab257dfad1bcc88aec1\nURALCAMPUS_SOURCE:prec
- o:teacher:10e66d9c-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:98d676b35b01d9cb3a804a5b5be8ccc6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
-DTEND;TZID=Asia/Yekaterinburg:20261021T182000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 313\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Орлова Дарья Николаевна\nП
- ара: 6 пара\nДополнительно: З-244\, З-244А\nURALCA
- MPUS_SYNC_ID:98d676b35b01d9cb3a804a5b5be8ccc6\nURALCAMPUS_SOURCE:preco:te
- acher:10e66d9c-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:46651542948613cc492be38bec49898b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
@@ -413,6 +334,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  d9c-3cdc-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:2654da3b8f63f67e3cc49f870f342ed6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T153000
+DTEND;TZID=Asia/Yekaterinburg:20261027T170000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Орлова Дарья Николаевна\nП
+ ара: 5 пара\nДополнительно: Д-212\, Д-212А\nURALCA
+ MPUS_SYNC_ID:2654da3b8f63f67e3cc49f870f342ed6\nURALCAMPUS_SOURCE:preco:te
+ acher:10e66d9c-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:38093cf485bb7e4aa5d93e9201473fa2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T153000
@@ -439,20 +374,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ара: 5 пара\nДополнительно: Д-212А (2)\nURALCAMPUS_
  SYNC_ID:1ff2cf3f4643103e602bbcbd4b83e2d5\nURALCAMPUS_SOURCE:preco:teacher
  :10e66d9c-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:2654da3b8f63f67e3cc49f870f342ed6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T153000
-DTEND;TZID=Asia/Yekaterinburg:20261027T170000
-SUMMARY:Основы философии (Аудиторные заняти
- я)
-LOCATION:ауд. 305\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Орлова Дарья Николаевна\nП
- ара: 5 пара\nДополнительно: Д-212\, Д-212А\nURALCA
- MPUS_SYNC_ID:2654da3b8f63f67e3cc49f870f342ed6\nURALCAMPUS_SOURCE:preco:te
- acher:10e66d9c-3cdc-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:14026e2bf0339aabe3f59e166180baf3@uralcampus-calendar-pages
@@ -864,6 +785,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  d9c-3cdc-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:48007b4b5393e5421e9cc2bb0c79d350@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T153000
+DTEND;TZID=Asia/Yekaterinburg:20261103T170000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 305\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Орлова Дарья Николаевна\nП
+ ара: 5 пара\nДополнительно: Д-212\, Д-212А\nURALCA
+ MPUS_SYNC_ID:48007b4b5393e5421e9cc2bb0c79d350\nURALCAMPUS_SOURCE:preco:te
+ acher:10e66d9c-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:8b93fab06254a6570ac9a0164574999d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T153000
@@ -890,20 +825,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ара: 5 пара\nДополнительно: Д-212А (2)\nURALCAMPUS_
  SYNC_ID:56f1ac85c9afc9a2835bda3b6af63ce6\nURALCAMPUS_SOURCE:preco:teacher
  :10e66d9c-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:48007b4b5393e5421e9cc2bb0c79d350@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T153000
-DTEND;TZID=Asia/Yekaterinburg:20261103T170000
-SUMMARY:Основы философии (Аудиторные заняти
- я)
-LOCATION:ауд. 305\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Орлова Дарья Николаевна\nП
- ара: 5 пара\nДополнительно: Д-212\, Д-212А\nURALCA
- MPUS_SYNC_ID:48007b4b5393e5421e9cc2bb0c79d350\nURALCAMPUS_SOURCE:preco:te
- acher:10e66d9c-3cdc-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:8f60f0b0566ea1c421b779850d140aef@uralcampus-calendar-pages
