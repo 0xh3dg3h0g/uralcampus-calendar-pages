@@ -18,16 +18,83 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1cd9491b8d2d847dda96b4f959b451bb@uralcampus-calendar-pages
+UID:72bb9e4e2dd2cbb72181543172d9f48f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T171000
-DTEND;TZID=Asia/Yekaterinburg:20261022T182000
-SUMMARY:Иностранный язык (Зачет)
+DTSTART;TZID=Asia/Yekaterinburg:20261026T120000
+DTEND;TZID=Asia/Yekaterinburg:20261026T133000
+SUMMARY:Основы системного анализа (Практика
+ )
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 3 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:72bb9e4e2dd2cbb721
+ 81543172d9f48f\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9c-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:18c4a26a162acbf3dc401b95eaa12c2c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T135000
+DTEND;TZID=Asia/Yekaterinburg:20261026T152000
+SUMMARY:Основы системного анализа (Практика
+ )
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 4 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:18c4a26a162acbf3dc
+ 401b95eaa12c2c\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9c-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ae34c9df25de80501551130cc4e2a8a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T171000
+DTEND;TZID=Asia/Yekaterinburg:20261026T182000
+SUMMARY:Философия (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 6 пара\nДополните
+ льно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:ae34c9df25de8
+ 0501551130cc4e2a8a5\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad
+ 9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff3347d44d92e0caf1fc7247dc30f84@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
+DTEND;TZID=Asia/Yekaterinburg:20261027T100000
+SUMMARY:Основы системного анализа (Зачет)
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 1 пара\nДополните
+ льно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:7ff3347d44d92e0caf
+ 1fc7247dc30f84\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9c-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0dda16ea75418660ce2c540966afd4fd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T171000
+DTEND;TZID=Asia/Yekaterinburg:20261029T182000
+SUMMARY:Философия (Экзамен)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-101/04\nПара: 6 пара\nДополните
+ льно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:0dda16ea75418
+ 660ce2c540966afd4fd\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad
+ 9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:70fe36da0c05d405cde90721460bb217@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T171000
+DTEND;TZID=Asia/Yekaterinburg:20261030T182000
+SUMMARY:Высшая математика (Экзамен)
 LOCATION:ауд. 222-1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЗЗ-101/04\nПара: 6 пара\nДополните
- льно: Зиганшина Л.С.\nURALCAMPUS_SYNC_ID:1cd9491b8d2d847dd
- a96b4f959b451bb\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f1-ad9c-0
- 4421acb877d
+ льно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:70fe36da0
+ c05d405cde90721460bb217\nURALCAMPUS_SOURCE:inueco:group:7c9693e9-c205-11f
+ 1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

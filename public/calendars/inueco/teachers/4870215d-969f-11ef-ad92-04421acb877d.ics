@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9800ee93456bc34e30c3165668761786@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T135000
-DTEND;TZID=Asia/Yekaterinburg:20261022T152000
-SUMMARY:Безопасность жизнедеятельности (Ле
- кция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Коваленко Николай Сер
- геевич\nПара: 4 пара\nДополнительно: ИЗ-101\
- nURALCAMPUS_SYNC_ID:9800ee93456bc34e30c3165668761786\nURALCAMPUS_SOURCE:i
- nueco:teacher:4870215d-969f-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9d9fcde5d3aaeb9a0751b752636c5dcd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T153000
-DTEND;TZID=Asia/Yekaterinburg:20261022T170000
-SUMMARY:Безопасность жизнедеятельности (Пр
- актика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Коваленко Николай Сер
- геевич\nПара: 5 пара\nДополнительно: ИЗ-101\
- nURALCAMPUS_SYNC_ID:9d9fcde5d3aaeb9a0751b752636c5dcd\nURALCAMPUS_SOURCE:i
- nueco:teacher:4870215d-969f-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:19319b3ee1fe0a8a808e82d5a83d8b1e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T120000
@@ -328,6 +300,21 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  геевич\nПара: 3 пара\nДополнительно: ТТПЗ-
  101\nURALCAMPUS_SYNC_ID:4304585bb956cff1c939721ef201ba95\nURALCAMPUS_SOUR
  CE:inueco:teacher:4870215d-969f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ed94a99c0a9521916c09e1ee957ef173@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T083000
+DTEND;TZID=Asia/Yekaterinburg:20261031T100000
+SUMMARY:Безопасность жизнедеятельности (Ле
+ кция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Коваленко Николай Сер
+ геевич\nПара: 1 пара\nДополнительно: АЗ-101\
+ , ДЗ-101\, СЗ-101\, ЮЗ-101\nURALCAMPUS_SYNC_ID:ed94a99c0a9521916c09
+ e1ee957ef173\nURALCAMPUS_SOURCE:inueco:teacher:4870215d-969f-11ef-ad92-04
+ 421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:6fc4b3e955068384fdcbfa249ae309cc@uralcampus-calendar-pages

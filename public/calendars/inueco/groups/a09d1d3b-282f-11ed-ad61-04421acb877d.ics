@@ -17,4 +17,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:41d9c3aa8cc25133f460b9683873d0a4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T182000
+DTEND;TZID=Asia/Yekaterinburg:20261024T193000
+SUMMARY:Производственная практика (преддип
+ ломная практика) (Зачет по практике)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ИЗУ-401\nПара: 7 пара\nДополнител
+ ьно: Блинов А.В.\nURALCAMPUS_SYNC_ID:41d9c3aa8cc25133f460b9683
+ 873d0a4\nURALCAMPUS_SOURCE:inueco:group:a09d1d3b-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
 END:VCALENDAR

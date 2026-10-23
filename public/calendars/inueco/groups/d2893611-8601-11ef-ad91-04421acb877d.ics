@@ -18,62 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a0ed8f24f56ef262c69490d69e50c8b8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T171000
-DTEND;TZID=Asia/Yekaterinburg:20261021T182000
-SUMMARY:Иностранный язык в профессионально
- й сфере (Экзамен)
-LOCATION:ауд. 217\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЮЗм-101/07б\nПара: 6 пара\nДополни
- тельно: Саллам М.Э.\nURALCAMPUS_SYNC_ID:a0ed8f24f56ef262c69
- 490d69e50c8b8\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91-044
- 21acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:fcacf4023aca1434e0feea0f6617679f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261021T195000
-DTEND;TZID=Asia/Yekaterinburg:20261021T205000
-SUMMARY:Методология и организация научных и
- сследований (Лекция)
-LOCATION:ауд. 322\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЮЗм-101/07б\nПара: 8 пара\nДополни
- тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:fcacf4023aca143
- 4e0feea0f6617679f\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
- -04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8c899a05d24265d9f150de06ec6b4b9a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
-DTEND;TZID=Asia/Yekaterinburg:20261022T100000
-SUMMARY:История политических и правовых уче
- ний (Лекция)
-LOCATION:ауд. 209-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЮЗм-101/07б\nПара: 1 пара\nДополни
- тельно: Ровный Б. И.\nURALCAMPUS_SYNC_ID:8c899a05d24265d9f1
- 50de06ec6b4b9a\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8b8dda04f125e173a18374d07e5259ac@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
-DTEND;TZID=Asia/Yekaterinburg:20261022T114000
-SUMMARY:История политических и правовых уче
- ний (Лекция)
-LOCATION:ауд. 209-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЮЗм-101/07б\nПара: 2 пара\nДополни
- тельно: Ровный Б. И.\nURALCAMPUS_SYNC_ID:8b8dda04f125e173a1
- 8374d07e5259ac\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:aa843112d11ec1f812cba67df38e6298@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261024T134000
@@ -143,6 +87,306 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЮЗм-101/07б\nПара: 8 пара\nДополни
  тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:3007ddd25acbd8d
  4c53e84a7b0792cb2\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:244c34b2ee1fb10a01d616dd9af1260d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T153000
+DTEND;TZID=Asia/Yekaterinburg:20261026T170000
+SUMMARY:История политических и правовых уче
+ ний (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 5 пара\nДополни
+ тельно: Ровный Б. И.\nURALCAMPUS_SYNC_ID:244c34b2ee1fb10a01
+ d616dd9af1260d\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:debdae09282809cc98a7e5a2ba77f070@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T171000
+DTEND;TZID=Asia/Yekaterinburg:20261026T182000
+SUMMARY:Правовые основы организации и деяте
+ льности Российского государства (Лекци
+ я)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 6 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:debdae09282809c
+ c98a7e5a2ba77f070\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5ced8ca908797b96cff6a5b266ecfc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T183000
+DTEND;TZID=Asia/Yekaterinburg:20261026T194000
+SUMMARY:Государственная политика по против
+ одействию коррупции (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 7 пара\nДополни
+ тельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:ec5ced8ca9
+ 08797b96cff6a5b266ecfc\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef
+ -ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a5b4a9f69be448b666181c257735ac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T195000
+DTEND;TZID=Asia/Yekaterinburg:20261026T205000
+SUMMARY:Государственная политика по против
+ одействию коррупции (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 8 пара\nДополни
+ тельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:e4a5b4a9f6
+ 9be448b666181c257735ac\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef
+ -ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:39e21a156c48a4e27b105b067b41c7a4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T135000
+DTEND;TZID=Asia/Yekaterinburg:20261027T152000
+SUMMARY:История политических и правовых уче
+ ний (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 4 пара\nДополни
+ тельно: Ровный Б. И.\nURALCAMPUS_SYNC_ID:39e21a156c48a4e27b
+ 105b067b41c7a4\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d6eb8f0140f7542cc0236328d14a7b29@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T153000
+DTEND;TZID=Asia/Yekaterinburg:20261027T170000
+SUMMARY:История политических и правовых уче
+ ний (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 5 пара\nДополни
+ тельно: Ровный Б. И.\nURALCAMPUS_SYNC_ID:d6eb8f0140f7542cc0
+ 236328d14a7b29\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6c5452d2a6b615a3ce4d63750a7139a8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T183000
+DTEND;TZID=Asia/Yekaterinburg:20261027T194000
+SUMMARY:Государственная политика по против
+ одействию коррупции (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 7 пара\nДополни
+ тельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:6c5452d2a6
+ b615a3ce4d63750a7139a8\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef
+ -ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:45e2a64c75480f55a30a82ac29de3783@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T195000
+DTEND;TZID=Asia/Yekaterinburg:20261027T205000
+SUMMARY:Государственная политика по против
+ одействию коррупции (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 8 пара\nДополни
+ тельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:45e2a64c75
+ 480f55a30a82ac29de3783\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef
+ -ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5273420deef5dd5dff9cf1cac6296eae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T101000
+DTEND;TZID=Asia/Yekaterinburg:20261028T114000
+SUMMARY:Правовые основы организации и деяте
+ льности Российского государства (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 2 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:5273420deef5dd5
+ dff9cf1cac6296eae\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:63d0bee189d452940762050e67fd94d5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T120000
+DTEND;TZID=Asia/Yekaterinburg:20261028T133000
+SUMMARY:Правовые основы организации и деяте
+ льности Российского государства (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 3 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:63d0bee189d4529
+ 40762050e67fd94d5\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d63921e0ad9141b77e752ba83b1ab39a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T135000
+DTEND;TZID=Asia/Yekaterinburg:20261028T152000
+SUMMARY:Правовые основы организации и деяте
+ льности Российского государства (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 4 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:d63921e0ad9141b
+ 77e752ba83b1ab39a\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b801a1c517f13f950b7ccae0757ff5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T153000
+DTEND;TZID=Asia/Yekaterinburg:20261028T170000
+SUMMARY:Правовые основы организации и деяте
+ льности Российского государства (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 5 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:e8b801a1c517f13
+ f950b7ccae0757ff5\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3de22b63a07d476ac5a0285094badad6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
+DTEND;TZID=Asia/Yekaterinburg:20261028T182000
+SUMMARY:Методология и организация научных и
+ сследований (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 6 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:3de22b63a07d476
+ ac5a0285094badad6\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6213e6b77f0807746a31b162592447e9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T195000
+DTEND;TZID=Asia/Yekaterinburg:20261028T205000
+SUMMARY:Государственная политика по против
+ одействию коррупции (Экзамен)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 8 пара\nДополни
+ тельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:6213e6b77f
+ 0807746a31b162592447e9\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef
+ -ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d8b702be18a964fccd3d21bc0e519e94@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T135000
+DTEND;TZID=Asia/Yekaterinburg:20261029T152000
+SUMMARY:История политических и правовых уче
+ ний (Зачет)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 4 пара\nДополни
+ тельно: Ровный Б. И.\nURALCAMPUS_SYNC_ID:d8b702be18a964fccd
+ 3d21bc0e519e94\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a25bee2f35d40a4f76635b66febf14@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T153000
+DTEND;TZID=Asia/Yekaterinburg:20261029T170000
+SUMMARY:Нормотворческая деятельность госуд
+ арства (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 5 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:f3a25bee2f35d40
+ a4f76635b66febf14\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f8fe3d5487de118b083fb7bb4ba2d8c1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T171000
+DTEND;TZID=Asia/Yekaterinburg:20261029T182000
+SUMMARY:Нормотворческая деятельность госуд
+ арства (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 6 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:f8fe3d5487de118
+ b083fb7bb4ba2d8c1\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6e7141e3d2d7a8ace67c18b102f2e936@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T135000
+DTEND;TZID=Asia/Yekaterinburg:20261030T152000
+SUMMARY:Нормотворческая деятельность госуд
+ арства (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 4 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:6e7141e3d2d7a8a
+ ce67c18b102f2e936\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c75fe2440bc72f04782092ae1b8a18bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T153000
+DTEND;TZID=Asia/Yekaterinburg:20261030T170000
+SUMMARY:Нормотворческая деятельность госуд
+ арства (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 5 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:c75fe2440bc72f0
+ 4782092ae1b8a18bd\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:16eb446f9a40b304a1b121fac4d2f31b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T171000
+DTEND;TZID=Asia/Yekaterinburg:20261030T182000
+SUMMARY:Правовые основы организации и деяте
+ льности Российского государства (Экзам
+ ен)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 6 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:16eb446f9a40b30
+ 4a1b121fac4d2f31b\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:728859d8797a8c02b0c6dd1114c90359@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T183000
+DTEND;TZID=Asia/Yekaterinburg:20261030T194000
+SUMMARY:Нормотворческая деятельность госуд
+ арства (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗм-101/07б\nПара: 7 пара\nДополни
+ тельно: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:728859d8797a8c0
+ 2b0c6dd1114c90359\nURALCAMPUS_SOURCE:inueco:group:d2893611-8601-11ef-ad91
  -04421acb877d
 END:VEVENT
 END:VCALENDAR

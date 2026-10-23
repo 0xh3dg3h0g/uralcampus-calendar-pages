@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ТТПЗ-501/08
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:74e5358f68e12b6b1e502137fbc1fbfa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261022T183000
+DTEND;TZID=Asia/Yekaterinburg:20261022T194000
+SUMMARY:Производственная практика (практик
+ а по получению профессиональных умений 
+ и опыта профессиональной де (Зачет по пр
+ актике)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-501/08\nПара: 7 пара\nДополни
+ тельно: Огнев И.И.\nURALCAMPUS_SYNC_ID:74e5358f68e12b6b1e502
+ 137fbc1fbfa\nURALCAMPUS_SOURCE:inueco:group:7015fa41-6e2c-11f1-ad9c-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

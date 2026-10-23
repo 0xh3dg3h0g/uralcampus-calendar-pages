@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e03f170e9b0e7c0581b690627f103916@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
-DTEND;TZID=Asia/Yekaterinburg:20261022T114000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 310\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Моторина Лада Александров
- на\nПара: 2 пара\nДополнительно: 131\nURALCAMPUS_S
- YNC_ID:e03f170e9b0e7c0581b690627f103916\nURALCAMPUS_SOURCE:preco:teacher:
- bf756275-f4fb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:43e2ec71f112e4289feeb42990604e1b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T120000
-DTEND;TZID=Asia/Yekaterinburg:20261022T133000
-SUMMARY:Иностранный язык в профессионально
- й деятельности (Аудиторные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Моторина Лада Александров
- на\nПара: 3 пара\nДополнительно: Д-242\nURALCAMPU
- S_SYNC_ID:43e2ec71f112e4289feeb42990604e1b\nURALCAMPUS_SOURCE:preco:teach
- er:bf756275-f4fb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:12c246ef3566f7e2a80270175ff3d738@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T135000
-DTEND;TZID=Asia/Yekaterinburg:20261022T152000
-SUMMARY:Иностранный язык в профессионально
- й деятельности (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Моторина Лада Александров
- на\nПара: 4 пара\nДополнительно: П-240\nURALCAMPU
- S_SYNC_ID:12c246ef3566f7e2a80270175ff3d738\nURALCAMPUS_SOURCE:preco:teach
- er:bf756275-f4fb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:959aa11a23689d2069c106cbe6f36416@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T083000
-DTEND;TZID=Asia/Yekaterinburg:20261023T100000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 312\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Моторина Лада Александров
- на\nПара: 1 пара\nДополнительно: 135 (2)\nURALCAMP
- US_SYNC_ID:959aa11a23689d2069c106cbe6f36416\nURALCAMPUS_SOURCE:preco:teac
- her:bf756275-f4fb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:98c98583695773081c63d7d519cc8c60@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T083000
@@ -453,20 +397,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  RCE:preco:teacher:bf756275-f4fb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:4d53b7322b69824eedbef05d80ef7255@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
-DTEND;TZID=Asia/Yekaterinburg:20261030T100000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 302\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Моторина Лада Александров
- на\nПара: 1 пара\nДополнительно: 135\nURALCAMPUS_S
- YNC_ID:4d53b7322b69824eedbef05d80ef7255\nURALCAMPUS_SOURCE:preco:teacher:
- bf756275-f4fb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:6849d88760faa87741a229d860b4d5c1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
@@ -479,6 +409,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 1 пара\nДополнительно: 135 (1)\nURALCAMP
  US_SYNC_ID:6849d88760faa87741a229d860b4d5c1\nURALCAMPUS_SOURCE:preco:teac
  her:bf756275-f4fb-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4d53b7322b69824eedbef05d80ef7255@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
+DTEND;TZID=Asia/Yekaterinburg:20261030T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Моторина Лада Александров
+ на\nПара: 1 пара\nДополнительно: 135\nURALCAMPUS_S
+ YNC_ID:4d53b7322b69824eedbef05d80ef7255\nURALCAMPUS_SOURCE:preco:teacher:
+ bf756275-f4fb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:8467274b361817028747917a08426dad@uralcampus-calendar-pages
@@ -845,20 +789,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  RCE:preco:teacher:bf756275-f4fb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:c7f7ef1d671b42f19f92437122c0bca6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
-DTEND;TZID=Asia/Yekaterinburg:20261106T100000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 302\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Моторина Лада Александров
- на\nПара: 1 пара\nДополнительно: 135\nURALCAMPUS_S
- YNC_ID:c7f7ef1d671b42f19f92437122c0bca6\nURALCAMPUS_SOURCE:preco:teacher:
- bf756275-f4fb-11ef-ad92-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:a3fb3356045ab78851a5ad191113f353@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
@@ -871,6 +801,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 1 пара\nДополнительно: 135 (2)\nURALCAMP
  US_SYNC_ID:a3fb3356045ab78851a5ad191113f353\nURALCAMPUS_SOURCE:preco:teac
  her:bf756275-f4fb-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f7ef1d671b42f19f92437122c0bca6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
+DTEND;TZID=Asia/Yekaterinburg:20261106T100000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Моторина Лада Александров
+ на\nПара: 1 пара\nДополнительно: 135\nURALCAMPUS_S
+ YNC_ID:c7f7ef1d671b42f19f92437122c0bca6\nURALCAMPUS_SOURCE:preco:teacher:
+ bf756275-f4fb-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:28ecf1081bb648e045dc99a0a74d5b44@uralcampus-calendar-pages

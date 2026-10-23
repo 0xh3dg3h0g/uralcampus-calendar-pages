@@ -18,43 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7b9bbab29264992d5791084cdc83c559@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
-DTEND;TZID=Asia/Yekaterinburg:20261022T100000
-SUMMARY:Иностранный язык(подгруппа:П-170 (1)) (А
- удиторные занятия)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 1 пара\nДополнительно: Ма
- ксютова З.Г.\nURALCAMPUS_SYNC_ID:7b9bbab29264992d5791084cdc83c55
- 9\nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ab944998d25a04593bc58a0bfee123c2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
-DTEND;TZID=Asia/Yekaterinburg:20261022T114000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 2 пара\nДополнительно: Ки
- реева Ф.З.\nURALCAMPUS_SYNC_ID:ab944998d25a04593bc58a0bfee123c2\nU
- RALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7e0e55d6205d29949b7813e426d134d3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T120000
-DTEND;TZID=Asia/Yekaterinburg:20261022T133000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 3 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:7e0e55d6205d29949b7813e426d134d3\
- nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:57e72763803aaf83ca7955c6aa922dfa@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T083000
@@ -103,5 +66,41 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-170\nПара: 4 пара\nДополнительно: Си
  тников П.В.\nURALCAMPUS_SYNC_ID:ef9fb00a3c8a431749ab16c100783c16\
  nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9dfd9ec7fa2120bef7ecf0e06af945a4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T120000
+DTEND;TZID=Asia/Yekaterinburg:20261026T133000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170\nПара: 3 пара\nДополнительно: Ин
+ дирбаева Э. А.\nURALCAMPUS_SYNC_ID:9dfd9ec7fa2120bef7ecf0e06af9
+ 45a4\nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:77d6ea5668361968903794c435e370ba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T135000
+DTEND;TZID=Asia/Yekaterinburg:20261026T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170\nПара: 4 пара\nДополнительно: Си
+ тников П.В.\nURALCAMPUS_SYNC_ID:77d6ea5668361968903794c435e370ba\
+ nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:47702166665fd579ff1d9f10e4243778@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261026T153000
+DTEND;TZID=Asia/Yekaterinburg:20261026T170000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170\nПара: 5 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:47702166665fd579ff1d9f10e4243778\nU
+ RALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

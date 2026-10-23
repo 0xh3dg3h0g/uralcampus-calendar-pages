@@ -19,74 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eb3e50a379f0f2a13e1322832f398550@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
-DTEND;TZID=Asia/Yekaterinburg:20261022T114000
-SUMMARY:Физическая культура и спорт (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Вандышева Ольга Дмитр
- иевна\nПара: 2 пара\nДополнительно: ППОЗ-10
- 1\nURALCAMPUS_SYNC_ID:eb3e50a379f0f2a13e1322832f398550\nURALCAMPUS_SOURCE
- :inueco:teacher:fa986141-22a4-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:06e4f9dbb4042995467f13b4a89dddb5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T120000
-DTEND;TZID=Asia/Yekaterinburg:20261022T133000
-SUMMARY:Физическая культура и спорт (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Вандышева Ольга Дмитр
- иевна\nПара: 3 пара\nДополнительно: ППОЗ-10
- 1\nURALCAMPUS_SYNC_ID:06e4f9dbb4042995467f13b4a89dddb5\nURALCAMPUS_SOURCE
- :inueco:teacher:fa986141-22a4-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:0b762dc4f2b5d358dd49ded6215e6021@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T135000
-DTEND;TZID=Asia/Yekaterinburg:20261022T152000
-SUMMARY:Физическая культура и спорт (Практи
- ка)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Вандышева Ольга Дмитр
- иевна\nПара: 4 пара\nДополнительно: МКЗ-101\
- nURALCAMPUS_SYNC_ID:0b762dc4f2b5d358dd49ded6215e6021\nURALCAMPUS_SOURCE:i
- nueco:teacher:fa986141-22a4-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:fd8ff08fd5dc698410fc5d933ec9eb6a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T153000
-DTEND;TZID=Asia/Yekaterinburg:20261022T170000
-SUMMARY:Основы научных исследований (Лекция
- )
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Вандышева Ольга Дмитр
- иевна\nПара: 5 пара\nДополнительно: ТД-306\nU
- RALCAMPUS_SYNC_ID:fd8ff08fd5dc698410fc5d933ec9eb6a\nURALCAMPUS_SOURCE:inu
- eco:teacher:fa986141-22a4-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:8149dcc7e9084a158195661a688901a3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T171000
-DTEND;TZID=Asia/Yekaterinburg:20261022T182000
-SUMMARY:Основы научных исследований (Практи
- ка)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Вандышева Ольга Дмитр
- иевна\nПара: 6 пара\nДополнительно: ТД-306\nU
- RALCAMPUS_SYNC_ID:8149dcc7e9084a158195661a688901a3\nURALCAMPUS_SOURCE:inu
- eco:teacher:fa986141-22a4-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:3fd6dfd01f8db3e7369cd5592be3b9e2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T083000
@@ -465,6 +397,20 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  иевна\nПара: 1 пара\nДополнительно: ЭБЗ-101\
  nURALCAMPUS_SYNC_ID:727df62c7ee33d59c3d6c662df90e6f4\nURALCAMPUS_SOURCE:i
  nueco:teacher:fa986141-22a4-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c22a441f6c1d1d347ee45fb90a2320b1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T101000
+DTEND;TZID=Asia/Yekaterinburg:20261031T114000
+SUMMARY:Физическая культура и спорт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Вандышева Ольга Дмитр
+ иевна\nПара: 2 пара\nДополнительно: АЗ-101\, 
+ ДЗ-101\, СЗ-101\, ЮЗ-101\nURALCAMPUS_SYNC_ID:c22a441f6c1d1d347ee45f
+ b90a2320b1\nURALCAMPUS_SOURCE:inueco:teacher:fa986141-22a4-11ed-9504-001e
+ 679d7828
 END:VEVENT
 BEGIN:VEVENT
 UID:f702f8259cc5049f3137ad6276b2b851@uralcampus-calendar-pages

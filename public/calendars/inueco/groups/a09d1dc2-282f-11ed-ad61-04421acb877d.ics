@@ -18,46 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0b958e34a34a5075b50a381e37bf0666@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T083000
-DTEND;TZID=Asia/Yekaterinburg:20261022T100000
-SUMMARY:Основы системного анализа (Лекция)
-LOCATION:ауд. 321\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-106\nПара: 1 пара\nДополнитель
- но: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:0b958e34a34a5075b50a38
- 1e37bf0666\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e31d61c31da251f59c4e7b1ba93fcfdd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T101000
-DTEND;TZID=Asia/Yekaterinburg:20261022T114000
-SUMMARY:Основы российской государственност
- и (Практика)
-LOCATION:ауд. 321\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-106\nПара: 2 пара\nДополнитель
- но: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:e31d61c31da251f59c4e7
- b1ba93fcfdd\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421
- acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:64f22b5621af15c50a0cbabbf671f7a2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261022T120000
-DTEND;TZID=Asia/Yekaterinburg:20261022T133000
-SUMMARY:Введение в специальность (Лекция)
-LOCATION:ауд. 318\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ТД-106\nПара: 3 пара\nДополнитель
- но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:64f22b5621af15c50a0cbabbf6
- 71f7a2\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
 UID:e4464b6e561b560dbb8cc8e569364af7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261023T120000
@@ -205,16 +165,29 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:e9f8f6200d66ba120b04a96dbd6b6c44@uralcampus-calendar-pages
+UID:1ec1a0a280798a1c0841471adef1bec0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T120000
 DTEND;TZID=Asia/Yekaterinburg:20261029T133000
 SUMMARY:Введение в специальность (Лекция)
-LOCATION:ауд. 318\, Комсомольский проспект 113А
+LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ТД-106\nПара: 3 пара\nДополнитель
- но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:e9f8f6200d66ba120b04a96dbd
- 6b6c44\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421acb87
+ но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:1ec1a0a280798a1c0841471ade
+ f1bec0\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee704ae3ab026f30f32fe88eb89215d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T135000
+DTEND;TZID=Asia/Yekaterinburg:20261029T152000
+SUMMARY:Введение в специальность (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТД-106\nПара: 4 пара\nДополнитель
+ но: Сумина Н. В.\nURALCAMPUS_SYNC_ID:4ee704ae3ab026f30f32fe88eb
+ 89215d\nURALCAMPUS_SOURCE:inueco:group:a09d1dc2-282f-11ed-ad61-04421acb87
  7d
 END:VEVENT
 BEGIN:VEVENT
