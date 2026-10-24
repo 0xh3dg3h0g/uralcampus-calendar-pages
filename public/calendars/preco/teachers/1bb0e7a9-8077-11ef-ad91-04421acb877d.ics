@@ -19,19 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c666694d642124afddd9bb9cd13a5ed8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261024T090000
-DTEND;TZID=Asia/Yekaterinburg:20261024T103000
-SUMMARY:Криминалистика (Аудиторные занятия)
-LOCATION:ауд. 23\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курицына Ольга Игоревна\nП
- ара: 1 пара\nДополнительно: ПД-397\nURALCAMPUS_SYNC
- _ID:c666694d642124afddd9bb9cd13a5ed8\nURALCAMPUS_SOURCE:preco:teacher:1bb
- 0e7a9-8077-11ef-ad91-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:63efdd4e44b903c3d94ab34ef55da151@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261024T090000
@@ -42,6 +29,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Курицына Ольга Игоревна\nП
  ара: 1 пара\nДополнительно: ПД-396\nURALCAMPUS_SYNC
  _ID:63efdd4e44b903c3d94ab34ef55da151\nURALCAMPUS_SOURCE:preco:teacher:1bb
+ 0e7a9-8077-11ef-ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c666694d642124afddd9bb9cd13a5ed8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261024T090000
+DTEND;TZID=Asia/Yekaterinburg:20261024T103000
+SUMMARY:Криминалистика (Аудиторные занятия)
+LOCATION:ауд. 23\, Садовая 9\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курицына Ольга Игоревна\nП
+ ара: 1 пара\nДополнительно: ПД-397\nURALCAMPUS_SYNC
+ _ID:c666694d642124afddd9bb9cd13a5ed8\nURALCAMPUS_SOURCE:preco:teacher:1bb
  0e7a9-8077-11ef-ad91-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

@@ -19,60 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f8b02540fd3ae2a146cf99bc822bcc6b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T083000
-DTEND;TZID=Asia/Yekaterinburg:20261023T100000
-SUMMARY:Логика (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Колесников Михаил Але
- ксеевич\nПара: 1 пара\nДополнительно: СПД-
- 212\nURALCAMPUS_SYNC_ID:f8b02540fd3ae2a146cf99bc822bcc6b\nURALCAMPUS_SOUR
- CE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:2087e29e1aaea7b3d409a938c3b0f44b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T101000
-DTEND;TZID=Asia/Yekaterinburg:20261023T114000
-SUMMARY:Логика (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Колесников Михаил Але
- ксеевич\nПара: 2 пара\nДополнительно: СПД-
- 212\nURALCAMPUS_SYNC_ID:2087e29e1aaea7b3d409a938c3b0f44b\nURALCAMPUS_SOUR
- CE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:76dbd1e91248709475dddf8142d4ad57@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T135000
-DTEND;TZID=Asia/Yekaterinburg:20261023T152000
-SUMMARY:История России (Лекция)
-LOCATION:ауд. 404\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Колесников Михаил Але
- ксеевич\nПара: 4 пара\nДополнительно: ЗЗ-10
- 1\, ТТПЗ-101\, ЭЛЗ-101\nURALCAMPUS_SYNC_ID:76dbd1e91248709475dddf8
- 142d4ad57\nURALCAMPUS_SOURCE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421
- acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:11b7d85628efaebd9da279622f5c5a15@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T153000
-DTEND;TZID=Asia/Yekaterinburg:20261023T170000
-SUMMARY:История России (Лекция)
-LOCATION:ауд. 404\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Колесников Михаил Але
- ксеевич\nПара: 5 пара\nДополнительно: ЗЗ-10
- 1\, ТТПЗ-101\, ЭЛЗ-101\nURALCAMPUS_SYNC_ID:11b7d85628efaebd9da2796
- 22f5c5a15\nURALCAMPUS_SOURCE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421
- acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:293e492a8f3381e17bc607244da04e9a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T101000
@@ -86,7 +32,7 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ALCAMPUS_SOURCE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:8ae6169d905759becf9f3b7b2eb36cc8@uralcampus-calendar-pages
+UID:b8b28a7d710761dc74fa8c2cd1b6d6a9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T120000
 DTEND;TZID=Asia/Yekaterinburg:20261026T133000
@@ -94,9 +40,9 @@ SUMMARY:История России (Лекция)
 LOCATION:ауд. 208\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Колесников Михаил Але
- ксеевич\nПара: 3 пара\nДополнительно: ИЗ-10
- 1\, СПДЗ-101\nURALCAMPUS_SYNC_ID:8ae6169d905759becf9f3b7b2eb36cc8\nUR
- ALCAMPUS_SOURCE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
+ ксеевич\nПара: 3 пара\nДополнительно: СПД
+ З-101\, ИЗ-101\nURALCAMPUS_SYNC_ID:b8b28a7d710761dc74fa8c2cd1b6d6a9\nU
+ RALCAMPUS_SOURCE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:63dac2140524a78746a572bca6ff7992@uralcampus-calendar-pages
@@ -112,7 +58,7 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ALCAMPUS_SOURCE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:4fa4a752c9fc462529287c1b61484dd0@uralcampus-calendar-pages
+UID:ffdd00c6d2f898373153e5e2ed007876@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261026T153000
 DTEND;TZID=Asia/Yekaterinburg:20261026T170000
@@ -120,8 +66,8 @@ SUMMARY:История России (Лекция)
 LOCATION:ауд. 318\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Колесников Михаил Але
- ксеевич\nПара: 5 пара\nДополнительно: ТДЗ-
- 101\, ЭБЗ-101\nURALCAMPUS_SYNC_ID:4fa4a752c9fc462529287c1b61484dd0\nUR
+ ксеевич\nПара: 5 пара\nДополнительно: ЭБЗ-
+ 101\, ТДЗ-101\nURALCAMPUS_SYNC_ID:ffdd00c6d2f898373153e5e2ed007876\nUR
  ALCAMPUS_SOURCE:inueco:teacher:cb5d45dd-9f78-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

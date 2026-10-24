@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:d263f288f7dc7b76f746cfa2db2eedb6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T170000
+DTEND;TZID=Asia/Yekaterinburg:20261031T181000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-101/07а\nПара: 6 пара\nДополнит
+ ельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:d263f288f7d
+ c7b76f746cfa2db2eedb6\nURALCAMPUS_SOURCE:inueco:group:f6347fff-8490-11ef-
+ ad91-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b12e213f65a80f9343469348678db8a0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T182000
+DTEND;TZID=Asia/Yekaterinburg:20261031T193000
+SUMMARY:История России (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-101/07а\nПара: 7 пара\nДополнит
+ ельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:b12e213f65a
+ 80f9343469348678db8a0\nURALCAMPUS_SOURCE:inueco:group:f6347fff-8490-11ef-
+ ad91-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -19,45 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:54aec9a8421b50cf547927f8b9ac175c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T171000
-DTEND;TZID=Asia/Yekaterinburg:20261023T182000
-SUMMARY:Реинжиниринг бизнеса (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Лобанов Виктор Сергее
- вич\nПара: 6 пара\nДополнительно: МЗу-401\nURA
- LCAMPUS_SYNC_ID:54aec9a8421b50cf547927f8b9ac175c\nURALCAMPUS_SOURCE:inuec
- o:teacher:b7b445b7-407c-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:629f68a2ec972b8a7ee2eb7941a9ec7e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T183000
-DTEND;TZID=Asia/Yekaterinburg:20261023T194000
-SUMMARY:Реинжиниринг бизнеса (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Лобанов Виктор Сергее
- вич\nПара: 7 пара\nДополнительно: МЗу-401\nURA
- LCAMPUS_SYNC_ID:629f68a2ec972b8a7ee2eb7941a9ec7e\nURALCAMPUS_SOURCE:inuec
- o:teacher:b7b445b7-407c-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:40f907a5f3711ff62f1648af96eb6ffb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261023T195000
-DTEND;TZID=Asia/Yekaterinburg:20261023T205000
-SUMMARY:Реинжиниринг бизнеса (Практика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Лобанов Виктор Сергее
- вич\nПара: 8 пара\nДополнительно: МЗу-401\nURA
- LCAMPUS_SYNC_ID:40f907a5f3711ff62f1648af96eb6ffb\nURALCAMPUS_SOURCE:inuec
- o:teacher:b7b445b7-407c-11ed-ad62-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:d5aceb53d151dd28382ae615b83a7de4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T183000
@@ -82,5 +43,50 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  вич\nПара: 8 пара\nДополнительно: МЗу-301\nURA
  LCAMPUS_SYNC_ID:c4b4e340e1358aa417ac5706ac727e1d\nURALCAMPUS_SOURCE:inuec
  o:teacher:b7b445b7-407c-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ceaf5a05715a46c518d0f737f4141abf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T170000
+DTEND;TZID=Asia/Yekaterinburg:20261031T181000
+SUMMARY:Управление качеством (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лобанов Виктор Сергее
+ вич\nПара: 6 пара\nДополнительно: МЗ-401/01\, 
+ МЗ-401/02\, МЗ-401/03\, МЗ-401/13\, МЗ-401/01а\, МЗ-401/05\, 
+ МЗД-401\, МЗ-401/07б\, МЗ-401/09\, МЗ-401/11\nURALCAMPUS_SYNC_I
+ D:ceaf5a05715a46c518d0f737f4141abf\nURALCAMPUS_SOURCE:inueco:teacher:b7b4
+ 45b7-407c-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:80fcc4ec92d8b0b0c7c6ddad797f544c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T182000
+DTEND;TZID=Asia/Yekaterinburg:20261031T193000
+SUMMARY:Управление качеством (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лобанов Виктор Сергее
+ вич\nПара: 7 пара\nДополнительно: МЗ-401/11\, 
+ МЗ-401/07б\, МЗ-401/09\, МЗ-401/05\, МЗД-401\, МЗ-401/13\, М
+ З-401/01а\, МЗ-401/02\, МЗ-401/03\, МЗ-401/01\nURALCAMPUS_SYNC_ID
+ :80fcc4ec92d8b0b0c7c6ddad797f544c\nURALCAMPUS_SOURCE:inueco:teacher:b7b44
+ 5b7-407c-11ed-ad62-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0d9914a78625352faf41375478cc2858@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T194000
+DTEND;TZID=Asia/Yekaterinburg:20261031T205000
+SUMMARY:Управление качеством (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лобанов Виктор Сергее
+ вич\nПара: 8 пара\nДополнительно: МЗ-401/01\, 
+ МЗ-401/03\, МЗ-401/02\, МЗ-401/13\, МЗ-401/01а\, МЗ-401/07б\,
+  МЗД-401\, МЗ-401/05\, МЗ-401/09\, МЗ-401/11\nURALCAMPUS_SYNC_ID
+ :0d9914a78625352faf41375478cc2858\nURALCAMPUS_SOURCE:inueco:teacher:b7b44
+ 5b7-407c-11ed-ad62-04421acb877d
 END:VEVENT
 END:VCALENDAR
