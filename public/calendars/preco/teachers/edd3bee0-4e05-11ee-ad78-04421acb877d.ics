@@ -19,6 +19,19 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:3f92fa37fd1787ec7f38c79aa5ea3091@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
+DTEND;TZID=Asia/Yekaterinburg:20261027T100000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Трясцина Олеся Александро
+ вна\nПара: 1 пара\nДополнительно: П-170\nURALCAM
+ PUS_SYNC_ID:3f92fa37fd1787ec7f38c79aa5ea3091\nURALCAMPUS_SOURCE:preco:tea
+ cher:edd3bee0-4e05-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:25d8dc71d35505281e0cd1c084d7b84b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T101000

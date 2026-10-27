@@ -18,28 +18,40 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0ed57d1ded0832407f526fb116e50be4@uralcampus-calendar-pages
+UID:db11e2a8380f6317c80d234dc0f92cf0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T083000
-DTEND;TZID=Asia/Yekaterinburg:20261026T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
+DTEND;TZID=Asia/Yekaterinburg:20261027T100000
 SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
+LOCATION:ауд. 4а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ГС-176\nПара: 1 пара\nДополнительно: С
- итников П.В.\nURALCAMPUS_SYNC_ID:0ed57d1ded0832407f526fb116e50be
- 4\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+ итников П.В.\nURALCAMPUS_SYNC_ID:db11e2a8380f6317c80d234dc0f92cf
+ 0\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:a5e978df5c66cdc6dfbd7bd7b054aec4@uralcampus-calendar-pages
+UID:a41457aabcac4f659615702f8c1ce136@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T101000
-DTEND;TZID=Asia/Yekaterinburg:20261026T114000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261027T101000
+DTEND;TZID=Asia/Yekaterinburg:20261027T114000
+SUMMARY:Химия (Аудиторные занятия)
 LOCATION:ауд. 3.2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 2 пара\nДополнительно: Т
- укуева Е.В.\nURALCAMPUS_SYNC_ID:a5e978df5c66cdc6dfbd7bd7b054aec4\
+ уппа: ГС-176\nПара: 2 пара\nДополнительно: К
+ иреева Ф.З.\nURALCAMPUS_SYNC_ID:a41457aabcac4f659615702f8c1ce136\
  nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dae8fdab6dc28eb950b3984279caf0ed@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T120000
+DTEND;TZID=Asia/Yekaterinburg:20261027T133000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 3 пара\nДополнительно: М
+ аксютова З.Г.\nURALCAMPUS_SYNC_ID:dae8fdab6dc28eb950b3984279caf
+ 0ed\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

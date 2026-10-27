@@ -18,31 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:673b7e77401f5016c9c4098a4ffa04d3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T153000
-DTEND;TZID=Asia/Yekaterinburg:20261026T170000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 304\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 130\nПара: 5 пара\nДополнительно: Гера
- симова К.Е.\nURALCAMPUS_SYNC_ID:673b7e77401f5016c9c4098a4ffa04d3\
- nURALCAMPUS_SOURCE:preco:group:cdfb5882-0302-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:5c43474bb15312baadb4e8fa713e6eea@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T171000
-DTEND;TZID=Asia/Yekaterinburg:20261026T182000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 130\nПара: 6 пара\nДополнительно: Влад
- имирова К.П.\nURALCAMPUS_SYNC_ID:5c43474bb15312baadb4e8fa713e6ee
- a\nURALCAMPUS_SOURCE:preco:group:cdfb5882-0302-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:4269fa175dbddc114c717dc4ada75e06@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
@@ -66,6 +41,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 130\nПара: 2 пара\nДополнительно: Куро
  ва К.В.\nURALCAMPUS_SYNC_ID:664b6451e7a996746bafce430591112a\nURALCAM
  PUS_SOURCE:preco:group:cdfb5882-0302-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:f70e6e9341ac2cca0158908cddae6caf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T101000
+DTEND;TZID=Asia/Yekaterinburg:20261028T114000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 130\nПара: 2 пара\nДополнительно: Сата
+ ева М.Р.\nURALCAMPUS_SYNC_ID:f70e6e9341ac2cca0158908cddae6caf\nURALC
+ AMPUS_SOURCE:preco:group:cdfb5882-0302-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:3427fa7ee0748dc99c551b615c82f6f2@uralcampus-calendar-pages
@@ -103,18 +90,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 130\nПара: 5 пара\nДополнительно: Гера
  симова К.Е.\nURALCAMPUS_SYNC_ID:0a6e9b4223dc4c82c4cb14b621eb600d\
  nURALCAMPUS_SOURCE:preco:group:cdfb5882-0302-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:9d7d6a521c7323fafef36500f828aa70@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
-DTEND;TZID=Asia/Yekaterinburg:20261028T182000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 130\nПара: 6 пара\nДополнительно: Сата
- ева М.Р.\nURALCAMPUS_SYNC_ID:9d7d6a521c7323fafef36500f828aa70\nURALC
- AMPUS_SOURCE:preco:group:cdfb5882-0302-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:761f77782980f936fb0085e99fb60208@uralcampus-calendar-pages

@@ -18,65 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:551c3148ffc1b7d17ca114621f57273b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T083000
-DTEND;TZID=Asia/Yekaterinburg:20261026T100000
-SUMMARY:Технология изготовления лекарствен
- ных форм (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-332к\, Ф-332Ак\nПара: 1 пара\nДополните
- льно: Куцко Т.Р.\nURALCAMPUS_SYNC_ID:551c3148ffc1b7d17ca114621
- f57273b\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061e1
- 8b
-END:VEVENT
-BEGIN:VEVENT
-UID:85fd54f1d8dc21545810a9e2bde8bcc9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T101000
-DTEND;TZID=Asia/Yekaterinburg:20261026T114000
-SUMMARY:Технология изготовления лекарствен
- ных форм (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-332к\, Ф-332Ак\nПара: 2 пара\nДополните
- льно: Куцко Т.Р.\nURALCAMPUS_SYNC_ID:85fd54f1d8dc21545810a9e2b
- de8bcc9\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061e1
- 8b
-END:VEVENT
-BEGIN:VEVENT
-UID:bcd35e64a99a428dd5860ca474b35411@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T120000
-DTEND;TZID=Asia/Yekaterinburg:20261026T133000
-SUMMARY:Технология изготовления лекарствен
- ных форм (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-332к\, Ф-332Ак\nПара: 3 пара\nДополните
- льно: Куцко Т.Р.\nURALCAMPUS_SYNC_ID:bcd35e64a99a428dd5860ca47
- 4b35411\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061e1
- 8b
-END:VEVENT
-BEGIN:VEVENT
-UID:99962b3c21030b4dade2ef39184d3a80@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T135000
-DTEND;TZID=Asia/Yekaterinburg:20261026T152000
-SUMMARY:Иностранный язык (Аудиторные заняти
- я)
-LOCATION:ауд. 422\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-332к\, Ф-332Ак\nПара: 4 пара\nДополните
- льно: Малова Т.А.\nURALCAMPUS_SYNC_ID:99962b3c21030b4dade2ef3
- 9184d3a80\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061
- e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:ec16df90d0220c3107a2bd318fd3e4b0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
@@ -169,6 +110,21 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  льно: Иголкина М.В.\nURALCAMPUS_SYNC_ID:9d59a93d56979896535
  79840362fcb9e\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-0025
  9061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca6959163c234ad1d751ec0bbe3fa2c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T101000
+DTEND;TZID=Asia/Yekaterinburg:20261029T114000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-332к\, Ф-332Ак\nПара: 2 пара\nДополните
+ льно: Куцко Т.Р.\nURALCAMPUS_SYNC_ID:7ca6959163c234ad1d751ec0b
+ be3fa2c\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061e1
+ 8b
 END:VEVENT
 BEGIN:VEVENT
 UID:0d1495dad85051d7adbf26dc54efdfe6@uralcampus-calendar-pages
@@ -367,40 +323,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  льно: Тютин А.А.\nURALCAMPUS_SYNC_ID:debf8749882bf7c3b1652dc23
  4f3df6d\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-00259061e1
  8b
-END:VEVENT
-BEGIN:VEVENT
-UID:13a3f90b502d51cfbbd4fa691f068a4f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261104T153000
-DTEND;TZID=Asia/Yekaterinburg:20261104T170000
-SUMMARY:Розничная торговля лекарственными 
- препаратами и отпуск лекарственных пре
- паратов и товаров аптечного (Аудиторные
-  занятия)
-LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-332к\, Ф-332Ак\nПара: 5 пара\nДополните
- льно: Иголкина М.В.\nURALCAMPUS_SYNC_ID:13a3f90b502d51cfbbd
- 4fa691f068a4f\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-0025
- 9061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:dae7ed0ffc056ebc85b265c278539951@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261104T171000
-DTEND;TZID=Asia/Yekaterinburg:20261104T182000
-SUMMARY:Розничная торговля лекарственными 
- препаратами и отпуск лекарственных пре
- паратов и товаров аптечного (Аудиторные
-  занятия)
-LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-332к\, Ф-332Ак\nПара: 6 пара\nДополните
- льно: Иголкина М.В.\nURALCAMPUS_SYNC_ID:dae7ed0ffc056ebc85b
- 265c278539951\nURALCAMPUS_SOURCE:preco:group:b4316a25-0302-11ec-8be0-0025
- 9061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:7da6baf386babe751fbc928118d79bc1@uralcampus-calendar-pages

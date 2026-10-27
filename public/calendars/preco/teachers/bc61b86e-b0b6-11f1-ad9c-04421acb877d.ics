@@ -19,58 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3fe5ee69e90bbc8cd77942cbd96350ab@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T101000
-DTEND;TZID=Asia/Yekaterinburg:20261026T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 15\, Анапа
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курда Екатерина Сергеевна\
- nПара: 2 пара\nДополнительно: ПД-178ю\nURALCAMPUS
- _SYNC_ID:3fe5ee69e90bbc8cd77942cbd96350ab\nURALCAMPUS_SOURCE:preco:teache
- r:bc61b86e-b0b6-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:744c04ab9817e8c1c0c17e7f9c633d07@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T101000
-DTEND;TZID=Asia/Yekaterinburg:20261026T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 15\, Анапа
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курда Екатерина Сергеевна\
- nПара: 2 пара\nДополнительно: ОЛ-150ю\nURALCAMPUS
- _SYNC_ID:744c04ab9817e8c1c0c17e7f9c633d07\nURALCAMPUS_SOURCE:preco:teache
- r:bc61b86e-b0b6-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9c68654d9137b9b3eacffa7d89605cd7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T120000
-DTEND;TZID=Asia/Yekaterinburg:20261026T133000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 12\, Анапа
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курда Екатерина Сергеевна\
- nПара: 3 пара\nДополнительно: П-170ю\nURALCAMPUS_S
- YNC_ID:9c68654d9137b9b3eacffa7d89605cd7\nURALCAMPUS_SOURCE:preco:teacher:
- bc61b86e-b0b6-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ce89afa3c0b6b4d920f412e6670a0ba5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261026T120000
-DTEND;TZID=Asia/Yekaterinburg:20261026T133000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 12\, Анапа
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курда Екатерина Сергеевна\
- nПара: 3 пара\nДополнительно: ИК-130ю\nURALCAMPUS
- _SYNC_ID:ce89afa3c0b6b4d920f412e6670a0ba5\nURALCAMPUS_SOURCE:preco:teache
- r:bc61b86e-b0b6-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:91b5368161a7d521cd4af7bcf63ec691@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
@@ -96,19 +44,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Курда Екатерина Сергеевна\
  nПара: 2 пара\nДополнительно: ПД-278ю\, ПД-278
  Аю\nURALCAMPUS_SYNC_ID:4fcd62bfdd227d047c1ca8b4b76377f7\nURALCAMPUS_SOU
- RCE:preco:teacher:bc61b86e-b0b6-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b7712024b4fbb3f30196e45d4e126cb0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T120000
-DTEND;TZID=Asia/Yekaterinburg:20261027T133000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 9\, Анапа
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курда Екатерина Сергеевна\
- nПара: 3 пара\nДополнительно: ПД-278ю\, ПД-278
- Аю\nURALCAMPUS_SYNC_ID:b7712024b4fbb3f30196e45d4e126cb0\nURALCAMPUS_SOU
  RCE:preco:teacher:bc61b86e-b0b6-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -138,6 +73,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  bc61b86e-b0b6-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:b7712024b4fbb3f30196e45d4e126cb0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261027T120000
+DTEND;TZID=Asia/Yekaterinburg:20261027T133000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 9\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курда Екатерина Сергеевна\
+ nПара: 3 пара\nДополнительно: ПД-278ю\, ПД-278
+ Аю\nURALCAMPUS_SYNC_ID:b7712024b4fbb3f30196e45d4e126cb0\nURALCAMPUS_SOU
+ RCE:preco:teacher:bc61b86e-b0b6-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:3dacd3db668530394aa4e1f24820a49a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T083000
@@ -152,7 +100,7 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  RCE:preco:teacher:bc61b86e-b0b6-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:757787f656f9f7ba0ebf7c0b308c8dfa@uralcampus-calendar-pages
+UID:85d1efc3e78824882fa4007c82b6a475@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T083000
 DTEND;TZID=Asia/Yekaterinburg:20261029T100000
@@ -160,9 +108,9 @@ SUMMARY:История России (Аудиторные занятия)
 LOCATION:ауд. 9\, Анапа
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Курда Екатерина Сергеевна\
- nПара: 1 пара\nДополнительно: ПД-278ю\, ПД-278
- Аю\nURALCAMPUS_SYNC_ID:757787f656f9f7ba0ebf7c0b308c8dfa\nURALCAMPUS_SOU
- RCE:preco:teacher:bc61b86e-b0b6-11f1-ad9c-04421acb877d
+ nПара: 1 пара\nДополнительно: П-270ю\nURALCAMPUS_S
+ YNC_ID:85d1efc3e78824882fa4007c82b6a475\nURALCAMPUS_SOURCE:preco:teacher:
+ bc61b86e-b0b6-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:b18d84a4fa7e0db05e6d39666356bf2b@uralcampus-calendar-pages
@@ -178,7 +126,7 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:bc61b86e-b0b6-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:85d1efc3e78824882fa4007c82b6a475@uralcampus-calendar-pages
+UID:757787f656f9f7ba0ebf7c0b308c8dfa@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T083000
 DTEND;TZID=Asia/Yekaterinburg:20261029T100000
@@ -186,9 +134,9 @@ SUMMARY:История России (Аудиторные занятия)
 LOCATION:ауд. 9\, Анапа
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Курда Екатерина Сергеевна\
- nПара: 1 пара\nДополнительно: П-270ю\nURALCAMPUS_S
- YNC_ID:85d1efc3e78824882fa4007c82b6a475\nURALCAMPUS_SOURCE:preco:teacher:
- bc61b86e-b0b6-11f1-ad9c-04421acb877d
+ nПара: 1 пара\nДополнительно: ПД-278ю\, ПД-278
+ Аю\nURALCAMPUS_SYNC_ID:757787f656f9f7ba0ebf7c0b308c8dfa\nURALCAMPUS_SOU
+ RCE:preco:teacher:bc61b86e-b0b6-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:2672449e186ef21ec8abf3ddd2e5235e@uralcampus-calendar-pages
