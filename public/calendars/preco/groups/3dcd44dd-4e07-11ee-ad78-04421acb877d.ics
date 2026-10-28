@@ -18,52 +18,40 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ac2c507295f246804c1dfe6ee1370e86@uralcampus-calendar-pages
+UID:344a51452a761948a7f8559bb03bebe0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
-DTEND;TZID=Asia/Yekaterinburg:20261027T100000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261028T083000
+DTEND;TZID=Asia/Yekaterinburg:20261028T100000
+SUMMARY:Физика (Аудиторные занятия)
 LOCATION:ауд. 1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 1 пара\nДополнительно: Ту
- куева Е.В.\nURALCAMPUS_SYNC_ID:ac2c507295f246804c1dfe6ee1370e86\nU
+ уппа: Ю-168\nПара: 1 пара\nДополнительно: Бо
+ бнев С.В.\nURALCAMPUS_SYNC_ID:344a51452a761948a7f8559bb03bebe0\nURA
+ LCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10a474ff35b0518576507293b7a4dd70@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T101000
+DTEND;TZID=Asia/Yekaterinburg:20261028T114000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-168\nПара: 2 пара\nДополнительно: Ту
+ куева Е.В.\nURALCAMPUS_SYNC_ID:10a474ff35b0518576507293b7a4dd70\nU
  RALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:648ee8fd5f54685d07723d151eac52dc@uralcampus-calendar-pages
+UID:fd3993950491dec4cc6244d3c78e7e4f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T101000
-DTEND;TZID=Asia/Yekaterinburg:20261027T114000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261028T120000
+DTEND;TZID=Asia/Yekaterinburg:20261028T133000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 2 пара\nДополнительно: Ма
- лышева С.И.\nURALCAMPUS_SYNC_ID:648ee8fd5f54685d07723d151eac52dc\
- nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:99d420b599c12f33523841659d3d1357@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T120000
-DTEND;TZID=Asia/Yekaterinburg:20261027T133000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 3 пара\nДополнительно: Ко
- йшина Е.А.\nURALCAMPUS_SYNC_ID:99d420b599c12f33523841659d3d1357\nU
+ уппа: Ю-168\nПара: 3 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:fd3993950491dec4cc6244d3c78e7e4f\nU
  RALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:51d8c0f8e8ba85ea38ffcfa04a634e3f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T135000
-DTEND;TZID=Asia/Yekaterinburg:20261027T152000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 4 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:51d8c0f8e8ba85ea38ffcfa04a634e3f\
- nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

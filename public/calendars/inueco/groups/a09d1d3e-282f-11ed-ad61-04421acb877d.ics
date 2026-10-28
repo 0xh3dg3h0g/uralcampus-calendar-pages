@@ -18,59 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1b7ac17fd6ec8fb5ace550f598cc9951@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T101000
-DTEND;TZID=Asia/Yekaterinburg:20261027T114000
-SUMMARY:Практический курс второго иностран
- ного языка (Практика)
-LOCATION:ауд. 215\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Л-211\nПара: 2 пара\nДополнительн
- о: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:1b7ac17fd6ec8fb5ace550f598c
- c9951\nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
-UID:abed2abeccd3701d4fb4b86b8d532783@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T120000
-DTEND;TZID=Asia/Yekaterinburg:20261027T133000
-SUMMARY:Практический курс второго иностран
- ного языка (Практика)
-LOCATION:ауд. 215\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Л-211\nПара: 3 пара\nДополнительн
- о: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:abed2abeccd3701d4fb4b86b8d5
- 32783\nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
-UID:b1ce63fd0f9311d19d09a9f67e05106b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T135000
-DTEND;TZID=Asia/Yekaterinburg:20261027T152000
-SUMMARY:Третий иностранный язык (Практика)
-LOCATION:ауд. 215\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Л-211\nПара: 4 пара\nДополнительн
- о: Нэри Э.Ф.\nURALCAMPUS_SYNC_ID:b1ce63fd0f9311d19d09a9f67e05106b\
- nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:de1cb91a27785f161caac3f351371340@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T153000
-DTEND;TZID=Asia/Yekaterinburg:20261027T170000
-SUMMARY:Практический курс первого иностран
- ного языка (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Л-211\nПара: 5 пара\nДополнительн
- о: Босе У.\nURALCAMPUS_SYNC_ID:de1cb91a27785f161caac3f351371340\nUR
- ALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c8e39cc42e52ed567c68967982cd5505@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T083000
@@ -179,6 +126,141 @@ LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: Л-211\nПара: 1 пара\nДополнительн
  о: Дэн Л.\nURALCAMPUS_SYNC_ID:cfa9a657913fe0fb16e96ce7cd36055e\nURAL
+ CAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0f29049491ee03c75b6bfba9b3846da3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
+SUMMARY:Международные бизнес-коммуникации 
+ на иностранном языке (Лекция)
+LOCATION:ауд. 218\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 1 пара\nДополнительн
+ о: Де К.Г.\nURALCAMPUS_SYNC_ID:0f29049491ee03c75b6bfba9b3846da3\nURA
+ LCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34b8ae3ee681fcfd72463833618e0c94@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 2 пара\nДополнительн
+ о: Скачкова Е. А.\nURALCAMPUS_SYNC_ID:34b8ae3ee681fcfd72463833
+ 618e0c94\nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5ce5c885eea51d291c00f91d9e9c182a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T101000
+DTEND;TZID=Asia/Yekaterinburg:20261103T114000
+SUMMARY:Практический курс второго иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 2 пара\nДополнительн
+ о: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:5ce5c885eea51d291c00f91d9e9
+ c182a\nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:237951c31a5c34cc0e85f623fd117e49@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T120000
+DTEND;TZID=Asia/Yekaterinburg:20261103T133000
+SUMMARY:Практический курс второго иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 3 пара\nДополнительн
+ о: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:237951c31a5c34cc0e85f623fd1
+ 17e49\nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad203486ed060a7f0d02dd457c73d025@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T135000
+DTEND;TZID=Asia/Yekaterinburg:20261103T152000
+SUMMARY:Третий иностранный язык (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 4 пара\nДополнительн
+ о: Нэри Э.Ф.\nURALCAMPUS_SYNC_ID:ad203486ed060a7f0d02dd457c73d025\
+ nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:99a0c86a4db4845e78ca1e835d6bd8fe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T153000
+DTEND;TZID=Asia/Yekaterinburg:20261103T170000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 5 пара\nДополнительн
+ о: Босе У.\nURALCAMPUS_SYNC_ID:99a0c86a4db4845e78ca1e835d6bd8fe\nUR
+ ALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cb4f909afcf98900f0381ed2da60834d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T083000
+DTEND;TZID=Asia/Yekaterinburg:20261105T100000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 1 пара\nДополнительн
+ о: Скачкова Е. А.\nURALCAMPUS_SYNC_ID:cb4f909afcf98900f0381ed2
+ da60834d\nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:725becdf9584b05262d79d135983b08d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
+DTEND;TZID=Asia/Yekaterinburg:20261105T114000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 2 пара\nДополнительн
+ о: Скачкова Е. А.\nURALCAMPUS_SYNC_ID:725becdf9584b05262d79d13
+ 5983b08d\nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2bef159d278dccff61a05781eb465b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T120000
+DTEND;TZID=Asia/Yekaterinburg:20261105T133000
+SUMMARY:Практический курс второго иностран
+ ного языка (Практика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 3 пара\nДополнительн
+ о: Худолей Ю.Е.\nURALCAMPUS_SYNC_ID:3a2bef159d278dccff61a05781e
+ b465b\nURALCAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3394e61cee5ebb22cf7ec151155099@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T083000
+DTEND;TZID=Asia/Yekaterinburg:20261107T100000
+SUMMARY:Практический курс второго иностран
+ ного языка (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Л-211\nПара: 1 пара\nДополнительн
+ о: Дэн Л.\nURALCAMPUS_SYNC_ID:ad3394e61cee5ebb22cf7ec151155099\nURAL
  CAMPUS_SOURCE:inueco:group:a09d1d3e-282f-11ed-ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

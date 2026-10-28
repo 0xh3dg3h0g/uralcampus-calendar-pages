@@ -18,20 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5816a7ad593b21c07c7a15f2d74aa070@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T153000
-DTEND;TZID=Asia/Yekaterinburg:20261027T170000
-SUMMARY:Практический курс первого иностран
- ного языка (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Босе Упасак\nПара: 5 па
- ра\nДополнительно: Л-211\nURALCAMPUS_SYNC_ID:5816a7ad593b
- 21c07c7a15f2d74aa070\nURALCAMPUS_SOURCE:inueco:teacher:9c6e3831-8fd1-11f1
- -ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:8685ae7e89654df7f8acea372f79462c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T135000
@@ -43,6 +29,34 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Босе Упасак\nПара: 4 па
  ра\nДополнительно: Л-311\nURALCAMPUS_SYNC_ID:8685ae7e8965
  4df7f8acea372f79462c\nURALCAMPUS_SOURCE:inueco:teacher:9c6e3831-8fd1-11f1
+ -ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8d8d7d5bb6febbb30068a2ca6a640199@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T153000
+DTEND;TZID=Asia/Yekaterinburg:20261103T170000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Босе Упасак\nПара: 5 па
+ ра\nДополнительно: Л-211\nURALCAMPUS_SYNC_ID:8d8d7d5bb6fe
+ bbb30068a2ca6a640199\nURALCAMPUS_SOURCE:inueco:teacher:9c6e3831-8fd1-11f1
+ -ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e5d95496509f3b35b57915eb7d8e1876@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T135000
+DTEND;TZID=Asia/Yekaterinburg:20261105T152000
+SUMMARY:Практический курс первого иностран
+ ного языка (Практика)
+LOCATION:ауд. 215\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Босе Упасак\nПара: 4 па
+ ра\nДополнительно: Л-311\nURALCAMPUS_SYNC_ID:e5d95496509f
+ 3b35b57915eb7d8e1876\nURALCAMPUS_SOURCE:inueco:teacher:9c6e3831-8fd1-11f1
  -ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

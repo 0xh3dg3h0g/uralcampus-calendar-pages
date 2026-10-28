@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ba6953e22912598d602c504174dd4372@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
-DTEND;TZID=Asia/Yekaterinburg:20261027T100000
-SUMMARY:Основы педагогики (Аудиторные занят
- ия)
-LOCATION:ауд. 222\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Салун Альбина Рашидовна\nП
- ара: 1 пара\nДополнительно: НК-256к\, НК-256Ак
- \nURALCAMPUS_SYNC_ID:ba6953e22912598d602c504174dd4372\nURALCAMPUS_SOURCE:
- preco:teacher:cff3649e-0307-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:48eec26e928e95257c5c8685954eda86@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T101000
-DTEND;TZID=Asia/Yekaterinburg:20261027T114000
-SUMMARY:Основы педагогики (Аудиторные занят
- ия)
-LOCATION:ауд. 222\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Салун Альбина Рашидовна\nП
- ара: 2 пара\nДополнительно: НК-256к\, НК-256Ак
- \nURALCAMPUS_SYNC_ID:48eec26e928e95257c5c8685954eda86\nURALCAMPUS_SOURCE:
- preco:teacher:cff3649e-0307-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:2503c406a12ac9851302873861733837@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T135000
-DTEND;TZID=Asia/Yekaterinburg:20261027T152000
-SUMMARY:Возрастная психология (Аудиторные з
- анятия)
-LOCATION:ауд. 222\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Салун Альбина Рашидовна\nП
- ара: 4 пара\nДополнительно: НК-356к\, НК-356Ак
- \nURALCAMPUS_SYNC_ID:2503c406a12ac9851302873861733837\nURALCAMPUS_SOURCE:
- preco:teacher:cff3649e-0307-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:ac34134cfcca4d3ef1fea75d2313a2c1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T153000
-DTEND;TZID=Asia/Yekaterinburg:20261027T170000
-SUMMARY:Возрастная психология (Аудиторные з
- анятия)
-LOCATION:ауд. 222\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Салун Альбина Рашидовна\nП
- ара: 5 пара\nДополнительно: НК-356к\, НК-356Ак
- \nURALCAMPUS_SYNC_ID:ac34134cfcca4d3ef1fea75d2313a2c1\nURALCAMPUS_SOURCE:
- preco:teacher:cff3649e-0307-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:edaf4a651a166103a08110424b159f41@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T083000
@@ -131,20 +75,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ара: 3 пара\nДополнительно: НК-256к\, НК-256Ак
  \nURALCAMPUS_SYNC_ID:81f3563ec2c13c37dac1be1e0a67c7ab\nURALCAMPUS_SOURCE:
  preco:teacher:cff3649e-0307-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:b7f221460d892d89a84296ab6e595182@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T135000
-DTEND;TZID=Asia/Yekaterinburg:20261029T152000
-SUMMARY:Введение в специальность (Аудиторны
- е занятия)
-LOCATION:ауд. 204\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Салун Альбина Рашидовна\nП
- ара: 4 пара\nДополнительно: 157к\nURALCAMPUS_SYNC_ID
- :b7f221460d892d89a84296ab6e595182\nURALCAMPUS_SOURCE:preco:teacher:cff364
- 9e-0307-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:f4501b52d0eef2673d1faace161d4a7d@uralcampus-calendar-pages
@@ -286,6 +216,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ара: 5 пара\nДополнительно: НК-356к\, НК-356Ак
  \nURALCAMPUS_SYNC_ID:eca511422941ce8fdf78be8cb557be0d\nURALCAMPUS_SOURCE:
  preco:teacher:cff3649e-0307-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:90c2479184b758272043513e2067ab61@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T171000
+DTEND;TZID=Asia/Yekaterinburg:20261105T182000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Салун Альбина Рашидовна\nП
+ ара: 6 пара\nДополнительно: 157к\nURALCAMPUS_SYNC_ID
+ :90c2479184b758272043513e2067ab61\nURALCAMPUS_SOURCE:preco:teacher:cff364
+ 9e-0307-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:9faf9cade4f5d15ed75902192c2fc5d1@uralcampus-calendar-pages

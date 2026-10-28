@@ -18,48 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:58285a056b08ce1e4e9f458eb20fc2c3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T171000
-DTEND;TZID=Asia/Yekaterinburg:20261027T182000
-SUMMARY:Государственные и муниципальные ус
- луги (Лекция)
-LOCATION:ауд. 209-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ГМУЗ-301/12\nПара: 6 пара\nДополни
- тельно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:58285a056b08ce
- 1e4e9f458eb20fc2c3\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed-ad6
- 1-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7520bf37796f2565c957dcc830117d40@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T183000
-DTEND;TZID=Asia/Yekaterinburg:20261027T194000
-SUMMARY:Государственные и муниципальные ус
- луги (Практика)
-LOCATION:ауд. 209-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ГМУЗ-301/12\nПара: 7 пара\nДополни
- тельно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:7520bf37796f25
- 65c957dcc830117d40\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed-ad6
- 1-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:48eef12917c9151a9bf2bb4b972bdd0a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T195000
-DTEND;TZID=Asia/Yekaterinburg:20261027T205000
-SUMMARY:Государственные и муниципальные ус
- луги (Практика)
-LOCATION:ауд. 209-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ГМУЗ-301/12\nПара: 8 пара\nДополни
- тельно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:48eef12917c915
- 1a9bf2bb4b972bdd0a\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed-ad6
- 1-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:640825dff617cd0f58501c8940663c7f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T083000
@@ -85,6 +43,91 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ГМУЗ-301/12\nПара: 2 пара\nДополни
  тельно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:681a96ae49
  fe7dd2a3939707bfd0830d\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed
+ -ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:30bc893cd939ee121312856dbb51aca3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T171000
+DTEND;TZID=Asia/Yekaterinburg:20261103T182000
+SUMMARY:Иностранный язык в профессионально
+ й сфере (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/12\nПара: 6 пара\nДополни
+ тельно: Саллам М.Э.\nURALCAMPUS_SYNC_ID:30bc893cd939ee12131
+ 2856dbb51aca3\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed-ad61-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:005a8aef0b08b625a45a0413e6701dfe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T183000
+DTEND;TZID=Asia/Yekaterinburg:20261103T194000
+SUMMARY:Государственные и муниципальные ус
+ луги (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/12\nПара: 7 пара\nДополни
+ тельно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:005a8aef0b08b6
+ 25a45a0413e6701dfe\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:726fb1506e1ed6f7f6816fc4ecba6be4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T195000
+DTEND;TZID=Asia/Yekaterinburg:20261103T205000
+SUMMARY:Государственные и муниципальные ус
+ луги (Практика)
+LOCATION:ауд. 222-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/12\nПара: 8 пара\nДополни
+ тельно: Дьяченко О. В.\nURALCAMPUS_SYNC_ID:726fb1506e1ed6
+ f7f6816fc4ecba6be4\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed-ad6
+ 1-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b5501701159783c818d9425cd0a3fd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T171000
+DTEND;TZID=Asia/Yekaterinburg:20261105T182000
+SUMMARY:Документационное обеспечение и дел
+ опроизводство в государственном и муни
+ ципальном управлении (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/12\nПара: 6 пара\nДополни
+ тельно: Варлакова Н.И.\nURALCAMPUS_SYNC_ID:e4b5501701159
+ 783c818d9425cd0a3fd\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:17abcc14aaef99b0481e9af4bfe472e4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T083000
+DTEND;TZID=Asia/Yekaterinburg:20261107T100000
+SUMMARY:Контрольно-надзорная деятельность (
+ Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/12\nПара: 1 пара\nДополни
+ тельно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:17abcc14aa
+ ef99b0481e9af4bfe472e4\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed
+ -ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:41852bac519ec0c24918d8ba92d40544@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T101000
+DTEND;TZID=Asia/Yekaterinburg:20261107T114000
+SUMMARY:Контрольно-надзорная деятельность (
+ Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-301/12\nПара: 2 пара\nДополни
+ тельно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:41852bac51
+ 9ec0c24918d8ba92d40544\nURALCAMPUS_SOURCE:inueco:group:9ae7f8f4-282f-11ed
  -ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

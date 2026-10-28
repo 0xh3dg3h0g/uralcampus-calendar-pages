@@ -19,55 +19,97 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:56e6e3bee97dc659ae26ec8ebdcc4f00@uralcampus-calendar-pages
+UID:c3ebcd60f6130853a76694b75f5ac836@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
-DTEND;TZID=Asia/Yekaterinburg:20261027T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261028T083000
+DTEND;TZID=Asia/Yekaterinburg:20261028T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Койшина Екатерина Алимовн
+ а\nПара: 1 пара\nДополнительно: Б-264\, Б-264А\n
+ URALCAMPUS_SYNC_ID:c3ebcd60f6130853a76694b75f5ac836\nURALCAMPUS_SOURCE:pr
+ eco:teacher:d4a1d290-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:690cf6d60ac92edbbadd9f91cb3f0b06@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T101000
+DTEND;TZID=Asia/Yekaterinburg:20261028T114000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Койшина Екатерина Алимовн
+ а\nПара: 2 пара\nДополнительно: Ю-268\, Ю-268А\n
+ URALCAMPUS_SYNC_ID:690cf6d60ac92edbbadd9f91cb3f0b06\nURALCAMPUS_SOURCE:pr
+ eco:teacher:d4a1d290-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7b2255146246c83330a51ae0f2f4cb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T120000
+DTEND;TZID=Asia/Yekaterinburg:20261028T133000
+SUMMARY:Основы экономики организации\, мене
+ джмента и маркетинга (Аудиторные заняти
+ я)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Койшина Екатерина Алимовн
+ а\nПара: 3 пара\nДополнительно: ЗИ-374\, ЗИ-374
+ А\nURALCAMPUS_SYNC_ID:4d7b2255146246c83330a51ae0f2f4cb\nURALCAMPUS_SOURC
+ E:preco:teacher:d4a1d290-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb7abb59b48470a816c7b50f9484bc0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T153000
+DTEND;TZID=Asia/Yekaterinburg:20261028T170000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Койшина Екатерина Алимовн
+ а\nПара: 5 пара\nДополнительно: Ф-162\nURALCAMPUS_
+ SYNC_ID:bdb7abb59b48470a816c7b50f9484bc0\nURALCAMPUS_SOURCE:preco:teacher
+ :d4a1d290-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:491fd47e5b82db907b83c76a3058ef29@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
+DTEND;TZID=Asia/Yekaterinburg:20261028T182000
+SUMMARY:Менеджмент в профессиональной деят
+ ельности (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Койшина Екатерина Алимовн
+ а\nПара: 6 пара\nДополнительно: П-370\, П-370А\n
+ URALCAMPUS_SYNC_ID:491fd47e5b82db907b83c76a3058ef29\nURALCAMPUS_SOURCE:pr
+ eco:teacher:d4a1d290-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0690a87af24394f30b5d4025b6b009bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T083000
+DTEND;TZID=Asia/Yekaterinburg:20261029T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Койшина Екатерина Алимовн
+ а\nПара: 1 пара\nДополнительно: Б-264\, Б-264А\n
+ URALCAMPUS_SYNC_ID:0690a87af24394f30b5d4025b6b009bf\nURALCAMPUS_SOURCE:pr
+ eco:teacher:d4a1d290-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e99453d0a142df912639c9a33f232588@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261029T120000
+DTEND;TZID=Asia/Yekaterinburg:20261029T133000
 SUMMARY:Обществознание (Аудиторные занятия)
 LOCATION:ауд. 3.2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Койшина Екатерина Алимовн
- а\nПара: 1 пара\nДополнительно: Б-164\nURALCAMPUS_
- SYNC_ID:56e6e3bee97dc659ae26ec8ebdcc4f00\nURALCAMPUS_SOURCE:preco:teacher
+ а\nПара: 3 пара\nДополнительно: Б-164\nURALCAMPUS_
+ SYNC_ID:e99453d0a142df912639c9a33f232588\nURALCAMPUS_SOURCE:preco:teacher
  :d4a1d290-4e03-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:c1bebfb9983b3f89a171884e2f177754@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T101000
-DTEND;TZID=Asia/Yekaterinburg:20261027T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Койшина Екатерина Алимовн
- а\nПара: 2 пара\nДополнительно: ПД-178\nURALCAMPU
- S_SYNC_ID:c1bebfb9983b3f89a171884e2f177754\nURALCAMPUS_SOURCE:preco:teach
- er:d4a1d290-4e03-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:46e56bcb992988cf39eb9a948951c0a4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T120000
-DTEND;TZID=Asia/Yekaterinburg:20261027T133000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Койшина Екатерина Алимовн
- а\nПара: 3 пара\nДополнительно: Ю-168\nURALCAMPUS_
- SYNC_ID:46e56bcb992988cf39eb9a948951c0a4\nURALCAMPUS_SOURCE:preco:teacher
- :d4a1d290-4e03-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b11576532ce61056f11f5eaa1e60aee9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T135000
-DTEND;TZID=Asia/Yekaterinburg:20261027T152000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Койшина Екатерина Алимовн
- а\nПара: 4 пара\nДополнительно: ПД-278\nURALCAMPU
- S_SYNC_ID:b11576532ce61056f11f5eaa1e60aee9\nURALCAMPUS_SOURCE:preco:teach
- er:d4a1d290-4e03-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

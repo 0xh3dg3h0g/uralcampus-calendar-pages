@@ -19,19 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4e5132a6125334bbf2b47a83282a283c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261027T083000
-DTEND;TZID=Asia/Yekaterinburg:20261027T100000
-SUMMARY:Иностранный язык (Практика)
-LOCATION:ауд. 318\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Зиганшина Любовь Серг
- еевна\nПара: 1 пара\nДополнительно: ТД-106\nU
- RALCAMPUS_SYNC_ID:4e5132a6125334bbf2b47a83282a283c\nURALCAMPUS_SOURCE:inu
- eco:teacher:de10e388-9fa8-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:a9c6ca7329942ad38fa6403e3feec628@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261028T101000
@@ -42,6 +29,58 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Зиганшина Любовь Серг
  еевна\nПара: 2 пара\nДополнительно: И-107а\nU
  RALCAMPUS_SYNC_ID:a9c6ca7329942ad38fa6403e3feec628\nURALCAMPUS_SOURCE:inu
+ eco:teacher:de10e388-9fa8-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:24ec95c8ec6db38e6c668d395986a93e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зиганшина Любовь Серг
+ еевна\nПара: 1 пара\nДополнительно: ТД-106\nU
+ RALCAMPUS_SYNC_ID:24ec95c8ec6db38e6c668d395986a93e\nURALCAMPUS_SOURCE:inu
+ eco:teacher:de10e388-9fa8-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1c052b4559bd980339e07726a44f25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зиганшина Любовь Серг
+ еевна\nПара: 2 пара\nДополнительно: И-107а\nU
+ RALCAMPUS_SYNC_ID:8e1c052b4559bd980339e07726a44f25\nURALCAMPUS_SOURCE:inu
+ eco:teacher:de10e388-9fa8-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d45949fbc6eb1c46fa42c5fb6a61e14c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
+DTEND;TZID=Asia/Yekaterinburg:20261102T133000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зиганшина Любовь Серг
+ еевна\nПара: 3 пара\nДополнительно: И-107\nURA
+ LCAMPUS_SYNC_ID:d45949fbc6eb1c46fa42c5fb6a61e14c\nURALCAMPUS_SOURCE:inuec
+ o:teacher:de10e388-9fa8-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9e39fb3615eff1712d13a428845fa75f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T083000
+DTEND;TZID=Asia/Yekaterinburg:20261103T100000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Зиганшина Любовь Серг
+ еевна\nПара: 1 пара\nДополнительно: ТД-106\nU
+ RALCAMPUS_SYNC_ID:9e39fb3615eff1712d13a428845fa75f\nURALCAMPUS_SOURCE:inu
  eco:teacher:de10e388-9fa8-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:6f5d3a59ca1a6a91465427570cb7d6e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
+SUMMARY:Экономические преступления: квалиф
+ икация и расследование (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дробот Сергей Алексан
+ дрович\nПара: 1 пара\nДополнительно: ЭБ-508\
+ nURALCAMPUS_SYNC_ID:6f5d3a59ca1a6a91465427570cb7d6e2\nURALCAMPUS_SOURCE:i
+ nueco:teacher:cae06c86-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:7c5d0cdef1ded041ee23ebd8bec18ca7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Экономические преступления: квалиф
+ икация и расследование (Практика)
+LOCATION:ауд. 318\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Дробот Сергей Алексан
+ дрович\nПара: 2 пара\nДополнительно: ЭБ-508\
+ nURALCAMPUS_SYNC_ID:7c5d0cdef1ded041ee23ebd8bec18ca7\nURALCAMPUS_SOURCE:i
+ nueco:teacher:cae06c86-22a2-11ed-9504-001e679d7828
+END:VEVENT
 END:VCALENDAR
