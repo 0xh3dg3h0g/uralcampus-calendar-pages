@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c36e0cdbe30264b958122b554ec46861@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T101000
-DTEND;TZID=Asia/Yekaterinburg:20261028T114000
-SUMMARY:Дизайн - проектирование (Практика)
-LOCATION:ауд. 206\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Савицкая Алёна Евгень
- евна\nПара: 2 пара\nДополнительно: Д-205\nURALC
- AMPUS_SYNC_ID:c36e0cdbe30264b958122b554ec46861\nURALCAMPUS_SOURCE:inueco:
- teacher:a50dcbbc-8faa-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a6f0fa33031a637f9bff3b4ec3fc7eb7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T120000
-DTEND;TZID=Asia/Yekaterinburg:20261028T133000
-SUMMARY:Дизайн - проектирование (Практика)
-LOCATION:ауд. 206\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Савицкая Алёна Евгень
- евна\nПара: 3 пара\nДополнительно: Д-205\nURALC
- AMPUS_SYNC_ID:a6f0fa33031a637f9bff3b4ec3fc7eb7\nURALCAMPUS_SOURCE:inueco:
- teacher:a50dcbbc-8faa-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:da01a4d6c14c98ad4d498086b546e728@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T171000
@@ -84,6 +58,48 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Савицкая Алёна Евгень
  евна\nПара: 8 пара\nДополнительно: ДЗ-301\nURA
  LCAMPUS_SYNC_ID:9961e2dc732636a147cd2c6458b91414\nURALCAMPUS_SOURCE:inuec
+ o:teacher:a50dcbbc-8faa-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:679d6df7e3b41472111eb5026bee4f53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T171000
+DTEND;TZID=Asia/Yekaterinburg:20261106T182000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савицкая Алёна Евгень
+ евна\nПара: 6 пара\nДополнительно: ДЗ-301\nURA
+ LCAMPUS_SYNC_ID:679d6df7e3b41472111eb5026bee4f53\nURALCAMPUS_SOURCE:inuec
+ o:teacher:a50dcbbc-8faa-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:87cb73db0653f75dee3e2441ffa91f1b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T183000
+DTEND;TZID=Asia/Yekaterinburg:20261106T194000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савицкая Алёна Евгень
+ евна\nПара: 7 пара\nДополнительно: ДЗ-301\nURA
+ LCAMPUS_SYNC_ID:87cb73db0653f75dee3e2441ffa91f1b\nURALCAMPUS_SOURCE:inuec
+ o:teacher:a50dcbbc-8faa-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1d781dc2449a7f0efae852f4fa8fd70e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T195000
+DTEND;TZID=Asia/Yekaterinburg:20261106T205000
+SUMMARY:Проектирование в графическом дизай
+ не (Практика)
+LOCATION:ауд. 211\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Савицкая Алёна Евгень
+ евна\nПара: 8 пара\nДополнительно: ДЗ-301\nURA
+ LCAMPUS_SYNC_ID:1d781dc2449a7f0efae852f4fa8fd70e\nURALCAMPUS_SOURCE:inuec
  o:teacher:a50dcbbc-8faa-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

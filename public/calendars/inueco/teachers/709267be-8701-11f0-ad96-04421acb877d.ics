@@ -19,36 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9fcd2514739abefb9bf86785265eb7e3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T153000
-DTEND;TZID=Asia/Yekaterinburg:20261028T170000
-SUMMARY:Высшая математика (Экзамен)
-LOCATION:ауд. 222-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Добротворская Татьян
- а Владимировна\nПара: 5 пара\nДополнитель
- но: ЭЛЗ-101/02\, ЭЛЗ-101/03\, ЭЛЗ-101/04\, ЭЛЗ-101/04а\, 
- ЭЛЗ-101/05а\, ЭЛЗ-101/06\, ЭЛЗ-101/11\nURALCAMPUS_SYNC_ID:9fcd2
- 514739abefb9bf86785265eb7e3\nURALCAMPUS_SOURCE:inueco:teacher:709267be-87
- 01-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0b9787b71ff803dcecefb282e94cd180@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
-DTEND;TZID=Asia/Yekaterinburg:20261028T182000
-SUMMARY:Высшая математика (Экзамен)
-LOCATION:ауд. 222-1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Добротворская Татьян
- а Владимировна\nПара: 6 пара\nДополнитель
- но: ЭЛЗ-101/07\, ЭЛЗ-101/07а\, ЭЛЗ-101/07б\, ЭЛЗ-101/12\,
-  ЭЛЗ-101/12а\, ЭЛЗ-101/12б\, ЭЛЗ-101/13\, ЭЛЗ-101/13а\nURA
- LCAMPUS_SYNC_ID:0b9787b71ff803dcecefb282e94cd180\nURALCAMPUS_SOURCE:inuec
- o:teacher:709267be-8701-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:a73158c5e1372eb9a477a700fc9222ff@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T120000
@@ -117,5 +87,43 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  но: ЗЗ-101/03\, ЗЗ-101/04\, ЗЗ-101/08\, ЗЗ-101/12б\nURALCAMPUS
  _SYNC_ID:48a53b35db4dc075cc92810663f32263\nURALCAMPUS_SOURCE:inueco:teach
  er:709267be-8701-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:976e5d4725900ce5a692424cb7c731fb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T152000
+DTEND;TZID=Asia/Yekaterinburg:20261107T165000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Добротворская Татьян
+ а Владимировна\nПара: 5 пара\nДополнитель
+ но: СЗ-101/01\, СЗ-101/02\, СЗ-101/03\, СЗ-101/04\, СЗ-101/04
+ а\, СЗ-101/05\, СЗ-101/06\, СЗ-101/07\, СЗ-101/07а\, СЗ-101/0
+ 7б\, СЗ-101/08\, СЗ-101/11\, СЗ-101/12\, СЗ-101/12а\, СЗ-101/
+ 12б\, СЗ-101/13\, СЗ-101/13а\, СЗ-101/16\, СЗД-101\, СЗДу-
+ 101\, СЗу-101/04\, СЗу-101/05\, СЗу-101/06\, СЗу-101/07\, С
+ Зу-101/07а\, СЗу-101/08\nURALCAMPUS_SYNC_ID:976e5d4725900ce5a692424
+ cb7c731fb\nURALCAMPUS_SOURCE:inueco:teacher:709267be-8701-11f0-ad96-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e96de8b79cf296c7a9fcc1d5760f7914@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T170000
+DTEND;TZID=Asia/Yekaterinburg:20261107T181000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Добротворская Татьян
+ а Владимировна\nПара: 6 пара\nДополнитель
+ но: СЗ-101/01\, СЗ-101/02\, СЗ-101/03\, СЗ-101/04\, СЗ-101/04
+ а\, СЗ-101/05\, СЗ-101/06\, СЗ-101/07\, СЗ-101/07а\, СЗ-101/0
+ 7б\, СЗ-101/08\, СЗ-101/11\, СЗ-101/12\, СЗ-101/12а\, СЗ-101/
+ 12б\, СЗ-101/13\, СЗ-101/13а\, СЗ-101/16\, СЗД-101\, СЗДу-
+ 101\, СЗу-101/04\, СЗу-101/05\, СЗу-101/06\, СЗу-101/07\, С
+ Зу-101/07а\, СЗу-101/08\nURALCAMPUS_SYNC_ID:e96de8b79cf296c7a9fcc1d
+ 5760f7914\nURALCAMPUS_SOURCE:inueco:teacher:709267be-8701-11f0-ad96-04421
+ acb877d
 END:VEVENT
 END:VCALENDAR

@@ -18,6 +18,34 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:8a40d7a1ecc3317d683dfdbead8e79a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T183000
+DTEND;TZID=Asia/Yekaterinburg:20261102T194000
+SUMMARY:Охрана труда в строительстве (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-101/05\nПара: 7 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:8a40d7a1ecc3317d683df
+ dbead8e79a5\nURALCAMPUS_SOURCE:inueco:group:a09d1da5-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eab494357dba51ffb49544fec64f6776@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T195000
+DTEND;TZID=Asia/Yekaterinburg:20261102T205000
+SUMMARY:Охрана труда в строительстве (Практ
+ ика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-101/05\nПара: 8 пара\nДополнит
+ ельно: Ездина А.А.\nURALCAMPUS_SYNC_ID:eab494357dba51ffb4954
+ 4fec64f6776\nURALCAMPUS_SOURCE:inueco:group:a09d1da5-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:50496fe292b8ecaecddc5146afcb0c1e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T120000
@@ -42,5 +70,31 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ельно: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:af780b131921
  bd5480f268c5d5f9a241\nURALCAMPUS_SOURCE:inueco:group:a09d1da5-282f-11ed-a
  d61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:53d6eb81bb7c4d64acb0e40d5837556a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T152000
+DTEND;TZID=Asia/Yekaterinburg:20261107T165000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-101/05\nПара: 5 пара\nДополнит
+ ельно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:53d6eb8
+ 1bb7c4d64acb0e40d5837556a\nURALCAMPUS_SOURCE:inueco:group:a09d1da5-282f-1
+ 1ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34389db19478bda287f8fd7e22a81236@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T170000
+DTEND;TZID=Asia/Yekaterinburg:20261107T181000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-101/05\nПара: 6 пара\nДополнит
+ ельно: Добротворская Т.В.\nURALCAMPUS_SYNC_ID:34389db
+ 19478bda287f8fd7e22a81236\nURALCAMPUS_SOURCE:inueco:group:a09d1da5-282f-1
+ 1ed-ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

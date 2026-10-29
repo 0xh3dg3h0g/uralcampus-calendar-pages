@@ -18,4 +18,31 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:5f01a9df4ba4399a7c3ba07fd5d25c10@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T083000
+DTEND;TZID=Asia/Yekaterinburg:20261107T100000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жирицкая Светлана Анатоль
+ евна\nПара: 1 пара\nДополнительно: СД/оз-202
+ А/02\nURALCAMPUS_SYNC_ID:5f01a9df4ba4399a7c3ba07fd5d25c10\nURALCAMPUS_SO
+ URCE:preco:teacher:df96fc21-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9655d2bd2b06df3a70c0c7e7739720e6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T101000
+DTEND;TZID=Asia/Yekaterinburg:20261107T114000
+SUMMARY:История России (Дифференцированный 
+ зачет)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жирицкая Светлана Анатоль
+ евна\nПара: 2 пара\nДополнительно: СД/оз-202
+ А/02\nURALCAMPUS_SYNC_ID:9655d2bd2b06df3a70c0c7e7739720e6\nURALCAMPUS_SO
+ URCE:preco:teacher:df96fc21-b398-11ee-ad7f-04421acb877d
+END:VEVENT
 END:VCALENDAR

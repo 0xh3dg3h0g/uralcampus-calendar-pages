@@ -18,17 +18,4 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:de765020db25ff5f60959d66d88f4c87@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T153000
-DTEND;TZID=Asia/Yekaterinburg:20261028T170000
-SUMMARY:Теоретическая механика (Лаб.)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Саврасова Наталья Рэм
- овна\nПара: 5 пара\nДополнительно: С-216\nURALC
- AMPUS_SYNC_ID:de765020db25ff5f60959d66d88f4c87\nURALCAMPUS_SOURCE:inueco:
- teacher:5b7ac5dd-22ae-11ed-9504-001e679d7828
-END:VEVENT
 END:VCALENDAR

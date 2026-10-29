@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c2ba419a7edca3949279a85c613cbf3b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T183000
-DTEND;TZID=Asia/Yekaterinburg:20261028T194000
-SUMMARY:Архитектурное проектирование (базо
- вое) (Практика)
-LOCATION:ауд. 201\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: АЗ-301\nПара: 7 пара\nДополнитель
- но: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:c2ba419a7edca3949279a85c6
- 13cbf3b\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
-UID:d53c5401e21ba3b45aa3f5a884343c16@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T195000
-DTEND;TZID=Asia/Yekaterinburg:20261028T205000
-SUMMARY:Комплексное формирование архитекту
- рных объектов (Лекция)
-LOCATION:ауд. 201\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: АЗ-301\nПара: 8 пара\nДополнитель
- но: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:d53c5401e21ba3b45aa3f5a88
- 4343c16\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
 UID:0cafe09e2b52b7a9102f652648908862@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T183000
@@ -100,5 +72,31 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  но: Исламова В.Р.\nURALCAMPUS_SYNC_ID:1c4917afe5c62fe77faacd5
  846782f83\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421ac
  b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b0322d9495bc44cd8cb49661c8af0ada@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T183000
+DTEND;TZID=Asia/Yekaterinburg:20261106T194000
+SUMMARY:Живопись и колористика (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-301\nПара: 7 пара\nДополнитель
+ но: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:b0322d9495bc44cd8cb4
+ 9661c8af0ada\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:374e3f9c0fee6b98f34b12d36e2ae6c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T195000
+DTEND;TZID=Asia/Yekaterinburg:20261106T205000
+SUMMARY:Живопись и колористика (Лекция)
+LOCATION:ауд. 102\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-301\nПара: 8 пара\nДополнитель
+ но: Савочкина Е. Э.\nURALCAMPUS_SYNC_ID:374e3f9c0fee6b98f34b
+ 12d36e2ae6c2\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-0442
+ 1acb877d
 END:VEVENT
 END:VCALENDAR

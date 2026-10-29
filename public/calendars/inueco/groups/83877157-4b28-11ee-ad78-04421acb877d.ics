@@ -18,45 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c2ac6ab63931eafaeb91afe7d8e0f05f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
-DTEND;TZID=Asia/Yekaterinburg:20261028T182000
-SUMMARY:Финансовая математика (Лекция)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-201/13\nПара: 6 пара\nДополните
- льно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:c2ac6ab63931eafaeb91
- afe7d8e0f05f\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ddbc0ee5567b3f6d2c5b765c62ae672a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T183000
-DTEND;TZID=Asia/Yekaterinburg:20261028T194000
-SUMMARY:Финансовая математика (Лекция)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-201/13\nПара: 7 пара\nДополните
- льно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:ddbc0ee5567b3f6d2c5b
- 765c62ae672a\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7c5b4a9280d8bc20330817abf6f89a51@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T195000
-DTEND;TZID=Asia/Yekaterinburg:20261028T205000
-SUMMARY:Финансовая математика (Практика)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-201/13\nПара: 8 пара\nДополните
- льно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:7c5b4a9280d8bc203308
- 17abf6f89a51\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:79e90aef930b14a32e44ac26c62dc773@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T171000
@@ -94,5 +55,57 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  льно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:3fd8e2d3a981cdb08d2c
  58e29b8b3408\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
  1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c750ff9aee3b50fac84e67359f7ffa5e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T183000
+DTEND;TZID=Asia/Yekaterinburg:20261106T194000
+SUMMARY:Финансовая математика (Лекция)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 7 пара\nДополните
+ льно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:c750ff9aee3b50fac84e
+ 67359f7ffa5e\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ba8c744ccecd605b2a22c874ed557162@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T195000
+DTEND;TZID=Asia/Yekaterinburg:20261106T205000
+SUMMARY:Финансовая математика (Практика)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 8 пара\nДополните
+ льно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:ba8c744ccecd605b2a22
+ c874ed557162\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a17dc5e7529c0ba5aa203ca392f9a6b7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T134000
+DTEND;TZID=Asia/Yekaterinburg:20261107T151000
+SUMMARY:Финансы (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 4 пара\nДополните
+ льно: Валько Д.В.\nURALCAMPUS_SYNC_ID:a17dc5e7529c0ba5aa203ca
+ 392f9a6b7\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:95611d9017637e199c64673ffe8827b5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T152000
+DTEND;TZID=Asia/Yekaterinburg:20261107T165000
+SUMMARY:Финансы (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/13\nПара: 5 пара\nДополните
+ льно: Валько Д.В.\nURALCAMPUS_SYNC_ID:95611d9017637e199c64673
+ ffe8827b5\nURALCAMPUS_SOURCE:inueco:group:83877157-4b28-11ee-ad78-04421ac
+ b877d
 END:VEVENT
 END:VCALENDAR

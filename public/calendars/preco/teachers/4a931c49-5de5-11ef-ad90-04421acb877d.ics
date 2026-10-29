@@ -19,21 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20e51c9c4f6650ce385e929367d34988@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T153000
-DTEND;TZID=Asia/Yekaterinburg:20261028T170000
-SUMMARY:Общий уход за пациентами (Аудиторны
- е занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Брызгалова Елена Анатолье
- вна\nПара: 5 пара\nДополнительно: СД-352к\nURA
- LCAMPUS_SYNC_ID:20e51c9c4f6650ce385e929367d34988\nURALCAMPUS_SOURCE:preco
- :teacher:4a931c49-5de5-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:9d69b6dd95c59ff679afec4c8c43409a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T083000
@@ -113,6 +98,21 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Брызгалова Елена Анатолье
  вна\nПара: 6 пара\nДополнительно: СД-352к\nURA
  LCAMPUS_SYNC_ID:c80640ca5c6414d3c30bb2d248a45b93\nURALCAMPUS_SOURCE:preco
+ :teacher:4a931c49-5de5-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f2245b7aa1602a4072e70ac457e8d712@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
+DTEND;TZID=Asia/Yekaterinburg:20261106T133000
+SUMMARY:Общий уход за пациентами (Аудиторны
+ е занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Брызгалова Елена Анатолье
+ вна\nПара: 3 пара\nДополнительно: СД-352к\nURA
+ LCAMPUS_SYNC_ID:f2245b7aa1602a4072e70ac457e8d712\nURALCAMPUS_SOURCE:preco
  :teacher:4a931c49-5de5-11ef-ad90-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

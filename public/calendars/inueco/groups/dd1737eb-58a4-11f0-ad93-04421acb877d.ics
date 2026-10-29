@@ -18,45 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a0a50d5c67bdc54fe6c5969c639d55ff@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T171000
-DTEND;TZID=Asia/Yekaterinburg:20261028T182000
-SUMMARY:Финансовая математика (Лекция)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-201/04а\nПара: 6 пара\nДополнит
- ельно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:a0a50d5c67bdc54fe6
- c5969c639d55ff\nURALCAMPUS_SOURCE:inueco:group:dd1737eb-58a4-11f0-ad93-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1843563d295d2e529b68d0ff083e58ed@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T183000
-DTEND;TZID=Asia/Yekaterinburg:20261028T194000
-SUMMARY:Финансовая математика (Лекция)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-201/04а\nПара: 7 пара\nДополнит
- ельно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:1843563d295d2e529b
- 68d0ff083e58ed\nURALCAMPUS_SOURCE:inueco:group:dd1737eb-58a4-11f0-ad93-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:68e262ea66128672c042654e4e8b671f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T195000
-DTEND;TZID=Asia/Yekaterinburg:20261028T205000
-SUMMARY:Финансовая математика (Практика)
-LOCATION:ауд. 204
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-201/04а\nПара: 8 пара\nДополнит
- ельно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:68e262ea66128672c0
- 42654e4e8b671f\nURALCAMPUS_SOURCE:inueco:group:dd1737eb-58a4-11f0-ad93-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:cd5ad9eeffcec059746bcb7192aa97f6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T171000
@@ -94,5 +55,57 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ельно: Гарипов Р. И.\nURALCAMPUS_SYNC_ID:07c60c3218b9cdd0aa
  45755d3f5cea11\nURALCAMPUS_SOURCE:inueco:group:dd1737eb-58a4-11f0-ad93-04
  421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2d79fe7e388c4284a8dbea2181ea4fb4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T183000
+DTEND;TZID=Asia/Yekaterinburg:20261106T194000
+SUMMARY:Финансовая математика (Лекция)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/04а\nПара: 7 пара\nДополнит
+ ельно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:2d79fe7e388c4284a8
+ dbea2181ea4fb4\nURALCAMPUS_SOURCE:inueco:group:dd1737eb-58a4-11f0-ad93-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a5567eb4639f91c024b3395d34643a14@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T195000
+DTEND;TZID=Asia/Yekaterinburg:20261106T205000
+SUMMARY:Финансовая математика (Практика)
+LOCATION:ауд. 207\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/04а\nПара: 8 пара\nДополнит
+ ельно: Лысенко Ю. В.\nURALCAMPUS_SYNC_ID:a5567eb4639f91c024
+ b3395d34643a14\nURALCAMPUS_SOURCE:inueco:group:dd1737eb-58a4-11f0-ad93-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cead618d6f3c2be1ec9eb796abee2435@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T134000
+DTEND;TZID=Asia/Yekaterinburg:20261107T151000
+SUMMARY:Финансы (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/04а\nПара: 4 пара\nДополнит
+ ельно: Валько Д.В.\nURALCAMPUS_SYNC_ID:cead618d6f3c2be1ec9eb
+ 796abee2435\nURALCAMPUS_SOURCE:inueco:group:dd1737eb-58a4-11f0-ad93-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ddb72431ddc7397065c0cd9c3ff862ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T152000
+DTEND;TZID=Asia/Yekaterinburg:20261107T165000
+SUMMARY:Финансы (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-201/04а\nПара: 5 пара\nДополнит
+ ельно: Валько Д.В.\nURALCAMPUS_SYNC_ID:ddb72431ddc7397065c0c
+ d9c3ff862ff\nURALCAMPUS_SOURCE:inueco:group:dd1737eb-58a4-11f0-ad93-04421
+ acb877d
 END:VEVENT
 END:VCALENDAR

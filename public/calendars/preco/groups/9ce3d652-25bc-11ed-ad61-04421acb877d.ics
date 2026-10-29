@@ -18,51 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b18830502906af904f8145a161dfb588@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T120000
-DTEND;TZID=Asia/Yekaterinburg:20261028T133000
-SUMMARY:Сестринский уход и реабилитация пац
- иентов терапевтического профиля разных
-  возрастных групп (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-352к\nПара: 3 пара\nДополнительно: 
- Иванов В.С.\nURALCAMPUS_SYNC_ID:b18830502906af904f8145a161dfb588\
- nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b72a709a34a9de5165526eb59b2149f6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T135000
-DTEND;TZID=Asia/Yekaterinburg:20261028T152000
-SUMMARY:Сестринский уход и реабилитация пац
- иентов терапевтического профиля разных
-  возрастных групп (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-352к\nПара: 4 пара\nДополнительно: 
- Иванов В.С.\nURALCAMPUS_SYNC_ID:b72a709a34a9de5165526eb59b2149f6\
- nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e03ccf10c0130f5683525711a508cfb9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261028T153000
-DTEND;TZID=Asia/Yekaterinburg:20261028T170000
-SUMMARY:Общий уход за пациентами (Аудиторны
- е занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-352к\nПара: 5 пара\nДополнительно: 
- Брызгалова Е.А.\nURALCAMPUS_SYNC_ID:e03ccf10c0130f5683525711a
- 508cfb9\nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
 UID:802e5cea38f76e316fe3096f8141813f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261029T083000
@@ -289,5 +244,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: СД-352к\nПара: 2 пара\nДополнительно: 
  Колбин Н.В.\nURALCAMPUS_SYNC_ID:ff4ec52efdfb84cee2b9094203ad4885\
  nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ed72efe5de63d212b206f6812ebb0a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
+DTEND;TZID=Asia/Yekaterinburg:20261106T133000
+SUMMARY:Общий уход за пациентами (Аудиторны
+ е занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-352к\nПара: 3 пара\nДополнительно: 
+ Брызгалова Е.А.\nURALCAMPUS_SYNC_ID:c9ed72efe5de63d212b206f68
+ 12ebb0a\nURALCAMPUS_SOURCE:preco:group:9ce3d652-25bc-11ed-ad61-04421acb87
+ 7d
 END:VEVENT
 END:VCALENDAR
