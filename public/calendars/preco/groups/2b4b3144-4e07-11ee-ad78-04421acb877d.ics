@@ -18,53 +18,27 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e5202643fd1ac39d7d8d77dc7b91430d@uralcampus-calendar-pages
+UID:32433becfa8aee5bc6f31a3f0bb219b4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T083000
-DTEND;TZID=Asia/Yekaterinburg:20261029T100000
-SUMMARY:Литература (Аудиторные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 1 пара\nДополнительно: И
- ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:e5202643fd1ac39d7d8d77dc7b
- 91430d\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
-UID:0b4b6ae6630d75dd02a49dbc09ec0608@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T101000
-DTEND;TZID=Asia/Yekaterinburg:20261029T114000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 2 пара\nДополнительно: Т
- рясцина О.А.\nURALCAMPUS_SYNC_ID:0b4b6ae6630d75dd02a49dbc09ec060
- 8\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f177d06d92e538d26f5b456f2b0f32fb@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T120000
-DTEND;TZID=Asia/Yekaterinburg:20261029T133000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 3 пара\nДополнительно: Б
- ухарова Е.Н.\nURALCAMPUS_SYNC_ID:f177d06d92e538d26f5b456f2b0f32f
- b\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:99cc0b70394cc32e76d04abff120a66f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T135000
-DTEND;TZID=Asia/Yekaterinburg:20261029T152000
-SUMMARY:Математика (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
+DTEND;TZID=Asia/Yekaterinburg:20261030T100000
+SUMMARY:Физика (Аудиторные занятия)
 LOCATION:ауд. 3.2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 4 пара\nДополнительно: С
- итников П.В.\nURALCAMPUS_SYNC_ID:99cc0b70394cc32e76d04abff120a66
- f\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+ уппа: ГС-176\nПара: 1 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:32433becfa8aee5bc6f31a3f0bb219b4\nU
+ RALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:839742aabe92697eb42fa172519ae409@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T101000
+DTEND;TZID=Asia/Yekaterinburg:20261030T114000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 2 пара\nДополнительно: К
+ иреева Ф.З.\nURALCAMPUS_SYNC_ID:839742aabe92697eb42fa172519ae409\
+ nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

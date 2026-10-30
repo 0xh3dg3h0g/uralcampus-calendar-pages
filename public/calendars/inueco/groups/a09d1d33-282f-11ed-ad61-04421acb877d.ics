@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:24c9cf89931e46da68fd9a3407a75c2c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T083000
-DTEND;TZID=Asia/Yekaterinburg:20261029T100000
-SUMMARY:Правоведение (Лекция)
-LOCATION:ауд. 208\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: И-107а\nПара: 1 пара\nДополнитель
- но: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:24c9cf89931e46da68
- fd9a3407a75c2c\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9538481973b53d1f2375b9a61dc4c8bd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T101000
-DTEND;TZID=Asia/Yekaterinburg:20261029T114000
-SUMMARY:Основы системного анализа (Лекция)
-LOCATION:ауд. 311\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: И-107а\nПара: 2 пара\nДополнитель
- но: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:9538481973b53d1f2375b9
- a61dc4c8bd\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:adadd0e95187dbe86eb7480bcaf2e884@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
@@ -149,6 +123,19 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  но: Васильев С. А.\nURALCAMPUS_SYNC_ID:7f6731377c71df4d9af69c
  45ce1c057f\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421a
  cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34b69db7d8100482f9c2086b883bcb8e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T135000
+DTEND;TZID=Asia/Yekaterinburg:20261103T152000
+SUMMARY:Час куратора
+LOCATION:ауд. 321\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: И-107а\nПара: 4 пара\nДополнитель
+ но: Чераева О.А.\nURALCAMPUS_SYNC_ID:34b69db7d8100482f9c2086b8
+ 83bcb8e\nURALCAMPUS_SOURCE:inueco:group:a09d1d33-282f-11ed-ad61-04421acb8
+ 77d
 END:VEVENT
 BEGIN:VEVENT
 UID:8757a3b39276ef350e99e6dff4964bf7@uralcampus-calendar-pages

@@ -18,44 +18,42 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e938dc052e069a5c2c5596664207e9d1@uralcampus-calendar-pages
+UID:80ca26520f00ed66f84cf9a46e69e1c8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T135000
-DTEND;TZID=Asia/Yekaterinburg:20261029T152000
-SUMMARY:Основы геодезии (Аудиторные занятия
- )
+DTSTART;TZID=Asia/Yekaterinburg:20261030T101000
+DTEND;TZID=Asia/Yekaterinburg:20261030T114000
+SUMMARY:Электротехника и электроника (Аудит
+ орные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 2 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:80ca26520f00ed66f84cf9a46e69e1c8\nU
+ RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:626b0bf49dfc66ff7298b180fdd5bbd1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261030T120000
+DTEND;TZID=Asia/Yekaterinburg:20261030T133000
+SUMMARY:Техническая механика (Аудиторные за
+ нятия)
 LOCATION:ауд. 5\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 4 пара\nДополнительно: Е
- рина М.А.\nURALCAMPUS_SYNC_ID:e938dc052e069a5c2c5596664207e9d1\nURA
+ уппа: ГС-276\nПара: 3 пара\nДополнительно: Е
+ рина М.А.\nURALCAMPUS_SYNC_ID:626b0bf49dfc66ff7298b180fdd5bbd1\nURA
  LCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:0b08d0d83c69c3d187e87708c32f8b37@uralcampus-calendar-pages
+UID:ed08d14f818c1b497b75549ed7ff8017@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T153000
-DTEND;TZID=Asia/Yekaterinburg:20261029T170000
-SUMMARY:Русский язык и культура речи (Аудито
- рные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261030T135000
+DTEND;TZID=Asia/Yekaterinburg:20261030T152000
+SUMMARY:Основы гидравлики\, теплотехники и а
+ эродинамики (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 5 пара\nДополнительно: И
- ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:0b08d0d83c69c3d187e87708c3
- 2f8b37\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
-UID:70de29a6f9b2fa846c524c462b15949b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261029T171000
-DTEND;TZID=Asia/Yekaterinburg:20261029T182000
-SUMMARY:Русский язык и культура речи (Аудито
- рные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 6 пара\nДополнительно: И
- ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:70de29a6f9b2fa846c524c462b
- 15949b\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877
- d
+ уппа: ГС-276\nПара: 4 пара\nДополнительно: Е
+ рина М.А.\nURALCAMPUS_SYNC_ID:ed08d14f818c1b497b75549ed7ff8017\nURA
+ LCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
