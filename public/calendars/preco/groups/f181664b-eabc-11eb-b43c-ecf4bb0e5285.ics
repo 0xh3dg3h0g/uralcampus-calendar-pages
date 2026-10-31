@@ -18,45 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d9275e1eb35b0120c6cfb527ad30d984@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T120000
-DTEND;TZID=Asia/Yekaterinburg:20261030T133000
-SUMMARY:Основы латинского языка с медицинск
- ой терминологией (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-222\nПара: 3 пара\nДополнительно: Д
- ружинин В.А.\nURALCAMPUS_SYNC_ID:d9275e1eb35b0120c6cfb527ad30d98
- 4\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:e03302dd599b6846c6b0303139252d03@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T135000
-DTEND;TZID=Asia/Yekaterinburg:20261030T152000
-SUMMARY:Основы латинского языка с медицинск
- ой терминологией (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-222\nПара: 4 пара\nДополнительно: Д
- ружинин В.А.\nURALCAMPUS_SYNC_ID:e03302dd599b6846c6b0303139252d0
- 3\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:9ac3291dab34b7070b1639ff5137eddc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261031T120000
-DTEND;TZID=Asia/Yekaterinburg:20261031T133000
-SUMMARY:Иностранный язык в профессионально
- й деятельности (Аудиторные занятия)
-LOCATION:ауд. 401\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-222\nПара: 3 пара\nДополнительно: С
- азонова И.А.\nURALCAMPUS_SYNC_ID:9ac3291dab34b7070b1639ff5137edd
- c\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:2d30eb3a4d75736ba319254f5ca01152@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T134000
@@ -68,6 +29,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: СД-222\nПара: 4 пара\nДополнительно: С
  азонова И.А.\nURALCAMPUS_SYNC_ID:2d30eb3a4d75736ba319254f5ca0115
  2\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:06d5c0e33da3a6266830c6cd4563c2cc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261031T152000
+DTEND;TZID=Asia/Yekaterinburg:20261031T165000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 5 пара\nДополнительно: С
+ азонова И.А.\nURALCAMPUS_SYNC_ID:06d5c0e33da3a6266830c6cd4563c2c
+ c\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
 UID:f2d3e463d319d5a608d913694f90c0fc@uralcampus-calendar-pages
@@ -200,6 +174,402 @@ LOCATION:ауд. 501\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: СД-222\nПара: 4 пара\nДополнительно: С
  токоз О.С.\nURALCAMPUS_SYNC_ID:e81d9ca187462f9729abfbf625a0073a\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4e0137c4f87a7206f70c003905d910e6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T135000
+DTEND;TZID=Asia/Yekaterinburg:20261109T152000
+SUMMARY:Генетика человека с основами медици
+ нской генетики (Аудиторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:4e0137c4f87a7206f70c003905d910e6\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4dd4c988695a06c3faed6b1dd991b72a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T153000
+DTEND;TZID=Asia/Yekaterinburg:20261109T170000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 5 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:4dd4c988695a06c3faed6b1dd991b72a\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:25e6414ac13fddac94bf64aa7ef0c965@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T120000
+DTEND;TZID=Asia/Yekaterinburg:20261110T133000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 3 пара\nДополнительно: С
+ азонова И.А.\nURALCAMPUS_SYNC_ID:25e6414ac13fddac94bf64aa7ef0c96
+ 5\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:adc2f7489143097331bd4d18b09410aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T135000
+DTEND;TZID=Asia/Yekaterinburg:20261110T152000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: Д
+ ружинин В.А.\nURALCAMPUS_SYNC_ID:adc2f7489143097331bd4d18b09410a
+ a\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb83310a71971b353d9986cf8a14d58@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T153000
+DTEND;TZID=Asia/Yekaterinburg:20261110T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 5 пара\nДополнительно: Ж
+ усупов А.Д.\nURALCAMPUS_SYNC_ID:8fb83310a71971b353d9986cf8a14d58\
+ nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3c955bad41da69d2f64b7c97734ed40b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
+DTEND;TZID=Asia/Yekaterinburg:20261111T133000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 3 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:3c955bad41da69d2f64b7c97734ed40b\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7765522de3d7558de6de6869de06fa40@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T135000
+DTEND;TZID=Asia/Yekaterinburg:20261111T152000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:7765522de3d7558de6de6869de06fa40\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f8347cb6cbc60096c4aacf78fd156e9c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T153000
+DTEND;TZID=Asia/Yekaterinburg:20261111T170000
+SUMMARY:Генетика человека с основами медици
+ нской генетики (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 5 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:f8347cb6cbc60096c4aacf78fd156e9c\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:1362df79d5097ab8fbaad51125f253a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T171000
+DTEND;TZID=Asia/Yekaterinburg:20261111T182000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 6 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:1362df79d5097ab8fbaad51125f253a9\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7834274968fcbb95ac0b16d397211509@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T083000
+DTEND;TZID=Asia/Yekaterinburg:20261112T100000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 1 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:7834274968fcbb95ac0b16d397211
+ 509\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:af8a9d1101985d34f4359d118920495f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T101000
+DTEND;TZID=Asia/Yekaterinburg:20261112T114000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 2 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:af8a9d1101985d34f4359d1189204
+ 95f\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7b4b0c311e0efd0872dcfacada6fbc32@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T120000
+DTEND;TZID=Asia/Yekaterinburg:20261112T133000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 3 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:7b4b0c311e0efd0872dcfacada6fb
+ c32\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:dd84f21dabfd6559efd4f6579f8bf433@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T135000
+DTEND;TZID=Asia/Yekaterinburg:20261112T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: К
+ окшарова А.Д.\nURALCAMPUS_SYNC_ID:dd84f21dabfd6559efd4f6579f8bf
+ 433\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:83df14b7b10bf9a77189783047333858@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
+DTEND;TZID=Asia/Yekaterinburg:20261113T133000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 3 пара\nДополнительно: Д
+ ружинин В.А.\nURALCAMPUS_SYNC_ID:83df14b7b10bf9a7718978304733385
+ 8\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3742dea9c0d8cf269149fb1f413e7f70@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T135000
+DTEND;TZID=Asia/Yekaterinburg:20261113T152000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: Д
+ ружинин В.А.\nURALCAMPUS_SYNC_ID:3742dea9c0d8cf269149fb1f413e7f7
+ 0\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:56193cdf4fbbbdac5b0022897f4436fd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
+DTEND;TZID=Asia/Yekaterinburg:20261116T152000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:56193cdf4fbbbdac5b0022897f4436fd\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c66a2cdf752c29199f81897f3d8f2c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
+DTEND;TZID=Asia/Yekaterinburg:20261116T170000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 201\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 5 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:f3c66a2cdf752c29199f81897f3d8f2c\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7bee44373aca09ab94ec20b83490d951@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
+DTEND;TZID=Asia/Yekaterinburg:20261117T133000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 3 пара\nДополнительно: С
+ азонова И.А.\nURALCAMPUS_SYNC_ID:7bee44373aca09ab94ec20b83490d95
+ 1\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:da1443f59da9d58b993126c7de007d06@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
+DTEND;TZID=Asia/Yekaterinburg:20261117T152000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: Д
+ ружинин В.А.\nURALCAMPUS_SYNC_ID:da1443f59da9d58b993126c7de007d0
+ 6\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4dd2fea8d54efe9167d87c862561128c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T153000
+DTEND;TZID=Asia/Yekaterinburg:20261117T170000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 5 пара\nДополнительно: Ж
+ усупов А.Д.\nURALCAMPUS_SYNC_ID:4dd2fea8d54efe9167d87c862561128c\
+ nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3d2dda91cd3e4e6ba1543a4939a970ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T120000
+DTEND;TZID=Asia/Yekaterinburg:20261118T133000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 3 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:3d2dda91cd3e4e6ba1543a4939a970ca\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9c8bc3edf8ab4e071ae94537e8d588e0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T135000
+DTEND;TZID=Asia/Yekaterinburg:20261118T152000
+SUMMARY:Анатомия и физиология человека (Ауд
+ иторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:9c8bc3edf8ab4e071ae94537e8d588e0\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:15d0c2f871a2c8dbc048ba5efca27f40@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T153000
+DTEND;TZID=Asia/Yekaterinburg:20261118T170000
+SUMMARY:Генетика человека с основами медици
+ нской генетики (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 5 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:15d0c2f871a2c8dbc048ba5efca27f40\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:cc525e6e6e449a66bf96af4e761bd342@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T171000
+DTEND;TZID=Asia/Yekaterinburg:20261118T182000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 6 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:cc525e6e6e449a66bf96af4e761bd342\nU
+ RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ced249b12c73f7b6bba29e76f96186b5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
+DTEND;TZID=Asia/Yekaterinburg:20261119T100000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 1 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:ced249b12c73f7b6bba29e76f9618
+ 6b5\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac1e593bffd98f3d694dd308fc16e0b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
+DTEND;TZID=Asia/Yekaterinburg:20261119T114000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 2 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:1ac1e593bffd98f3d694dd308fc16
+ e0b\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:34e11f65dc345cabd48f9964b8699a21@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T120000
+DTEND;TZID=Asia/Yekaterinburg:20261119T133000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 3 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:34e11f65dc345cabd48f9964b8699
+ a21\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:e261620fc07589b495972a5ad7b15306@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T135000
+DTEND;TZID=Asia/Yekaterinburg:20261119T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: К
+ окшарова А.Д.\nURALCAMPUS_SYNC_ID:e261620fc07589b495972a5ad7b15
+ 306\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3d424344a1562354e97defc589ddd4e3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
+DTEND;TZID=Asia/Yekaterinburg:20261120T133000
+SUMMARY:Основы латинского языка с медицинск
+ ой терминологией (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 3 пара\nДополнительно: Д
+ ружинин В.А.\nURALCAMPUS_SYNC_ID:3d424344a1562354e97defc589ddd4e
+ 3\nURALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:15e4dc7edb82f5adbeed0af2e0baf9c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T135000
+DTEND;TZID=Asia/Yekaterinburg:20261120T152000
+SUMMARY:Основы микробиологии и иммунологии 
+ (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-222\nПара: 4 пара\nДополнительно: С
+ токоз О.С.\nURALCAMPUS_SYNC_ID:15e4dc7edb82f5adbeed0af2e0baf9c2\nU
  RALCAMPUS_SOURCE:preco:group:f181664b-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 END:VCALENDAR

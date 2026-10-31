@@ -18,31 +18,44 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3cb519cca4aad0a1264b2f2365e9deb8@uralcampus-calendar-pages
+UID:561f1baae523dc4f0d146537e2f07717@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T135000
-DTEND;TZID=Asia/Yekaterinburg:20261030T152000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
+DTEND;TZID=Asia/Yekaterinburg:20261102T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-362\, Ф-362А\nПара: 3 пара\nДополнитель
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:561f1baae523dc4f0d146537e2f
+ 07717\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf5d47d6fc4bec4fe54fd0a634faacc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T135000
+DTEND;TZID=Asia/Yekaterinburg:20261102T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-362\, Ф-362А\nПара: 4 пара\nДополнитель
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:dbf5d47d6fc4bec4fe54fd0a634
+ faacc\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c54452edacfa696ae64efe9c9c4df5a1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T153000
+DTEND;TZID=Asia/Yekaterinburg:20261102T170000
 SUMMARY:Розничная торговля лекарственными 
  препаратами и отпуск лекарственных пре
  паратов и товаров аптечного (Аудиторные
   занятия)
 LOCATION:ауд. 3.3\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-362\, Ф-362А\nПара: 4 пара\nДополнитель
- но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:3cb519cca4aad0a1264b2f2365e
- 9deb8\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:26e414a6a83eb8418befd42376d924c6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T153000
-DTEND;TZID=Asia/Yekaterinburg:20261030T170000
-SUMMARY:Технология изготовления лекарствен
- ных форм (Аудиторные занятия)
-LOCATION:ауд. 3.3\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ф-362\, Ф-362А\nПара: 5 пара\nДополнитель
- но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:26e414a6a83eb8418befd42376d
- 924c6\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
+ но: Язаева А.Ф.\nURALCAMPUS_SYNC_ID:c54452edacfa696ae64efe9c9c4
+ df5a1\nURALCAMPUS_SOURCE:preco:group:856a3d53-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

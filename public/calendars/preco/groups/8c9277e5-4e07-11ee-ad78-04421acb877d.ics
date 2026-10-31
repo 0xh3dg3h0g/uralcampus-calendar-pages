@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:c8a969bfb1ce5b0311dfe9fdcfb07f57@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-368\, Ю-368А\nПара: 1 пара\nДополнитель
+ но: Максютова З.Г.\nURALCAMPUS_SYNC_ID:c8a969bfb1ce5b0311dfe
+ 9fdcfb07f57\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:68e4c225e5fba7a6383a322bed98fef1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Уголовный процесс (Дифференцирован
+ ный зачет)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-368\, Ю-368А\nПара: 2 пара\nДополнитель
+ но: Сафиханова М.П.\nURALCAMPUS_SYNC_ID:68e4c225e5fba7a6383
+ a322bed98fef1\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
 END:VCALENDAR

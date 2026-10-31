@@ -19,48 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dfcc4d1f8a4f04607391181c627ff21f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
-DTEND;TZID=Asia/Yekaterinburg:20261030T100000
-SUMMARY:Фармакология (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 1 пара\nДополнительно: СД-352к\nURALCAMPUS_
- SYNC_ID:dfcc4d1f8a4f04607391181c627ff21f\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f00583314025a9554391ad3ab52ef718@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T101000
-DTEND;TZID=Asia/Yekaterinburg:20261030T114000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:f00583314025a9554391ad3ab52ef718\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:82364f43e0fb6cd5d278e831b4d34ce8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T120000
-DTEND;TZID=Asia/Yekaterinburg:20261030T133000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:82364f43e0fb6cd5d278e831b4d34ce8\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:b54372723b76559e2dc744430b66cffb@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261031T083000
@@ -388,5 +346,83 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  Пара: 6 пара\nДополнительно: СД/оз-223А\nURALCA
  MPUS_SYNC_ID:25c73b407583aae9d9becd277339fcd4\nURALCAMPUS_SOURCE:preco:te
  acher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c4cd0fc4586e5938a50fe178cf61ce0e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
+DTEND;TZID=Asia/Yekaterinburg:20261111T100000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 1 пара\nДополнительно: СД-322\nURALCAMPUS_SY
+ NC_ID:c4cd0fc4586e5938a50fe178cf61ce0e\nURALCAMPUS_SOURCE:preco:teacher:8
+ 70e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa1935fbff3c17ac8aaf9dbea93546a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
+DTEND;TZID=Asia/Yekaterinburg:20261111T114000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 2 пара\nДополнительно: СД-322\nURALCAMPUS_SY
+ NC_ID:2aa1935fbff3c17ac8aaf9dbea93546a\nURALCAMPUS_SOURCE:preco:teacher:8
+ 70e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc656ba1e168e5ad1291eb1ca72e8db9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
+DTEND;TZID=Asia/Yekaterinburg:20261111T133000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 3 пара\nДополнительно: СД-323\nURALCAMPUS_SY
+ NC_ID:dc656ba1e168e5ad1291eb1ca72e8db9\nURALCAMPUS_SOURCE:preco:teacher:8
+ 70e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f80dcd8c17cb59d663331b34672641@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T083000
+DTEND;TZID=Asia/Yekaterinburg:20261118T100000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 1 пара\nДополнительно: СД-322\nURALCAMPUS_SY
+ NC_ID:b1f80dcd8c17cb59d663331b34672641\nURALCAMPUS_SOURCE:preco:teacher:8
+ 70e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7c70749c7d570a3b85289f6022153afa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T101000
+DTEND;TZID=Asia/Yekaterinburg:20261118T114000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 2 пара\nДополнительно: СД-323\nURALCAMPUS_SY
+ NC_ID:7c70749c7d570a3b85289f6022153afa\nURALCAMPUS_SOURCE:preco:teacher:8
+ 70e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a7b5d13458e8e64e852a75fb7b26a715@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T120000
+DTEND;TZID=Asia/Yekaterinburg:20261118T133000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. 508\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 3 пара\nДополнительно: СД-323\nURALCAMPUS_SY
+ NC_ID:a7b5d13458e8e64e852a75fb7b26a715\nURALCAMPUS_SOURCE:preco:teacher:8
+ 70e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

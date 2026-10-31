@@ -19,29 +19,29 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b0bfbd6d0a754b84f6159876e3b1f653@uralcampus-calendar-pages
+UID:6c7c16d8adba31be30ef36eb6e2d72ad@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T120000
-DTEND;TZID=Asia/Yekaterinburg:20261030T133000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Черчение (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бойцова Любовь Петровна\nП
+ ара: 2 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC
+ _ID:6c7c16d8adba31be30ef36eb6e2d72ad\nURALCAMPUS_SOURCE:preco:teacher:ed1
+ b34b6-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce2d7448c637410985b66d187232b6bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
+DTEND;TZID=Asia/Yekaterinburg:20261102T133000
 SUMMARY:Черчение (Аудиторные занятия)
 LOCATION:ауд. 2а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Бойцова Любовь Петровна\nП
  ара: 3 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC
- _ID:b0bfbd6d0a754b84f6159876e3b1f653\nURALCAMPUS_SOURCE:preco:teacher:ed1
- b34b6-4e02-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b0e7cf5d127e90b944ced18fe1895c9a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T135000
-DTEND;TZID=Asia/Yekaterinburg:20261030T152000
-SUMMARY:Черчение (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Бойцова Любовь Петровна\nП
- ара: 4 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC
- _ID:b0e7cf5d127e90b944ced18fe1895c9a\nURALCAMPUS_SOURCE:preco:teacher:ed1
+ _ID:ce2d7448c637410985b66d187232b6bd\nURALCAMPUS_SOURCE:preco:teacher:ed1
  b34b6-4e02-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

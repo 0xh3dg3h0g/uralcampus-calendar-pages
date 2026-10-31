@@ -18,30 +18,44 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1e67bbc5f92a134f229d6fc9b84b50b3@uralcampus-calendar-pages
+UID:bf5a9d9ce471437296f8b25f1fd898d0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T135000
-DTEND;TZID=Asia/Yekaterinburg:20261030T152000
-SUMMARY:Иностранный язык в профессионально
- й деятельности (Аудиторные занятия)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-264\, Б-264А\nПара: 4 пара\nДополнитель
- но: Максютова З.Г.\nURALCAMPUS_SYNC_ID:1e67bbc5f92a134f229d6
- fc9b84b50b3\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0c53f6738ecfa7e08593869b42cfef82@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T153000
-DTEND;TZID=Asia/Yekaterinburg:20261030T170000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
 SUMMARY:Менеджмент (Аудиторные занятия)
 LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-264\, Б-264А\nПара: 5 пара\nДополнитель
- но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:0c53f6738ecfa7e08593869b4
- 2cfef82\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb87
+ уппа: Б-264\, Б-264А\nПара: 1 пара\nДополнитель
+ но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:bf5a9d9ce471437296f8b25f1
+ fd898d0\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb87
  7d
+END:VEVENT
+BEGIN:VEVENT
+UID:b57f485fa385f4d3f4ba20fce67cc96b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Финансы организации (Аудиторные зан
+ ятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 2 пара\nДополнитель
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:b57f485fa385f4d3f4ba20f
+ ce67cc96b\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ae166f3dae08a8d886ea8ddedcf506@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
+DTEND;TZID=Asia/Yekaterinburg:20261102T133000
+SUMMARY:Основы банковского дела (Аудиторные
+  занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 3 пара\nДополнитель
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:b6ae166f3dae08a8d886ea8
+ ddedcf506\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb
+ 877d
 END:VEVENT
 END:VCALENDAR

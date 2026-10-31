@@ -19,55 +19,68 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:295ca22ce962eab02ce7688941c09bf6@uralcampus-calendar-pages
+UID:407c780f7eb13a769c029741dcfdac7f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
-DTEND;TZID=Asia/Yekaterinburg:20261030T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
 SUMMARY:Математика (Аудиторные занятия)
 LOCATION:ауд. 1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ситников Павел Владимиров
- ич\nПара: 1 пара\nДополнительно: ПД-178\nURALCAM
- PUS_SYNC_ID:295ca22ce962eab02ce7688941c09bf6\nURALCAMPUS_SOURCE:preco:tea
+ ич\nПара: 1 пара\nДополнительно: Ю-168\nURALCAMPU
+ S_SYNC_ID:407c780f7eb13a769c029741dcfdac7f\nURALCAMPUS_SOURCE:preco:teach
+ er:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc12f95fbd5ea72f521287aab06d1d4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 2 пара\nДополнительно: Б-164\nURALCAMPU
+ S_SYNC_ID:7bc12f95fbd5ea72f521287aab06d1d4\nURALCAMPUS_SOURCE:preco:teach
+ er:26d5f196-b34f-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2db455d69103646ba942e6eb8e1a0278@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
+DTEND;TZID=Asia/Yekaterinburg:20261102T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ситников Павел Владимиров
+ ич\nПара: 3 пара\nДополнительно: ГС-176\nURALCAM
+ PUS_SYNC_ID:2db455d69103646ba942e6eb8e1a0278\nURALCAMPUS_SOURCE:preco:tea
  cher:26d5f196-b34f-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:dd0a630d9c0beb7b84fac11c2cb4530f@uralcampus-calendar-pages
+UID:d810df6b25f95d68b94ca2c97de28f7c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T101000
-DTEND;TZID=Asia/Yekaterinburg:20261030T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T135000
+DTEND;TZID=Asia/Yekaterinburg:20261102T152000
 SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
+LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ситников Павел Владимиров
- ич\nПара: 2 пара\nДополнительно: Ю-168\nURALCAMPU
- S_SYNC_ID:dd0a630d9c0beb7b84fac11c2cb4530f\nURALCAMPUS_SOURCE:preco:teach
+ ич\nПара: 4 пара\nДополнительно: П-170\nURALCAMPU
+ S_SYNC_ID:d810df6b25f95d68b94ca2c97de28f7c\nURALCAMPUS_SOURCE:preco:teach
  er:26d5f196-b34f-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:ca561fa69f438b7f89f85d266a4d7429@uralcampus-calendar-pages
+UID:99e59acb47285b4fd691220f762c347b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T120000
-DTEND;TZID=Asia/Yekaterinburg:20261030T133000
+DTSTART;TZID=Asia/Yekaterinburg:20261102T153000
+DTEND;TZID=Asia/Yekaterinburg:20261102T170000
 SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
+LOCATION:ауд. 1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ситников Павел Владимиров
- ич\nПара: 3 пара\nДополнительно: П-170\nURALCAMPU
- S_SYNC_ID:ca561fa69f438b7f89f85d266a4d7429\nURALCAMPUS_SOURCE:preco:teach
- er:26d5f196-b34f-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9e7047cd9ff89c8f47352d662127323a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T135000
-DTEND;TZID=Asia/Yekaterinburg:20261030T152000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ситников Павел Владимиров
- ич\nПара: 4 пара\nДополнительно: Ф-162\nURALCAMPU
- S_SYNC_ID:9e7047cd9ff89c8f47352d662127323a\nURALCAMPUS_SOURCE:preco:teach
+ ич\nПара: 5 пара\nДополнительно: Ф-162\nURALCAMPU
+ S_SYNC_ID:99e59acb47285b4fd691220f762c347b\nURALCAMPUS_SOURCE:preco:teach
  er:26d5f196-b34f-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

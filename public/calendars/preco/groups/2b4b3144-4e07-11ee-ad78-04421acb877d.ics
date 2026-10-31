@@ -18,27 +18,53 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:32433becfa8aee5bc6f31a3f0bb219b4@uralcampus-calendar-pages
+UID:9f29df4d24d04f53a59e07b5c68bb6c2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
-DTEND;TZID=Asia/Yekaterinburg:20261030T100000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 3.2\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 1 пара\nДополнительно: Б
- обнев С.В.\nURALCAMPUS_SYNC_ID:32433becfa8aee5bc6f31a3f0bb219b4\nU
- RALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+ уппа: ГС-176\nПара: 1 пара\nДополнительно: М
+ алышева С.И.\nURALCAMPUS_SYNC_ID:9f29df4d24d04f53a59e07b5c68bb6c
+ 2\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:839742aabe92697eb42fa172519ae409@uralcampus-calendar-pages
+UID:96e1837cd2d1eb7d5b44f0d68c599bb7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T101000
-DTEND;TZID=Asia/Yekaterinburg:20261030T114000
-SUMMARY:Химия (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 2 пара\nДополнительно: М
+ аксютова З.Г.\nURALCAMPUS_SYNC_ID:96e1837cd2d1eb7d5b44f0d68c599
+ bb7\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5a34097233663f8fb7e39885207144@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
+DTEND;TZID=Asia/Yekaterinburg:20261102T133000
+SUMMARY:Математика (Аудиторные занятия)
 LOCATION:ауд. 3.2\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 2 пара\nДополнительно: К
- иреева Ф.З.\nURALCAMPUS_SYNC_ID:839742aabe92697eb42fa172519ae409\
- nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+ уппа: ГС-176\nПара: 3 пара\nДополнительно: С
+ итников П.В.\nURALCAMPUS_SYNC_ID:9e5a34097233663f8fb7e3988520714
+ 4\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:247880566b89c8e19649877628f913ed@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T135000
+DTEND;TZID=Asia/Yekaterinburg:20261102T152000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 4 пара\nДополнительно: И
+ ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:247880566b89c8e19649877628
+ f913ed\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877
+ d
 END:VEVENT
 END:VCALENDAR

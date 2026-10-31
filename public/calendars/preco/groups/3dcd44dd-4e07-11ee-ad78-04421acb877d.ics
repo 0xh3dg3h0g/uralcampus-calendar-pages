@@ -18,27 +18,39 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8a5dc4e09369e84f79dfb747ae7edb1e@uralcampus-calendar-pages
+UID:14b2e567afda2a291abad0d142ebe9ba@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T083000
-DTEND;TZID=Asia/Yekaterinburg:20261030T100000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
+DTEND;TZID=Asia/Yekaterinburg:20261102T100000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 1 пара\nДополнительно: Тр
- ясцина О.А.\nURALCAMPUS_SYNC_ID:8a5dc4e09369e84f79dfb747ae7edb1e\
+ уппа: Ю-168\nПара: 1 пара\nДополнительно: Си
+ тников П.В.\nURALCAMPUS_SYNC_ID:14b2e567afda2a291abad0d142ebe9ba\
  nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:3c364b8babcc5666da96ad2796095118@uralcampus-calendar-pages
+UID:22f4c4ae0186d2124b211dbdbe7ee9fe@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261030T101000
-DTEND;TZID=Asia/Yekaterinburg:20261030T114000
-SUMMARY:Математика (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
+DTEND;TZID=Asia/Yekaterinburg:20261102T114000
+SUMMARY:Химия (Аудиторные занятия)
 LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 2 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:3c364b8babcc5666da96ad2796095118\
- nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+ уппа: Ю-168\nПара: 2 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:22f4c4ae0186d2124b211dbdbe7ee9fe\nU
+ RALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cb53568e71038e32334d81a9143d7e6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
+DTEND;TZID=Asia/Yekaterinburg:20261102T133000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-168\nПара: 3 пара\nДополнительно: Ин
+ дирбаева Э. А.\nURALCAMPUS_SYNC_ID:cb53568e71038e32334d81a9143d
+ 7e6b\nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
