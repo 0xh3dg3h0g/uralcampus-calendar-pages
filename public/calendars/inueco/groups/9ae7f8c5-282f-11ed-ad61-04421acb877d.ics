@@ -139,6 +139,19 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  7d
 END:VEVENT
 BEGIN:VEVENT
+UID:d135b9ce31191f96b5047d6595dce65b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T153000
+DTEND;TZID=Asia/Yekaterinburg:20261106T170000
+SUMMARY:Физическая культура и спорт (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-110\nПара: 5 пара\nДополнительн
+ о: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:d135b9ce31191f96b5047d
+ 6595dce65b\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c5-282f-11ed-ad61-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:01d11c1666d9c54f93f77f2a49288058@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T134000
@@ -165,31 +178,5 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Коваленко Н.С.\nURALCAMPUS_SYNC_ID:5dffe91c7a7fb766491155f
  26437b041\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c5-282f-11ed-ad61-04421ac
  b877d
-END:VEVENT
-BEGIN:VEVENT
-UID:255810514ed8c58b652626a77c254f3c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T170000
-DTEND;TZID=Asia/Yekaterinburg:20261107T181000
-SUMMARY:Физическая культура и спорт (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: А-110\nПара: 6 пара\nДополнительн
- о: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:255810514ed8c58b652626
- a77c254f3c\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c5-282f-11ed-ad61-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:68c2c3e1db00d206e0340accc5ef3327@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T182000
-DTEND;TZID=Asia/Yekaterinburg:20261107T193000
-SUMMARY:Физическая культура и спорт (Лекция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: А-110\nПара: 7 пара\nДополнительн
- о: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:68c2c3e1db00d206e0340a
- ccc5ef3327\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c5-282f-11ed-ad61-04421a
- cb877d
 END:VEVENT
 END:VCALENDAR
