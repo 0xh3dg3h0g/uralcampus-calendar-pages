@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ТДЗ-501
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:048641bcddbe2c57f1359ceee920df28@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T153000
+DTEND;TZID=Asia/Yekaterinburg:20261102T170000
+SUMMARY:Оценка рисков (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-501\nПара: 5 пара\nДополнител
+ ьно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:048641bcddbe2c57f1
+ 359ceee920df28\nURALCAMPUS_SOURCE:inueco:group:a6953410-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34daacc905fcbf42b5caf3f8486dcf6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T183000
+DTEND;TZID=Asia/Yekaterinburg:20261102T194000
+SUMMARY:Организация и мотивация труда (Лекц
+ ия)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-501\nПара: 7 пара\nДополнител
+ ьно: Терещук Н.И.\nURALCAMPUS_SYNC_ID:34daacc905fcbf42b5caf3f
+ 8486dcf6b\nURALCAMPUS_SOURCE:inueco:group:a6953410-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8349a9ee3a17e662ec1e7f3fc4e1d607@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T171000
+DTEND;TZID=Asia/Yekaterinburg:20261102T182000
+SUMMARY:Оценка рисков (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-501\nПара: 6 пара\nДополнител
+ ьно: Борисенко Я. М.\nURALCAMPUS_SYNC_ID:8349a9ee3a17e662ec
+ 1e7f3fc4e1d607\nURALCAMPUS_SOURCE:inueco:group:a6953410-282f-11ed-ad61-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fdfb419fe76c54325a37bef689db1993@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261102T195000
+DTEND;TZID=Asia/Yekaterinburg:20261102T205000
+SUMMARY:Организация и мотивация труда (Лекц
+ ия)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТДЗ-501\nПара: 8 пара\nДополнител
+ ьно: Терещук Н.И.\nURALCAMPUS_SYNC_ID:fdfb419fe76c54325a37bef
+ 689db1993\nURALCAMPUS_SOURCE:inueco:group:a6953410-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+END:VCALENDAR

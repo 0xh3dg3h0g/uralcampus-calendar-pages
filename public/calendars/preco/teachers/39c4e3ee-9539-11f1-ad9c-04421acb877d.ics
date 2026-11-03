@@ -19,45 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b060ea48eb445d52a07b9940dce8fc1c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
-DTEND;TZID=Asia/Yekaterinburg:20261102T133000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 420\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Коростина Елизавета Алекс
- андровна\nПара: 3 пара\nДополнительно: 144к
- \nURALCAMPUS_SYNC_ID:b060ea48eb445d52a07b9940dce8fc1c\nURALCAMPUS_SOURCE:
- preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:013f606a2ddcd8c64b6fb90747e8857e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T135000
-DTEND;TZID=Asia/Yekaterinburg:20261102T152000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 303\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Коростина Елизавета Алекс
- андровна\nПара: 4 пара\nДополнительно: 147к
- \nURALCAMPUS_SYNC_ID:013f606a2ddcd8c64b6fb90747e8857e\nURALCAMPUS_SOURCE:
- preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b184ab95a69b368ffa34ade7eba44d04@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T153000
-DTEND;TZID=Asia/Yekaterinburg:20261102T170000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 204\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Коростина Елизавета Алекс
- андровна\nПара: 5 пара\nДополнительно: 148к
- \nURALCAMPUS_SYNC_ID:b184ab95a69b368ffa34ade7eba44d04\nURALCAMPUS_SOURCE:
- preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:809aa1aa81ef14e1788d2c8866caf908@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T083000
@@ -110,19 +71,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:d0a91ff0c6cdcfe74091e972563c04e1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
-DTEND;TZID=Asia/Yekaterinburg:20261105T114000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 202\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Коростина Елизавета Алекс
- андровна\nПара: 2 пара\nДополнительно: 156к
- \nURALCAMPUS_SYNC_ID:d0a91ff0c6cdcfe74091e972563c04e1\nURALCAMPUS_SOURCE:
- preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:238df328d0b3cc103593c0e50112f716@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
@@ -133,6 +81,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Коростина Елизавета Алекс
  андровна\nПара: 2 пара\nДополнительно: 150к
  \nURALCAMPUS_SYNC_ID:238df328d0b3cc103593c0e50112f716\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a91ff0c6cdcfe74091e972563c04e1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
+DTEND;TZID=Asia/Yekaterinburg:20261105T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 2 пара\nДополнительно: 156к
+ \nURALCAMPUS_SYNC_ID:d0a91ff0c6cdcfe74091e972563c04e1\nURALCAMPUS_SOURCE:
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -202,6 +163,97 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:779c8a76c451b23398c34a6dacced102@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T101000
+DTEND;TZID=Asia/Yekaterinburg:20261109T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 2 пара\nДополнительно: 144к
+ \nURALCAMPUS_SYNC_ID:779c8a76c451b23398c34a6dacced102\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dff7e34e6abfc87a583fe261c4f5d2d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T135000
+DTEND;TZID=Asia/Yekaterinburg:20261109T152000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 303\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 147к
+ \nURALCAMPUS_SYNC_ID:dff7e34e6abfc87a583fe261c4f5d2d6\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:47b451a939cc9fe7da1debeb48905e04@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T153000
+DTEND;TZID=Asia/Yekaterinburg:20261109T170000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 5 пара\nДополнительно: 148к
+ \nURALCAMPUS_SYNC_ID:47b451a939cc9fe7da1debeb48905e04\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4b05f070b079c64ff37d9568d11a9be4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T083000
+DTEND;TZID=Asia/Yekaterinburg:20261110T100000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 1 пара\nДополнительно: 149к
+ \nURALCAMPUS_SYNC_ID:4b05f070b079c64ff37d9568d11a9be4\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0e6cb476cbf64e5baf520bf025a0a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T101000
+DTEND;TZID=Asia/Yekaterinburg:20261110T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 2 пара\nДополнительно: 143к
+ \nURALCAMPUS_SYNC_ID:1e0e6cb476cbf64e5baf520bf025a0a5\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:31086fe9d1fdeaafcbb78afd65eebece@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T120000
+DTEND;TZID=Asia/Yekaterinburg:20261110T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 141к
+ \nURALCAMPUS_SYNC_ID:31086fe9d1fdeaafcbb78afd65eebece\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c5c5a314e97ba5b25356ca43761cd90c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T135000
+DTEND;TZID=Asia/Yekaterinburg:20261110T152000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 419\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 142к
+ \nURALCAMPUS_SYNC_ID:c5c5a314e97ba5b25356ca43761cd90c\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:d33698cae4c9f8b37ec49733dcfe959f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
@@ -241,6 +293,58 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:140f259957fe1a5b884e623492320352@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T101000
+DTEND;TZID=Asia/Yekaterinburg:20261112T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 2 пара\nДополнительно: 156к
+ \nURALCAMPUS_SYNC_ID:140f259957fe1a5b884e623492320352\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:961bbc54cb2aff356067e59f060ffa2d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T120000
+DTEND;TZID=Asia/Yekaterinburg:20261112T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 419\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 150к
+ \nURALCAMPUS_SYNC_ID:961bbc54cb2aff356067e59f060ffa2d\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcfadc1890895255a4be2a87788cd9c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T135000
+DTEND;TZID=Asia/Yekaterinburg:20261112T152000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 149к
+ \nURALCAMPUS_SYNC_ID:4dcfadc1890895255a4be2a87788cd9c\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f6ab3b384fd84f2193d72595a83663d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T153000
+DTEND;TZID=Asia/Yekaterinburg:20261112T170000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 5 пара\nДополнительно: 157к
+ \nURALCAMPUS_SYNC_ID:f6ab3b384fd84f2193d72595a83663d2\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:f79d56681369398692915bf20cc5d6a8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
@@ -252,6 +356,123 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Коростина Елизавета Алекс
  андровна\nПара: 2 пара\nДополнительно: 134к
  \nURALCAMPUS_SYNC_ID:f79d56681369398692915bf20cc5d6a8\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc16457af5b273a29d1482201eef265e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
+DTEND;TZID=Asia/Yekaterinburg:20261113T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 146к
+ \nURALCAMPUS_SYNC_ID:dc16457af5b273a29d1482201eef265e\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:73c4ad8ed43b057b3a86942bb6adf2f4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T135000
+DTEND;TZID=Asia/Yekaterinburg:20261113T152000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 145к
+ \nURALCAMPUS_SYNC_ID:73c4ad8ed43b057b3a86942bb6adf2f4\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e649d02b6a9c29cab97c5c7c549fbe56@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T120000
+DTEND;TZID=Asia/Yekaterinburg:20261116T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 144к
+ \nURALCAMPUS_SYNC_ID:e649d02b6a9c29cab97c5c7c549fbe56\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:64c88d1d12adf6f39d0676fa0d216e9e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
+DTEND;TZID=Asia/Yekaterinburg:20261116T152000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 303\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 147к
+ \nURALCAMPUS_SYNC_ID:64c88d1d12adf6f39d0676fa0d216e9e\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:242e298023ecfc0aa9a67da2269d83d6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
+DTEND;TZID=Asia/Yekaterinburg:20261116T170000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 5 пара\nДополнительно: 148к
+ \nURALCAMPUS_SYNC_ID:242e298023ecfc0aa9a67da2269d83d6\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1d8febead663abbc39e67b9d68112f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
+DTEND;TZID=Asia/Yekaterinburg:20261117T100000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 1 пара\nДополнительно: 149к
+ \nURALCAMPUS_SYNC_ID:ee1d8febead663abbc39e67b9d68112f\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1445d66f7eaed9940aa56d1d0d7928c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
+DTEND;TZID=Asia/Yekaterinburg:20261117T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 2 пара\nДополнительно: 143к
+ \nURALCAMPUS_SYNC_ID:1445d66f7eaed9940aa56d1d0d7928c4\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a422edb21d4fe6dc7c728b85a46fe410@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
+DTEND;TZID=Asia/Yekaterinburg:20261117T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 141к
+ \nURALCAMPUS_SYNC_ID:a422edb21d4fe6dc7c728b85a46fe410\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:38ef5744228520c5df640896addc3f2a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
+DTEND;TZID=Asia/Yekaterinburg:20261117T152000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 419\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 142к
+ \nURALCAMPUS_SYNC_ID:38ef5744228520c5df640896addc3f2a\nURALCAMPUS_SOURCE:
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -294,6 +515,58 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:f7f1a4e6d8357886f38f29adb743fa2d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
+DTEND;TZID=Asia/Yekaterinburg:20261119T114000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 202\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 2 пара\nДополнительно: 156к
+ \nURALCAMPUS_SYNC_ID:f7f1a4e6d8357886f38f29adb743fa2d\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7f11ce0bdbd34ef1758cc46d8f253d39@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T120000
+DTEND;TZID=Asia/Yekaterinburg:20261119T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 419\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 150к
+ \nURALCAMPUS_SYNC_ID:7f11ce0bdbd34ef1758cc46d8f253d39\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:39719f1db6cb83af6cb320005fd4180e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T135000
+DTEND;TZID=Asia/Yekaterinburg:20261119T152000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 212\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 149к
+ \nURALCAMPUS_SYNC_ID:39719f1db6cb83af6cb320005fd4180e\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:441e67508c095b0ede53bb6edfff83c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T153000
+DTEND;TZID=Asia/Yekaterinburg:20261119T170000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 204\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 5 пара\nДополнительно: 157к
+ \nURALCAMPUS_SYNC_ID:441e67508c095b0ede53bb6edfff83c4\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:cb9e81b94274dfef5eebfd145669a150@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T101000
@@ -305,6 +578,32 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Коростина Елизавета Алекс
  андровна\nПара: 2 пара\nДополнительно: 134к
  \nURALCAMPUS_SYNC_ID:cb9e81b94274dfef5eebfd145669a150\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8a097bab369ab7c0ee55bdb9c1430184@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
+DTEND;TZID=Asia/Yekaterinburg:20261120T133000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 3 пара\nДополнительно: 145к
+ \nURALCAMPUS_SYNC_ID:8a097bab369ab7c0ee55bdb9c1430184\nURALCAMPUS_SOURCE:
+ preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cd40947c06bd3d3c41111e1d812081dd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T135000
+DTEND;TZID=Asia/Yekaterinburg:20261120T152000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 320\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Коростина Елизавета Алекс
+ андровна\nПара: 4 пара\nДополнительно: 146к
+ \nURALCAMPUS_SYNC_ID:cd40947c06bd3d3c41111e1d812081dd\nURALCAMPUS_SOURCE:
  preco:teacher:39c4e3ee-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

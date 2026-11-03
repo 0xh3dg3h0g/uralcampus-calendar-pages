@@ -19,77 +19,174 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:83bece4a7cc787e5d868d35b4ccd751f@uralcampus-calendar-pages
+UID:9e231ea7ab6991a047231033f34728d6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
-DTEND;TZID=Asia/Yekaterinburg:20261102T100000
-SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Бобнев Сергей Вячеславови
- ч\nПара: 1 пара\nДополнительно: П-170\nURALCAMPUS_
- SYNC_ID:83bece4a7cc787e5d868d35b4ccd751f\nURALCAMPUS_SOURCE:preco:teacher
- :e5577a55-4e02-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7d5b9d79d257aafc7364078fcfd196d3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
-DTEND;TZID=Asia/Yekaterinburg:20261102T133000
-SUMMARY:Особенности проектирования систем 
- газораспределения и газопотребления (А
- удиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Бобнев Сергей Вячеславови
- ч\nПара: 3 пара\nДополнительно: ГС-376\, ГС-376
- А\nURALCAMPUS_SYNC_ID:7d5b9d79d257aafc7364078fcfd196d3\nURALCAMPUS_SOURC
- E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:537e9d9b1c9e4f44cd62c1f441541fca@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T135000
-DTEND;TZID=Asia/Yekaterinburg:20261102T152000
+DTSTART;TZID=Asia/Yekaterinburg:20261103T083000
+DTEND;TZID=Asia/Yekaterinburg:20261103T100000
 SUMMARY:Электротехника и электроника (Аудит
  орные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Бобнев Сергей Вячеславови
- ч\nПара: 4 пара\nДополнительно: ГС-276\nURALCAMPU
- S_SYNC_ID:537e9d9b1c9e4f44cd62c1f441541fca\nURALCAMPUS_SOURCE:preco:teach
+ ч\nПара: 1 пара\nДополнительно: ГС-276\nURALCAMPU
+ S_SYNC_ID:9e231ea7ab6991a047231033f34728d6\nURALCAMPUS_SOURCE:preco:teach
  er:e5577a55-4e02-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:e7e8d4e499050a43d272694401983ca1@uralcampus-calendar-pages
+UID:cb541ffda4db32ccd08a8d2f93c6f5dc@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T153000
-DTEND;TZID=Asia/Yekaterinburg:20261102T170000
+DTSTART;TZID=Asia/Yekaterinburg:20261103T101000
+DTEND;TZID=Asia/Yekaterinburg:20261103T114000
+SUMMARY:Электротехника и электроника (Аудит
+ орные занятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 2 пара\nДополнительно: ГС-276\nURALCAMPU
+ S_SYNC_ID:cb541ffda4db32ccd08a8d2f93c6f5dc\nURALCAMPUS_SOURCE:preco:teach
+ er:e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c1dac6071dbe7c09e29220bb04fde51f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T120000
+DTEND;TZID=Asia/Yekaterinburg:20261103T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 3 пара\nДополнительно: П-170\nURALCAMPUS_
+ SYNC_ID:c1dac6071dbe7c09e29220bb04fde51f\nURALCAMPUS_SOURCE:preco:teacher
+ :e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d9ccda10b1f0f979db510ec298c50858@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T135000
+DTEND;TZID=Asia/Yekaterinburg:20261103T152000
+SUMMARY:Реализация технологических процесс
+ ов монтажа систем газораспределения и г
+ азопотребления (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 4 пара\nДополнительно: ГС-476\, ГС-476
+ А\nURALCAMPUS_SYNC_ID:d9ccda10b1f0f979db510ec298c50858\nURALCAMPUS_SOURC
+ E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:92ed658a89f9a870a0c17c47d95ab10d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T153000
+DTEND;TZID=Asia/Yekaterinburg:20261103T170000
 SUMMARY:Реализация технологических процесс
  ов эксплуатации систем газораспределни
  я и газопотребления (Аудиторные занятия
  )
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 5 пара\nДополнительно: ГС-476\, ГС-476
+ А\nURALCAMPUS_SYNC_ID:92ed658a89f9a870a0c17c47d95ab10d\nURALCAMPUS_SOURC
+ E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:540ae6d219b4b611403b3c7f41730a0f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261103T171000
+DTEND;TZID=Asia/Yekaterinburg:20261103T182000
+SUMMARY:Особенности проектирования систем 
+ газораспределения и газопотребления (А
+ удиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 6 пара\nДополнительно: ГС-376\, ГС-376
+ А\nURALCAMPUS_SYNC_ID:540ae6d219b4b611403b3c7f41730a0f\nURALCAMPUS_SOURC
+ E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cbd32e04d68173a865e1f3b9f5297a91@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T083000
+DTEND;TZID=Asia/Yekaterinburg:20261105T100000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 1а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 1 пара\nДополнительно: ПД-178\nURALCAMPU
+ S_SYNC_ID:cbd32e04d68173a865e1f3b9f5297a91\nURALCAMPUS_SOURCE:preco:teach
+ er:e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:42ef5a7738b84e0a32a5c76ff210ca6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
+DTEND;TZID=Asia/Yekaterinburg:20261105T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 1а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 2 пара\nДополнительно: Б-164\nURALCAMPUS_
+ SYNC_ID:42ef5a7738b84e0a32a5c76ff210ca6b\nURALCAMPUS_SOURCE:preco:teacher
+ :e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8917bf5e92b10154be60dafb2b6e61@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T120000
+DTEND;TZID=Asia/Yekaterinburg:20261105T133000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 3 пара\nДополнительно: Ю-168\nURALCAMPUS_
+ SYNC_ID:dd8917bf5e92b10154be60dafb2b6e61\nURALCAMPUS_SOURCE:preco:teacher
+ :e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7451d43e711ddb2c88d9f343a03a978c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T135000
+DTEND;TZID=Asia/Yekaterinburg:20261105T152000
+SUMMARY:Особенности проектирования систем 
+ газораспределения и газопотребления (А
+ удиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бобнев Сергей Вячеславови
+ ч\nПара: 4 пара\nДополнительно: ГС-376\, ГС-376
+ А\nURALCAMPUS_SYNC_ID:7451d43e711ddb2c88d9f343a03a978c\nURALCAMPUS_SOURC
+ E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6704509fafe97ff5aa0d9e8fc245e715@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T153000
+DTEND;TZID=Asia/Yekaterinburg:20261105T170000
+SUMMARY:Реализация технологических процесс
+ ов монтажа систем газораспределения и г
+ азопотребления (Аудиторные занятия)
 LOCATION:ауд. 5\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Бобнев Сергей Вячеславови
  ч\nПара: 5 пара\nДополнительно: ГС-476\, ГС-476
- А\nURALCAMPUS_SYNC_ID:e7e8d4e499050a43d272694401983ca1\nURALCAMPUS_SOURC
+ А\nURALCAMPUS_SYNC_ID:6704509fafe97ff5aa0d9e8fc245e715\nURALCAMPUS_SOURC
  E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:e952ef0d41913d814200c3794f1ac0b3@uralcampus-calendar-pages
+UID:ab7b960ab8c2009a9f7cfa1cb05a6c99@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T171000
-DTEND;TZID=Asia/Yekaterinburg:20261102T182000
+DTSTART;TZID=Asia/Yekaterinburg:20261105T171000
+DTEND;TZID=Asia/Yekaterinburg:20261105T182000
 SUMMARY:Реализация технологических процесс
- ов эксплуатации систем газораспределни
- я и газопотребления (Аудиторные занятия
- )
+ ов монтажа систем газораспределения и г
+ азопотребления (Аудиторные занятия)
 LOCATION:ауд. 5\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Бобнев Сергей Вячеславови
  ч\nПара: 6 пара\nДополнительно: ГС-476\, ГС-476
- А\nURALCAMPUS_SYNC_ID:e952ef0d41913d814200c3794f1ac0b3\nURALCAMPUS_SOURC
+ А\nURALCAMPUS_SYNC_ID:ab7b960ab8c2009a9f7cfa1cb05a6c99\nURALCAMPUS_SOURC
  E:preco:teacher:e5577a55-4e02-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

@@ -19,6 +19,34 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f4913b434075b8722b024738d05044c6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T083000
+DTEND;TZID=Asia/Yekaterinburg:20261116T100000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 322\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Александрова Юлия Владими
+ ровна\nПара: 1 пара\nДополнительно: 143к\nURAL
+ CAMPUS_SYNC_ID:f4913b434075b8722b024738d05044c6\nURALCAMPUS_SOURCE:preco:
+ teacher:22f5093f-953b-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef3f7649c65e72a5693052c756a40aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T101000
+DTEND;TZID=Asia/Yekaterinburg:20261116T114000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 420\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Александрова Юлия Владими
+ ровна\nПара: 2 пара\nДополнительно: 144к\nURAL
+ CAMPUS_SYNC_ID:0ef3f7649c65e72a5693052c756a40aa\nURALCAMPUS_SOURCE:preco:
+ teacher:22f5093f-953b-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:510d19ec66c94248bc013246621e7c91@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T135000

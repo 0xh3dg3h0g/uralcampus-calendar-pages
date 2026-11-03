@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a673a90454c8dcf77409a6f94bd28d9a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
-DTEND;TZID=Asia/Yekaterinburg:20261102T100000
-SUMMARY:Муниципальное право (Практика)
-LOCATION:ауд. 322\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Ю-201\nПара: 1 пара\nДополнительн
- о: Неровная Н.Н.\nURALCAMPUS_SYNC_ID:a673a90454c8dcf77409a6f94
- bd28d9a\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
-UID:a4ebfae68aee8e38d063d7b62511db48@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
-DTEND;TZID=Asia/Yekaterinburg:20261102T114000
-SUMMARY:Информационное право (Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: Ю-201\nПара: 2 пара\nДополнительн
- о: Кузьмина М.Е.\nURALCAMPUS_SYNC_ID:a4ebfae68aee8e38d063d7b62
- 511db48\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
 UID:a7b7e8c39d6c86896826912c1856a265@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261103T101000
@@ -146,5 +120,33 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Василенко Л. А.\nURALCAMPUS_SYNC_ID:7804519667d1ef63fb7ee9
  087ab43953\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421a
  cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7da3fbfa87c8206f7b0e1f26f41659@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T101000
+DTEND;TZID=Asia/Yekaterinburg:20261107T114000
+SUMMARY:Наследственное право и нотариат (Пр
+ актика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 2 пара\nДополнительн
+ о: Ткаченко Н. Б.\nURALCAMPUS_SYNC_ID:6a7da3fbfa87c8206f7b0e1f
+ 26f41659\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed7520df6ac344a2da8e4d69630c58c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261107T120000
+DTEND;TZID=Asia/Yekaterinburg:20261107T133000
+SUMMARY:Наследственное право и нотариат (Пр
+ актика)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: Ю-201\nПара: 3 пара\nДополнительн
+ о: Ткаченко Н. Б.\nURALCAMPUS_SYNC_ID:2ed7520df6ac344a2da8e4d6
+ 9630c58c\nURALCAMPUS_SOURCE:inueco:group:ac923362-282f-11ed-ad61-04421acb
+ 877d
 END:VEVENT
 END:VCALENDAR

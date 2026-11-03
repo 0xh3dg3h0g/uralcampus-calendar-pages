@@ -17,4 +17,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:35a9c6863b0639d51d4edb49edcb2aec@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T195000
+DTEND;TZID=Asia/Yekaterinburg:20261110T205000
+SUMMARY:Теоретическая механика (Зачет с оце
+ нкой)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗу-201/15\nПара: 8 пара\nДополнит
+ ельно: Саврасова Н. Р.\nURALCAMPUS_SYNC_ID:35a9c6863b0639
+ d51d4edb49edcb2aec\nURALCAMPUS_SOURCE:inueco:group:dd1737ce-58a4-11f0-ad9
+ 3-04421acb877d
+END:VEVENT
 END:VCALENDAR

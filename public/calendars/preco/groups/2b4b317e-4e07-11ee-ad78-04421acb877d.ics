@@ -18,51 +18,63 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e53350d7cbf6f87b3f61e54373a7e1de@uralcampus-calendar-pages
+UID:edfe9a5c182a6792a0f89c04d6818f55@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
-DTEND;TZID=Asia/Yekaterinburg:20261102T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261103T120000
+DTEND;TZID=Asia/Yekaterinburg:20261103T133000
 SUMMARY:Физика (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+LOCATION:ауд. 6\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 1 пара\nДополнительно: Бо
- бнев С.В.\nURALCAMPUS_SYNC_ID:e53350d7cbf6f87b3f61e54373a7e1de\nURA
+ уппа: П-170\nПара: 3 пара\nДополнительно: Бо
+ бнев С.В.\nURALCAMPUS_SYNC_ID:edfe9a5c182a6792a0f89c04d6818f55\nURA
  LCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:4f832d11949870c61ed2d416ef38dcc5@uralcampus-calendar-pages
+UID:0f30f861b4801f3c8c369fca75ea9ab3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T101000
-DTEND;TZID=Asia/Yekaterinburg:20261102T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 2 пара\nДополнительно: Ко
- йшина Е.А.\nURALCAMPUS_SYNC_ID:4f832d11949870c61ed2d416ef38dcc5\nU
- RALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:6e6ae8f8800dc2a138a14f59aa8b666e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T120000
-DTEND;TZID=Asia/Yekaterinburg:20261102T133000
+DTSTART;TZID=Asia/Yekaterinburg:20261103T135000
+DTEND;TZID=Asia/Yekaterinburg:20261103T152000
 SUMMARY:Биология (Аудиторные занятия)
 LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 3 пара\nДополнительно: Ки
- реева Ф.З.\nURALCAMPUS_SYNC_ID:6e6ae8f8800dc2a138a14f59aa8b666e\nU
+ уппа: П-170\nПара: 4 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:0f30f861b4801f3c8c369fca75ea9ab3\nU
  RALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:37671412a4f47706f5c49806ceb76d72@uralcampus-calendar-pages
+UID:32e6c509144ac50244facc1bd259c37b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T135000
-DTEND;TZID=Asia/Yekaterinburg:20261102T152000
-SUMMARY:Математика (Аудиторные занятия)
+DTSTART;TZID=Asia/Yekaterinburg:20261105T083000
+DTEND;TZID=Asia/Yekaterinburg:20261105T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170\nПара: 1 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:32e6c509144ac50244facc1bd259c37b\nU
+ RALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:31b198989d500384c8bc3d27b9abfb2c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
+DTEND;TZID=Asia/Yekaterinburg:20261105T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-170\nПара: 2 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:31b198989d500384c8bc3d27b9abfb2c\
+ nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e07106738e19e1d1e4acd29e59a1056e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T120000
+DTEND;TZID=Asia/Yekaterinburg:20261105T133000
+SUMMARY:Литература (Аудиторные занятия)
 LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-170\nПара: 4 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:37671412a4f47706f5c49806ceb76d72\
- nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
+ уппа: П-170\nПара: 3 пара\nДополнительно: Ин
+ дирбаева Э. А.\nURALCAMPUS_SYNC_ID:e07106738e19e1d1e4acd29e59a1
+ 056e\nURALCAMPUS_SOURCE:preco:group:2b4b317e-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

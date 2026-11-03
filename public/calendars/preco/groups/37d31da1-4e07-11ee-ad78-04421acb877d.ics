@@ -18,27 +18,52 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:74349de1d5a4399d4e0d4714a3179fb2@uralcampus-calendar-pages
+UID:81c198a818e889783dc7e8cc3454db6c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T135000
-DTEND;TZID=Asia/Yekaterinburg:20261102T152000
+DTSTART;TZID=Asia/Yekaterinburg:20261103T120000
+DTEND;TZID=Asia/Yekaterinburg:20261103T133000
 SUMMARY:Химия (Аудиторные занятия)
 LOCATION:ауд. 3.1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-162\nПара: 4 пара\nДополнительно: Ки
- реева Ф.З.\nURALCAMPUS_SYNC_ID:74349de1d5a4399d4e0d4714a3179fb2\nU
+ уппа: Ф-162\nПара: 3 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:81c198a818e889783dc7e8cc3454db6c\nU
  RALCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:53b59886dbc9a85680ea4a352ee09539@uralcampus-calendar-pages
+UID:b8f788f46b13d66a8a63484a41953096@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261102T153000
-DTEND;TZID=Asia/Yekaterinburg:20261102T170000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 1\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261103T135000
+DTEND;TZID=Asia/Yekaterinburg:20261103T152000
+SUMMARY:Иностранный язык(подгруппа:Ф-162 (2)) (А
+ удиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф-162\nПара: 5 пара\nДополнительно: Си
- тников П.В.\nURALCAMPUS_SYNC_ID:53b59886dbc9a85680ea4a352ee09539\
+ уппа: Ф-162\nПара: 4 пара\nДополнительно: Ма
+ ксютова З.Г.\nURALCAMPUS_SYNC_ID:b8f788f46b13d66a8a63484a4195309
+ 6\nURALCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b2addc3cd365608f7952c2fe21197d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T083000
+DTEND;TZID=Asia/Yekaterinburg:20261105T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-162\nПара: 1 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:b3b2addc3cd365608f7952c2fe21197d\
  nURALCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:522567810dde910a25dc0ce1128ac968@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
+DTEND;TZID=Asia/Yekaterinburg:20261105T114000
+SUMMARY:Биология (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф-162\nПара: 2 пара\nДополнительно: Ки
+ реева Ф.З.\nURALCAMPUS_SYNC_ID:522567810dde910a25dc0ce1128ac968\nU
+ RALCAMPUS_SOURCE:preco:group:37d31da1-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
