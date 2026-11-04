@@ -18,46 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d4e624f1fccc093c9f7c06e43a9536da@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T083000
-DTEND;TZID=Asia/Yekaterinburg:20261103T100000
-SUMMARY:Электротехника и электроника (Аудит
- орные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 1 пара\nДополнительно: Б
- обнев С.В.\nURALCAMPUS_SYNC_ID:d4e624f1fccc093c9f7c06e43a9536da\nU
- RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a404ed965385876a00eb3dba59534fca@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T101000
-DTEND;TZID=Asia/Yekaterinburg:20261103T114000
-SUMMARY:Электротехника и электроника (Аудит
- орные занятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 2 пара\nДополнительно: Б
- обнев С.В.\nURALCAMPUS_SYNC_ID:a404ed965385876a00eb3dba59534fca\nU
- RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d3fde629bc2cc01f6d89ff5bf975f5c3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T120000
-DTEND;TZID=Asia/Yekaterinburg:20261103T133000
-SUMMARY:Математические методы решения прик
- ладных профессиональных задач (Аудитор
- ные занятия)
-LOCATION:ауд. 8\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 3 пара\nДополнительно: С
- мирнова Н.В.\nURALCAMPUS_SYNC_ID:d3fde629bc2cc01f6d89ff5bf975f5c
- 3\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:1fa8b41ccddfd38049c220de41ca286e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T083000
@@ -83,5 +43,45 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ГС-276\nПара: 2 пара\nДополнительно: С
  мирнова Н.В.\nURALCAMPUS_SYNC_ID:c66c685262b088dca1345a7ce55cf01
  6\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:547049fb8ee7a216a39535d8a8574985@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
+DTEND;TZID=Asia/Yekaterinburg:20261106T100000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 1 пара\nДополнительно: М
+ аксютова З.Г.\nURALCAMPUS_SYNC_ID:547049fb8ee7a216a39535d8a8574
+ 985\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f5bb14c0ba85b58f4b9fab73833f90c8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T101000
+DTEND;TZID=Asia/Yekaterinburg:20261106T114000
+SUMMARY:Математические методы решения прик
+ ладных профессиональных задач (Аудитор
+ ные занятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 2 пара\nДополнительно: С
+ мирнова Н.В.\nURALCAMPUS_SYNC_ID:f5bb14c0ba85b58f4b9fab73833f90c
+ 8\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f3c04a13cab3309d28f9337363cd00@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
+DTEND;TZID=Asia/Yekaterinburg:20261106T133000
+SUMMARY:Основы гидравлики\, теплотехники и а
+ эродинамики (Аудиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 3 пара\nДополнительно: Е
+ рина М.А.\nURALCAMPUS_SYNC_ID:b6f3c04a13cab3309d28f9337363cd00\nURA
+ LCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

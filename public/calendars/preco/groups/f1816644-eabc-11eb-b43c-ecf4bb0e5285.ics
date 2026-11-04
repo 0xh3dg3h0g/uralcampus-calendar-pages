@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3eb8f2b61253cd0cbd00f0758704cd8d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T120000
-DTEND;TZID=Asia/Yekaterinburg:20261103T133000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 102\nПара: 3 пара\nДополнительно: Зено
- ва И.А.\nURALCAMPUS_SYNC_ID:3eb8f2b61253cd0cbd00f0758704cd8d\nURALCAM
- PUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:d99e1f1448e165943a641316780e61b8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T135000
-DTEND;TZID=Asia/Yekaterinburg:20261103T152000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 102\nПара: 4 пара\nДополнительно: Пано
- ва Л.В.\nURALCAMPUS_SYNC_ID:d99e1f1448e165943a641316780e61b8\nURALCAM
- PUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:f67b85bccceda40c36fb2cde3b6f2bb9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T135000
@@ -78,15 +54,15 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  5\nURALCAMPUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
-UID:540823bfd8f7a17ab31fdd5ee3776317@uralcampus-calendar-pages
+UID:58f0007e31a97e1e8bb71c23afc10534@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T135000
 DTEND;TZID=Asia/Yekaterinburg:20261106T152000
 SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 403\, Комаровского 9А
+LOCATION:ауд. 503\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 102\nПара: 4 пара\nДополнительно: Друж
- инин В.А.\nURALCAMPUS_SYNC_ID:540823bfd8f7a17ab31fdd5ee3776317\nURA
+ инин В.А.\nURALCAMPUS_SYNC_ID:58f0007e31a97e1e8bb71c23afc10534\nURA
  LCAMPUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
@@ -350,6 +326,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  RALCAMPUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
+UID:1b8c609d403b26b5b759872ad2f6e5b6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
+DTEND;TZID=Asia/Yekaterinburg:20261117T114000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 102\nПара: 2 пара\nДополнительно: Зено
+ ва И.А.\nURALCAMPUS_SYNC_ID:1b8c609d403b26b5b759872ad2f6e5b6\nURALCAM
+ PUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
 UID:d61df9776e13a22641a434fbb9a3e205@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
@@ -359,30 +347,6 @@ LOCATION:ауд. 501\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 102\nПара: 3 пара\nДополнительно: Зено
  ва И.А.\nURALCAMPUS_SYNC_ID:d61df9776e13a22641a434fbb9a3e205\nURALCAM
- PUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:1598c8f3651b29e1b8b874002296287e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
-DTEND;TZID=Asia/Yekaterinburg:20261117T152000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 102\nПара: 4 пара\nДополнительно: Пано
- ва Л.В.\nURALCAMPUS_SYNC_ID:1598c8f3651b29e1b8b874002296287e\nURALCAM
- PUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:bc96dd00f0ce83f54cef104fb7448fc2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T153000
-DTEND;TZID=Asia/Yekaterinburg:20261117T170000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 102\nПара: 5 пара\nДополнительно: Зено
- ва И.А.\nURALCAMPUS_SYNC_ID:bc96dd00f0ce83f54cef104fb7448fc2\nURALCAM
  PUS_SOURCE:preco:group:f1816644-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT

@@ -18,33 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a5d414e571a029b457f6d75988be362a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T083000
-DTEND;TZID=Asia/Yekaterinburg:20261103T100000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 4а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-278\nПара: 1 пара\nДополнительно: С
- афиханова М.П.\nURALCAMPUS_SYNC_ID:a5d414e571a029b457f6d75988b
- e362a\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1ed42c3c43b7bb515f8ce431a3b4a585@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261103T101000
-DTEND;TZID=Asia/Yekaterinburg:20261103T114000
-SUMMARY:Информационные технологии в профес
- сиональной деятельности (Аудиторные за
- нятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ПД-278\nПара: 2 пара\nДополнительно: М
- алышева С.И.\nURALCAMPUS_SYNC_ID:1ed42c3c43b7bb515f8ce431a3b4a58
- 5\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:80bac56825464358666b3ae77d93b454@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T083000
@@ -82,5 +55,45 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ПД-278\nПара: 3 пара\nДополнительно: С
  афиханова М.П.\nURALCAMPUS_SYNC_ID:a52f628b4095b63cb6602744caa
  ee531\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:037ab9390fb03a859c37dfcf378b3f85@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
+DTEND;TZID=Asia/Yekaterinburg:20261106T100000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278\nПара: 1 пара\nДополнительно: М
+ алышева С.И.\nURALCAMPUS_SYNC_ID:037ab9390fb03a859c37dfcf378b3f8
+ 5\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b58dc1a559b5b5b0dfbfe40b31cee9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T101000
+DTEND;TZID=Asia/Yekaterinburg:20261106T114000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278\nПара: 2 пара\nДополнительно: К
+ равченко Е.В.\nURALCAMPUS_SYNC_ID:c0b58dc1a559b5b5b0dfbfe40b31c
+ ee9\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d8bb7d02c44be07bec7c413df28040dc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
+DTEND;TZID=Asia/Yekaterinburg:20261106T133000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПД-278\nПара: 3 пара\nДополнительно: У
+ стинова Г.И.\nURALCAMPUS_SYNC_ID:d8bb7d02c44be07bec7c413df28040d
+ c\nURALCAMPUS_SOURCE:preco:group:5e9db8c7-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
