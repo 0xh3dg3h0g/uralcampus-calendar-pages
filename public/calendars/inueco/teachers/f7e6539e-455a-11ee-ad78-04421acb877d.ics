@@ -18,4 +18,17 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:143b54ba6322d97e1d01c67bc00453e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T101000
+DTEND;TZID=Asia/Yekaterinburg:20261109T114000
+SUMMARY:Информационное право (Практика)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кузьмина Маргарита Ев
+ геньевна\nПара: 2 пара\nДополнительно: Ю-20
+ 1\nURALCAMPUS_SYNC_ID:143b54ba6322d97e1d01c67bc00453e8\nURALCAMPUS_SOURCE
+ :inueco:teacher:f7e6539e-455a-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

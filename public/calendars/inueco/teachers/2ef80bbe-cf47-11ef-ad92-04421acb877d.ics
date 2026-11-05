@@ -18,4 +18,57 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:7eb654626fb858138888fcb7050db3d7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T101000
+DTEND;TZID=Asia/Yekaterinburg:20261109T114000
+SUMMARY:История искусств и архитектуры (Пра
+ ктика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лаврова Клёна Борисов
+ на\nПара: 2 пара\nДополнительно: А-210\nURALCAMPU
+ S_SYNC_ID:7eb654626fb858138888fcb7050db3d7\nURALCAMPUS_SOURCE:inueco:teac
+ her:2ef80bbe-cf47-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b058da2dec875ee114c4adb3d1519a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T120000
+DTEND;TZID=Asia/Yekaterinburg:20261109T133000
+SUMMARY:Теория архитектуры (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лаврова Клёна Борисов
+ на\nПара: 3 пара\nДополнительно: А-210\nURALCAMPU
+ S_SYNC_ID:a1b058da2dec875ee114c4adb3d1519a\nURALCAMPUS_SOURCE:inueco:teac
+ her:2ef80bbe-cf47-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc7422b0cb5dce9936dd45bb7b5cc92@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T135000
+DTEND;TZID=Asia/Yekaterinburg:20261109T152000
+SUMMARY:Теория архитектуры (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лаврова Клёна Борисов
+ на\nПара: 4 пара\nДополнительно: А-210\nURALCAMPU
+ S_SYNC_ID:4cc7422b0cb5dce9936dd45bb7b5cc92\nURALCAMPUS_SOURCE:inueco:teac
+ her:2ef80bbe-cf47-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:432d44c8c23f797beb03bba9c0a122f6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T153000
+DTEND;TZID=Asia/Yekaterinburg:20261109T170000
+SUMMARY:Новейшая архитектура (Лекция)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Лаврова Клёна Борисов
+ на\nПара: 5 пара\nДополнительно: А-410\nURALCAMPU
+ S_SYNC_ID:432d44c8c23f797beb03bba9c0a122f6\nURALCAMPUS_SOURCE:inueco:teac
+ her:2ef80bbe-cf47-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR

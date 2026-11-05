@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:51bb62df13dcab5812c14b8d3f808f6f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T101000
+DTEND;TZID=Asia/Yekaterinburg:20261110T114000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пищулина Татьяна Вале
+ рьевна\nПара: 2 пара\nДополнительно: СПД-11
+ 2\, Ю-101\nURALCAMPUS_SYNC_ID:51bb62df13dcab5812c14b8d3f808f6f\nURALCAMP
+ US_SOURCE:inueco:teacher:3d4a4f13-22a7-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c58cc478965ccc772412ee6ce3ae785f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T120000
+DTEND;TZID=Asia/Yekaterinburg:20261110T133000
+SUMMARY:Теория государства и права (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Пищулина Татьяна Вале
+ рьевна\nПара: 3 пара\nДополнительно: СПД-11
+ 2\, Ю-101\nURALCAMPUS_SYNC_ID:c58cc478965ccc772412ee6ce3ae785f\nURALCAMP
+ US_SOURCE:inueco:teacher:3d4a4f13-22a7-11ed-9504-001e679d7828
+END:VEVENT
 END:VCALENDAR

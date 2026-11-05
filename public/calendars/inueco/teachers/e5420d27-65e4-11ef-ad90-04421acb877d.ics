@@ -19,7 +19,7 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:27748ef6e3c148df1cdd20382b5aa0a6@uralcampus-calendar-pages
+UID:afb5bccf1330950c64f41b0476893a25@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T170000
 DTEND;TZID=Asia/Yekaterinburg:20261107T181000
@@ -29,14 +29,14 @@ LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Тейтельбаум Евгений Г
  ригорьевич\nПара: 6 пара\nДополнительно: 
- ГМУЗ-201/01\, ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, 
- ГМУЗ-201/04а\, ГМУЗ-201/05а\, ГМУЗ-201/06\, ГМУЗ-201/07
- \, ГМУЗ-201/07б\, ГМУЗ-201/08\, ГМУЗД-201\nURALCAMPUS_SYNC_
- ID:27748ef6e3c148df1cdd20382b5aa0a6\nURALCAMPUS_SOURCE:inueco:teacher:e54
- 20d27-65e4-11ef-ad90-04421acb877d
+ ГМУЗ-201/02\, ГМУЗ-201/03\, ГМУЗ-201/04\, ГМУЗ-201/04а\,
+  ГМУЗ-201/07б\, ГМУЗД-201\, ГМУЗ-201/07\, ГМУЗ-201/06\,
+  ГМУЗ-201/01\, ГМУЗ-201/08\, ГМУЗ-201/05а\nURALCAMPUS_SYNC_I
+ D:afb5bccf1330950c64f41b0476893a25\nURALCAMPUS_SOURCE:inueco:teacher:e542
+ 0d27-65e4-11ef-ad90-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:ac938c8149e93ecc4fff0d2f35b3e2c5@uralcampus-calendar-pages
+UID:00a90d022ddc75c34aa4fb3531bf9b60@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T182000
 DTEND;TZID=Asia/Yekaterinburg:20261107T193000
@@ -46,8 +46,40 @@ LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Тейтельбаум Евгений Г
  ригорьевич\nПара: 7 пара\nДополнительно: 
- ГМУЗ-201/11\, ГМУЗ-201/12\, ГМУЗ-201/12а\, ГМУЗ-201/13\,
-  ГМУЗ-201/13а\nURALCAMPUS_SYNC_ID:ac938c8149e93ecc4fff0d2f35b3e2c5\n
+ ГМУЗ-201/13а\, ГМУЗ-201/12а\, ГМУЗ-201/11\, ГМУЗ-201/12
+ \, ГМУЗ-201/13\nURALCAMPUS_SYNC_ID:00a90d022ddc75c34aa4fb3531bf9b60\n
+ URALCAMPUS_SOURCE:inueco:teacher:e5420d27-65e4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:980270cd67e92df3de88dccba21290b9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T170000
+DTEND;TZID=Asia/Yekaterinburg:20261114T181000
+SUMMARY:История государственного управлени
+ я в России (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Тейтельбаум Евгений Г
+ ригорьевич\nПара: 6 пара\nДополнительно: 
+ ГМУЗ-201/07б\, ГМУЗ-201/04а\, ГМУЗ-201/04\, ГМУЗ-201/03
+ \, ГМУЗ-201/02\, ГМУЗ-201/08\, ГМУЗ-201/05а\, ГМУЗ-201/0
+ 1\, ГМУЗ-201/06\, ГМУЗ-201/07\, ГМУЗД-201\nURALCAMPUS_SYNC_I
+ D:980270cd67e92df3de88dccba21290b9\nURALCAMPUS_SOURCE:inueco:teacher:e542
+ 0d27-65e4-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e67eeab676a1f876223df313d5613a25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T182000
+DTEND;TZID=Asia/Yekaterinburg:20261114T193000
+SUMMARY:История государственного управлени
+ я в России (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Тейтельбаум Евгений Г
+ ригорьевич\nПара: 7 пара\nДополнительно: 
+ ГМУЗ-201/12а\, ГМУЗ-201/11\, ГМУЗ-201/12\, ГМУЗ-201/13а
+ \, ГМУЗ-201/13\nURALCAMPUS_SYNC_ID:e67eeab676a1f876223df313d5613a25\n
  URALCAMPUS_SOURCE:inueco:teacher:e5420d27-65e4-11ef-ad90-04421acb877d
 END:VEVENT
 END:VCALENDAR

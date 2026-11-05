@@ -18,19 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1fa8b41ccddfd38049c220de41ca286e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T083000
-DTEND;TZID=Asia/Yekaterinburg:20261105T100000
-SUMMARY:Техническая механика (Аудиторные за
- нятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 1 пара\nДополнительно: Е
- рина М.А.\nURALCAMPUS_SYNC_ID:1fa8b41ccddfd38049c220de41ca286e\nURA
- LCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c66c685262b088dca1345a7ce55cf016@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
@@ -70,18 +57,5 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ГС-276\nПара: 2 пара\nДополнительно: С
  мирнова Н.В.\nURALCAMPUS_SYNC_ID:f5bb14c0ba85b58f4b9fab73833f90c
  8\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b6f3c04a13cab3309d28f9337363cd00@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
-DTEND;TZID=Asia/Yekaterinburg:20261106T133000
-SUMMARY:Основы гидравлики\, теплотехники и а
- эродинамики (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 3 пара\nДополнительно: Е
- рина М.А.\nURALCAMPUS_SYNC_ID:b6f3c04a13cab3309d28f9337363cd00\nURA
- LCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
