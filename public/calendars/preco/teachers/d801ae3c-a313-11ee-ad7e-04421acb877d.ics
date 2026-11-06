@@ -19,22 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:88acf8f208e0e4611b3ec59645b5cfd3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
-DTEND;TZID=Asia/Yekaterinburg:20261105T114000
-SUMMARY:Сестринский уход и реабилитация пац
- иентов терапевтического профиля разных
-  возрастных групп (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Иванов Вячеслав Сергеевич\
- nПара: 2 пара\nДополнительно: СД-352к\nURALCAMPUS
- _SYNC_ID:88acf8f208e0e4611b3ec59645b5cfd3\nURALCAMPUS_SOURCE:preco:teache
- r:d801ae3c-a313-11ee-ad7e-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c8bdb21c565668974004dc5835989a61@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T101000
@@ -97,6 +81,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 4 пара\nДополнительно: СД-352к\nURALCAMPUS
  _SYNC_ID:a5978500518ab2afbcf6708cd2fe1eef\nURALCAMPUS_SOURCE:preco:teache
  r:d801ae3c-a313-11ee-ad7e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2b9632b39ce10a965385363dde951a53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T083000
+DTEND;TZID=Asia/Yekaterinburg:20261112T100000
+SUMMARY:Генетика человека с основами медици
+ нской генетики (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иванов Вячеслав Сергеевич\
+ nПара: 1 пара\nДополнительно: СД/оз-224А\nURALC
+ AMPUS_SYNC_ID:2b9632b39ce10a965385363dde951a53\nURALCAMPUS_SOURCE:preco:t
+ eacher:d801ae3c-a313-11ee-ad7e-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:de28e890ad9e13883e7e311b0161e159@uralcampus-calendar-pages
@@ -219,6 +217,21 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 3 пара\nДополнительно: СД-352к\nURALCAMPUS
  _SYNC_ID:1b822f4a36a7c1f4795c87693a8696a3\nURALCAMPUS_SOURCE:preco:teache
  r:d801ae3c-a313-11ee-ad7e-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8b8b1d2fc7cef839b512a47cf516f271@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T083000
+DTEND;TZID=Asia/Yekaterinburg:20261118T100000
+SUMMARY:Генетика человека с основами медици
+ нской генетики (Экзамен)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иванов Вячеслав Сергеевич\
+ nПара: 1 пара\nДополнительно: СД/оз-224А\nURALC
+ AMPUS_SYNC_ID:8b8b1d2fc7cef839b512a47cf516f271\nURALCAMPUS_SOURCE:preco:t
+ eacher:d801ae3c-a313-11ee-ad7e-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:074290b459906a2345fa6a8071d9fd3a@uralcampus-calendar-pages

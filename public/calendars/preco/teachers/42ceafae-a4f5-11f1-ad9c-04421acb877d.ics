@@ -19,6 +19,20 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:807b595279ec31fdb96295b40e5cace7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T171000
+DTEND;TZID=Asia/Yekaterinburg:20261112T182000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 313\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Рогозина Ксения Евгеньевн
+ а\nПара: 6 пара\nДополнительно: Ф/оз-202А\nURAL
+ CAMPUS_SYNC_ID:807b595279ec31fdb96295b40e5cace7\nURALCAMPUS_SOURCE:preco:
+ teacher:42ceafae-a4f5-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:3fc31e2666c19a3d06809b1926aa72bc@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T083000

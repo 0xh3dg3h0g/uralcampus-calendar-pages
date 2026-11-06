@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f2b8a8c408ffa2fd1ec85227f9c276f8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T183000
-DTEND;TZID=Asia/Yekaterinburg:20261105T194000
-SUMMARY:Государственное и муниципальное уп
- равление (Лекция)
-LOCATION:ауд. 318\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ГМУЗ-201/11\nПара: 7 пара\nДополни
- тельно: Орлов П.А.\nURALCAMPUS_SYNC_ID:f2b8a8c408ffa2fd1ec85
- 227f9c276f8\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e8-282f-11ed-ad61-04421
- acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:664540791fe31d7baa9d178747a937ed@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T195000
-DTEND;TZID=Asia/Yekaterinburg:20261105T205000
-SUMMARY:Государственное и муниципальное уп
- равление (Лекция)
-LOCATION:ауд. 318\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ГМУЗ-201/11\nПара: 8 пара\nДополни
- тельно: Орлов П.А.\nURALCAMPUS_SYNC_ID:664540791fe31d7baa9d1
- 78747a937ed\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e8-282f-11ed-ad61-04421
- acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:b5c2a3f754ed2ddd3abc79b892e35a46@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T182000
@@ -60,17 +32,71 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  d-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:1ae31ddd39af4ff8332a1b59edfb8f21@uralcampus-calendar-pages
+UID:817f2e8d2b70edb3bc4a9ce2e6882c62@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T182000
-DTEND;TZID=Asia/Yekaterinburg:20261114T193000
-SUMMARY:История государственного управлени
- я в России (Практика)
-LOCATION:ауд. 0
+DTSTART;TZID=Asia/Yekaterinburg:20261110T171000
+DTEND;TZID=Asia/Yekaterinburg:20261110T182000
+SUMMARY:Государственное и муниципальное уп
+ равление (Практика)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/11\nПара: 6 пара\nДополни
+ тельно: Орлов П.А.\nURALCAMPUS_SYNC_ID:817f2e8d2b70edb3bc4a9
+ ce2e6882c62\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e8-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4e5ed1e8b2ee319eab34bbc1f686a918@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T183000
+DTEND;TZID=Asia/Yekaterinburg:20261110T194000
+SUMMARY:Государственное и муниципальное уп
+ равление (Практика)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ГМУЗ-201/11\nПара: 7 пара\nДополни
- тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:1ae31ddd3
- 9af4ff8332a1b59edfb8f21\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e8-282f-11e
- d-ad61-04421acb877d
+ тельно: Орлов П.А.\nURALCAMPUS_SYNC_ID:4e5ed1e8b2ee319eab34b
+ bc1f686a918\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e8-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3b20b3f7712142456c5978e4632f69a2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T195000
+DTEND;TZID=Asia/Yekaterinburg:20261110T205000
+SUMMARY:Государственное и муниципальное уп
+ равление (Практика)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/11\nПара: 8 пара\nДополни
+ тельно: Орлов П.А.\nURALCAMPUS_SYNC_ID:3b20b3f7712142456c597
+ 8e4632f69a2\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e8-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:93a545f2cd41e7b8eff2419cff136969@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T134000
+DTEND;TZID=Asia/Yekaterinburg:20261114T151000
+SUMMARY:Административное право (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/11\nПара: 4 пара\nДополни
+ тельно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:93a545f2cd
+ 41e7b8eff2419cff136969\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e8-282f-11ed
+ -ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:575fa2fbee46c02f81fe25bda84c9f86@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T152000
+DTEND;TZID=Asia/Yekaterinburg:20261114T165000
+SUMMARY:Административное право (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-201/11\nПара: 5 пара\nДополни
+ тельно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:575fa2fbee
+ 46c02f81fe25bda84c9f86\nURALCAMPUS_SOURCE:inueco:group:9ae7f8e8-282f-11ed
+ -ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

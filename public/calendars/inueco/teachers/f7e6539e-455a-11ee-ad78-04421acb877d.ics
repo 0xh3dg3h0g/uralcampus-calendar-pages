@@ -19,16 +19,45 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:143b54ba6322d97e1d01c67bc00453e8@uralcampus-calendar-pages
+UID:27dbc20969965031ea76cd8c81fc1da9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T101000
-DTEND;TZID=Asia/Yekaterinburg:20261109T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261109T120000
+DTEND;TZID=Asia/Yekaterinburg:20261109T133000
 SUMMARY:Информационное право (Практика)
 LOCATION:ауд. 319\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Кузьмина Маргарита Ев
- геньевна\nПара: 2 пара\nДополнительно: Ю-20
- 1\nURALCAMPUS_SYNC_ID:143b54ba6322d97e1d01c67bc00453e8\nURALCAMPUS_SOURCE
+ геньевна\nПара: 3 пара\nДополнительно: Ю-20
+ 1\nURALCAMPUS_SYNC_ID:27dbc20969965031ea76cd8c81fc1da9\nURALCAMPUS_SOURCE
  :inueco:teacher:f7e6539e-455a-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b90aea78647a8a4bec8e3ffaa22a3423@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T171000
+DTEND;TZID=Asia/Yekaterinburg:20261110T182000
+SUMMARY:Трудовое право (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кузьмина Маргарита Ев
+ геньевна\nПара: 6 пара\nДополнительно: ЮЗ-
+ 401/01\, ЮЗ-401/02\, ЮЗ-401/03\, ЮЗ-401/05\nURALCAMPUS_SYNC_ID:b90a
+ ea78647a8a4bec8e3ffaa22a3423\nURALCAMPUS_SOURCE:inueco:teacher:f7e6539e-4
+ 55a-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3936a507ac6944f972a27b91c5bd037f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T171000
+DTEND;TZID=Asia/Yekaterinburg:20261112T182000
+SUMMARY:Трудовое право (Практика)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Кузьмина Маргарита Ев
+ геньевна\nПара: 6 пара\nДополнительно: ЮЗ-
+ 401/04\, ЮЗ-401/04а\, ЮЗ-401/06\, ЮЗ-401/07\, ЮЗ-401/07б\, ЮЗ
+ -401/08\, ЮЗ-401/09\, ЮЗ-401/11\, ЮЗ-401/12\, ЮЗ-401/13\, ЮЗ-40
+ 1/13а\, ЮЗД-401\nURALCAMPUS_SYNC_ID:3936a507ac6944f972a27b91c5bd037f\
+ nURALCAMPUS_SOURCE:inueco:teacher:f7e6539e-455a-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

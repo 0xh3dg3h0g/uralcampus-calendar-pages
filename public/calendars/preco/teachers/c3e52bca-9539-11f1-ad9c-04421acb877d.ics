@@ -19,84 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1246cc38f93e5500ae05148830ae2e09@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T083000
-DTEND;TZID=Asia/Yekaterinburg:20261105T100000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 202\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Жигулев Владимир Игоревич\
- nПара: 1 пара\nДополнительно: 156к\nURALCAMPUS_SYNC
- _ID:1246cc38f93e5500ae05148830ae2e09\nURALCAMPUS_SOURCE:preco:teacher:c3e
- 52bca-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ddb2abda58a19d2e6747e0150b4b3335@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T101000
-DTEND;TZID=Asia/Yekaterinburg:20261105T114000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 303\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Жигулев Владимир Игоревич\
- nПара: 2 пара\nДополнительно: 148к\nURALCAMPUS_SYNC
- _ID:ddb2abda58a19d2e6747e0150b4b3335\nURALCAMPUS_SOURCE:preco:teacher:c3e
- 52bca-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:db9f4543376f861c6ea8e4876079833e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T120000
-DTEND;TZID=Asia/Yekaterinburg:20261105T133000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 202\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Жигулев Владимир Игоревич\
- nПара: 3 пара\nДополнительно: 156к\nURALCAMPUS_SYNC
- _ID:db9f4543376f861c6ea8e4876079833e\nURALCAMPUS_SOURCE:preco:teacher:c3e
- 52bca-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:81405b7ce6fb390a6a1204cc2f564323@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T135000
-DTEND;TZID=Asia/Yekaterinburg:20261105T152000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 303\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Жигулев Владимир Игоревич\
- nПара: 4 пара\nДополнительно: 147к\nURALCAMPUS_SYNC
- _ID:81405b7ce6fb390a6a1204cc2f564323\nURALCAMPUS_SOURCE:preco:teacher:c3e
- 52bca-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e34401eacd91a9e06f0d5c0c2d84e33a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T153000
-DTEND;TZID=Asia/Yekaterinburg:20261105T170000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 303\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Жигулев Владимир Игоревич\
- nПара: 5 пара\nДополнительно: 147к\nURALCAMPUS_SYNC
- _ID:e34401eacd91a9e06f0d5c0c2d84e33a\nURALCAMPUS_SOURCE:preco:teacher:c3e
- 52bca-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4c73a84202a628f6c6e8d85de1357981@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T171000
-DTEND;TZID=Asia/Yekaterinburg:20261105T182000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 212\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Жигулев Владимир Игоревич\
- nПара: 6 пара\nДополнительно: 149к\nURALCAMPUS_SYNC
- _ID:4c73a84202a628f6c6e8d85de1357981\nURALCAMPUS_SOURCE:preco:teacher:c3e
- 52bca-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:d3cfd2e6c981bb086afcba6b9b07d95e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
@@ -282,6 +204,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  52bca-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:f886ee4042dd61846935253e9b58c0ad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
+DTEND;TZID=Asia/Yekaterinburg:20261111T114000
+SUMMARY:Основы философии (Аудиторные заняти
+ я)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 2 пара\nДополнительно: Ф/оз-202А\nURALCAM
+ PUS_SYNC_ID:f886ee4042dd61846935253e9b58c0ad\nURALCAMPUS_SOURCE:preco:tea
+ cher:c3e52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:fc879576803b3981c7fee6a3f59075c7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
@@ -425,6 +361,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:c3e52bca-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:64b7d9aa7e045099481f24121f802bf4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
+DTEND;TZID=Asia/Yekaterinburg:20261113T114000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 312\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 2 пара\nДополнительно: СД/оз-224А\nURALC
+ AMPUS_SYNC_ID:64b7d9aa7e045099481f24121f802bf4\nURALCAMPUS_SOURCE:preco:t
+ eacher:c3e52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:6128ec0626bcaa5f53e0d6e47f21aa2d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
@@ -436,6 +385,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 2 пара\nДополнительно: 150к\nURALCAMPUS_SYNC
  _ID:6128ec0626bcaa5f53e0d6e47f21aa2d\nURALCAMPUS_SOURCE:preco:teacher:c3e
  52bca-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:50a2483dfb68748f01cf5fd9e7bad94b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
+DTEND;TZID=Asia/Yekaterinburg:20261113T133000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Жигулев Владимир Игоревич\
+ nПара: 3 пара\nДополнительно: СД/оз-223А\nURALC
+ AMPUS_SYNC_ID:50a2483dfb68748f01cf5fd9e7bad94b\nURALCAMPUS_SOURCE:preco:t
+ eacher:c3e52bca-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:cb35108f2e6e89721bd5cdc75d22c036@uralcampus-calendar-pages

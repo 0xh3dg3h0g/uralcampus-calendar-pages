@@ -17,4 +17,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:e213fb7d086422f852387e819d9a6b45@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T171000
+DTEND;TZID=Asia/Yekaterinburg:20261111T182000
+SUMMARY:Производственная практика (преддип
+ ломная практика) (Зачет по практике)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-501\nПара: 6 пара\nДополните
+ льно: Огнев И.И.\nURALCAMPUS_SYNC_ID:e213fb7d086422f852387e819
+ d9a6b45\nURALCAMPUS_SOURCE:inueco:group:a695342f-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
 END:VCALENDAR

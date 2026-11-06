@@ -18,48 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:26ca6d21b178e75509872b17181ccb25@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T171000
-DTEND;TZID=Asia/Yekaterinburg:20261105T182000
-SUMMARY:Бухгалтерский финансовый учет (Лекц
- ия)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-301/02\nПара: 6 пара\nДополните
- льно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:26ca6d21b178e
- 75509872b17181ccb25\nURALCAMPUS_SOURCE:inueco:group:4bbcc9e5-60fb-11ef-ad
- 90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:194a1cb9c9318776583fc07eb89fddcd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T183000
-DTEND;TZID=Asia/Yekaterinburg:20261105T194000
-SUMMARY:Бухгалтерский финансовый учет (Прак
- тика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-301/02\nПара: 7 пара\nДополните
- льно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:194a1cb9c9318
- 776583fc07eb89fddcd\nURALCAMPUS_SOURCE:inueco:group:4bbcc9e5-60fb-11ef-ad
- 90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b908383a153ddf217315cdc010e373d8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261105T195000
-DTEND;TZID=Asia/Yekaterinburg:20261105T205000
-SUMMARY:Бухгалтерский финансовый учет (Прак
- тика)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЗ-301/02\nПара: 8 пара\nДополните
- льно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:b908383a153dd
- f217315cdc010e373d8\nURALCAMPUS_SOURCE:inueco:group:4bbcc9e5-60fb-11ef-ad
- 90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:a11ed5235169d30d15bbfaf41df9d797@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T120000
@@ -86,5 +44,61 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  льно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:60220589e67e0
  38ec0330648d34a041d\nURALCAMPUS_SOURCE:inueco:group:4bbcc9e5-60fb-11ef-ad
  90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc1d0e002359856a1079d5b76e4bdda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T171000
+DTEND;TZID=Asia/Yekaterinburg:20261110T182000
+SUMMARY:Бухгалтерский финансовый учет (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/02\nПара: 6 пара\nДополните
+ льно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:cdc1d0e002359
+ 856a1079d5b76e4bdda\nURALCAMPUS_SOURCE:inueco:group:4bbcc9e5-60fb-11ef-ad
+ 90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ac1892d3a4e6cb2d9493a7e45e240cd8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T183000
+DTEND;TZID=Asia/Yekaterinburg:20261110T194000
+SUMMARY:Бухгалтерский финансовый учет (Прак
+ тика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/02\nПара: 7 пара\nДополните
+ льно: Боровинских В.А.\nURALCAMPUS_SYNC_ID:ac1892d3a4e6c
+ b2d9493a7e45e240cd8\nURALCAMPUS_SOURCE:inueco:group:4bbcc9e5-60fb-11ef-ad
+ 90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aedac70d9ed7c318b0c7a71820fdc9ea@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T182000
+DTEND;TZID=Asia/Yekaterinburg:20261114T193000
+SUMMARY:Бухгалтерский управленческий учет (
+ Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/02\nПара: 7 пара\nДополните
+ льно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:aedac70d9ed7c3
+ 18b0c7a71820fdc9ea\nURALCAMPUS_SOURCE:inueco:group:4bbcc9e5-60fb-11ef-ad9
+ 0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:12f54a6da4ac0ff1113ca55a855fbd10@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T194000
+DTEND;TZID=Asia/Yekaterinburg:20261114T205000
+SUMMARY:Бухгалтерский управленческий учет (
+ Практика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗ-301/02\nПара: 8 пара\nДополните
+ льно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:12f54a6da4ac0f
+ f1113ca55a855fbd10\nURALCAMPUS_SOURCE:inueco:group:4bbcc9e5-60fb-11ef-ad9
+ 0-04421acb877d
 END:VEVENT
 END:VCALENDAR
