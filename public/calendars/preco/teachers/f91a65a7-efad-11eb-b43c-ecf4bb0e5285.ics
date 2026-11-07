@@ -19,72 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8b6df85f5220825b0c643c9b4ecdf87c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
-DTEND;TZID=Asia/Yekaterinburg:20261106T100000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 408\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дружинин Владимир Алексан
- дрович\nПара: 1 пара\nДополнительно: 109\nURAL
- CAMPUS_SYNC_ID:8b6df85f5220825b0c643c9b4ecdf87c\nURALCAMPUS_SOURCE:preco:
- teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:8260208d2e32501d3518d06fd771aadf@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T101000
-DTEND;TZID=Asia/Yekaterinburg:20261106T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 203\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дружинин Владимир Алексан
- дрович\nПара: 2 пара\nДополнительно: 105\nURAL
- CAMPUS_SYNC_ID:8260208d2e32501d3518d06fd771aadf\nURALCAMPUS_SOURCE:preco:
- teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:3fbadd22c9c51ec64b6c39b337b89bbe@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
-DTEND;TZID=Asia/Yekaterinburg:20261106T133000
-SUMMARY:Основы латинского языка с медицинск
- ой терминологией (Аудиторные занятия)
-LOCATION:ауд. 501\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дружинин Владимир Алексан
- дрович\nПара: 3 пара\nДополнительно: СД-222\
- nURALCAMPUS_SYNC_ID:3fbadd22c9c51ec64b6c39b337b89bbe\nURALCAMPUS_SOURCE:p
- reco:teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:60d31b63d23d9d8fd85d08438c0dad6b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T135000
-DTEND;TZID=Asia/Yekaterinburg:20261106T152000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 503\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дружинин Владимир Алексан
- дрович\nПара: 4 пара\nДополнительно: 102\nURAL
- CAMPUS_SYNC_ID:60d31b63d23d9d8fd85d08438c0dad6b\nURALCAMPUS_SOURCE:preco:
- teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:c2ca79d89f81cd2010c96e67d641f983@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T153000
-DTEND;TZID=Asia/Yekaterinburg:20261106T170000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 508\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дружинин Владимир Алексан
- дрович\nПара: 5 пара\nДополнительно: 100\nURAL
- CAMPUS_SYNC_ID:c2ca79d89f81cd2010c96e67d641f983\nURALCAMPUS_SOURCE:preco:
- teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:9881108f21adc59f86c774285974855f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T083000
@@ -493,6 +427,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  дрович\nПара: 5 пара\nДополнительно: 105\nURAL
  CAMPUS_SYNC_ID:b04c2616d7485010edd9444c5185d3dd\nURALCAMPUS_SOURCE:preco:
  teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:7c24ca3574bc730493702070abb202f9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T171000
+DTEND;TZID=Asia/Yekaterinburg:20261113T182000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 503\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дружинин Владимир Алексан
+ дрович\nПара: 6 пара\nДополнительно: ПД-219\
+ , ПД-219А\nURALCAMPUS_SYNC_ID:7c24ca3574bc730493702070abb202f9\nURALCA
+ MPUS_SOURCE:preco:teacher:f91a65a7-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
 UID:b89ad4c839c94900e711b74295c7b1d1@uralcampus-calendar-pages

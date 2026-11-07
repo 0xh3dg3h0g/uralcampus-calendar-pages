@@ -18,48 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b9a1f1abaec16ac73a4bf70224ee7ce8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
-DTEND;TZID=Asia/Yekaterinburg:20261106T133000
-SUMMARY:Предпроектный и проектный анализ (Л
- екция)
-LOCATION:ауд. 107\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: А-410\nПара: 3 пара\nДополнительн
- о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:b9a1f1abaec16ac73a4bf70224
- ee7ce8\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
-UID:3d52b24ae2c3a77c3d1fbac652188446@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T135000
-DTEND;TZID=Asia/Yekaterinburg:20261106T152000
-SUMMARY:Архитектурное проектирование (осно
- вное) (Практика)
-LOCATION:ауд. 107\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: А-410\nПара: 4 пара\nДополнительн
- о: Ветрова А. В.\nURALCAMPUS_SYNC_ID:3d52b24ae2c3a77c3d1fbac652
- 188446\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
-UID:a5d91182c962ed574648225927923ede@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T153000
-DTEND;TZID=Asia/Yekaterinburg:20261106T170000
-SUMMARY:Инженерное оборудование зданий (Пра
- ктика)
-LOCATION:ауд. 208\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: А-410\nПара: 5 пара\nДополнительн
- о: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:a5d91182c962ed5746482259
- 27923ede\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:938e295d24f4628fdd4916d57dc4a48f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T134000
@@ -102,16 +60,29 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  7d
 END:VEVENT
 BEGIN:VEVENT
-UID:8e3e61baf7ef7a35cc347d9b02069ed7@uralcampus-calendar-pages
+UID:6de245630b1fa5379002ad6600506e76@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T153000
 DTEND;TZID=Asia/Yekaterinburg:20261109T170000
-SUMMARY:Новейшая архитектура (Лекция)
+SUMMARY:Новейшая архитектура (Практика)
 LOCATION:ауд. 206\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: А-410\nПара: 5 пара\nДополнительн
- о: Лаврова К.Б.\nURALCAMPUS_SYNC_ID:8e3e61baf7ef7a35cc347d9b020
- 69ed7\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877
+ о: Лаврова К.Б.\nURALCAMPUS_SYNC_ID:6de245630b1fa5379002ad66005
+ 06e76\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:df1095f0d5e27bc5f20cb4fdfdcd0d72@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T171000
+DTEND;TZID=Asia/Yekaterinburg:20261109T182000
+SUMMARY:Новейшая архитектура (Практика)
+LOCATION:ауд. 206\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: А-410\nПара: 6 пара\nДополнительн
+ о: Лаврова К.Б.\nURALCAMPUS_SYNC_ID:df1095f0d5e27bc5f20cb4fdfdc
+ d0d72\nURALCAMPUS_SOURCE:inueco:group:9ae7f8c9-282f-11ed-ad61-04421acb877
  d
 END:VEVENT
 BEGIN:VEVENT

@@ -19,17 +19,31 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8fa41def0ad3936cfce30c1921bd4288@uralcampus-calendar-pages
+UID:be00c8ed01ccb335d99cf37e27c4a449@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T101000
-DTEND;TZID=Asia/Yekaterinburg:20261106T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261110T153000
+DTEND;TZID=Asia/Yekaterinburg:20261110T170000
 SUMMARY:Основы финансовой грамотности (Ауди
  торные занятия)
-LOCATION:ауд. 3.2\, Новый Уренгой
+LOCATION:ауд. 8\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Кравченко Екатерина Васил
- ьевна\nПара: 2 пара\nДополнительно: ПД-278\nU
- RALCAMPUS_SYNC_ID:8fa41def0ad3936cfce30c1921bd4288\nURALCAMPUS_SOURCE:pre
+ ьевна\nПара: 5 пара\nДополнительно: ПД-278\nU
+ RALCAMPUS_SYNC_ID:be00c8ed01ccb335d99cf37e27c4a449\nURALCAMPUS_SOURCE:pre
  co:teacher:1266cd97-a366-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8be90ed2a6ba2dfac95b3d3c307c7c81@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T171000
+DTEND;TZID=Asia/Yekaterinburg:20261110T182000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кравченко Екатерина Васил
+ ьевна\nПара: 6 пара\nДополнительно: Ю-268\, Ю
+ -268А\nURALCAMPUS_SYNC_ID:8be90ed2a6ba2dfac95b3d3c307c7c81\nURALCAMPUS_S
+ OURCE:preco:teacher:1266cd97-a366-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

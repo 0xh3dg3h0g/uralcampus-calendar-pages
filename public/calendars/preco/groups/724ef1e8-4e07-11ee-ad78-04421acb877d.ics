@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:652a8820e786d2f85e7c9680197b2d46@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T135000
-DTEND;TZID=Asia/Yekaterinburg:20261106T152000
-SUMMARY:Экономика организации (Аудиторные з
- анятия)
-LOCATION:ауд. 2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-376\, ГС-376А\nПара: 4 пара\nДополните
- льно: Копытцев С.М.\nURALCAMPUS_SYNC_ID:652a8820e786d2f85e7
- c9680197b2d46\nURALCAMPUS_SOURCE:preco:group:724ef1e8-4e07-11ee-ad78-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:62566770666caa7f37c7776d5e24392a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T153000
-DTEND;TZID=Asia/Yekaterinburg:20261106T170000
-SUMMARY:Иностранный язык в профессионально
- й деятельности (Аудиторные занятия)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-376\, ГС-376А\nПара: 5 пара\nДополните
- льно: Максютова З.Г.\nURALCAMPUS_SYNC_ID:62566770666caa7f3
- 7c7776d5e24392a\nURALCAMPUS_SOURCE:preco:group:724ef1e8-4e07-11ee-ad78-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:2a77fc9a4c91d8da474e8d5804d499bf@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T120000
@@ -87,5 +59,47 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  льно: Малышева С.И.\nURALCAMPUS_SYNC_ID:9240972f2de40e428eb
  ab4cc83823725\nURALCAMPUS_SOURCE:preco:group:724ef1e8-4e07-11ee-ad78-0442
  1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d66fe386a83930a2cc0b77612539c920@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T135000
+DTEND;TZID=Asia/Yekaterinburg:20261110T152000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-376\, ГС-376А\nПара: 4 пара\nДополните
+ льно: Малышева С.И.\nURALCAMPUS_SYNC_ID:d66fe386a83930a2cc0
+ b77612539c920\nURALCAMPUS_SOURCE:preco:group:724ef1e8-4e07-11ee-ad78-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa469f00e50bf0f01038ef16d1afdb4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T153000
+DTEND;TZID=Asia/Yekaterinburg:20261110T170000
+SUMMARY:Основы строительного производства (
+ Аудиторные занятия)
+LOCATION:ауд. 4а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-376\, ГС-376А\nПара: 5 пара\nДополните
+ льно: Лукманова С.В.\nURALCAMPUS_SYNC_ID:bfa469f00e50bf0f0
+ 1038ef16d1afdb4\nURALCAMPUS_SOURCE:preco:group:724ef1e8-4e07-11ee-ad78-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:94a5785e269db4b70005449ece4a8e6c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T171000
+DTEND;TZID=Asia/Yekaterinburg:20261110T182000
+SUMMARY:Особенности проектирования систем 
+ газораспределения и газопотребления (А
+ удиторные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-376\, ГС-376А\nПара: 6 пара\nДополните
+ льно: Бобнев С.В.\nURALCAMPUS_SYNC_ID:94a5785e269db4b70005449
+ ece4a8e6c\nURALCAMPUS_SOURCE:preco:group:724ef1e8-4e07-11ee-ad78-04421acb
+ 877d
 END:VEVENT
 END:VCALENDAR

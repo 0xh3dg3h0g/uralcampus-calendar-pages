@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a8c306cccd290a1023288bcadad8b356@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
-DTEND;TZID=Asia/Yekaterinburg:20261106T100000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 4а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-268\, Ю-268А\nПара: 1 пара\nДополнитель
- но: Сафиханова М.П.\nURALCAMPUS_SYNC_ID:a8c306cccd290a10232
- 88bcadad8b356\nURALCAMPUS_SOURCE:preco:group:65ad5574-4e07-11ee-ad78-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:a483f89120dd3aa0eb49e0dad2de4b48@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T101000
-DTEND;TZID=Asia/Yekaterinburg:20261106T114000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 4а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-268\, Ю-268А\nПара: 2 пара\nДополнитель
- но: Сафиханова М.П.\nURALCAMPUS_SYNC_ID:a483f89120dd3aa0eb4
- 9e0dad2de4b48\nURALCAMPUS_SOURCE:preco:group:65ad5574-4e07-11ee-ad78-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:a2224b4a43bf714c95b98272a954adfd@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T083000
@@ -72,5 +44,33 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  но: Сафиханова М.П.\nURALCAMPUS_SYNC_ID:cecd57e1cda06532f40
  7e8103229f00d\nURALCAMPUS_SOURCE:preco:group:65ad5574-4e07-11ee-ad78-0442
  1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c8d47938fc51abc520ecd4806c4894af@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T153000
+DTEND;TZID=Asia/Yekaterinburg:20261110T170000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-268\, Ю-268А\nПара: 5 пара\nДополнитель
+ но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:c8d47938fc51abc520ecd48
+ 06c4894af\nURALCAMPUS_SOURCE:preco:group:65ad5574-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e5a2b2714d20ce83555b106fa5357b2a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T171000
+DTEND;TZID=Asia/Yekaterinburg:20261110T182000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-268\, Ю-268А\nПара: 6 пара\nДополнитель
+ но: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:e5a2b2714d20ce83555b1
+ 06fa5357b2a\nURALCAMPUS_SOURCE:preco:group:65ad5574-4e07-11ee-ad78-04421a
+ cb877d
 END:VEVENT
 END:VCALENDAR

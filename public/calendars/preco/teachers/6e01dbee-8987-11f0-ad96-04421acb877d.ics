@@ -19,35 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:11ce5516b0f7daede63d16ba714c3131@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T101000
-DTEND;TZID=Asia/Yekaterinburg:20261106T114000
-SUMMARY:Математические методы решения прик
- ладных профессиональных задач (Аудитор
- ные занятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смирнова Наталья Васильев
- на\nПара: 2 пара\nДополнительно: ГС-276\nURALCAM
- PUS_SYNC_ID:11ce5516b0f7daede63d16ba714c3131\nURALCAMPUS_SOURCE:preco:tea
- cher:6e01dbee-8987-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:41509448132617941940bf86a92479de@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
-DTEND;TZID=Asia/Yekaterinburg:20261106T133000
-SUMMARY:Элементы высшей математики (Аудитор
- ные занятия)
-LOCATION:ауд. 4а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смирнова Наталья Васильев
- на\nПара: 3 пара\nДополнительно: П-270\nURALCAMPU
- S_SYNC_ID:41509448132617941940bf86a92479de\nURALCAMPUS_SOURCE:preco:teach
- er:6e01dbee-8987-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:3b310cbbc024a6b922d6cf1a87dad20c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T101000
@@ -60,5 +31,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 2 пара\nДополнительно: П-270\nURALCAMPU
  S_SYNC_ID:3b310cbbc024a6b922d6cf1a87dad20c\nURALCAMPUS_SOURCE:preco:teach
  er:6e01dbee-8987-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2acada691b1f4fab893cc81a2e3b3086@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261110T101000
+DTEND;TZID=Asia/Yekaterinburg:20261110T114000
+SUMMARY:Математические методы решения прик
+ ладных профессиональных задач (Аудитор
+ ные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смирнова Наталья Васильев
+ на\nПара: 2 пара\nДополнительно: ГС-276\nURALCAM
+ PUS_SYNC_ID:2acada691b1f4fab893cc81a2e3b3086\nURALCAMPUS_SOURCE:preco:tea
+ cher:6e01dbee-8987-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR

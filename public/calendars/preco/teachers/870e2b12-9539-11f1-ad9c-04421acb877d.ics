@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8bdf3efe93874c5a2769b91a98a6cb6e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
-DTEND;TZID=Asia/Yekaterinburg:20261106T100000
-SUMMARY:Фармакология (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 1 пара\nДополнительно: СД-352к\nURALCAMPUS_
- SYNC_ID:8bdf3efe93874c5a2769b91a98a6cb6e\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:44e790082f25e2d6a2d58cd490604731@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T101000
-DTEND;TZID=Asia/Yekaterinburg:20261106T114000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
-LOCATION:ауд. 313\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:44e790082f25e2d6a2d58cd490604731\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1c547f1cd12fb0f3e466774e06ecefac@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
-DTEND;TZID=Asia/Yekaterinburg:20261106T133000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:1c547f1cd12fb0f3e466774e06ecefac\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:067dd73f87ad7fcf99808645fe6c3360@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T135000
-DTEND;TZID=Asia/Yekaterinburg:20261106T152000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 4 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:067dd73f87ad7fcf99808645fe6c3360\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:9c853221355fe05128da70c81f08d684@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T083000
@@ -248,20 +192,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:aa05cec48a805d52f2e1c1e6ab24dd05@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T135000
-DTEND;TZID=Asia/Yekaterinburg:20261110T152000
-SUMMARY:Фармакология (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 4 пара\nДополнительно: СД-352к\nURALCAMPUS_
- SYNC_ID:aa05cec48a805d52f2e1c1e6ab24dd05\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c4cd0fc4586e5938a50fe178cf61ce0e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
@@ -301,60 +231,87 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  70e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:47bb6ab238bd8d0a72f84475d2782600@uralcampus-calendar-pages
+UID:bcd756a978f0b5b844f31546a96daf8f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T083000
+DTEND;TZID=Asia/Yekaterinburg:20261112T100000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 1 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:bcd756a978f0b5b844f31546a96daf8f\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:97288f01ac7d52a4dc16f48054c84e8e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T101000
 DTEND;TZID=Asia/Yekaterinburg:20261112T114000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:47bb6ab238bd8d0a72f84475d2782600\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 2 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:97288f01ac7d52a4dc16f48054c84e8e\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:89a3c07d78b79772a267b0d48d179980@uralcampus-calendar-pages
+UID:2bc78caf42afc65760ac46f7a533e20a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T120000
 DTEND;TZID=Asia/Yekaterinburg:20261112T133000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:89a3c07d78b79772a267b0d48d179980\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 3 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:2bc78caf42afc65760ac46f7a533e20a\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:1cc2aa1fc85c6dba476f27d7b6f3220b@uralcampus-calendar-pages
+UID:b3085d4b8c8d786eb10446af3904c878@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T135000
 DTEND;TZID=Asia/Yekaterinburg:20261112T152000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 4 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:1cc2aa1fc85c6dba476f27d7b6f3220b\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 4 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:b3085d4b8c8d786eb10446af3904c878\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:eeb9ac1d0242458f777d4d73a45f2d83@uralcampus-calendar-pages
+UID:ae88807f5e44d6bfc8121785c6bb1a0b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T153000
 DTEND;TZID=Asia/Yekaterinburg:20261112T170000
-SUMMARY:Генетика человека с основами медици
- нской генетики (Аудиторные занятия)
+SUMMARY:Фармакология (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 5 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:eeb9ac1d0242458f777d4d73a45f2d83\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 5 пара\nДополнительно: СД/оз-323А\nURALCA
+ MPUS_SYNC_ID:ae88807f5e44d6bfc8121785c6bb1a0b\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:53af610a59fccb8e2adf72ef8813ce38@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T171000
+DTEND;TZID=Asia/Yekaterinburg:20261112T182000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 6 пара\nДополнительно: СД/оз-323А\nURALCA
+ MPUS_SYNC_ID:53af610a59fccb8e2adf72ef8813ce38\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:71ba9a440ca265a5720193ead603d3b7@uralcampus-calendar-pages
@@ -371,32 +328,75 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b979579266d8e2a0feab4a13f70c7f67@uralcampus-calendar-pages
+UID:22003d035d330f474235609ea1a2046b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
 DTEND;TZID=Asia/Yekaterinburg:20261113T114000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
+SUMMARY:Фармакология (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:b979579266d8e2a0feab4a13f70c7f67\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 2 пара\nДополнительно: СД/оз-323А\nURALCA
+ MPUS_SYNC_ID:22003d035d330f474235609ea1a2046b\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:6d174be0d948807431ec769fff36e6fc@uralcampus-calendar-pages
+UID:6e8f07d80cc702c6ff4e00ab603baa38@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
 DTEND;TZID=Asia/Yekaterinburg:20261113T133000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
+SUMMARY:Фармакология (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:6d174be0d948807431ec769fff36e6fc\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 3 пара\nДополнительно: СД/оз-323А\nURALCA
+ MPUS_SYNC_ID:6e8f07d80cc702c6ff4e00ab603baa38\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d788529978cfd9e6ffec993a666676ca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T135000
+DTEND;TZID=Asia/Yekaterinburg:20261113T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 4 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:d788529978cfd9e6ffec993a666676ca\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7dcb1934f814b185011650ed8779db4e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T153000
+DTEND;TZID=Asia/Yekaterinburg:20261113T170000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 5 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:7dcb1934f814b185011650ed8779db4e\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:15a1fd76d21ae1cb7a8fe7dfed207c0f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T171000
+DTEND;TZID=Asia/Yekaterinburg:20261113T182000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 6 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:15a1fd76d21ae1cb7a8fe7dfed207c0f\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:3ba1fc8011a2c085c0b297a8856844e3@uralcampus-calendar-pages
@@ -527,6 +527,21 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:7cbe9302c33169ddd827ca91ef703626@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T120000
+DTEND;TZID=Asia/Yekaterinburg:20261116T133000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 3 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:7cbe9302c33169ddd827ca91ef703626\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:9eba4395cf69fef53bc1c938b419595b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
@@ -541,61 +556,135 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:fdde9456bb988fb7f920ecb118b2da0a@uralcampus-calendar-pages
+UID:6d40c0e1f24ab3df540215b63a32f070@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
+DTEND;TZID=Asia/Yekaterinburg:20261116T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 4 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:6d40c0e1f24ab3df540215b63a32f070\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:32f26ddfb7f7a1f9d227111ffcc3d041@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
+DTEND;TZID=Asia/Yekaterinburg:20261116T170000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 5 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:32f26ddfb7f7a1f9d227111ffcc3d041\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1f0d7211baa26ac5551e22894d746c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T171000
+DTEND;TZID=Asia/Yekaterinburg:20261116T182000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 6 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:ca1f0d7211baa26ac5551e22894d746c\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ac11a1de2be589f89018298f1181a9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
 DTEND;TZID=Asia/Yekaterinburg:20261117T100000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
+SUMMARY:Фармакология (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 1 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:fdde9456bb988fb7f920ecb118b2da0a\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 1 пара\nДополнительно: СД/оз-322А\nURALCA
+ MPUS_SYNC_ID:e8ac11a1de2be589f89018298f1181a9\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:d8bc1bc2577596e29ca860df82dcba93@uralcampus-calendar-pages
+UID:e74b5fd84044036e985a6b40f0f1c6b4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
 DTEND;TZID=Asia/Yekaterinburg:20261117T114000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
+SUMMARY:Фармакология (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:d8bc1bc2577596e29ca860df82dcba93\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 2 пара\nДополнительно: СД/оз-322А\nURALCA
+ MPUS_SYNC_ID:e74b5fd84044036e985a6b40f0f1c6b4\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:eb03d9b1c5536d2a5b32ef753cd84659@uralcampus-calendar-pages
+UID:90b00a07f89eab661ec84debe1d8500a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
 DTEND;TZID=Asia/Yekaterinburg:20261117T133000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:eb03d9b1c5536d2a5b32ef753cd84659\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:29b005bcb40b835d6a24a9f6f16461e2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
-DTEND;TZID=Asia/Yekaterinburg:20261117T152000
-SUMMARY:Генетика человека с основами медици
- нской генетики (Аудиторные занятия)
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
 LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
  кт 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 4 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:29b005bcb40b835d6a24a9f6f16461e2\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 3 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:90b00a07f89eab661ec84debe1d8500a\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e11df89daf87ca06d4e80c160dca058d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
+DTEND;TZID=Asia/Yekaterinburg:20261117T152000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 4 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:e11df89daf87ca06d4e80c160dca058d\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fba04942864e3220ae37b56ce3941e84@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T153000
+DTEND;TZID=Asia/Yekaterinburg:20261117T170000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 5 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:fba04942864e3220ae37b56ce3941e84\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:06a12c3742108c61736d2b92032b9328@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T171000
+DTEND;TZID=Asia/Yekaterinburg:20261117T182000
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 6 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:06a12c3742108c61736d2b92032b9328\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:b1f80dcd8c17cb59d663331b34672641@uralcampus-calendar-pages
@@ -637,130 +726,148 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  70e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:84f421666f955d9232ceb1688cc46ebe@uralcampus-calendar-pages
+UID:52e4339d8a8c31dd6c24ad90bfd59a52@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
 DTEND;TZID=Asia/Yekaterinburg:20261119T100000
-SUMMARY:Генетика человека с основами медици
- нской генетики (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 1 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:84f421666f955d9232ceb1688cc46ebe\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 1 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:52e4339d8a8c31dd6c24ad90bfd59a52\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:6c07b00bea1dad8923c1192f749b206f@uralcampus-calendar-pages
+UID:c7d76540aea2c12cc618cec5a05f18fd@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
 DTEND;TZID=Asia/Yekaterinburg:20261119T114000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:6c07b00bea1dad8923c1192f749b206f\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 2 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:c7d76540aea2c12cc618cec5a05f18fd\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:aca93407c588e4e6a8f0601e18a62cc3@uralcampus-calendar-pages
+UID:cb4befa2047b87adaf670f2b53fcb31f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T120000
 DTEND;TZID=Asia/Yekaterinburg:20261119T133000
-SUMMARY:Анатомия и физиология человека (Ауд
- иторные занятия)
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:aca93407c588e4e6a8f0601e18a62cc3\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 3 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:cb4befa2047b87adaf670f2b53fcb31f\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:2aabdaf093f5ac23ffe0d9f7a004c92c@uralcampus-calendar-pages
+UID:50a6df38083ec48c50429eb6951100f8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T135000
 DTEND;TZID=Asia/Yekaterinburg:20261119T152000
-SUMMARY:Генетика человека с основами медици
- нской генетики (Аудиторные занятия)
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 4 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:2aabdaf093f5ac23ffe0d9f7a004c92c\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 4 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:50a6df38083ec48c50429eb6951100f8\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a56ed0778c5dc387ba15e068b27c0c@uralcampus-calendar-pages
+UID:ef4a757e436a7d287f7320368f6c1c6c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T153000
 DTEND;TZID=Asia/Yekaterinburg:20261119T170000
-SUMMARY:Генетика человека с основами медици
- нской генетики (Аудиторные занятия)
+SUMMARY:Фармакология (Аудиторные занятия)
 LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 5 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:a4a56ed0778c5dc387ba15e068b27c0c\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 5 пара\nДополнительно: СД/оз-322А\nURALCA
+ MPUS_SYNC_ID:ef4a757e436a7d287f7320368f6c1c6c\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b2630961e7306040c8cd3d1d19f3f970@uralcampus-calendar-pages
+UID:c97ec90551476150aa58dc9abc2b85bc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T171000
+DTEND;TZID=Asia/Yekaterinburg:20261119T182000
+SUMMARY:Фармакология (Аудиторные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ежова Виолетта Сергеевна\n
+ Пара: 6 пара\nДополнительно: СД/оз-322А\nURALCA
+ MPUS_SYNC_ID:c97ec90551476150aa58dc9abc2b85bc\nURALCAMPUS_SOURCE:preco:te
+ acher:870e2b12-9539-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9fffaefd8ca64dfe5eacc5730d4281f2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T083000
 DTEND;TZID=Asia/Yekaterinburg:20261120T100000
-SUMMARY:Фармакология (Аудиторные занятия)
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
 LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
  кт 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 1 пара\nДополнительно: СД-352к\nURALCAMPUS_
- SYNC_ID:b2630961e7306040c8cd3d1d19f3f970\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 1 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:9fffaefd8ca64dfe5eacc5730d4281f2\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:4a3cc2152ac9a7fb4df2e1cb53d551f7@uralcampus-calendar-pages
+UID:b83009bc3d017039a5929efcd0efaf6a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T101000
 DTEND;TZID=Asia/Yekaterinburg:20261120T114000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
-LOCATION:ауд. 313\, Комсомольский проспект 113А
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 2 пара\nДополнительно: СД-252к\nURALCAMPUS_
- SYNC_ID:4a3cc2152ac9a7fb4df2e1cb53d551f7\nURALCAMPUS_SOURCE:preco:teacher
- :870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 2 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:b83009bc3d017039a5929efcd0efaf6a\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:3f44aa5d3185906b951bcca172ed87a8@uralcampus-calendar-pages
+UID:0a58089285e8a0d332c0efedbd6227b6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
 DTEND;TZID=Asia/Yekaterinburg:20261120T133000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 3 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:3f44aa5d3185906b951bcca172ed87a8\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 3 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:0a58089285e8a0d332c0efedbd6227b6\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b94df477c71a71fd09e44fd6ee6b56a0@uralcampus-calendar-pages
+UID:752a659921d3b54816d2ee2394630c96@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T135000
 DTEND;TZID=Asia/Yekaterinburg:20261120T152000
-SUMMARY:Основы микробиологии и иммунологии 
- (Аудиторные занятия)
-LOCATION:ауд. 310\, Комсомольский проспект 113А
+SUMMARY:Технология изготовления лекарствен
+ ных форм (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
+ кт 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Ежова Виолетта Сергеевна\n
- Пара: 4 пара\nДополнительно: СД-253к\, СД-253А
- к\nURALCAMPUS_SYNC_ID:b94df477c71a71fd09e44fd6ee6b56a0\nURALCAMPUS_SOURC
- E:preco:teacher:870e2b12-9539-11f1-ad9c-04421acb877d
+ Пара: 4 пара\nДополнительно: Ф/оз-302А\nURALCAMP
+ US_SYNC_ID:752a659921d3b54816d2ee2394630c96\nURALCAMPUS_SOURCE:preco:teac
+ her:870e2b12-9539-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:4151b31fb8e46729fffabf9e685fb7ef@uralcampus-calendar-pages

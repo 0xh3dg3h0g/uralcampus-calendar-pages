@@ -19,71 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:07a769f3a5f0192bba032679697a290e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T083000
-DTEND;TZID=Asia/Yekaterinburg:20261106T100000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 404\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 1 пара\nДополнительно: З-113\, С-1
- 16\nURALCAMPUS_SYNC_ID:07a769f3a5f0192bba032679697a290e\nURALCAMPUS_SOURC
- E:inueco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:17c8e7297e4a4214c272744f2a54ec40@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T101000
-DTEND;TZID=Asia/Yekaterinburg:20261106T114000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 2 пара\nДополнительно: И-207\nURALC
- AMPUS_SYNC_ID:17c8e7297e4a4214c272744f2a54ec40\nURALCAMPUS_SOURCE:inueco:
- teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:4f40162423899e5e716c49f17d52e2d2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T120000
-DTEND;TZID=Asia/Yekaterinburg:20261106T133000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 3 пара\nДополнительно: И-207\nURALC
- AMPUS_SYNC_ID:4f40162423899e5e716c49f17d52e2d2\nURALCAMPUS_SOURCE:inueco:
- teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:2beb9f44585a5f10e6d14c6f563f0615@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T135000
-DTEND;TZID=Asia/Yekaterinburg:20261106T152000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 4 пара\nДополнительно: С-216\nURALC
- AMPUS_SYNC_ID:2beb9f44585a5f10e6d14c6f563f0615\nURALCAMPUS_SOURCE:inueco:
- teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:ef96508d2e076eca540d1fcf1378509c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261106T153000
-DTEND;TZID=Asia/Yekaterinburg:20261106T170000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 213\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Завьялов Олег Геннадь
- евич\nПара: 5 пара\nДополнительно: С-216\nURALC
- AMPUS_SYNC_ID:ef96508d2e076eca540d1fcf1378509c\nURALCAMPUS_SOURCE:inueco:
- teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
 UID:7681406f1c25c97e91a133e0d9f65f84@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261107T134000
@@ -110,16 +45,29 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  OURCE:inueco:teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:8052be7c6b6e5f1083d2b64863cf8d2c@uralcampus-calendar-pages
+UID:7ac464656e91373cdb02fc0656db33fa@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T083000
 DTEND;TZID=Asia/Yekaterinburg:20261109T100000
 SUMMARY:Основы системного анализа (Лекция)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
+LOCATION:ауд. 317\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Завьялов Олег Геннадь
  евич\nПара: 1 пара\nДополнительно: Ю-101\nURALC
- AMPUS_SYNC_ID:8052be7c6b6e5f1083d2b64863cf8d2c\nURALCAMPUS_SOURCE:inueco:
+ AMPUS_SYNC_ID:7ac464656e91373cdb02fc0656db33fa\nURALCAMPUS_SOURCE:inueco:
+ teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:c2659a34bff663e12186812dc10bbf7e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261109T101000
+DTEND;TZID=Asia/Yekaterinburg:20261109T114000
+SUMMARY:Основы системного анализа (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Завьялов Олег Геннадь
+ евич\nПара: 2 пара\nДополнительно: Ю-101\nURALC
+ AMPUS_SYNC_ID:c2659a34bff663e12186812dc10bbf7e\nURALCAMPUS_SOURCE:inueco:
  teacher:bb0d9d40-22a9-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
