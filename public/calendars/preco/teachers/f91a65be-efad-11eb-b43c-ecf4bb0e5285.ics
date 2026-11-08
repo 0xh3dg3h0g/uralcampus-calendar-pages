@@ -19,75 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1b1472a1abc680186936e86b743bbb47@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T083000
-DTEND;TZID=Asia/Yekaterinburg:20261107T100000
-SUMMARY:Менеджмент (Аудиторные занятия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Цветникова Яна Валерьевна\
- nПара: 1 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
- nURALCAMPUS_SYNC_ID:1b1472a1abc680186936e86b743bbb47\nURALCAMPUS_SOURCE:p
- reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:fa190ac98ae65ac62ed2093308bf7ee9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T101000
-DTEND;TZID=Asia/Yekaterinburg:20261107T114000
-SUMMARY:Бухгалтерский учёт логистических о
- пераций (Аудиторные занятия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Цветникова Яна Валерьевна\
- nПара: 2 пара\nДополнительно: ОЛ-320\, ОЛ-320А\
- nURALCAMPUS_SYNC_ID:fa190ac98ae65ac62ed2093308bf7ee9\nURALCAMPUS_SOURCE:p
- reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:7f1174e64044ce576832d2e79166bb62@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T120000
-DTEND;TZID=Asia/Yekaterinburg:20261107T133000
-SUMMARY:Логистика закупок (Аудиторные занят
- ия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Цветникова Яна Валерьевна\
- nПара: 3 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
- nURALCAMPUS_SYNC_ID:7f1174e64044ce576832d2e79166bb62\nURALCAMPUS_SOURCE:p
- reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:bc02d2d4dedc989018f52d060787cef7@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T134000
-DTEND;TZID=Asia/Yekaterinburg:20261107T151000
-SUMMARY:Логистика закупок (Аудиторные занят
- ия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Цветникова Яна Валерьевна\
- nПара: 4 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
- nURALCAMPUS_SYNC_ID:bc02d2d4dedc989018f52d060787cef7\nURALCAMPUS_SOURCE:p
- reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:d44100fdde515bc836955312a0e666c0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261107T152000
-DTEND;TZID=Asia/Yekaterinburg:20261107T165000
-SUMMARY:Логистика закупок (Аудиторные занят
- ия)
-LOCATION:ауд. 303\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Цветникова Яна Валерьевна\
- nПара: 5 пара\nДополнительно: ОЛ-220\, ОЛ-220А\
- nURALCAMPUS_SYNC_ID:d44100fdde515bc836955312a0e666c0\nURALCAMPUS_SOURCE:p
- reco:teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:08dcfee2f5dd1bca407c55d2aac487d6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261109T083000
@@ -299,6 +230,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
+UID:be84a744a8d25a52bd536a72fcb96321@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T153000
+DTEND;TZID=Asia/Yekaterinburg:20261111T170000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 404\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 5 пара\nДополнительно: Д-212\, Д-212А\nURA
+ LCAMPUS_SYNC_ID:be84a744a8d25a52bd536a72fcb96321\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
 UID:55a52aeee610eede706fd31cff67604a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T153000
@@ -325,20 +270,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 5 пара\nДополнительно: Д-212А (2)\nURALCAMP
  US_SYNC_ID:44b510606bc882cce570f9bbadb5738a\nURALCAMPUS_SOURCE:preco:teac
  her:f91a65be-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:be84a744a8d25a52bd536a72fcb96321@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T153000
-DTEND;TZID=Asia/Yekaterinburg:20261111T170000
-SUMMARY:Экономика организации (Аудиторные з
- анятия)
-LOCATION:ауд. 404\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Цветникова Яна Валерьевна\
- nПара: 5 пара\nДополнительно: Д-212\, Д-212А\nURA
- LCAMPUS_SYNC_ID:be84a744a8d25a52bd536a72fcb96321\nURALCAMPUS_SOURCE:preco
- :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
 UID:0046211be9e73a093ef07980479ebb88@uralcampus-calendar-pages
@@ -439,6 +370,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
+UID:5c0e2759103f9fc5b277d485f31b3f32@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
+DTEND;TZID=Asia/Yekaterinburg:20261113T133000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: Д-212\, Д-212А\nURA
+ LCAMPUS_SYNC_ID:5c0e2759103f9fc5b277d485f31b3f32\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
 UID:48d4ce6fa183105d374d4319337a2fa0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
@@ -465,20 +410,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 3 пара\nДополнительно: Д-212А (2)\nURALCAMP
  US_SYNC_ID:d9be699b81d8211a04a872f217f107f3\nURALCAMPUS_SOURCE:preco:teac
  her:f91a65be-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:5c0e2759103f9fc5b277d485f31b3f32@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
-DTEND;TZID=Asia/Yekaterinburg:20261113T133000
-SUMMARY:Экономика организации (Аудиторные з
- анятия)
-LOCATION:ауд. 313\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Цветникова Яна Валерьевна\
- nПара: 3 пара\nДополнительно: Д-212\, Д-212А\nURA
- LCAMPUS_SYNC_ID:5c0e2759103f9fc5b277d485f31b3f32\nURALCAMPUS_SOURCE:preco
- :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
 UID:8a9ac58919528dfb7fc109dbd11cd741@uralcampus-calendar-pages
@@ -887,6 +818,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
+UID:d313fd3144b8b5fb6984e572797c8e3a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
+DTEND;TZID=Asia/Yekaterinburg:20261120T133000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 313\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Цветникова Яна Валерьевна\
+ nПара: 3 пара\nДополнительно: Д-212\, Д-212А\nURA
+ LCAMPUS_SYNC_ID:d313fd3144b8b5fb6984e572797c8e3a\nURALCAMPUS_SOURCE:preco
+ :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
 UID:ad2c4e328d7d7870e2b9fc5d054aed97@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
@@ -913,20 +858,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 3 пара\nДополнительно: Д-212А (2)\nURALCAMP
  US_SYNC_ID:844f0396b8ac7ddb8dd519acb402a360\nURALCAMPUS_SOURCE:preco:teac
  her:f91a65be-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:d313fd3144b8b5fb6984e572797c8e3a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
-DTEND;TZID=Asia/Yekaterinburg:20261120T133000
-SUMMARY:Экономика организации (Аудиторные з
- анятия)
-LOCATION:ауд. 313\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Цветникова Яна Валерьевна\
- nПара: 3 пара\nДополнительно: Д-212\, Д-212А\nURA
- LCAMPUS_SYNC_ID:d313fd3144b8b5fb6984e572797c8e3a\nURALCAMPUS_SOURCE:preco
- :teacher:f91a65be-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
 UID:97c1b4b625d868093a1fa1cc25fdc484@uralcampus-calendar-pages
