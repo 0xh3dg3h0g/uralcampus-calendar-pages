@@ -19,31 +19,31 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:78541c1007942df44d5e07dc47d2cf16@uralcampus-calendar-pages
+UID:9f91fc46325d9aaad2eb17bba8937a89@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
-DTEND;TZID=Asia/Yekaterinburg:20261111T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261111T135000
+DTEND;TZID=Asia/Yekaterinburg:20261111T152000
 SUMMARY:Безопасность жизнедеятельности (Ле
  кция)
 LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Коваленко Николай Сер
- геевич\nПара: 1 пара\nДополнительно: Ю-101\nU
- RALCAMPUS_SYNC_ID:78541c1007942df44d5e07dc47d2cf16\nURALCAMPUS_SOURCE:inu
+ геевич\nПара: 4 пара\nДополнительно: Ю-101\nU
+ RALCAMPUS_SYNC_ID:9f91fc46325d9aaad2eb17bba8937a89\nURALCAMPUS_SOURCE:inu
  eco:teacher:4870215d-969f-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:a4ef2074437165a33517db8fe51aeeab@uralcampus-calendar-pages
+UID:416aa68c66c622175fce0f4e29bbff4a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
-DTEND;TZID=Asia/Yekaterinburg:20261111T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261111T153000
+DTEND;TZID=Asia/Yekaterinburg:20261111T170000
 SUMMARY:Безопасность жизнедеятельности (Пр
  актика)
 LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Коваленко Николай Сер
- геевич\nПара: 2 пара\nДополнительно: Ю-101\nU
- RALCAMPUS_SYNC_ID:a4ef2074437165a33517db8fe51aeeab\nURALCAMPUS_SOURCE:inu
+ геевич\nПара: 5 пара\nДополнительно: Ю-101\nU
+ RALCAMPUS_SYNC_ID:416aa68c66c622175fce0f4e29bbff4a\nURALCAMPUS_SOURCE:inu
  eco:teacher:4870215d-969f-11ef-ad92-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -89,5 +89,19 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  2\, З-113\, И-107\, И-107а\, Л-111\, М-103\, С-116\, ТД-106\nURA
  LCAMPUS_SYNC_ID:2b251bcc2fa0f24f6ddd93746630d08a\nURALCAMPUS_SOURCE:inuec
  o:teacher:4870215d-969f-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:af1bd37edd2727b3dc9690c0ac0a193e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T170000
+DTEND;TZID=Asia/Yekaterinburg:20261114T181000
+SUMMARY:Безопасность жизнедеятельности (Ле
+ кция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Коваленко Николай Сер
+ геевич\nПара: 6 пара\nДополнительно: А-110\, 
+ Д-105\nURALCAMPUS_SYNC_ID:af1bd37edd2727b3dc9690c0ac0a193e\nURALCAMPUS_S
+ OURCE:inueco:teacher:4870215d-969f-11ef-ad92-04421acb877d
 END:VEVENT
 END:VCALENDAR

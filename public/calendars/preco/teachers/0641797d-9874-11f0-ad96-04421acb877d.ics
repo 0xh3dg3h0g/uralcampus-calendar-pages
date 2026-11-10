@@ -18,4 +18,56 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:9b94742437c856311ab39641865331db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
+DTEND;TZID=Asia/Yekaterinburg:20261111T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 11\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Яковлева Ольга Георгиевна\
+ nПара: 1 пара\nДополнительно: П-170ю\nURALCAMPUS_S
+ YNC_ID:9b94742437c856311ab39641865331db\nURALCAMPUS_SOURCE:preco:teacher:
+ 0641797d-9874-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7d897b9732c305440fbbb7b7d72321f5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
+DTEND;TZID=Asia/Yekaterinburg:20261111T100000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 11\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Яковлева Ольга Георгиевна\
+ nПара: 1 пара\nДополнительно: ИК-130ю\nURALCAMPUS
+ _SYNC_ID:7d897b9732c305440fbbb7b7d72321f5\nURALCAMPUS_SOURCE:preco:teache
+ r:0641797d-9874-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:51c3ee374b59b7fda9357ab9f65aceb0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
+DTEND;TZID=Asia/Yekaterinburg:20261111T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 12\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Яковлева Ольга Георгиевна\
+ nПара: 3 пара\nДополнительно: ПД-178ю\nURALCAMPUS
+ _SYNC_ID:51c3ee374b59b7fda9357ab9f65aceb0\nURALCAMPUS_SOURCE:preco:teache
+ r:0641797d-9874-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:73e04c863ce84596ec0a32d461846f0c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
+DTEND;TZID=Asia/Yekaterinburg:20261111T133000
+SUMMARY:Химия (Аудиторные занятия)
+LOCATION:ауд. 12\, Анапа
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Яковлева Ольга Георгиевна\
+ nПара: 3 пара\nДополнительно: ОЛ-150ю\nURALCAMPUS
+ _SYNC_ID:73e04c863ce84596ec0a32d461846f0c\nURALCAMPUS_SOURCE:preco:teache
+ r:0641797d-9874-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

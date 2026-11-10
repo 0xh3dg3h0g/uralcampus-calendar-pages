@@ -19,20 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3b310cbbc024a6b922d6cf1a87dad20c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261109T101000
-DTEND;TZID=Asia/Yekaterinburg:20261109T114000
-SUMMARY:Элементы высшей математики (Аудитор
- ные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Смирнова Наталья Васильев
- на\nПара: 2 пара\nДополнительно: П-270\nURALCAMPU
- S_SYNC_ID:3b310cbbc024a6b922d6cf1a87dad20c\nURALCAMPUS_SOURCE:preco:teach
- er:6e01dbee-8987-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:2acada691b1f4fab893cc81a2e3b3086@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261110T101000
@@ -46,5 +32,34 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 2 пара\nДополнительно: ГС-276\nURALCAM
  PUS_SYNC_ID:2acada691b1f4fab893cc81a2e3b3086\nURALCAMPUS_SOURCE:preco:tea
  cher:6e01dbee-8987-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:38a4cc807625900834a91f60ead4b474@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
+DTEND;TZID=Asia/Yekaterinburg:20261111T114000
+SUMMARY:Математические методы решения прик
+ ладных профессиональных задач (Аудитор
+ ные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смирнова Наталья Васильев
+ на\nПара: 2 пара\nДополнительно: ГС-276\nURALCAM
+ PUS_SYNC_ID:38a4cc807625900834a91f60ead4b474\nURALCAMPUS_SOURCE:preco:tea
+ cher:6e01dbee-8987-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ff5308bb573430f7ecf43476a502aad1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261112T135000
+DTEND;TZID=Asia/Yekaterinburg:20261112T152000
+SUMMARY:Элементы высшей математики (Аудитор
+ ные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смирнова Наталья Васильев
+ на\nПара: 4 пара\nДополнительно: П-270\nURALCAMPU
+ S_SYNC_ID:ff5308bb573430f7ecf43476a502aad1\nURALCAMPUS_SOURCE:preco:teach
+ er:6e01dbee-8987-11f0-ad96-04421acb877d
 END:VEVENT
 END:VCALENDAR
