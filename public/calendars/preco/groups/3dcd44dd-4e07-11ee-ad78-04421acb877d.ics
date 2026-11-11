@@ -18,28 +18,17 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4c79e0e7c6cc3c5b5d5bfa2eed1efa40@uralcampus-calendar-pages
+UID:c23f84d81527b78ecbeaa1e71579be86@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T083000
-DTEND;TZID=Asia/Yekaterinburg:20261110T100000
-SUMMARY:Биология (Аудиторные занятия)
-LOCATION:ауд. 3.1\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
+DTEND;TZID=Asia/Yekaterinburg:20261111T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 1 пара\nДополнительно: Ки
- реева Ф.З.\nURALCAMPUS_SYNC_ID:4c79e0e7c6cc3c5b5d5bfa2eed1efa40\nU
- RALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:5568b9d5e39ae0d58c2a77bffa1c0d3b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261110T101000
-DTEND;TZID=Asia/Yekaterinburg:20261110T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 2 пара\nДополнительно: Ко
- йшина Е.А.\nURALCAMPUS_SYNC_ID:5568b9d5e39ae0d58c2a77bffa1c0d3b\nU
- RALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+ уппа: Ю-168\nПара: 2 пара\nДополнительно: Се
+ идов М.М.\nURALCAMPUS_SYNC_ID:c23f84d81527b78ecbeaa1e71579be86\nURA
+ LCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:5807b527d52e1f6a1472f929ab07c10b@uralcampus-calendar-pages
@@ -102,16 +91,39 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  ca99\nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:98fd54b1a5f6cca3a98c77675a69b509@uralcampus-calendar-pages
+UID:5e74963b95b424e37af77c172fba423f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T135000
-DTEND;TZID=Asia/Yekaterinburg:20261112T152000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Новый Уренгой
+DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
+DTEND;TZID=Asia/Yekaterinburg:20261113T100000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-168\nПара: 4 пара\nДополнительно: Се
- идов М.М.\nURALCAMPUS_SYNC_ID:98fd54b1a5f6cca3a98c77675a69b509\nURA
+ уппа: Ю-168\nПара: 1 пара\nДополнительно: Ко
+ йшина Е.А.\nURALCAMPUS_SYNC_ID:5e74963b95b424e37af77c172fba423f\nU
+ RALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f5e81af4a009b3b107e3c29edb075e86@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
+DTEND;TZID=Asia/Yekaterinburg:20261113T114000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-168\nПара: 2 пара\nДополнительно: Бо
+ бнев С.В.\nURALCAMPUS_SYNC_ID:f5e81af4a009b3b107e3c29edb075e86\nURA
  LCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2276479d0f89359d0ea179aeab57e0ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
+DTEND;TZID=Asia/Yekaterinburg:20261113T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 9\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-168\nПара: 3 пара\nДополнительно: Ма
+ лышева С.И.\nURALCAMPUS_SYNC_ID:2276479d0f89359d0ea179aeab57e0ee\
+ nURALCAMPUS_SOURCE:preco:group:3dcd44dd-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

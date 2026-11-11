@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:793d39b1a11341ad6c6ce5a416c7ce8e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
+DTEND;TZID=Asia/Yekaterinburg:20261113T114000
+SUMMARY:Черчение (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бойцова Любовь Петровна\nП
+ ара: 2 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC
+ _ID:793d39b1a11341ad6c6ce5a416c7ce8e\nURALCAMPUS_SOURCE:preco:teacher:ed1
+ b34b6-4e02-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ac48bfbad801c5fe14b32d1431dcb398@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
+DTEND;TZID=Asia/Yekaterinburg:20261113T133000
+SUMMARY:Черчение (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бойцова Любовь Петровна\nП
+ ара: 3 пара\nДополнительно: ЗИ-274\nURALCAMPUS_SYNC
+ _ID:ac48bfbad801c5fe14b32d1431dcb398\nURALCAMPUS_SOURCE:preco:teacher:ed1
+ b34b6-4e02-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

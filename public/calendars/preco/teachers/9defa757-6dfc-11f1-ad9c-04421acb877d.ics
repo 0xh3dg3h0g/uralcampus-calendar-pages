@@ -19,36 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2dfe6e6358d2775f44fe894beac8a988@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
-DTEND;TZID=Asia/Yekaterinburg:20261111T100000
-SUMMARY:Теория и методика физического воспи
- тания с практикумом (Аудиторные занятия
- )
-LOCATION:ауд. 203\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Медведева Дарья Сергеевна\
- nПара: 1 пара\nДополнительно: НК-456к\nURALCAMPUS
- _SYNC_ID:2dfe6e6358d2775f44fe894beac8a988\nURALCAMPUS_SOURCE:preco:teache
- r:9defa757-6dfc-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ed0e3d92709cac8e61be95a8b12920b0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
-DTEND;TZID=Asia/Yekaterinburg:20261111T114000
-SUMMARY:Теория и методика физического воспи
- тания с практикумом (Аудиторные занятия
- )
-LOCATION:ауд. 203\, Комсомольский проспект 115
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Медведева Дарья Сергеевна\
- nПара: 2 пара\nДополнительно: НК-456к\nURALCAMPUS
- _SYNC_ID:ed0e3d92709cac8e61be95a8b12920b0\nURALCAMPUS_SOURCE:preco:teache
- r:9defa757-6dfc-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:db2c82c45deae626fbc5322325e58c20@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
@@ -64,19 +34,34 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  fa757-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:415f6a59d5d2e81d2d66277d6481458e@uralcampus-calendar-pages
+UID:214852a6193e3f3e5e92d40c6708e1f6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261111T135000
 DTEND;TZID=Asia/Yekaterinburg:20261111T152000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Комсомольский просп
- ект 115
+SUMMARY:Теория и методика физического воспи
+ тания с практикумом (Аудиторные занятия
+ )
+LOCATION:ауд. 203\, Комсомольский проспект 115
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Медведева Дарья Сергеевна\
- nПара: 4 пара\nДополнительно: 142к\nURALCAMPUS_SYNC
- _ID:415f6a59d5d2e81d2d66277d6481458e\nURALCAMPUS_SOURCE:preco:teacher:9de
- fa757-6dfc-11f1-ad9c-04421acb877d
+ nПара: 4 пара\nДополнительно: НК-456к\nURALCAMPUS
+ _SYNC_ID:214852a6193e3f3e5e92d40c6708e1f6\nURALCAMPUS_SOURCE:preco:teache
+ r:9defa757-6dfc-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9fbae22a09240adce7d2a3f7e5b8b83a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T153000
+DTEND;TZID=Asia/Yekaterinburg:20261111T170000
+SUMMARY:Теория и методика физического воспи
+ тания с практикумом (Аудиторные занятия
+ )
+LOCATION:ауд. 203\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Медведева Дарья Сергеевна\
+ nПара: 5 пара\nДополнительно: НК-456к\nURALCAMPUS
+ _SYNC_ID:9fbae22a09240adce7d2a3f7e5b8b83a\nURALCAMPUS_SOURCE:preco:teache
+ r:9defa757-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:fa415be0940e784080a868e126770740@uralcampus-calendar-pages
@@ -154,7 +139,7 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  fa757-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:090b79f4e52582f23f8690bded181620@uralcampus-calendar-pages
+UID:9e9ce7e14f23fc01fbad0b28e36c61fc@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
 DTEND;TZID=Asia/Yekaterinburg:20261113T100000
@@ -163,9 +148,9 @@ SUMMARY:Физическая культура (Аудиторные зан
 LOCATION:ауд. Спортзал\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Медведева Дарья Сергеевна\
- nПара: 1 пара\nДополнительно: ПД-248\, ПД-248А\
- nURALCAMPUS_SYNC_ID:090b79f4e52582f23f8690bded181620\nURALCAMPUS_SOURCE:p
- reco:teacher:9defa757-6dfc-11f1-ad9c-04421acb877d
+ nПара: 1 пара\nДополнительно: П-240\nURALCAMPUS_SYN
+ C_ID:9e9ce7e14f23fc01fbad0b28e36c61fc\nURALCAMPUS_SOURCE:preco:teacher:9d
+ efa757-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:48bcb11afc74d5a3d64e3246d47bac1e@uralcampus-calendar-pages
@@ -196,7 +181,7 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :teacher:9defa757-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:1859096a29db781dc8dda0f853135705@uralcampus-calendar-pages
+UID:2afc5930a0e54ee3a0a374de4a20eba4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T135000
 DTEND;TZID=Asia/Yekaterinburg:20261113T152000
@@ -205,9 +190,9 @@ SUMMARY:Физическая культура (Аудиторные зан
 LOCATION:ауд. Спортзал\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Медведева Дарья Сергеевна\
- nПара: 4 пара\nДополнительно: П-240\nURALCAMPUS_SYN
- C_ID:1859096a29db781dc8dda0f853135705\nURALCAMPUS_SOURCE:preco:teacher:9d
- efa757-6dfc-11f1-ad9c-04421acb877d
+ nПара: 4 пара\nДополнительно: ПД-248\, ПД-248А\
+ nURALCAMPUS_SYNC_ID:2afc5930a0e54ee3a0a374de4a20eba4\nURALCAMPUS_SOURCE:p
+ reco:teacher:9defa757-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:ef266046c388cf68385d37e10ed8d3cc@uralcampus-calendar-pages

@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:1fa4617d8a9d809c377b3495a66b4696@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T090000
+DTEND;TZID=Asia/Yekaterinburg:20261116T103000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 32\, Садовая 9\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Аливердиев Ренат Назирови
+ ч\nПара: 1 пара\nДополнительно: ПД-296\nURALCAMPU
+ S_SYNC_ID:1fa4617d8a9d809c377b3495a66b4696\nURALCAMPUS_SOURCE:preco:teach
+ er:82bc1279-bcf1-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:82f8f12ed649f5646cad1f86d3310f4f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T105000
+DTEND;TZID=Asia/Yekaterinburg:20261116T122000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 32\, Садовая 9\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Аливердиев Ренат Назирови
+ ч\nПара: 2 пара\nДополнительно: ПД-296\nURALCAMPU
+ S_SYNC_ID:82f8f12ed649f5646cad1f86d3310f4f\nURALCAMPUS_SOURCE:preco:teach
+ er:82bc1279-bcf1-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR
