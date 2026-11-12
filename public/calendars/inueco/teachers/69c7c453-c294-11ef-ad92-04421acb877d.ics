@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:388957b64814206308bb319eed1f91fd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T153000
+DTEND;TZID=Asia/Yekaterinburg:20261119T170000
+SUMMARY:Теория информационных процессов и с
+ истем (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новикова Дарья Анатол
+ ьевна\nПара: 5 пара\nДополнительно: И-207\nURA
+ LCAMPUS_SYNC_ID:388957b64814206308bb319eed1f91fd\nURALCAMPUS_SOURCE:inuec
+ o:teacher:69c7c453-c294-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cc6fb22f4e06ff96b740266fe67fdbf6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T171000
+DTEND;TZID=Asia/Yekaterinburg:20261119T182000
+SUMMARY:Теория информационных процессов и с
+ истем (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Новикова Дарья Анатол
+ ьевна\nПара: 6 пара\nДополнительно: И-207\nURA
+ LCAMPUS_SYNC_ID:cc6fb22f4e06ff96b740266fe67fdbf6\nURALCAMPUS_SOURCE:inuec
+ o:teacher:69c7c453-c294-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Преподаватель: Сеидов Махи
+ р Мирмехти оглы
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4ef55ab5938a98c9c23d1a5f0de37924@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T135000
+DTEND;TZID=Asia/Yekaterinburg:20261111T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сеидов Махир Мирмехти оглы
+ \nПара: 4 пара\nДополнительно: Б-164\nURALCAMPUS_SY
+ NC_ID:4ef55ab5938a98c9c23d1a5f0de37924\nURALCAMPUS_SOURCE:preco:teacher:f
+ ffb9e6d-d871-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee1744676c179d7a3e9aa1504c8d854@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
+DTEND;TZID=Asia/Yekaterinburg:20261111T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сеидов Махир Мирмехти оглы
+ \nПара: 3 пара\nДополнительно: ЗИ-274\nURALCAMPUS_
+ SYNC_ID:8ee1744676c179d7a3e9aa1504c8d854\nURALCAMPUS_SOURCE:preco:teacher
+ :fffb9e6d-d871-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f1fbd592ff04ed1a81322345783260e7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
+DTEND;TZID=Asia/Yekaterinburg:20261111T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Сеидов Махир Мирмехти оглы
+ \nПара: 2 пара\nДополнительно: Ю-168\nURALCAMPUS_SY
+ NC_ID:f1fbd592ff04ed1a81322345783260e7\nURALCAMPUS_SOURCE:preco:teacher:f
+ ffb9e6d-d871-11ef-ad92-04421acb877d
+END:VEVENT
+END:VCALENDAR

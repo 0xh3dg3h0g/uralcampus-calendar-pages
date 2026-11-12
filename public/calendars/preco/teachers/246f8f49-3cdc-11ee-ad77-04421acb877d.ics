@@ -19,88 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2d61d481880a3c194448ed860841c821@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
-DTEND;TZID=Asia/Yekaterinburg:20261111T100000
-SUMMARY:Информационные технологии (Аудитор
- ные занятия)
-LOCATION:ауд. 312\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курова Ксения Владимировн
- а\nПара: 1 пара\nДополнительно: Б-334\, Б-334А\n
- URALCAMPUS_SYNC_ID:2d61d481880a3c194448ed860841c821\nURALCAMPUS_SOURCE:pr
- eco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:6e1ac47103fda606217572d0a2d9c331@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
-DTEND;TZID=Asia/Yekaterinburg:20261111T114000
-SUMMARY:Информационные системы правоохрани
- тельных органов (Аудиторные занятия)
-LOCATION:ауд. 313\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курова Ксения Владимировн
- а\nПара: 2 пара\nДополнительно: ПД-349\nURALCAMPU
- S_SYNC_ID:6e1ac47103fda606217572d0a2d9c331\nURALCAMPUS_SOURCE:preco:teach
- er:246f8f49-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:fa24ffb459308f78688f53efe160c571@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
-DTEND;TZID=Asia/Yekaterinburg:20261111T133000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 08\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курова Ксения Владимировн
- а\nПара: 3 пара\nДополнительно: 131\nURALCAMPUS_SYN
- C_ID:fa24ffb459308f78688f53efe160c571\nURALCAMPUS_SOURCE:preco:teacher:24
- 6f8f49-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:15904f710fad4b3becf1db7e5ce60858@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T135000
-DTEND;TZID=Asia/Yekaterinburg:20261111T152000
-SUMMARY:Информационные технологии (Аудитор
- ные занятия)
-LOCATION:ауд. 301\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курова Ксения Владимировн
- а\nПара: 4 пара\nДополнительно: З-344\, З-344А\n
- URALCAMPUS_SYNC_ID:15904f710fad4b3becf1db7e5ce60858\nURALCAMPUS_SOURCE:pr
- eco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b251d7a59f546a17e4b3fe7b1c10b526@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T153000
-DTEND;TZID=Asia/Yekaterinburg:20261111T170000
-SUMMARY:Информационные системы правоохрани
- тельных органов (Аудиторные занятия)
-LOCATION:ауд. 301\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курова Ксения Владимировн
- а\nПара: 5 пара\nДополнительно: ПД-348\, ПД-348
- А\nURALCAMPUS_SYNC_ID:b251d7a59f546a17e4b3fe7b1c10b526\nURALCAMPUS_SOURC
- E:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:01a0ee715297ab298ab700fe70d62bd5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T171000
-DTEND;TZID=Asia/Yekaterinburg:20261111T182000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 301\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Курова Ксения Владимировн
- а\nПара: 6 пара\nДополнительно: 133\nURALCAMPUS_SYN
- C_ID:01a0ee715297ab298ab700fe70d62bd5\nURALCAMPUS_SOURCE:preco:teacher:24
- 6f8f49-3cdc-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:a18cfa1cf94153e822dd183a3094c4c3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T083000
@@ -543,17 +461,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  6f8f49-3cdc-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:5ab1b7e09a39638b5a683157c4d811e2@uralcampus-calendar-pages
+UID:030bd15c6cc7e7fe8c60cef8648d1e69@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
 DTEND;TZID=Asia/Yekaterinburg:20261119T100000
 SUMMARY:Информационное обеспечение логисти
  ческих процессов (Аудиторные занятия)
-LOCATION:ауд. 412\, Комсомольский проспект 113А
+LOCATION:ауд. 420\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Курова Ксения Владимировн
  а\nПара: 1 пара\nДополнительно: ОЛ-250к\nURALCAM
- PUS_SYNC_ID:5ab1b7e09a39638b5a683157c4d811e2\nURALCAMPUS_SOURCE:preco:tea
+ PUS_SYNC_ID:030bd15c6cc7e7fe8c60cef8648d1e69\nURALCAMPUS_SOURCE:preco:tea
  cher:246f8f49-3cdc-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -767,5 +685,257 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 6 пара\nДополнительно: СД/оз-222А\nUR
  ALCAMPUS_SYNC_ID:30d3a2be60671ce54632124a82b8d196\nURALCAMPUS_SOURCE:prec
  o:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:25060c0f86a47c995dc9ba5b13cb78ac@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T101000
+DTEND;TZID=Asia/Yekaterinburg:20261126T114000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 2 пара\nДополнительно: ПД-248к\, ПД-2
+ 48Ак\nURALCAMPUS_SYNC_ID:25060c0f86a47c995dc9ba5b13cb78ac\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:826e24b05f63bee9fb8d737b7def2f99@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T120000
+DTEND;TZID=Asia/Yekaterinburg:20261126T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 3 пара\nДополнительно: ПД-249к\, ПД-2
+ 49Ак\nURALCAMPUS_SYNC_ID:826e24b05f63bee9fb8d737b7def2f99\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:54b658db100377a301e425ffbc7f1510@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T135000
+DTEND;TZID=Asia/Yekaterinburg:20261126T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 4 пара\nДополнительно: ПД-249к\, ПД-2
+ 49Ак\nURALCAMPUS_SYNC_ID:54b658db100377a301e425ffbc7f1510\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6f1bc8727950373342157cf1a3b4e417@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T083000
+DTEND;TZID=Asia/Yekaterinburg:20261127T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 1 пара\nДополнительно: 144к\nURALCAMPUS_S
+ YNC_ID:6f1bc8727950373342157cf1a3b4e417\nURALCAMPUS_SOURCE:preco:teacher:
+ 246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cc4e332f8042345b63849c72842c8035@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T101000
+DTEND;TZID=Asia/Yekaterinburg:20261127T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 402\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 2 пара\nДополнительно: 156к\nURALCAMPUS_S
+ YNC_ID:cc4e332f8042345b63849c72842c8035\nURALCAMPUS_SOURCE:preco:teacher:
+ 246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5e7786820240191a1db5afedad2471ce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T120000
+DTEND;TZID=Asia/Yekaterinburg:20261127T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 3 пара\nДополнительно: ПД-248к\, ПД-2
+ 48Ак\nURALCAMPUS_SYNC_ID:5e7786820240191a1db5afedad2471ce\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca62b0b061367c5eafc3bf4ea0f9ed4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T135000
+DTEND;TZID=Asia/Yekaterinburg:20261127T152000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 402\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 4 пара\nДополнительно: НК-256к\, НК-2
+ 56Ак\nURALCAMPUS_SYNC_ID:9ca62b0b061367c5eafc3bf4ea0f9ed4\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34d385412fb5d188a11e1548e035a049@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T153000
+DTEND;TZID=Asia/Yekaterinburg:20261127T170000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 402\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 5 пара\nДополнительно: 157к\nURALCAMPUS_S
+ YNC_ID:34d385412fb5d188a11e1548e035a049\nURALCAMPUS_SOURCE:preco:teacher:
+ 246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:75edb20560fbff1720f912215c1e3ec5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T171000
+DTEND;TZID=Asia/Yekaterinburg:20261127T182000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 6 пара\nДополнительно: 143к\nURALCAMPUS_S
+ YNC_ID:75edb20560fbff1720f912215c1e3ec5\nURALCAMPUS_SOURCE:preco:teacher:
+ 246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0a8a2e75cd05da6bb559b1e418399e42@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T101000
+DTEND;TZID=Asia/Yekaterinburg:20261203T114000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 2 пара\nДополнительно: ПД-248к\, ПД-2
+ 48Ак\nURALCAMPUS_SYNC_ID:0a8a2e75cd05da6bb559b1e418399e42\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fd09cb52d8df585e73fd9ce196f34b13@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T120000
+DTEND;TZID=Asia/Yekaterinburg:20261203T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 3 пара\nДополнительно: ПД-249к\, ПД-2
+ 49Ак\nURALCAMPUS_SYNC_ID:fd09cb52d8df585e73fd9ce196f34b13\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ce203f858e259fb09868ce5072160fb3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T135000
+DTEND;TZID=Asia/Yekaterinburg:20261203T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 411\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 4 пара\nДополнительно: ПД-249к\, ПД-2
+ 49Ак\nURALCAMPUS_SYNC_ID:ce203f858e259fb09868ce5072160fb3\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c7dfd64d22e6669a7810795beeaa41@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T083000
+DTEND;TZID=Asia/Yekaterinburg:20261204T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 1 пара\nДополнительно: 144к\nURALCAMPUS_S
+ YNC_ID:b9c7dfd64d22e6669a7810795beeaa41\nURALCAMPUS_SOURCE:preco:teacher:
+ 246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3a7a93d842e2e28012fbf2edd28d9d93@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T101000
+DTEND;TZID=Asia/Yekaterinburg:20261204T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 402\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 2 пара\nДополнительно: 156к\nURALCAMPUS_S
+ YNC_ID:3a7a93d842e2e28012fbf2edd28d9d93\nURALCAMPUS_SOURCE:preco:teacher:
+ 246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d1177276c63784acdece466c28560b00@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T120000
+DTEND;TZID=Asia/Yekaterinburg:20261204T133000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 3 пара\nДополнительно: ПД-248к\, ПД-2
+ 48Ак\nURALCAMPUS_SYNC_ID:d1177276c63784acdece466c28560b00\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c87a9d89e14e59898730f0f83bc9ed9d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T135000
+DTEND;TZID=Asia/Yekaterinburg:20261204T152000
+SUMMARY:Информационные технологии (Аудитор
+ ные занятия)
+LOCATION:ауд. 402\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 4 пара\nДополнительно: НК-256к\, НК-2
+ 56Ак\nURALCAMPUS_SYNC_ID:c87a9d89e14e59898730f0f83bc9ed9d\nURALCAMPUS_S
+ OURCE:preco:teacher:246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2990ed58f216bbc57df2b4afd0598b2d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T153000
+DTEND;TZID=Asia/Yekaterinburg:20261204T170000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 402\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 5 пара\nДополнительно: 157к\nURALCAMPUS_S
+ YNC_ID:2990ed58f216bbc57df2b4afd0598b2d\nURALCAMPUS_SOURCE:preco:teacher:
+ 246f8f49-3cdc-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0b3cef27d9450e4b74143fd62d17cb87@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T171000
+DTEND;TZID=Asia/Yekaterinburg:20261204T182000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 412\, Комсомольский проспект 115
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Курова Ксения Владимировн
+ а\nПара: 6 пара\nДополнительно: 143к\nURALCAMPUS_S
+ YNC_ID:0b3cef27d9450e4b74143fd62d17cb87\nURALCAMPUS_SOURCE:preco:teacher:
+ 246f8f49-3cdc-11ee-ad77-04421acb877d
 END:VEVENT
 END:VCALENDAR

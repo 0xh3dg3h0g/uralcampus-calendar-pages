@@ -19,88 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9e9b668d7dd9a76fe9f598c9dbc91e2e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
-DTEND;TZID=Asia/Yekaterinburg:20261111T100000
-SUMMARY:Прикладное программирование (Лаб.)
-LOCATION:ауд. 216\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Саллам Мохамед Эльсай
- ед\nПара: 1 пара\nДополнительно: И-207\nURALCAMPU
- S_SYNC_ID:9e9b668d7dd9a76fe9f598c9dbc91e2e\nURALCAMPUS_SOURCE:inueco:teac
- her:edce5043-6e2a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:17f259600529af924355d3c62519ace1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
-DTEND;TZID=Asia/Yekaterinburg:20261111T114000
-SUMMARY:Прикладное программирование (Лаб.)
-LOCATION:ауд. 216\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Саллам Мохамед Эльсай
- ед\nПара: 2 пара\nДополнительно: И-207\nURALCAMPU
- S_SYNC_ID:17f259600529af924355d3c62519ace1\nURALCAMPUS_SOURCE:inueco:teac
- her:edce5043-6e2a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:bc337bb56cc53264e6c870f949a42d38@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T120000
-DTEND;TZID=Asia/Yekaterinburg:20261111T133000
-SUMMARY:Архитектура информационных систем (
- Практика)
-LOCATION:ауд. 216\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Саллам Мохамед Эльсай
- ед\nПара: 3 пара\nДополнительно: И-207\nURALCAMPU
- S_SYNC_ID:bc337bb56cc53264e6c870f949a42d38\nURALCAMPUS_SOURCE:inueco:teac
- her:edce5043-6e2a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0727684aae58969f2a48a7e7ef60aa57@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T135000
-DTEND;TZID=Asia/Yekaterinburg:20261111T152000
-SUMMARY:Методы и системы обработки больших 
- данных (Практика)
-LOCATION:ауд. 216\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Саллам Мохамед Эльсай
- ед\nПара: 4 пара\nДополнительно: И-407\nURALCAMPU
- S_SYNC_ID:0727684aae58969f2a48a7e7ef60aa57\nURALCAMPUS_SOURCE:inueco:teac
- her:edce5043-6e2a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:420c75ae417de3f22ba37ae3eef7e88c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T153000
-DTEND;TZID=Asia/Yekaterinburg:20261111T170000
-SUMMARY:Методы и системы обработки больших 
- данных (Практика)
-LOCATION:ауд. 216\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Саллам Мохамед Эльсай
- ед\nПара: 5 пара\nДополнительно: И-407\nURALCAMPU
- S_SYNC_ID:420c75ae417de3f22ba37ae3eef7e88c\nURALCAMPUS_SOURCE:inueco:teac
- her:edce5043-6e2a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e64a001e1b532c5cc49a275d0bea8e8b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T171000
-DTEND;TZID=Asia/Yekaterinburg:20261111T182000
-SUMMARY:Иностранный язык делового общения (
- Практика)
-LOCATION:ауд. 216\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Саллам Мохамед Эльсай
- ед\nПара: 6 пара\nДополнительно: МЗу-301\nURALC
- AMPUS_SYNC_ID:e64a001e1b532c5cc49a275d0bea8e8b\nURALCAMPUS_SOURCE:inueco:
- teacher:edce5043-6e2a-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:471ce726dd31770c20c814a47b2f1760@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T171000
@@ -131,5 +49,105 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  З-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-301/12а\,
   МЗД-301\nURALCAMPUS_SYNC_ID:443e86781e44b52af11aa6ff1da0476b\nURALCAM
  PUS_SOURCE:inueco:teacher:edce5043-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9656d66c3531fb65cf6889888a11564f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T120000
+DTEND;TZID=Asia/Yekaterinburg:20261116T133000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лекци
+ я)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саллам Мохамед Эльсай
+ ед\nПара: 3 пара\nДополнительно: ИЗ-401\nURALCAM
+ PUS_SYNC_ID:9656d66c3531fb65cf6889888a11564f\nURALCAMPUS_SOURCE:inueco:te
+ acher:edce5043-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f42b29aa9b4b8f169a8886c417172ed4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
+DTEND;TZID=Asia/Yekaterinburg:20261116T152000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лекци
+ я)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саллам Мохамед Эльсай
+ ед\nПара: 4 пара\nДополнительно: ИЗ-401\nURALCAM
+ PUS_SYNC_ID:f42b29aa9b4b8f169a8886c417172ed4\nURALCAMPUS_SOURCE:inueco:te
+ acher:edce5043-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bd61486f813e3d3846c66b9ac7afe8d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
+DTEND;TZID=Asia/Yekaterinburg:20261116T170000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Практ
+ ика)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саллам Мохамед Эльсай
+ ед\nПара: 5 пара\nДополнительно: ИЗ-401\nURALCAM
+ PUS_SYNC_ID:bd61486f813e3d3846c66b9ac7afe8d8\nURALCAMPUS_SOURCE:inueco:te
+ acher:edce5043-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b342441db274513bbdf525bea317ac4b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T101000
+DTEND;TZID=Asia/Yekaterinburg:20261118T114000
+SUMMARY:Прикладное программирование (Лаб.)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саллам Мохамед Эльсай
+ ед\nПара: 2 пара\nДополнительно: И-207\nURALCAMPU
+ S_SYNC_ID:b342441db274513bbdf525bea317ac4b\nURALCAMPUS_SOURCE:inueco:teac
+ her:edce5043-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f046f5d372245ed720da66878e6f07bd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T120000
+DTEND;TZID=Asia/Yekaterinburg:20261118T133000
+SUMMARY:Архитектура информационных систем (
+ Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саллам Мохамед Эльсай
+ ед\nПара: 3 пара\nДополнительно: И-207\nURALCAMPU
+ S_SYNC_ID:f046f5d372245ed720da66878e6f07bd\nURALCAMPUS_SOURCE:inueco:teac
+ her:edce5043-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e29f5d5289e79bc5365aee3512583619@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T135000
+DTEND;TZID=Asia/Yekaterinburg:20261118T152000
+SUMMARY:Методы и системы обработки больших 
+ данных (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саллам Мохамед Эльсай
+ ед\nПара: 4 пара\nДополнительно: И-407\nURALCAMPU
+ S_SYNC_ID:e29f5d5289e79bc5365aee3512583619\nURALCAMPUS_SOURCE:inueco:teac
+ her:edce5043-6e2a-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4a652ae3b26e829393a4f834434683d0@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T153000
+DTEND;TZID=Asia/Yekaterinburg:20261118T170000
+SUMMARY:Методы и системы обработки больших 
+ данных (Практика)
+LOCATION:ауд. 216\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Саллам Мохамед Эльсай
+ ед\nПара: 5 пара\nДополнительно: И-407\nURALCAMPU
+ S_SYNC_ID:4a652ae3b26e829393a4f834434683d0\nURALCAMPUS_SOURCE:inueco:teac
+ her:edce5043-6e2a-11f1-ad9c-04421acb877d
 END:VEVENT
 END:VCALENDAR

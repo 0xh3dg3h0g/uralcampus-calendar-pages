@@ -18,4 +18,43 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:e795bb7e5c60d2261330da6ebf83806a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T083000
+DTEND;TZID=Asia/Yekaterinburg:20261121T100000
+SUMMARY:Инженерная геодезия (Лекция)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Халилова Ирина Владим
+ ировна\nПара: 1 пара\nДополнительно: С-116\nU
+ RALCAMPUS_SYNC_ID:e795bb7e5c60d2261330da6ebf83806a\nURALCAMPUS_SOURCE:inu
+ eco:teacher:dc080710-bb0a-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:21b49cddd84486e8c579bf6ff67a0edc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T101000
+DTEND;TZID=Asia/Yekaterinburg:20261121T114000
+SUMMARY:Инженерная геодезия (Практика)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Халилова Ирина Владим
+ ировна\nПара: 2 пара\nДополнительно: С-116\nU
+ RALCAMPUS_SYNC_ID:21b49cddd84486e8c579bf6ff67a0edc\nURALCAMPUS_SOURCE:inu
+ eco:teacher:dc080710-bb0a-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:18cb6d09d3b92b2d1ff92c027166ab61@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T120000
+DTEND;TZID=Asia/Yekaterinburg:20261121T133000
+SUMMARY:Инженерная геодезия (Практика)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Халилова Ирина Владим
+ ировна\nПара: 3 пара\nДополнительно: С-116\nU
+ RALCAMPUS_SYNC_ID:18cb6d09d3b92b2d1ff92c027166ab61\nURALCAMPUS_SOURCE:inu
+ eco:teacher:dc080710-bb0a-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

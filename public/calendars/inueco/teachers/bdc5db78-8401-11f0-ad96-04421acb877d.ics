@@ -18,4 +18,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:1642e157350aad2b4a10273c23d7375b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
+DTEND;TZID=Asia/Yekaterinburg:20261117T100000
+SUMMARY:Прокурорский надзор (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Инчин Илья Николаевич
+ \nПара: 1 пара\nДополнительно: Ю-301\nURALCAMPUS_SY
+ NC_ID:1642e157350aad2b4a10273c23d7375b\nURALCAMPUS_SOURCE:inueco:teacher:
+ bdc5db78-8401-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:60472e7bc23c1f2f01cb73f24e276b11@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
+DTEND;TZID=Asia/Yekaterinburg:20261117T114000
+SUMMARY:Прокурорский надзор (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Инчин Илья Николаевич
+ \nПара: 2 пара\nДополнительно: Ю-301\nURALCAMPUS_SY
+ NC_ID:60472e7bc23c1f2f01cb73f24e276b11\nURALCAMPUS_SOURCE:inueco:teacher:
+ bdc5db78-8401-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

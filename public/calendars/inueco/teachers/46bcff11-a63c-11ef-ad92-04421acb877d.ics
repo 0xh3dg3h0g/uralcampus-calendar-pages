@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:95ab7abe0135668fe4a4de4a673de324@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
+DTEND;TZID=Asia/Yekaterinburg:20261116T170000
+SUMMARY:Организация и мотивация труда (Экза
+ мен)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Наталья Ивано
+ вна\nПара: 5 пара\nДополнительно: ТДЗ-501\nURA
+ LCAMPUS_SYNC_ID:95ab7abe0135668fe4a4de4a673de324\nURALCAMPUS_SOURCE:inuec
+ o:teacher:46bcff11-a63c-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd447e4eec13fe123bddb8c500bc97a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T171000
+DTEND;TZID=Asia/Yekaterinburg:20261116T182000
+SUMMARY:Организация и мотивация труда (Лекц
+ ия)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Терещук Наталья Ивано
+ вна\nПара: 6 пара\nДополнительно: ТД-506\nURALC
+ AMPUS_SYNC_ID:3bd447e4eec13fe123bddb8c500bc97a\nURALCAMPUS_SOURCE:inueco:
+ teacher:46bcff11-a63c-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR

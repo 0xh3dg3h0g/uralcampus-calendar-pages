@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5569fdc4682ff87b0a486afd0e9f44f5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T083000
-DTEND;TZID=Asia/Yekaterinburg:20261111T100000
-SUMMARY:Живопись с основами цветоведения (А
- удиторные занятия)
-LOCATION:ауд. 102\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дубровина Ольга Николаевн
- а\nПара: 1 пара\nДополнительно: Д-342\nURALCAMPUS_
- SYNC_ID:5569fdc4682ff87b0a486afd0e9f44f5\nURALCAMPUS_SOURCE:preco:teacher
- :98a33f8e-7ced-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:356a7d36fd64569a3b8076ac2a92e0af@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261111T101000
-DTEND;TZID=Asia/Yekaterinburg:20261111T114000
-SUMMARY:Живопись с основами цветоведения (А
- удиторные занятия)
-LOCATION:ауд. 102\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дубровина Ольга Николаевн
- а\nПара: 2 пара\nДополнительно: Д-342\nURALCAMPUS_
- SYNC_ID:356a7d36fd64569a3b8076ac2a92e0af\nURALCAMPUS_SOURCE:preco:teacher
- :98a33f8e-7ced-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:0b088c6375f702a502b827c2b45325be@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261112T101000
@@ -145,20 +117,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :98a33f8e-7ced-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:ae7ce9eda0245ea46673a0518347f554@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
-DTEND;TZID=Asia/Yekaterinburg:20261117T152000
-SUMMARY:Живопись с основами цветоведения (А
- удиторные занятия)
-LOCATION:ауд. 101\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Дубровина Ольга Николаевн
- а\nПара: 4 пара\nДополнительно: Д-212\, Д-212А\n
- URALCAMPUS_SYNC_ID:ae7ce9eda0245ea46673a0518347f554\nURALCAMPUS_SOURCE:pr
- eco:teacher:98a33f8e-7ced-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:3920008602f51cd1c445609bd2cbb431@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
@@ -185,6 +143,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 4 пара\nДополнительно: Д-212А (2)\nURALC
  AMPUS_SYNC_ID:a8f09db99e835f47cb8a9a20a18fbfbb\nURALCAMPUS_SOURCE:preco:t
  eacher:98a33f8e-7ced-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ae7ce9eda0245ea46673a0518347f554@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
+DTEND;TZID=Asia/Yekaterinburg:20261117T152000
+SUMMARY:Живопись с основами цветоведения (А
+ удиторные занятия)
+LOCATION:ауд. 101\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Дубровина Ольга Николаевн
+ а\nПара: 4 пара\nДополнительно: Д-212\, Д-212А\n
+ URALCAMPUS_SYNC_ID:ae7ce9eda0245ea46673a0518347f554\nURALCAMPUS_SOURCE:pr
+ eco:teacher:98a33f8e-7ced-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:8841ed2dd95ff6ccb3be5d818b8fcefa@uralcampus-calendar-pages
