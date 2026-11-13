@@ -18,31 +18,57 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8933b01e2f589e9df3a03c1ec0b811af@uralcampus-calendar-pages
+UID:a729970ccd020d069ff67510fdf623a3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T183000
-DTEND;TZID=Asia/Yekaterinburg:20261112T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261117T183000
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗДу-201\nПара: 7 пара\nДополните
+ льно: Терещук С.В.\nURALCAMPUS_SYNC_ID:a729970ccd020d069ff67
+ 510fdf623a3\nURALCAMPUS_SOURCE:inueco:group:9981932b-6012-11ed-ad65-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:52f9cd0485bb14d7e13b5d307b578f48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T195000
+DTEND;TZID=Asia/Yekaterinburg:20261117T205000
+SUMMARY:Сопротивление материалов (Лаб.)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗДу-201\nПара: 8 пара\nДополните
+ льно: Терещук С.В.\nURALCAMPUS_SYNC_ID:52f9cd0485bb14d7e13b5
+ d307b578f48\nURALCAMPUS_SOURCE:inueco:group:9981932b-6012-11ed-ad65-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e382d7c276a5d11b0173f477889d6bb7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T171000
+DTEND;TZID=Asia/Yekaterinburg:20261119T182000
+SUMMARY:Инженерные изыскания в строительст
+ ве (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗДу-201\nПара: 6 пара\nДополните
+ льно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:e382d7c276a5d11b01
+ 73f477889d6bb7\nURALCAMPUS_SOURCE:inueco:group:9981932b-6012-11ed-ad65-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2eaf3bec8313232a2c29180935bae2c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T183000
+DTEND;TZID=Asia/Yekaterinburg:20261119T194000
 SUMMARY:Инженерные изыскания в строительст
  ве (Практика)
 LOCATION:ауд. 108\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: СЗДу-201\nПара: 7 пара\nДополните
- льно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:8933b01e2f589e9df3
- a03c1ec0b811af\nURALCAMPUS_SOURCE:inueco:group:9981932b-6012-11ed-ad65-04
+ льно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:2eaf3bec8313232a2c
+ 29180935bae2c2\nURALCAMPUS_SOURCE:inueco:group:9981932b-6012-11ed-ad65-04
  421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:534051a21006c975555a5880833900c4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T195000
-DTEND;TZID=Asia/Yekaterinburg:20261112T205000
-SUMMARY:Инженерная и компьютерная графика (
- Лаб.)
-LOCATION:ауд. 203
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗДу-201\nПара: 8 пара\nДополните
- льно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:534051a21006c975555a5880
- 833900c4\nURALCAMPUS_SOURCE:inueco:group:9981932b-6012-11ed-ad65-04421acb
- 877d
 END:VEVENT
 END:VCALENDAR

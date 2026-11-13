@@ -18,56 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4eedd121895ad3e5ddae7a14c52d205d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T083000
-DTEND;TZID=Asia/Yekaterinburg:20261112T100000
-SUMMARY:Менеджмент (Аудиторные занятия)
-LOCATION:ауд. 207\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
- но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:4eedd121895ad3e5dda
- e7a14c52d205d\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4
- bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:4bd625b08758da62d7c1f717a772501f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T101000
-DTEND;TZID=Asia/Yekaterinburg:20261112T114000
-SUMMARY:Численные методы (Аудиторные заняти
- я)
-LOCATION:ауд. 304\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
- но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:4bd625b08758da62d7c1f717a7725
- 01f\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:dd53e9d0ba676698e6ff8a9eb2143db9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T120000
-DTEND;TZID=Asia/Yekaterinburg:20261112T133000
-SUMMARY:WEB-технологии (Аудиторные занятия)
-LOCATION:ауд. 304\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-310\, П-310А\nПара: 3 пара\nДополнитель
- но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:dd53e9d0ba676698e6ff8a9eb2143
- db9\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:fc9be9bed7e0b0e8ab96e6dc62470f53@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T135000
-DTEND;TZID=Asia/Yekaterinburg:20261112T152000
-SUMMARY:WEB-технологии (Аудиторные занятия)
-LOCATION:ауд. 304\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: П-310\, П-310А\nПара: 4 пара\nДополнитель
- но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:fc9be9bed7e0b0e8ab96e6dc62470
- f53\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:c7d1435e69478454c77b2dd7a56c435a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
@@ -266,5 +216,357 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
  но: Попова К.С.\nURALCAMPUS_SYNC_ID:5bdb986ca9dee14438f072575aa
  025bd\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:835da72bd80a84a98ee937b4619e9a0b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T083000
+DTEND;TZID=Asia/Yekaterinburg:20261123T100000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:835da72bd80a84a98ee93
+ 7b4619e9a0b\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8c91533c5a4b83873bd54dd1ed03c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T101000
+DTEND;TZID=Asia/Yekaterinburg:20261123T114000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:8e8c91533c5a4b83873bd
+ 54dd1ed03c7\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:928c3ad890cc6426f57693bf0cdb01cc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T083000
+DTEND;TZID=Asia/Yekaterinburg:20261124T100000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:928c3ad890cc6426f57693bf0cd
+ b01cc\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9906646b3e98457ed514d29c75e40fa3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T101000
+DTEND;TZID=Asia/Yekaterinburg:20261124T114000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:9906646b3e98457ed514d29c75e
+ 40fa3\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:0459de6e35af8b9d25e6c351b9becc74@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T120000
+DTEND;TZID=Asia/Yekaterinburg:20261124T133000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Аудиторные зан
+ ятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 3 пара\nДополнитель
+ но: Семянников И.М.\nURALCAMPUS_SYNC_ID:0459de6e35af8b9d25e
+ 6c351b9becc74\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:fae93f0f2979e523bba51f00d8f31c75@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T135000
+DTEND;TZID=Asia/Yekaterinburg:20261124T152000
+SUMMARY:Стандартизация\,сертификация и техн
+ ическое документоведение (Аудиторные з
+ анятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 4 пара\nДополнитель
+ но: Семянников И.М.\nURALCAMPUS_SYNC_ID:fae93f0f2979e523bba
+ 51f00d8f31c75\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:b383dabc8fc408177fc161a6a5b58a32@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T083000
+DTEND;TZID=Asia/Yekaterinburg:20261125T100000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:b383dabc8fc408177fc161a6a5b
+ 58a32\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:e193f6a6ec1d380ef27649301bdd8e1c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T101000
+DTEND;TZID=Asia/Yekaterinburg:20261125T114000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:e193f6a6ec1d380ef27649301bd
+ d8e1c\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed4f1b7bf300b2b7b8d922641b72493@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T120000
+DTEND;TZID=Asia/Yekaterinburg:20261125T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 3 пара\nДополнитель
+ но: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:1ed4f1b7bf300b2b7b8d92264
+ 1b72493\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e52
+ 85
+END:VEVENT
+BEGIN:VEVENT
+UID:ec98a8e3d11caad8ade66bc6cefac428@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T083000
+DTEND;TZID=Asia/Yekaterinburg:20261126T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 501\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Цветникова Я.В.\nURALCAMPUS_SYNC_ID:ec98a8e3d11caad8ade
+ 66bc6cefac428\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4529a6872e7a664b7d9cb1f63aa0f7a1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T101000
+DTEND;TZID=Asia/Yekaterinburg:20261126T114000
+SUMMARY:Численные методы (Аудиторные заняти
+ я)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:4529a6872e7a664b7d9cb1f63aa0f
+ 7a1\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:f4e9a30ff98474b7f2d8a53d15bbae2a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T083000
+DTEND;TZID=Asia/Yekaterinburg:20261127T100000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Попова К.С.\nURALCAMPUS_SYNC_ID:f4e9a30ff98474b7f2d8a53d15b
+ bae2a\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:014682a7c4626b8ba258fdabc93919ae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T101000
+DTEND;TZID=Asia/Yekaterinburg:20261127T114000
+SUMMARY:Безопасность жизнедеятельности (Ау
+ диторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Дресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:014682a7c4626
+ b8ba258fdabc93919ae\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43
+ c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ae1935c1c527fbd7b91870711f6c002d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T083000
+DTEND;TZID=Asia/Yekaterinburg:20261130T100000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:ae1935c1c527fbd7b9187
+ 0711f6c002d\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:8b888133d75c6565a23b372c95ab9f4a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T101000
+DTEND;TZID=Asia/Yekaterinburg:20261130T114000
+SUMMARY:Технология разработки и защиты баз 
+ данных (Аудиторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Кокшарова А.Д.\nURALCAMPUS_SYNC_ID:8b888133d75c6565a23b3
+ 72c95ab9f4a\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb
+ 0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:389f16771580a09b240cd2e0a2e82711@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T083000
+DTEND;TZID=Asia/Yekaterinburg:20261201T100000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:389f16771580a09b240cd2e0a2e
+ 82711\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:9e74505352c9d6f47e34420c4140c3d2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T101000
+DTEND;TZID=Asia/Yekaterinburg:20261201T114000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:9e74505352c9d6f47e34420c414
+ 0c3d2\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:4055e5d7829ab439d6d6e668a32730e1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T120000
+DTEND;TZID=Asia/Yekaterinburg:20261201T133000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Аудиторные зан
+ ятия)
+LOCATION:ауд. 304\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 3 пара\nДополнитель
+ но: Семянников И.М.\nURALCAMPUS_SYNC_ID:4055e5d7829ab439d6d
+ 6e668a32730e1\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:701d249905eca9d39b92502b51a6320c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T135000
+DTEND;TZID=Asia/Yekaterinburg:20261201T152000
+SUMMARY:Стандартизация\,сертификация и техн
+ ическое документоведение (Аудиторные з
+ анятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 4 пара\nДополнитель
+ но: Семянников И.М.\nURALCAMPUS_SYNC_ID:701d249905eca9d39b9
+ 2502b51a6320c\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4
+ bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:29a2c6673b011daecfa2ca699cb76525@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T083000
+DTEND;TZID=Asia/Yekaterinburg:20261202T100000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:29a2c6673b011daecfa2ca699cb
+ 76525\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:8a43441375efa7936f360f9c79eb144f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T101000
+DTEND;TZID=Asia/Yekaterinburg:20261202T114000
+SUMMARY:Разработка программных модулей (Ауд
+ иторные занятия)
+LOCATION:ауд. 405\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Гапчук А.А.\nURALCAMPUS_SYNC_ID:8a43441375efa7936f360f9c79e
+ b144f\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ea8a0f1ef2030110929ad728e662af5a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T120000
+DTEND;TZID=Asia/Yekaterinburg:20261202T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 3 пара\nДополнитель
+ но: Жусупов А.Д.\nURALCAMPUS_SYNC_ID:ea8a0f1ef2030110929ad728e
+ 662af5a\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e52
+ 85
+END:VEVENT
+BEGIN:VEVENT
+UID:af99633755d4e2a66e93c1ef911de626@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T120000
+DTEND;TZID=Asia/Yekaterinburg:20261203T133000
+SUMMARY:WEB-технологии (Аудиторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 3 пара\nДополнитель
+ но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:af99633755d4e2a66e93c1ef911de
+ 626\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef3330e373ddaf99cc20ed1e9d671a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T135000
+DTEND;TZID=Asia/Yekaterinburg:20261203T152000
+SUMMARY:WEB-технологии (Аудиторные занятия)
+LOCATION:ауд. 305\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 4 пара\nДополнитель
+ но: Мусин А.Р.\nURALCAMPUS_SYNC_ID:3ef3330e373ddaf99cc20ed1e9d67
+ 1a9\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5f745004a0a2789601e0b62d52fc84@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T083000
+DTEND;TZID=Asia/Yekaterinburg:20261204T100000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 1 пара\nДополнитель
+ но: Попова К.С.\nURALCAMPUS_SYNC_ID:ad5f745004a0a2789601e0b62d5
+ 2fc84\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:699c5295aeec994d3ac5eb772c629c87@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T101000
+DTEND;TZID=Asia/Yekaterinburg:20261204T114000
+SUMMARY:Безопасность жизнедеятельности (Ау
+ диторные занятия)
+LOCATION:ауд. 301\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: П-310\, П-310А\nПара: 2 пара\nДополнитель
+ но: Дресвянникова Т.Н.\nURALCAMPUS_SYNC_ID:699c5295aeec9
+ 94d3ac5eb772c629c87\nURALCAMPUS_SOURCE:preco:group:f1816655-eabc-11eb-b43
+ c-ecf4bb0e5285
 END:VEVENT
 END:VCALENDAR

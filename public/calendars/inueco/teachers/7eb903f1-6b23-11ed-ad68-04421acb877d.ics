@@ -18,4 +18,40 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:24a7714a29837ff3c19e6f9328443667@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T152000
+DTEND;TZID=Asia/Yekaterinburg:20261121T165000
+SUMMARY:Системы автоматизированного управл
+ ения технологическими процессами (Лекц
+ ия)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Захахатнов Виктор Гле
+ бович\nПара: 5 пара\nДополнительно: ЭЛЗ-401/
+ 02\, ЭЛЗ-401/03\, ЭЛЗ-401/04\, ЭЛЗ-401/04а\, ЭЛЗ-401/05а\, 
+ ЭлЗ-401/06\, ЭЛЗ-401/07\, ЭЛЗ-401/09\, ЭлЗ-401/11\, ЭЛЗ-40
+ 1/12\, ЭЛЗ-401/13\, ЭЛЗ-401/13а\, ЭЛЗд-401\nURALCAMPUS_SYNC_ID
+ :24a7714a29837ff3c19e6f9328443667\nURALCAMPUS_SOURCE:inueco:teacher:7eb90
+ 3f1-6b23-11ed-ad68-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2bd4c82a7297386d29e4283a3c5b2a7e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T170000
+DTEND;TZID=Asia/Yekaterinburg:20261121T181000
+SUMMARY:Системы автоматизированного управл
+ ения технологическими процессами (Лекц
+ ия)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Захахатнов Виктор Гле
+ бович\nПара: 6 пара\nДополнительно: ЭЛЗ-401/
+ 02\, ЭЛЗ-401/03\, ЭЛЗ-401/04\, ЭЛЗ-401/04а\, ЭЛЗ-401/05а\, 
+ ЭлЗ-401/06\, ЭЛЗ-401/07\, ЭЛЗ-401/09\, ЭлЗ-401/11\, ЭЛЗ-40
+ 1/12\, ЭЛЗ-401/13\, ЭЛЗ-401/13а\, ЭЛЗд-401\nURALCAMPUS_SYNC_ID
+ :2bd4c82a7297386d29e4283a3c5b2a7e\nURALCAMPUS_SOURCE:inueco:teacher:7eb90
+ 3f1-6b23-11ed-ad68-04421acb877d
+END:VEVENT
 END:VCALENDAR

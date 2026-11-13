@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0eeea93d444c7a979cf3aab1ea6a67dd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T171000
-DTEND;TZID=Asia/Yekaterinburg:20261112T182000
-SUMMARY:Инженерные изыскания в строительст
- ве (Практика)
-LOCATION:ауд. 108\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗ-201/11\nПара: 6 пара\nДополните
- льно: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:0eeea93d444c7a979c
- f3aab1ea6a67dd\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:e9aed927b3d9dc44e09003b6dcf971ca@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T183000
-DTEND;TZID=Asia/Yekaterinburg:20261112T194000
-SUMMARY:Инженерная и компьютерная графика (
- Лаб.)
-LOCATION:ауд. 203
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СЗ-201/11\nПара: 7 пара\nДополните
- льно: Зязев Е. В.\nURALCAMPUS_SYNC_ID:e9aed927b3d9dc44e09003b6
- dcf971ca\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:a1bafaa367a2d0f7cd93e2cfdd2c85a6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T170000
@@ -57,5 +29,31 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  льно: Батовская Е. К.\nURALCAMPUS_SYNC_ID:a1bafaa367a2d0f7
  cd93e2cfdd2c85a6\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-
  04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3868e7c154662e11404de8e4ec730e5d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T171000
+DTEND;TZID=Asia/Yekaterinburg:20261117T182000
+SUMMARY:Сопротивление материалов (Практика)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201/11\nПара: 6 пара\nДополните
+ льно: Терещук С.В.\nURALCAMPUS_SYNC_ID:3868e7c154662e11404de
+ 8e4ec730e5d\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cd6196aa40a484d889c10519f39874fd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T183000
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+SUMMARY:Сопротивление материалов (Лекция)
+LOCATION:ауд. 208\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-201/11\nПара: 7 пара\nДополните
+ льно: Терещук С.В.\nURALCAMPUS_SYNC_ID:cd6196aa40a484d889c10
+ 519f39874fd\nURALCAMPUS_SOURCE:inueco:group:a09d1d7f-282f-11ed-ad61-04421
+ acb877d
 END:VEVENT
 END:VCALENDAR

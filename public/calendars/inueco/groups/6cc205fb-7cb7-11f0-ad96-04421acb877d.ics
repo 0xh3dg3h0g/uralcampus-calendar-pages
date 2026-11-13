@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:cf68e314bbbc6e57b9dc124068bec2d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T171000
+DTEND;TZID=Asia/Yekaterinburg:20261116T182000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-101/08\nПара: 6 пара\nДополнит
+ ельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:cf68e314bbb
+ c6e57b9dc124068bec2d8\nURALCAMPUS_SOURCE:inueco:group:6cc205fb-7cb7-11f0-
+ ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:37bab95dee1e0e6e5767d6f391b4a823@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T183000
+DTEND;TZID=Asia/Yekaterinburg:20261116T194000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗу-101/08\nПара: 7 пара\nДополнит
+ ельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:37bab95dee1
+ e0e6e5767d6f391b4a823\nURALCAMPUS_SOURCE:inueco:group:6cc205fb-7cb7-11f0-
+ ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -18,4 +18,36 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:5df8402f376e78f2ef40359efaaf10a5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T171000
+DTEND;TZID=Asia/Yekaterinburg:20261117T182000
+SUMMARY:Социально-психологические основы у
+ правления (Практика)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяйнова Наталья Мих
+ айловна\nПара: 6 пара\nДополнительно: МЗ-30
+ 1/01\, МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301
+ /06\, МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-30
+ 1/12а\, МЗД-301\nURALCAMPUS_SYNC_ID:5df8402f376e78f2ef40359efaaf10a5\
+ nURALCAMPUS_SOURCE:inueco:teacher:aaa871e7-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:8ff62517e36a0fd23a5458d293c50acd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T183000
+DTEND;TZID=Asia/Yekaterinburg:20261117T194000
+SUMMARY:Социально-психологические основы у
+ правления (Практика)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Горяйнова Наталья Мих
+ айловна\nПара: 7 пара\nДополнительно: МЗ-30
+ 1/01\, МЗ-301/01а\, МЗ-301/02\, МЗ-301/03\, МЗ-301/05\, МЗ-301
+ /06\, МЗ-301/07\, МЗ-301/07а\, МЗ-301/07б\, МЗ-301/11\, МЗ-30
+ 1/12а\, МЗД-301\nURALCAMPUS_SYNC_ID:8ff62517e36a0fd23a5458d293c50acd\
+ nURALCAMPUS_SOURCE:inueco:teacher:aaa871e7-22a2-11ed-9504-001e679d7828
+END:VEVENT
 END:VCALENDAR

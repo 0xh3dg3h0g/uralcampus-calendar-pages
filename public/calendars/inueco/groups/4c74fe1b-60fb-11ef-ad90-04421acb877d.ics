@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:760c1e06cc21f2f088dba872d853a3ff@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T171000
+DTEND;TZID=Asia/Yekaterinburg:20261119T182000
+SUMMARY:Математический анализ данных и инте
+ ллектуальные системы (Практика)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗд-201\nПара: 6 пара\nДополнител
+ ьно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:760c1e06cc21f2f088db
+ a872d853a3ff\nURALCAMPUS_SOURCE:inueco:group:4c74fe1b-60fb-11ef-ad90-0442
+ 1acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:12f11f5412e204322e14d0b73241b46e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T183000
+DTEND;TZID=Asia/Yekaterinburg:20261119T194000
+SUMMARY:Математический анализ данных и инте
+ ллектуальные системы (Практика)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЗд-201\nПара: 7 пара\nДополнител
+ ьно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:12f11f5412e204322e14
+ d0b73241b46e\nURALCAMPUS_SOURCE:inueco:group:4c74fe1b-60fb-11ef-ad90-0442
+ 1acb877d
+END:VEVENT
 END:VCALENDAR

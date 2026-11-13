@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4162dec26b48071197955091deaab972@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T153000
-DTEND;TZID=Asia/Yekaterinburg:20261112T170000
-SUMMARY:Избирательное право (Лекция)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 5 пара\nДополнительно: Ю-201\nU
- RALCAMPUS_SYNC_ID:4162dec26b48071197955091deaab972\nURALCAMPUS_SOURCE:inu
- eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:dd2b8d859e864bbf9848383b1ace0f40@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261112T171000
-DTEND;TZID=Asia/Yekaterinburg:20261112T182000
-SUMMARY:Избирательное право (Практика)
-LOCATION:ауд. 317\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 6 пара\nДополнительно: Ю-201\nU
- RALCAMPUS_SYNC_ID:dd2b8d859e864bbf9848383b1ace0f40\nURALCAMPUS_SOURCE:inu
- eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:8e925ebe61242ce96fef7bdaf0467e5f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T083000
@@ -250,42 +224,79 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  eco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:ceebbd25d65da606bca59b3ec84a6fbc@uralcampus-calendar-pages
+UID:c7951168738bc3144c1ccf4bd8a961cf@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T120000
-DTEND;TZID=Asia/Yekaterinburg:20261121T133000
-SUMMARY:Конституционное право (Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 3 пара\nДополнительно: ЮЗ-101\
- nURALCAMPUS_SYNC_ID:ceebbd25d65da606bca59b3ec84a6fbc\nURALCAMPUS_SOURCE:i
- nueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4186b05cf1b861a2a3e00885beca6400@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T134000
-DTEND;TZID=Asia/Yekaterinburg:20261121T151000
-SUMMARY:Конституционное право (Практика)
-LOCATION:ауд. 319\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 4 пара\nДополнительно: ЮЗ-101\
- nURALCAMPUS_SYNC_ID:4186b05cf1b861a2a3e00885beca6400\nURALCAMPUS_SOURCE:i
- nueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:005429c3d886e79ba608319e83391c04@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T152000
-DTEND;TZID=Asia/Yekaterinburg:20261121T165000
+DTSTART;TZID=Asia/Yekaterinburg:20261121T083000
+DTEND;TZID=Asia/Yekaterinburg:20261121T100000
 SUMMARY:Теория государства и права (Лекция)
 LOCATION:ауд. 319\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Неровная Наталья Нико
- лаевна\nПара: 5 пара\nДополнительно: ЮЗ-101\
- nURALCAMPUS_SYNC_ID:005429c3d886e79ba608319e83391c04\nURALCAMPUS_SOURCE:i
+ лаевна\nПара: 1 пара\nДополнительно: ЮЗ-101\
+ nURALCAMPUS_SYNC_ID:c7951168738bc3144c1ccf4bd8a961cf\nURALCAMPUS_SOURCE:i
  nueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8b7da81742ce203cf60b2b1ca24e658f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T101000
+DTEND;TZID=Asia/Yekaterinburg:20261121T114000
+SUMMARY:Теория государства и права (Практик
+ а)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 2 пара\nДополнительно: ЮЗ-101\
+ nURALCAMPUS_SYNC_ID:8b7da81742ce203cf60b2b1ca24e658f\nURALCAMPUS_SOURCE:i
+ nueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bac0a8742ad9bea4606132eff599cc1e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T120000
+DTEND;TZID=Asia/Yekaterinburg:20261121T133000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 3 пара\nДополнительно: ЮЗ-201/
+ 01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, ЮЗ-201/0
+ 5а\, ЮЗ-201/06\nURALCAMPUS_SYNC_ID:bac0a8742ad9bea4606132eff599cc1e\nU
+ RALCAMPUS_SOURCE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fc2dbda64204af46705c74e18ffe130a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T134000
+DTEND;TZID=Asia/Yekaterinburg:20261121T151000
+SUMMARY:Право социального обеспечения (Лекц
+ ия)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 4 пара\nДополнительно: ЮЗ-201/
+ 01\, ЮЗ-201/02\, ЮЗ-201/03\, ЮЗ-201/04\, ЮЗ-201/04а\, ЮЗ-201/0
+ 5а\, ЮЗ-201/06\, ЮЗ-201/07\, ЮЗ-201/07а\, ЮЗ-201/07б\, ЮЗ-20
+ 1/08\, ЮЗ-201/11\, ЮЗ-201/12\, ЮЗ-201/12а\, ЮЗ-201/13\, ЮЗ-201
+ /13а\, ЮЗ-201/16\, ЮЗД-201\nURALCAMPUS_SYNC_ID:fc2dbda64204af46705c
+ 74e18ffe130a\nURALCAMPUS_SOURCE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e845f82dbe5e31ba3e55144d671017e3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T152000
+DTEND;TZID=Asia/Yekaterinburg:20261121T165000
+SUMMARY:Право социального обеспечения (Прак
+ тика)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Неровная Наталья Нико
+ лаевна\nПара: 5 пара\nДополнительно: ЮЗ-201/
+ 07\, ЮЗ-201/07а\, ЮЗ-201/07б\, ЮЗ-201/08\, ЮЗ-201/11\, ЮЗ-201
+ /12\, ЮЗ-201/12а\, ЮЗ-201/13\, ЮЗ-201/13а\, ЮЗ-201/16\, ЮЗД-
+ 201\nURALCAMPUS_SYNC_ID:e845f82dbe5e31ba3e55144d671017e3\nURALCAMPUS_SOUR
+ CE:inueco:teacher:46c26e1d-60fb-11ef-ad90-04421acb877d
 END:VEVENT
 END:VCALENDAR
