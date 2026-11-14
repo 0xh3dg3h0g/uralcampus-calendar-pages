@@ -19,61 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:834eeb986437fb154e6d8c3221143010@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T090000
-DTEND;TZID=Asia/Yekaterinburg:20261113T103000
-SUMMARY:Административное право (Аудиторные 
- занятия)
-LOCATION:ауд. 32\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Полянский Михаил Иванович\
- nПара: 1 пара\nДополнительно: ПД-296\nURALCAMPUS_S
- YNC_ID:834eeb986437fb154e6d8c3221143010\nURALCAMPUS_SOURCE:preco:teacher:
- 7d35a4fd-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:b674cbe96d03493975df8b94b1bfe81b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T105000
-DTEND;TZID=Asia/Yekaterinburg:20261113T122000
-SUMMARY:Информационные технологии в профес
- сиональной деятельности (Аудиторные за
- нятия)
-LOCATION:ауд. 22\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Полянский Михаил Иванович\
- nПара: 2 пара\nДополнительно: ПД-296\nURALCAMPUS_S
- YNC_ID:b674cbe96d03493975df8b94b1bfe81b\nURALCAMPUS_SOURCE:preco:teacher:
- 7d35a4fd-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:93811232a682cff981f2380207b0dee4@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T130000
-DTEND;TZID=Asia/Yekaterinburg:20261113T143000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 22\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Полянский Михаил Иванович\
- nПара: 3 пара\nДополнительно: ПД-196\nURALCAMPUS_S
- YNC_ID:93811232a682cff981f2380207b0dee4\nURALCAMPUS_SOURCE:preco:teacher:
- 7d35a4fd-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7873d12b5433c5beb16acf5da999950b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T145000
-DTEND;TZID=Asia/Yekaterinburg:20261113T162000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 22\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Полянский Михаил Иванович\
- nПара: 4 пара\nДополнительно: ПД-196\nURALCAMPUS_S
- YNC_ID:7873d12b5433c5beb16acf5da999950b\nURALCAMPUS_SOURCE:preco:teacher:
- 7d35a4fd-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:fcf94ea81925d4700f7738754e9de443@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T090000
@@ -102,20 +47,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  7d35a4fd-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:0aa0cb03667bfee4582585400e7ebcaf@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T105000
-DTEND;TZID=Asia/Yekaterinburg:20261114T122000
-SUMMARY:Административное право (Аудиторные 
- занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Полянский Михаил Иванович\
- nПара: 2 пара\nДополнительно: ПД-299\nURALCAMPUS_S
- YNC_ID:0aa0cb03667bfee4582585400e7ebcaf\nURALCAMPUS_SOURCE:preco:teacher:
- 7d35a4fd-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:2b0a1098d4e02abd7c5f415df387f36a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T105000
@@ -127,6 +58,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Полянский Михаил Иванович\
  nПара: 2 пара\nДополнительно: ПД-298\nURALCAMPUS_S
  YNC_ID:2b0a1098d4e02abd7c5f415df387f36a\nURALCAMPUS_SOURCE:preco:teacher:
+ 7d35a4fd-52c3-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa0cb03667bfee4582585400e7ebcaf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T105000
+DTEND;TZID=Asia/Yekaterinburg:20261114T122000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Полянский Михаил Иванович\
+ nПара: 2 пара\nДополнительно: ПД-299\nURALCAMPUS_S
+ YNC_ID:0aa0cb03667bfee4582585400e7ebcaf\nURALCAMPUS_SOURCE:preco:teacher:
  7d35a4fd-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -158,20 +103,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  35a4fd-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:96583b7117955067c34a1e5470ec31da@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T105000
-DTEND;TZID=Asia/Yekaterinburg:20261116T122000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Полянский Михаил Иванович\
- nПара: 2 пара\nДополнительно: ПД-299\nURALCAMPUS_S
- YNC_ID:96583b7117955067c34a1e5470ec31da\nURALCAMPUS_SOURCE:preco:teacher:
- 7d35a4fd-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ab854ddfb861348c2a23d6f7a6974560@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T105000
@@ -183,6 +114,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Полянский Михаил Иванович\
  nПара: 2 пара\nДополнительно: ПД-298\nURALCAMPUS_S
  YNC_ID:ab854ddfb861348c2a23d6f7a6974560\nURALCAMPUS_SOURCE:preco:teacher:
+ 7d35a4fd-52c3-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:96583b7117955067c34a1e5470ec31da@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T105000
+DTEND;TZID=Asia/Yekaterinburg:20261116T122000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Полянский Михаил Иванович\
+ nПара: 2 пара\nДополнительно: ПД-299\nURALCAMPUS_S
+ YNC_ID:96583b7117955067c34a1e5470ec31da\nURALCAMPUS_SOURCE:preco:teacher:
  7d35a4fd-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -200,20 +145,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  :teacher:7d35a4fd-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:b7bae2828345dab72311b65e0765872f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T090000
-DTEND;TZID=Asia/Yekaterinburg:20261117T103000
-SUMMARY:Информационные системы правоохрани
- тельных органов (Аудиторные занятия)
-LOCATION:ауд. 22\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Полянский Михаил Иванович\
- nПара: 1 пара\nДополнительно: ПД-397\nURALCAMPUS_S
- YNC_ID:b7bae2828345dab72311b65e0765872f\nURALCAMPUS_SOURCE:preco:teacher:
- 7d35a4fd-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:17a16b6cb991de65574e2354f2373b79@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T090000
@@ -225,6 +156,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Полянский Михаил Иванович\
  nПара: 1 пара\nДополнительно: ПД-396\nURALCAMPUS_S
  YNC_ID:17a16b6cb991de65574e2354f2373b79\nURALCAMPUS_SOURCE:preco:teacher:
+ 7d35a4fd-52c3-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b7bae2828345dab72311b65e0765872f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T090000
+DTEND;TZID=Asia/Yekaterinburg:20261117T103000
+SUMMARY:Информационные системы правоохрани
+ тельных органов (Аудиторные занятия)
+LOCATION:ауд. 22\, Садовая 9\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Полянский Михаил Иванович\
+ nПара: 1 пара\nДополнительно: ПД-397\nURALCAMPUS_S
+ YNC_ID:b7bae2828345dab72311b65e0765872f\nURALCAMPUS_SOURCE:preco:teacher:
  7d35a4fd-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -424,20 +369,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  35a4fd-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:9f8593b369e2754ba1cb69e10920fe8a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T130000
-DTEND;TZID=Asia/Yekaterinburg:20261121T143000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Полянский Михаил Иванович\
- nПара: 3 пара\nДополнительно: ПД-299\nURALCAMPUS_S
- YNC_ID:9f8593b369e2754ba1cb69e10920fe8a\nURALCAMPUS_SOURCE:preco:teacher:
- 7d35a4fd-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:0c203981fec2a2da03e506fa2c5b5abe@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261121T130000
@@ -449,6 +380,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Полянский Михаил Иванович\
  nПара: 3 пара\nДополнительно: ПД-298\nURALCAMPUS_S
  YNC_ID:0c203981fec2a2da03e506fa2c5b5abe\nURALCAMPUS_SOURCE:preco:teacher:
+ 7d35a4fd-52c3-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9f8593b369e2754ba1cb69e10920fe8a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T130000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Полянский Михаил Иванович\
+ nПара: 3 пара\nДополнительно: ПД-299\nURALCAMPUS_S
+ YNC_ID:9f8593b369e2754ba1cb69e10920fe8a\nURALCAMPUS_SOURCE:preco:teacher:
  7d35a4fd-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

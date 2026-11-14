@@ -17,4 +17,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:d919039376ecf0ed8135cb374fc1d997@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T171000
+DTEND;TZID=Asia/Yekaterinburg:20261116T182000
+SUMMARY:Производственная практика (преддип
+ ломная практика) (Зачет по практике)
+LOCATION:ауд. 204
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗм-301/08\nПара: 6 пара\nДополн
+ ительно: Пасешник Н.П.\nURALCAMPUS_SYNC_ID:d919039376ecf
+ 0ed8135cb374fc1d997\nURALCAMPUS_SOURCE:inueco:group:a09d1d14-282f-11ed-ad
+ 61-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -18,4 +18,44 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:117c294825043cb1ebc6bdab43fc2285@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T083000
+DTEND;TZID=Asia/Yekaterinburg:20261116T100000
+SUMMARY:Гражданское право (Экзамен)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ижохина Наталья Павловна\n
+ Пара: 1 пара\nДополнительно: Ю-368\, Ю-368А\nURAL
+ CAMPUS_SYNC_ID:117c294825043cb1ebc6bdab43fc2285\nURALCAMPUS_SOURCE:preco:
+ teacher:3422c080-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:85c4bfde98fc59eea030bbbc1199a8c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T101000
+DTEND;TZID=Asia/Yekaterinburg:20261116T114000
+SUMMARY:Гражданское право (Экзамен)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ижохина Наталья Павловна\n
+ Пара: 2 пара\nДополнительно: Ю-368\, Ю-368А\nURAL
+ CAMPUS_SYNC_ID:85c4bfde98fc59eea030bbbc1199a8c4\nURALCAMPUS_SOURCE:preco:
+ teacher:3422c080-4e03-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c741bc0de3fb24dbb88aa1b3e44ebf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
+DTEND;TZID=Asia/Yekaterinburg:20261116T170000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Ижохина Наталья Павловна\n
+ Пара: 5 пара\nДополнительно: ПД-378\, ПД-378А\n
+ URALCAMPUS_SYNC_ID:f7c741bc0de3fb24dbb88aa1b3e44ebf\nURALCAMPUS_SOURCE:pr
+ eco:teacher:3422c080-4e03-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR

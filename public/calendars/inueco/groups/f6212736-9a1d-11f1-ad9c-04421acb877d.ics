@@ -18,60 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8b39647b48bf22effb99ac6981aac8e9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
-DTEND;TZID=Asia/Yekaterinburg:20261113T100000
-SUMMARY:Высшая математика (Практика)
-LOCATION:ауд. 404\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: З-113\nПара: 1 пара\nДополнительн
- о: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:8b39647b48bf22effb99ac69
- 81aac8e9\nURALCAMPUS_SOURCE:inueco:group:f6212736-9a1d-11f1-ad9c-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:c2a47ff4530b09d4c1936ecd1333e872@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
-DTEND;TZID=Asia/Yekaterinburg:20261113T114000
-SUMMARY:Правоведение (Практика)
-LOCATION:ауд. 404\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: З-113\nПара: 2 пара\nДополнительн
- о: Черепашкин А. С.\nURALCAMPUS_SYNC_ID:c2a47ff4530b09d4c193
- 6ecd1333e872\nURALCAMPUS_SOURCE:inueco:group:f6212736-9a1d-11f1-ad9c-0442
- 1acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4dadb3ee867330d82d358e0885155243@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T171000
-DTEND;TZID=Asia/Yekaterinburg:20261113T182000
-SUMMARY:Безопасность жизнедеятельности (Ле
- кция)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: З-113\nПара: 6 пара\nДополнительн
- о: Коваленко Н.С.\nURALCAMPUS_SYNC_ID:4dadb3ee867330d82d358e0
- 885155243\nURALCAMPUS_SOURCE:inueco:group:f6212736-9a1d-11f1-ad9c-04421ac
- b877d
-END:VEVENT
-BEGIN:VEVENT
-UID:59a1ec9869065a3436d3ef6671fd93da@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T183000
-DTEND;TZID=Asia/Yekaterinburg:20261113T194000
-SUMMARY:Физическая культура и спорт (Практи
- ка)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: З-113\nПара: 7 пара\nДополнительн
- о: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:59a1ec9869065a3436d3ef
- 6671fd93da\nURALCAMPUS_SOURCE:inueco:group:f6212736-9a1d-11f1-ad9c-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e6f16f7d7914b7374877317b36c7d687@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T134000
@@ -287,5 +233,19 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  о: Коваленко Н.С.\nURALCAMPUS_SYNC_ID:4923ed4fad5fe85a54a40dc
  40ad9e58f\nURALCAMPUS_SOURCE:inueco:group:f6212736-9a1d-11f1-ad9c-04421ac
  b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9f804554dd4a663ea424102263585634@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T152000
+DTEND;TZID=Asia/Yekaterinburg:20261121T165000
+SUMMARY:Физическая культура и спорт (Практи
+ ка)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: З-113\nПара: 5 пара\nДополнительн
+ о: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:9f804554dd4a663ea42410
+ 2263585634\nURALCAMPUS_SOURCE:inueco:group:f6212736-9a1d-11f1-ad9c-04421a
+ cb877d
 END:VEVENT
 END:VCALENDAR

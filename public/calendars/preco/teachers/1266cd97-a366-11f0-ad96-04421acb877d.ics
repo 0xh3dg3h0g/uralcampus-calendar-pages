@@ -18,4 +18,18 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:7994bde9b09ac2af719bc091343f3896@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T101000
+DTEND;TZID=Asia/Yekaterinburg:20261116T114000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 5\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Кравченко Екатерина Васил
+ ьевна\nПара: 2 пара\nДополнительно: Ю-268\, Ю
+ -268А\nURALCAMPUS_SYNC_ID:7994bde9b09ac2af719bc091343f3896\nURALCAMPUS_S
+ OURCE:preco:teacher:1266cd97-a366-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

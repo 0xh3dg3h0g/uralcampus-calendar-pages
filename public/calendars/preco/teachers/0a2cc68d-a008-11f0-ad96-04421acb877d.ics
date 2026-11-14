@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3a0f3d9c1a9da40b59b48b557334949d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T130000
-DTEND;TZID=Asia/Yekaterinburg:20261113T143000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 3 пара\nДополнительно: ПД-298\nURALCAM
- PUS_SYNC_ID:3a0f3d9c1a9da40b59b48b557334949d\nURALCAMPUS_SOURCE:preco:tea
- cher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:344e25a2d045d2218fa25a78f32a05e8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T130000
-DTEND;TZID=Asia/Yekaterinburg:20261113T143000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 3 пара\nДополнительно: ПД-299\nURALCAM
- PUS_SYNC_ID:344e25a2d045d2218fa25a78f32a05e8\nURALCAMPUS_SOURCE:preco:tea
- cher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:20c72affac595fb51b051e1f57aaa3c5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T145000
-DTEND;TZID=Asia/Yekaterinburg:20261113T162000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 4 пара\nДополнительно: ПД-299\nURALCAM
- PUS_SYNC_ID:20c72affac595fb51b051e1f57aaa3c5\nURALCAMPUS_SOURCE:preco:tea
- cher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:3c970c0b8f3c18fd865604a61f9f983d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T145000
-DTEND;TZID=Asia/Yekaterinburg:20261113T162000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 4 пара\nДополнительно: ПД-298\nURALCAM
- PUS_SYNC_ID:3c970c0b8f3c18fd865604a61f9f983d\nURALCAMPUS_SOURCE:preco:tea
- cher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:10c5aaf981cd91d0c687be0bd339e8ad@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T090000
@@ -103,20 +47,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  cher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:83ce95e7131ab270328fc631e495ae31@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T130000
-DTEND;TZID=Asia/Yekaterinburg:20261114T143000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 3 пара\nДополнительно: Ю-287\, Ю-286А
- \nURALCAMPUS_SYNC_ID:83ce95e7131ab270328fc631e495ae31\nURALCAMPUS_SOURCE:
- preco:teacher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:d43dcbd67d9af874d2119121e88c6856@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T130000
@@ -129,6 +59,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 3 пара\nДополнительно: Ю-286\nURALCAMPU
  S_SYNC_ID:d43dcbd67d9af874d2119121e88c6856\nURALCAMPUS_SOURCE:preco:teach
  er:0a2cc68d-a008-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:83ce95e7131ab270328fc631e495ae31@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261114T130000
+DTEND;TZID=Asia/Yekaterinburg:20261114T143000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Насретдинова Алия Рафиков
+ на\nПара: 3 пара\nДополнительно: Ю-287\, Ю-286А
+ \nURALCAMPUS_SYNC_ID:83ce95e7131ab270328fc631e495ae31\nURALCAMPUS_SOURCE:
+ preco:teacher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:824d7b16cae338a710532e2fb19e457d@uralcampus-calendar-pages
@@ -145,20 +89,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  er:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:ca93bfe722aa189f411254cb70ee3bb6@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T130000
-DTEND;TZID=Asia/Yekaterinburg:20261120T143000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 3 пара\nДополнительно: ПД-299\nURALCAM
- PUS_SYNC_ID:ca93bfe722aa189f411254cb70ee3bb6\nURALCAMPUS_SOURCE:preco:tea
- cher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:d7e0ddd35fa94862a2d848e2a7a8cbaa@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T130000
@@ -170,6 +100,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Насретдинова Алия Рафиков
  на\nПара: 3 пара\nДополнительно: ПД-298\nURALCAM
  PUS_SYNC_ID:d7e0ddd35fa94862a2d848e2a7a8cbaa\nURALCAMPUS_SOURCE:preco:tea
+ cher:0a2cc68d-a008-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ca93bfe722aa189f411254cb70ee3bb6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T130000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Насретдинова Алия Рафиков
+ на\nПара: 3 пара\nДополнительно: ПД-299\nURALCAM
+ PUS_SYNC_ID:ca93bfe722aa189f411254cb70ee3bb6\nURALCAMPUS_SOURCE:preco:tea
  cher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -201,20 +145,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  cher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:1beb6ac7dd2722b8b16da5a32b8c4e5f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T130000
-DTEND;TZID=Asia/Yekaterinburg:20261121T143000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Насретдинова Алия Рафиков
- на\nПара: 3 пара\nДополнительно: Ю-287\, Ю-286А
- \nURALCAMPUS_SYNC_ID:1beb6ac7dd2722b8b16da5a32b8c4e5f\nURALCAMPUS_SOURCE:
- preco:teacher:0a2cc68d-a008-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:d99acf9ecee2c990bb39607d19ff698d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261121T130000
@@ -227,6 +157,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 3 пара\nДополнительно: Ю-286\nURALCAMPU
  S_SYNC_ID:d99acf9ecee2c990bb39607d19ff698d\nURALCAMPUS_SOURCE:preco:teach
  er:0a2cc68d-a008-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1beb6ac7dd2722b8b16da5a32b8c4e5f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T130000
+DTEND;TZID=Asia/Yekaterinburg:20261121T143000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Насретдинова Алия Рафиков
+ на\nПара: 3 пара\nДополнительно: Ю-287\, Ю-286А
+ \nURALCAMPUS_SYNC_ID:1beb6ac7dd2722b8b16da5a32b8c4e5f\nURALCAMPUS_SOURCE:
+ preco:teacher:0a2cc68d-a008-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:0b9ea714bf5193fee51c094a38cdae9d@uralcampus-calendar-pages

@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:22455b1321d8525d9755ed9f0c219752@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
-DTEND;TZID=Asia/Yekaterinburg:20261113T133000
-SUMMARY:Инфокоммуникационные системы и сет
- и (Лаб.)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Галанин Вадим Алексан
- дрович\nПара: 3 пара\nДополнительно: И-407\nU
- RALCAMPUS_SYNC_ID:22455b1321d8525d9755ed9f0c219752\nURALCAMPUS_SOURCE:inu
- eco:teacher:46c268ad-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:f2154742b3bdfc52a17b21483918301c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T135000
-DTEND;TZID=Asia/Yekaterinburg:20261113T152000
-SUMMARY:Инфокоммуникационные системы и сет
- и (Лаб.)
-LOCATION:ауд. 218\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Галанин Вадим Алексан
- дрович\nПара: 4 пара\nДополнительно: И-407\nU
- RALCAMPUS_SYNC_ID:f2154742b3bdfc52a17b21483918301c\nURALCAMPUS_SOURCE:inu
- eco:teacher:46c268ad-60fb-11ef-ad90-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:19fb610c1b01901708fbf2de1f3b6ef5@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
@@ -73,5 +45,33 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  дрович\nПара: 4 пара\nДополнительно: И-407\nU
  RALCAMPUS_SYNC_ID:fc899395def3ece6bdbafa20d82b45d4\nURALCAMPUS_SOURCE:inu
  eco:teacher:46c268ad-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b812c195af7d24237c74d81aed7519d8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T153000
+DTEND;TZID=Asia/Yekaterinburg:20261120T170000
+SUMMARY:Инфокоммуникационные системы и сет
+ и (Лаб.)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Галанин Вадим Алексан
+ дрович\nПара: 5 пара\nДополнительно: ИЗ-401\
+ nURALCAMPUS_SYNC_ID:b812c195af7d24237c74d81aed7519d8\nURALCAMPUS_SOURCE:i
+ nueco:teacher:46c268ad-60fb-11ef-ad90-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ceef7157e015b344f7a803b682bb335f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T171000
+DTEND;TZID=Asia/Yekaterinburg:20261120T182000
+SUMMARY:Инфокоммуникационные системы и сет
+ и (Лаб.)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Галанин Вадим Алексан
+ дрович\nПара: 6 пара\nДополнительно: ИЗ-401\
+ nURALCAMPUS_SYNC_ID:ceef7157e015b344f7a803b682bb335f\nURALCAMPUS_SOURCE:i
+ nueco:teacher:46c268ad-60fb-11ef-ad90-04421acb877d
 END:VEVENT
 END:VCALENDAR

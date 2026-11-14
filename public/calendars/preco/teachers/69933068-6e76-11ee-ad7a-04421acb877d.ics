@@ -19,45 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:57b7c86d8d4d9c79525d53e164aa2920@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T090000
-DTEND;TZID=Asia/Yekaterinburg:20261113T103000
-SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. 43\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Шачин Святослав Вячеславо
- вич\nПара: 1 пара\nДополнительно: ПД-196\nURALC
- AMPUS_SYNC_ID:57b7c86d8d4d9c79525d53e164aa2920\nURALCAMPUS_SOURCE:preco:t
- eacher:69933068-6e76-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:c231a4e3da395f644c894cc2d8563e00@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T105000
-DTEND;TZID=Asia/Yekaterinburg:20261113T122000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 43\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Шачин Святослав Вячеславо
- вич\nПара: 2 пара\nДополнительно: ПД-196\nURALC
- AMPUS_SYNC_ID:c231a4e3da395f644c894cc2d8563e00\nURALCAMPUS_SOURCE:preco:t
- eacher:69933068-6e76-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0bd3ec239346b3e603aef2b07d9157cc@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T130000
-DTEND;TZID=Asia/Yekaterinburg:20261113T143000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 32\, Садовая 9\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Шачин Святослав Вячеславо
- вич\nПара: 3 пара\nДополнительно: ПД-296\nURALC
- AMPUS_SYNC_ID:0bd3ec239346b3e603aef2b07d9157cc\nURALCAMPUS_SOURCE:preco:t
- eacher:69933068-6e76-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:54613e95cbcd1da5fd84f5f4a89b5edd@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T090000
@@ -266,19 +227,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  cher:69933068-6e76-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:79fd1e23b3f37e9c17fb69bcfa54cd59@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T130000
-DTEND;TZID=Asia/Yekaterinburg:20261118T143000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 309\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Шачин Святослав Вячеславо
- вич\nПара: 3 пара\nДополнительно: Ю-286\nURALCAM
- PUS_SYNC_ID:79fd1e23b3f37e9c17fb69bcfa54cd59\nURALCAMPUS_SOURCE:preco:tea
- cher:69933068-6e76-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ecf74e501752becedaf6523a7ad89ba9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T130000
@@ -290,6 +238,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  вич\nПара: 3 пара\nДополнительно: Ю-287\, Ю-286
  А\nURALCAMPUS_SYNC_ID:ecf74e501752becedaf6523a7ad89ba9\nURALCAMPUS_SOURC
  E:preco:teacher:69933068-6e76-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:79fd1e23b3f37e9c17fb69bcfa54cd59@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T130000
+DTEND;TZID=Asia/Yekaterinburg:20261118T143000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 309\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шачин Святослав Вячеславо
+ вич\nПара: 3 пара\nДополнительно: Ю-286\nURALCAM
+ PUS_SYNC_ID:79fd1e23b3f37e9c17fb69bcfa54cd59\nURALCAMPUS_SOURCE:preco:tea
+ cher:69933068-6e76-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:4be2fe0e65e836c574816a4cf67d858d@uralcampus-calendar-pages
@@ -370,19 +331,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:69933068-6e76-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:e7dd5b1a5e57fdb64950f188b8d107c5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T163000
-DTEND;TZID=Asia/Yekaterinburg:20261119T180000
-SUMMARY:История России (Аудиторные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Шачин Святослав Вячеславо
- вич\nПара: 5 пара\nДополнительно: ПД-298\nURALC
- AMPUS_SYNC_ID:e7dd5b1a5e57fdb64950f188b8d107c5\nURALCAMPUS_SOURCE:preco:t
- eacher:69933068-6e76-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:3efd3cddae2d3ca539f3db5f83548d11@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T163000
@@ -393,6 +341,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Шачин Святослав Вячеславо
  вич\nПара: 5 пара\nДополнительно: ПД-299\nURALC
  AMPUS_SYNC_ID:3efd3cddae2d3ca539f3db5f83548d11\nURALCAMPUS_SOURCE:preco:t
+ eacher:69933068-6e76-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e7dd5b1a5e57fdb64950f188b8d107c5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T163000
+DTEND;TZID=Asia/Yekaterinburg:20261119T180000
+SUMMARY:История России (Аудиторные занятия)
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шачин Святослав Вячеславо
+ вич\nПара: 5 пара\nДополнительно: ПД-298\nURALC
+ AMPUS_SYNC_ID:e7dd5b1a5e57fdb64950f188b8d107c5\nURALCAMPUS_SOURCE:preco:t
  eacher:69933068-6e76-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

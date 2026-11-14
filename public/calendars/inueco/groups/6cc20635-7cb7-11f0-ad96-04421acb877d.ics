@@ -18,47 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a4da4bbd28f29c4335eb65cd9802daf8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
-DTEND;TZID=Asia/Yekaterinburg:20261113T100000
-SUMMARY:Философия (Практика)
-LOCATION:ауд. 322\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-112\nПара: 1 пара\nДополнител
- ьно: Казаченок Ю. В.\nURALCAMPUS_SYNC_ID:a4da4bbd28f29c4335
- eb65cd9802daf8\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d941a945958bb901163767c42cd0d997@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
-DTEND;TZID=Asia/Yekaterinburg:20261113T114000
-SUMMARY:Основы российской государственност
- и (Практика)
-LOCATION:ауд. 322\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-112\nПара: 2 пара\nДополнител
- ьно: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:d941a945958bb901163
- 767c42cd0d997\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-044
- 21acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ce44165954676a0721b4a090b336fd51@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T183000
-DTEND;TZID=Asia/Yekaterinburg:20261113T194000
-SUMMARY:Физическая культура и спорт (Практи
- ка)
-LOCATION:ауд. 0
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: СПД-112\nПара: 7 пара\nДополнител
- ьно: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:ce44165954676a0721
- b4a090b336fd51\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-04
- 421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c59888f645142bb5a4cbb51494f534a7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T083000
@@ -217,5 +176,19 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  ьно: Кравченко Е.В.\nURALCAMPUS_SYNC_ID:ccbd08c244680685a1e
  f2b95ae3c59b3\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-044
  21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2075cfbf2f98e3df6c6b77872fa1d3c7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T152000
+DTEND;TZID=Asia/Yekaterinburg:20261121T165000
+SUMMARY:Физическая культура и спорт (Практи
+ ка)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СПД-112\nПара: 5 пара\nДополнител
+ ьно: Вандышева О. Д.\nURALCAMPUS_SYNC_ID:2075cfbf2f98e3df6c
+ 6b77872fa1d3c7\nURALCAMPUS_SOURCE:inueco:group:6cc20635-7cb7-11f0-ad96-04
+ 421acb877d
 END:VEVENT
 END:VCALENDAR

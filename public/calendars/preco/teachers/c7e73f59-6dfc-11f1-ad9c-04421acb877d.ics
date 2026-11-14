@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5a649b6d93e4634ac47b1be1de78519b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T135000
-DTEND;TZID=Asia/Yekaterinburg:20261113T152000
-SUMMARY:Выполнение дизайнерских проектов в 
- материале (Аудиторные занятия)
-LOCATION:ауд. 211\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Усманова Вилена Рашитовна\
- nПара: 4 пара\nДополнительно: Д-412\nURALCAMPUS_SYN
- C_ID:5a649b6d93e4634ac47b1be1de78519b\nURALCAMPUS_SOURCE:preco:teacher:c7
- e73f59-6dfc-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:c2e4c6dbb95b268b73acb11dc397fe08@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T153000
-DTEND;TZID=Asia/Yekaterinburg:20261113T170000
-SUMMARY:Выполнение дизайнерских проектов в 
- материале (Аудиторные занятия)
-LOCATION:ауд. 211\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Усманова Вилена Рашитовна\
- nПара: 5 пара\nДополнительно: Д-412\nURALCAMPUS_SYN
- C_ID:c2e4c6dbb95b268b73acb11dc397fe08\nURALCAMPUS_SOURCE:preco:teacher:c7
- e73f59-6dfc-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:d506f0f39605e9f2f90912e549dd2e1e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T083000
@@ -313,20 +285,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  e73f59-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:fff93e66f874b54ed8ef2795bfbf1984@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T083000
-DTEND;TZID=Asia/Yekaterinburg:20261121T100000
-SUMMARY:Выполнение дизайнерских проектов в 
- материале (Аудиторные занятия)
-LOCATION:ауд. 301\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Усманова Вилена Рашитовна\
- nПара: 1 пара\nДополнительно: Д-412\nURALCAMPUS_SYN
- C_ID:fff93e66f874b54ed8ef2795bfbf1984\nURALCAMPUS_SOURCE:preco:teacher:c7
- e73f59-6dfc-11f1-ad9c-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:337edd6f392e8321807d591b2f6f1f02@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261121T083000
@@ -341,17 +299,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  reco:teacher:c7e73f59-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:4a794ccda3c2b4e86f0c8790bb0d13f9@uralcampus-calendar-pages
+UID:fff93e66f874b54ed8ef2795bfbf1984@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T101000
-DTEND;TZID=Asia/Yekaterinburg:20261121T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261121T083000
+DTEND;TZID=Asia/Yekaterinburg:20261121T100000
 SUMMARY:Выполнение дизайнерских проектов в 
  материале (Аудиторные занятия)
 LOCATION:ауд. 301\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Усманова Вилена Рашитовна\
- nПара: 2 пара\nДополнительно: Д-412\nURALCAMPUS_SYN
- C_ID:4a794ccda3c2b4e86f0c8790bb0d13f9\nURALCAMPUS_SOURCE:preco:teacher:c7
+ nПара: 1 пара\nДополнительно: Д-412\nURALCAMPUS_SYN
+ C_ID:fff93e66f874b54ed8ef2795bfbf1984\nURALCAMPUS_SOURCE:preco:teacher:c7
  e73f59-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -367,6 +325,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 2 пара\nДополнительно: Д-442\, Д-442А (1)\
  nURALCAMPUS_SYNC_ID:21465264f8a807a8a799b6ed8a6991a7\nURALCAMPUS_SOURCE:p
  reco:teacher:c7e73f59-6dfc-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4a794ccda3c2b4e86f0c8790bb0d13f9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261121T101000
+DTEND;TZID=Asia/Yekaterinburg:20261121T114000
+SUMMARY:Выполнение дизайнерских проектов в 
+ материале (Аудиторные занятия)
+LOCATION:ауд. 301\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Усманова Вилена Рашитовна\
+ nПара: 2 пара\nДополнительно: Д-412\nURALCAMPUS_SYN
+ C_ID:4a794ccda3c2b4e86f0c8790bb0d13f9\nURALCAMPUS_SOURCE:preco:teacher:c7
+ e73f59-6dfc-11f1-ad9c-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:b0192986680a953a2019e640c5cd2f4f@uralcampus-calendar-pages

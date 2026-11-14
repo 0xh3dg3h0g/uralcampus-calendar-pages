@@ -19,21 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5981b99b995f1b45fe3b255fae89b3ef@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
-DTEND;TZID=Asia/Yekaterinburg:20261113T100000
-SUMMARY:Информационные технологии в профес
- сиональной деятельности (Аудиторные за
- нятия)
-LOCATION:ауд. 17\, Карталы
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Свириденко Алексей Никола
- евич\nПара: 1 пара\nДополнительно: СД/оз-202
- А/02\nURALCAMPUS_SYNC_ID:5981b99b995f1b45fe3b255fae89b3ef\nURALCAMPUS_SO
- URCE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:7c7688169f494f060b41412953b44463@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T083000
@@ -107,6 +92,84 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  евич\nПара: 4 пара\nДополнительно: СД/оз-202
  А/02\nURALCAMPUS_SYNC_ID:5294507c5cbe5db2e391dff2245c8bc1\nURALCAMPUS_SO
  URCE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:34d583dc3432220beba1d6ef4c66029e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T083000
+DTEND;TZID=Asia/Yekaterinburg:20261123T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 1 пара\nДополнительно: ОЛз-102/02
+ \nURALCAMPUS_SYNC_ID:34d583dc3432220beba1d6ef4c66029e\nURALCAMPUS_SOURCE:
+ preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5494000ecd2f70a849f5a7ff8710f4e2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T101000
+DTEND;TZID=Asia/Yekaterinburg:20261123T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 2 пара\nДополнительно: ПДз-103/02
+ \nURALCAMPUS_SYNC_ID:5494000ecd2f70a849f5a7ff8710f4e2\nURALCAMPUS_SOURCE:
+ preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:77c078b160262d8aab05e596d6e71fd1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T120000
+DTEND;TZID=Asia/Yekaterinburg:20261123T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 3 пара\nДополнительно: Юз-101/02\n
+ URALCAMPUS_SYNC_ID:77c078b160262d8aab05e596d6e71fd1\nURALCAMPUS_SOURCE:pr
+ eco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fb248f8bd3688b75676a1c0925248d42@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T083000
+DTEND;TZID=Asia/Yekaterinburg:20261125T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 1 пара\nДополнительно: ОЛз-102/02
+ \nURALCAMPUS_SYNC_ID:fb248f8bd3688b75676a1c0925248d42\nURALCAMPUS_SOURCE:
+ preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bf62d218130320d1262655cf3e52887f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T101000
+DTEND;TZID=Asia/Yekaterinburg:20261125T114000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 2 пара\nДополнительно: ПДз-103/02
+ \nURALCAMPUS_SYNC_ID:bf62d218130320d1262655cf3e52887f\nURALCAMPUS_SOURCE:
+ preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d519dac46214a55692fdc83369b49d46@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T120000
+DTEND;TZID=Asia/Yekaterinburg:20261125T133000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 3 пара\nДополнительно: Юз-101/02\n
+ URALCAMPUS_SYNC_ID:d519dac46214a55692fdc83369b49d46\nURALCAMPUS_SOURCE:pr
+ eco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:7ace3ef519cf45956293f7a25ac1dfe9@uralcampus-calendar-pages

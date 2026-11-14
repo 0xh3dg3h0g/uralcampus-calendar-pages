@@ -19,89 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f110f34e16ed769dece7355903d4dd18@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
-DTEND;TZID=Asia/Yekaterinburg:20261113T100000
-SUMMARY:Информационные технологии (Аудитор
- ные занятия)
-LOCATION:ауд. 420\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Семянников Иван Михайлови
- ч\nПара: 1 пара\nДополнительно: П-240к\nURALCAMPU
- S_SYNC_ID:f110f34e16ed769dece7355903d4dd18\nURALCAMPUS_SOURCE:preco:teach
- er:395906f3-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0c39db05aa46c5654b2646e89a6e367f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
-DTEND;TZID=Asia/Yekaterinburg:20261113T114000
-SUMMARY:Численные методы (Аудиторные заняти
- я)
-LOCATION:ауд. 420\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Семянников Иван Михайлови
- ч\nПара: 2 пара\nДополнительно: П-340к\nURALCAMPU
- S_SYNC_ID:0c39db05aa46c5654b2646e89a6e367f\nURALCAMPUS_SOURCE:preco:teach
- er:395906f3-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1cad55c6b8a7204cbfdfda3b5dfb4cc0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
-DTEND;TZID=Asia/Yekaterinburg:20261113T133000
-SUMMARY:Стандартизация\,сертификация и техн
- ическое документоведение (Аудиторные з
- анятия)
-LOCATION:ауд. 420\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Семянников Иван Михайлови
- ч\nПара: 3 пара\nДополнительно: П-340к\nURALCAMPU
- S_SYNC_ID:1cad55c6b8a7204cbfdfda3b5dfb4cc0\nURALCAMPUS_SOURCE:preco:teach
- er:395906f3-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4cf8327c724121bce5147ad6844239b5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T135000
-DTEND;TZID=Asia/Yekaterinburg:20261113T152000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 420\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Семянников Иван Михайлови
- ч\nПара: 4 пара\nДополнительно: 137к\nURALCAMPUS_S
- YNC_ID:4cf8327c724121bce5147ad6844239b5\nURALCAMPUS_SOURCE:preco:teacher:
- 395906f3-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:3bd22ff274a24612e587beff2d55849b@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T153000
-DTEND;TZID=Asia/Yekaterinburg:20261113T170000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 420\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Семянников Иван Михайлови
- ч\nПара: 5 пара\nДополнительно: 136к\nURALCAMPUS_S
- YNC_ID:3bd22ff274a24612e587beff2d55849b\nURALCAMPUS_SOURCE:preco:teacher:
- 395906f3-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:9ddc556b54a8a9016952f391cacfd6a5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T171000
-DTEND;TZID=Asia/Yekaterinburg:20261113T182000
-SUMMARY:Информационные технологии (Аудитор
- ные занятия)
-LOCATION:ауд. 420\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Семянников Иван Михайлови
- ч\nПара: 6 пара\nДополнительно: Ю-239к\, Ю-239А
- к\nURALCAMPUS_SYNC_ID:9ddc556b54a8a9016952f391cacfd6a5\nURALCAMPUS_SOURC
- E:preco:teacher:395906f3-99db-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:c144f7fe4c9612c80ae4422ec6451ae4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261115T083000
@@ -1159,58 +1076,73 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  5906f3-99db-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:0242d599ec9772e69e0dc36d1d2ae6ab@uralcampus-calendar-pages
+UID:57db19efd350438d2bc576528f21ecf9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T120000
 DTEND;TZID=Asia/Yekaterinburg:20261202T133000
-SUMMARY:Информатика (Аудиторные занятия)
+SUMMARY:Учебная практика ПМ.01 (Аудиторные за
+ нятия)
 LOCATION:ауд. 404\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Семянников Иван Михайлови
- ч\nПара: 3 пара\nДополнительно: 105\nURALCAMPUS_SYN
- C_ID:0242d599ec9772e69e0dc36d1d2ae6ab\nURALCAMPUS_SOURCE:preco:teacher:39
- 5906f3-99db-11f0-ad96-04421acb877d
+ ч\nПара: 3 пара\nДополнительно: П-410\,П-410А\nU
+ RALCAMPUS_SYNC_ID:57db19efd350438d2bc576528f21ecf9\nURALCAMPUS_SOURCE:pre
+ co:teacher:395906f3-99db-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:a7a838932910441d9e0c52e639de19e8@uralcampus-calendar-pages
+UID:138698055f078d119d2fb13015da5252@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T135000
 DTEND;TZID=Asia/Yekaterinburg:20261202T152000
-SUMMARY:Системное программирование (Аудито
- рные занятия)
+SUMMARY:Учебная практика ПМ.01 (Аудиторные за
+ нятия)
 LOCATION:ауд. 404\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Семянников Иван Михайлови
  ч\nПара: 4 пара\nДополнительно: П-410\,П-410А\nU
- RALCAMPUS_SYNC_ID:a7a838932910441d9e0c52e639de19e8\nURALCAMPUS_SOURCE:pre
+ RALCAMPUS_SYNC_ID:138698055f078d119d2fb13015da5252\nURALCAMPUS_SOURCE:pre
  co:teacher:395906f3-99db-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:601d1236ac1f130ef6d5ccbd8165e139@uralcampus-calendar-pages
+UID:80b77cd99ce86c358ad1900a5b900442@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T153000
 DTEND;TZID=Asia/Yekaterinburg:20261202T170000
-SUMMARY:Системное программирование (Аудито
- рные занятия)
+SUMMARY:Учебная практика ПМ.01 (Аудиторные за
+ нятия)
 LOCATION:ауд. 404\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Семянников Иван Михайлови
  ч\nПара: 5 пара\nДополнительно: П-410\,П-410А\nU
- RALCAMPUS_SYNC_ID:601d1236ac1f130ef6d5ccbd8165e139\nURALCAMPUS_SOURCE:pre
+ RALCAMPUS_SYNC_ID:80b77cd99ce86c358ad1900a5b900442\nURALCAMPUS_SOURCE:pre
  co:teacher:395906f3-99db-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:34d1c7ddb242ac9f8b1190df0bf766c1@uralcampus-calendar-pages
+UID:1a5528e15856c948269f82a819a76e25@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T171000
 DTEND;TZID=Asia/Yekaterinburg:20261202T182000
+SUMMARY:Учебная практика ПМ.01 (Аудиторные за
+ нятия)
+LOCATION:ауд. 404\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Семянников Иван Михайлови
+ ч\nПара: 6 пара\nДополнительно: П-410\,П-410А\nU
+ RALCAMPUS_SYNC_ID:1a5528e15856c948269f82a819a76e25\nURALCAMPUS_SOURCE:pre
+ co:teacher:395906f3-99db-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:60d775027b6180347fda1fd5d48746be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T183000
+DTEND;TZID=Asia/Yekaterinburg:20261202T194000
 SUMMARY:Информационное обеспечение логисти
  ческих процессов (Экзамен)
 LOCATION:ауд. 404\, Комаровского 9А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Семянников Иван Михайлови
- ч\nПара: 6 пара\nДополнительно: ОЛз-220\, ОЛз
- -220А\nURALCAMPUS_SYNC_ID:34d1c7ddb242ac9f8b1190df0bf766c1\nURALCAMPUS_S
+ ч\nПара: 7 пара\nДополнительно: ОЛз-220\, ОЛз
+ -220А\nURALCAMPUS_SYNC_ID:60d775027b6180347fda1fd5d48746be\nURALCAMPUS_S
  OURCE:preco:teacher:395906f3-99db-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

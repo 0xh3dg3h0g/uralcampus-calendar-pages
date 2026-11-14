@@ -18,62 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fbdbc0d3e7af0b6fe8721c7953808d37@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
-DTEND;TZID=Asia/Yekaterinburg:20261113T100000
-SUMMARY:Административный процесс (Аудиторн
- ые занятия)
-LOCATION:ауд. 1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-368\, Ю-368А\nПара: 1 пара\nДополнитель
- но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:fbdbc0d3e7af0b6fe8721c7
- 953808d37\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ac07f5c380d88efe2e8e1da42b9cb67d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T101000
-DTEND;TZID=Asia/Yekaterinburg:20261113T114000
-SUMMARY:Административный процесс (Аудиторн
- ые занятия)
-LOCATION:ауд. 1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-368\, Ю-368А\nПара: 2 пара\nДополнитель
- но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:ac07f5c380d88efe2e8e1da
- 42b9cb67d\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:706a0ef0e993a88c94678cf9dc8e1f48@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T120000
-DTEND;TZID=Asia/Yekaterinburg:20261113T133000
-SUMMARY:Исполнительное право (Аудиторные за
- нятия)
-LOCATION:ауд. 1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-368\, Ю-368А\nПара: 3 пара\nДополнитель
- но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:706a0ef0e993a88c94678cf
- 9dc8e1f48\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:6968540b34cc5ba95ef84339c4493ed5@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261113T135000
-DTEND;TZID=Asia/Yekaterinburg:20261113T152000
-SUMMARY:Гражданский процесс (Аудиторные зан
- ятия)
-LOCATION:ауд. 1\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ю-368\, Ю-368А\nПара: 4 пара\nДополнитель
- но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:6968540b34cc5ba95ef8433
- 9c4493ed5\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
 UID:e183e84ece5835adb3062b6556d5d681@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261114T101000
@@ -128,5 +72,31 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  но: Устинова Г.И.\nURALCAMPUS_SYNC_ID:4cebb384c1dddf9245698b6
  797e62518\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb
  877d
+END:VEVENT
+BEGIN:VEVENT
+UID:65093c6399bb13e565e94c489d3e0a33@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T083000
+DTEND;TZID=Asia/Yekaterinburg:20261116T100000
+SUMMARY:Гражданское право (Экзамен)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-368\, Ю-368А\nПара: 1 пара\nДополнитель
+ но: Ижохина Н.П.\nURALCAMPUS_SYNC_ID:65093c6399bb13e565e94c489
+ d3e0a33\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:8c573a68effbd5365696be73aaf2f4a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T101000
+DTEND;TZID=Asia/Yekaterinburg:20261116T114000
+SUMMARY:Гражданское право (Экзамен)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ю-368\, Ю-368А\nПара: 2 пара\nДополнитель
+ но: Ижохина Н.П.\nURALCAMPUS_SYNC_ID:8c573a68effbd5365696be73a
+ af2f4a6\nURALCAMPUS_SOURCE:preco:group:8c9277e5-4e07-11ee-ad78-04421acb87
+ 7d
 END:VEVENT
 END:VCALENDAR
