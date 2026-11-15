@@ -19,20 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f5cfcebb56bc32aac9bbb677d47bba15@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T105000
-DTEND;TZID=Asia/Yekaterinburg:20261114T122000
-SUMMARY:Теория государства и права (Аудитор
- ные занятия)
-LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Убушаева Ирина Андреяновн
- а\nПара: 2 пара\nДополнительно: Ю-287\, Ю-286А\n
- URALCAMPUS_SYNC_ID:f5cfcebb56bc32aac9bbb677d47bba15\nURALCAMPUS_SOURCE:pr
- eco:teacher:be4635f9-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ee726fb62b66d2ab1084dcc7b62be48c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T130000
@@ -131,20 +117,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eco:teacher:be4635f9-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:bb35a424dc7a21801a0bdf73236cbb41@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T105000
-DTEND;TZID=Asia/Yekaterinburg:20261120T122000
-SUMMARY:Теория государства и права (Аудитор
- ные занятия)
-LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Убушаева Ирина Андреяновн
- а\nПара: 2 пара\nДополнительно: ПД-298\nURALCAMPU
- S_SYNC_ID:bb35a424dc7a21801a0bdf73236cbb41\nURALCAMPUS_SOURCE:preco:teach
- er:be4635f9-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ec661acc4b87944b5ab1a6cc573ddd47@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T105000
@@ -159,18 +131,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  er:be4635f9-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:c571310a9f4df227e6a4e30d9b05d2aa@uralcampus-calendar-pages
+UID:bb35a424dc7a21801a0bdf73236cbb41@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T130000
-DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+DTSTART;TZID=Asia/Yekaterinburg:20261120T105000
+DTEND;TZID=Asia/Yekaterinburg:20261120T122000
 SUMMARY:Теория государства и права (Аудитор
  ные занятия)
-LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+LOCATION:ауд. 307\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Убушаева Ирина Андреяновн
- а\nПара: 3 пара\nДополнительно: Ю-287\, Ю-286А\n
- URALCAMPUS_SYNC_ID:c571310a9f4df227e6a4e30d9b05d2aa\nURALCAMPUS_SOURCE:pr
- eco:teacher:be4635f9-52c3-11ee-ad79-04421acb877d
+ а\nПара: 2 пара\nДополнительно: ПД-298\nURALCAMPU
+ S_SYNC_ID:bb35a424dc7a21801a0bdf73236cbb41\nURALCAMPUS_SOURCE:preco:teach
+ er:be4635f9-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:b891a804f85fac37268d8748e8bc4488@uralcampus-calendar-pages
@@ -185,6 +157,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а\nПара: 3 пара\nДополнительно: Ю-286\nURALCAMPUS_
  SYNC_ID:b891a804f85fac37268d8748e8bc4488\nURALCAMPUS_SOURCE:preco:teacher
  :be4635f9-52c3-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c571310a9f4df227e6a4e30d9b05d2aa@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T130000
+DTEND;TZID=Asia/Yekaterinburg:20261120T143000
+SUMMARY:Теория государства и права (Аудитор
+ ные занятия)
+LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Убушаева Ирина Андреяновн
+ а\nПара: 3 пара\nДополнительно: Ю-287\, Ю-286А\n
+ URALCAMPUS_SYNC_ID:c571310a9f4df227e6a4e30d9b05d2aa\nURALCAMPUS_SOURCE:pr
+ eco:teacher:be4635f9-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:5303681c08a60aaea69a64b4124cf886@uralcampus-calendar-pages

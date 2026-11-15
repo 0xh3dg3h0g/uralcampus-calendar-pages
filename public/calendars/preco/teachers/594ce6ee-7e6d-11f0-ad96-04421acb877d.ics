@@ -19,34 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0214f2696ab07c071f3042992232fdf3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T101000
-DTEND;TZID=Asia/Yekaterinburg:20261114T114000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
-LOCATION:ауд. 312\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Корбалев Илья Анатольевич\
- nПара: 2 пара\nДополнительно: 137к\nURALCAMPUS_SYNC
- _ID:0214f2696ab07c071f3042992232fdf3\nURALCAMPUS_SOURCE:preco:teacher:594
- ce6ee-7e6d-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ea769839f525fdad9da5681fbf201c56@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T120000
-DTEND;TZID=Asia/Yekaterinburg:20261114T133000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Корбалев Илья Анатольевич\
- nПара: 3 пара\nДополнительно: 132к\nURALCAMPUS_SYNC
- _ID:ea769839f525fdad9da5681fbf201c56\nURALCAMPUS_SOURCE:preco:teacher:594
- ce6ee-7e6d-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:7f78b93b778301c04e369a46d71cb7b6@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T083000
@@ -201,20 +173,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ce6ee-7e6d-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:84e1051b67df747ff042f31d8d52f328@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T135000
-DTEND;TZID=Asia/Yekaterinburg:20261118T152000
-SUMMARY:Основы безопасности и защиты Родины
-  (Аудиторные занятия)
-LOCATION:ауд. 411\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Корбалев Илья Анатольевич\
- nПара: 4 пара\nДополнительно: 130к\nURALCAMPUS_SYNC
- _ID:84e1051b67df747ff042f31d8d52f328\nURALCAMPUS_SOURCE:preco:teacher:594
- ce6ee-7e6d-11f0-ad96-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:7ee8360f7d13a502d4c32d51af7ec65a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T135000
@@ -229,17 +187,17 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ce6ee-7e6d-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:a562e561043e610f49e381cc63cee2e8@uralcampus-calendar-pages
+UID:84e1051b67df747ff042f31d8d52f328@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T153000
-DTEND;TZID=Asia/Yekaterinburg:20261118T170000
+DTSTART;TZID=Asia/Yekaterinburg:20261118T135000
+DTEND;TZID=Asia/Yekaterinburg:20261118T152000
 SUMMARY:Основы безопасности и защиты Родины
   (Аудиторные занятия)
-LOCATION:ауд. 413\, Комсомольский проспект 113А
+LOCATION:ауд. 411\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Корбалев Илья Анатольевич\
- nПара: 5 пара\nДополнительно: 134к\nURALCAMPUS_SYNC
- _ID:a562e561043e610f49e381cc63cee2e8\nURALCAMPUS_SOURCE:preco:teacher:594
+ nПара: 4 пара\nДополнительно: 130к\nURALCAMPUS_SYNC
+ _ID:84e1051b67df747ff042f31d8d52f328\nURALCAMPUS_SOURCE:preco:teacher:594
  ce6ee-7e6d-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -254,6 +212,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Корбалев Илья Анатольевич\
  nПара: 5 пара\nДополнительно: 131к\nURALCAMPUS_SYNC
  _ID:a4cd90b734f706f2bf8feb91bc17d01e\nURALCAMPUS_SOURCE:preco:teacher:594
+ ce6ee-7e6d-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a562e561043e610f49e381cc63cee2e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T153000
+DTEND;TZID=Asia/Yekaterinburg:20261118T170000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 413\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Корбалев Илья Анатольевич\
+ nПара: 5 пара\nДополнительно: 134к\nURALCAMPUS_SYNC
+ _ID:a562e561043e610f49e381cc63cee2e8\nURALCAMPUS_SOURCE:preco:teacher:594
  ce6ee-7e6d-11f0-ad96-04421acb877d
 END:VEVENT
 BEGIN:VEVENT

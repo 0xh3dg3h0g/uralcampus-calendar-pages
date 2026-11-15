@@ -19,32 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e1f8af541fb63966f2e0f1fa44f76e99@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T090000
-DTEND;TZID=Asia/Yekaterinburg:20261114T103000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 305\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Олег Петрович\nПар
- а: 1 пара\nДополнительно: ПД-199\nURALCAMPUS_SYNC_ID:
- e1f8af541fb63966f2e0f1fa44f76e99\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
- 7-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:bdacd673eb526ccb161753cdc394ee68@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T105000
-DTEND;TZID=Asia/Yekaterinburg:20261114T122000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 305\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Олег Петрович\nПар
- а: 2 пара\nДополнительно: ПД-197\nURALCAMPUS_SYNC_ID:
- bdacd673eb526ccb161753cdc394ee68\nURALCAMPUS_SOURCE:preco:teacher:b1c49f3
- 7-52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ceb352f232bb08171a29a95b6f7cd282@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T090000
@@ -224,21 +198,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:943cebeb140aab0395ed9d97ba57a766@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T130000
-DTEND;TZID=Asia/Yekaterinburg:20261119T143000
-SUMMARY:Информационные технологии в профес
- сиональной деятельности (Аудиторные за
- нятия)
-LOCATION:ауд. 305\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тимохин Олег Петрович\nПар
- а: 3 пара\nДополнительно: Ю-286\nURALCAMPUS_SYNC_ID:94
- 3cebeb140aab0395ed9d97ba57a766\nURALCAMPUS_SOURCE:preco:teacher:b1c49f37-
- 52c3-11ee-ad79-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:ce00fee970187ecca1bd17fee7e05829@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T130000
@@ -254,19 +213,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  r:b1c49f37-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:1c8133db57fd53377e33e021a085e305@uralcampus-calendar-pages
+UID:943cebeb140aab0395ed9d97ba57a766@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T145000
-DTEND;TZID=Asia/Yekaterinburg:20261119T162000
+DTSTART;TZID=Asia/Yekaterinburg:20261119T130000
+DTEND;TZID=Asia/Yekaterinburg:20261119T143000
 SUMMARY:Информационные технологии в профес
  сиональной деятельности (Аудиторные за
  нятия)
-LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+LOCATION:ауд. 305\, Полярной-Правды 8\, Мурманск
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Тимохин Олег Петрович\nПар
- а: 4 пара\nДополнительно: Ю-287\, Ю-286А\nURALCAMPUS
- _SYNC_ID:1c8133db57fd53377e33e021a085e305\nURALCAMPUS_SOURCE:preco:teache
- r:b1c49f37-52c3-11ee-ad79-04421acb877d
+ а: 3 пара\nДополнительно: Ю-286\nURALCAMPUS_SYNC_ID:94
+ 3cebeb140aab0395ed9d97ba57a766\nURALCAMPUS_SOURCE:preco:teacher:b1c49f37-
+ 52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:6dc78f93c2bfa7922474cdabe3e83828@uralcampus-calendar-pages
@@ -282,6 +241,21 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  а: 4 пара\nДополнительно: Ю-286\nURALCAMPUS_SYNC_ID:6d
  c78f93c2bfa7922474cdabe3e83828\nURALCAMPUS_SOURCE:preco:teacher:b1c49f37-
  52c3-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8133db57fd53377e33e021a085e305@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T145000
+DTEND;TZID=Asia/Yekaterinburg:20261119T162000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 303\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тимохин Олег Петрович\nПар
+ а: 4 пара\nДополнительно: Ю-287\, Ю-286А\nURALCAMPUS
+ _SYNC_ID:1c8133db57fd53377e33e021a085e305\nURALCAMPUS_SOURCE:preco:teache
+ r:b1c49f37-52c3-11ee-ad79-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:8253abfd8248a44628b6ea2be8c7d102@uralcampus-calendar-pages

@@ -19,20 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:79d52a3507b7b815b6145d37b3e8a408@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261114T105000
-DTEND;TZID=Asia/Yekaterinburg:20261114T122000
-SUMMARY:Тактико-специальная подготовка (Ауд
- иторные занятия)
-LOCATION:ауд. 407\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролов Александр Анатолье
- вич\nПара: 2 пара\nДополнительно: ПД-496\, ПД
- -499\nURALCAMPUS_SYNC_ID:79d52a3507b7b815b6145d37b3e8a408\nURALCAMPUS_SOU
- RCE:preco:teacher:19561aa0-76d9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:3c4278c9a20f79783f8a4c4c25a9de08@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261116T090000
@@ -271,20 +257,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:061640c5ed4336be8243b167062e69c1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T090000
-DTEND;TZID=Asia/Yekaterinburg:20261120T103000
-SUMMARY:Основы медицинской подготовки (Ауди
- торные занятия)
-LOCATION:ауд. 401\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Фролов Александр Анатолье
- вич\nПара: 1 пара\nДополнительно: ПД-399\nURALC
- AMPUS_SYNC_ID:061640c5ed4336be8243b167062e69c1\nURALCAMPUS_SOURCE:preco:t
- eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:0021f9da1630e678f47fbb36de100c2f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T090000
@@ -296,6 +268,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Фролов Александр Анатолье
  вич\nПара: 1 пара\nДополнительно: ПД-398\nURALC
  AMPUS_SYNC_ID:0021f9da1630e678f47fbb36de100c2f\nURALCAMPUS_SOURCE:preco:t
+ eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:061640c5ed4336be8243b167062e69c1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T090000
+DTEND;TZID=Asia/Yekaterinburg:20261120T103000
+SUMMARY:Основы медицинской подготовки (Ауди
+ торные занятия)
+LOCATION:ауд. 401\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Фролов Александр Анатолье
+ вич\nПара: 1 пара\nДополнительно: ПД-399\nURALC
+ AMPUS_SYNC_ID:061640c5ed4336be8243b167062e69c1\nURALCAMPUS_SOURCE:preco:t
  eacher:19561aa0-76d9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
