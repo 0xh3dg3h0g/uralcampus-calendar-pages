@@ -18,4 +18,34 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:9922a74c3104d4384481c87b3e4c45ee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T171000
+DTEND;TZID=Asia/Yekaterinburg:20261117T182000
+SUMMARY:Математические методы решения прик
+ ладных профессиональных задач (Аудитор
+ ные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смирнова Наталья Васильев
+ на\nПара: 6 пара\nДополнительно: ГС-276\nURALCAM
+ PUS_SYNC_ID:9922a74c3104d4384481c87b3e4c45ee\nURALCAMPUS_SOURCE:preco:tea
+ cher:6e01dbee-8987-11f0-ad96-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:29f34b71ac12b590140a765a4bc4ec25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T171000
+DTEND;TZID=Asia/Yekaterinburg:20261118T182000
+SUMMARY:Математические методы решения прик
+ ладных профессиональных задач (Аудитор
+ ные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Смирнова Наталья Васильев
+ на\nПара: 6 пара\nДополнительно: ГС-276\nURALCAM
+ PUS_SYNC_ID:29f34b71ac12b590140a765a4bc4ec25\nURALCAMPUS_SOURCE:preco:tea
+ cher:6e01dbee-8987-11f0-ad96-04421acb877d
+END:VEVENT
 END:VCALENDAR

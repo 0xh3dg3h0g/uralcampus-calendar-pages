@@ -345,20 +345,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  208-72e9-11ee-ad7a-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:d384f00f52a0ea1254f5371027f3b3fe@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T163000
-DTEND;TZID=Asia/Yekaterinburg:20261120T180000
-SUMMARY:Основы бережливого производства (Ау
- диторные занятия)
-LOCATION:ауд. 309\, Полярной-Правды 8\, Мурманск
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Чиркова Ольга Ивановна\nПа
- ра: 5 пара\nДополнительно: Ю-286\nURALCAMPUS_SYNC_ID:
- d384f00f52a0ea1254f5371027f3b3fe\nURALCAMPUS_SOURCE:preco:teacher:88d5d20
- 8-72e9-11ee-ad7a-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:8943e4b3e62f7ff7c2eb3ac6c94858f8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T163000
@@ -371,5 +357,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  ра: 5 пара\nДополнительно: Ю-287\, Ю-286А\nURALCAMP
  US_SYNC_ID:8943e4b3e62f7ff7c2eb3ac6c94858f8\nURALCAMPUS_SOURCE:preco:teac
  her:88d5d208-72e9-11ee-ad7a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d384f00f52a0ea1254f5371027f3b3fe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T163000
+DTEND;TZID=Asia/Yekaterinburg:20261120T180000
+SUMMARY:Основы бережливого производства (Ау
+ диторные занятия)
+LOCATION:ауд. 309\, Полярной-Правды 8\, Мурманск
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Чиркова Ольга Ивановна\nПа
+ ра: 5 пара\nДополнительно: Ю-286\nURALCAMPUS_SYNC_ID:
+ d384f00f52a0ea1254f5371027f3b3fe\nURALCAMPUS_SOURCE:preco:teacher:88d5d20
+ 8-72e9-11ee-ad7a-04421acb877d
 END:VEVENT
 END:VCALENDAR

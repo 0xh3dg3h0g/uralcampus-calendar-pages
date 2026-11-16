@@ -18,4 +18,36 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:f6386ddf79d1d3d0f08fc06efa093fe6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
+DTEND;TZID=Asia/Yekaterinburg:20261117T100000
+SUMMARY:Выполнение полевых и камеральных ра
+ бот по созданию геодезических сетей спе
+ циального назначения (Аудиторные занят
+ ия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Торговкин Валерий Николае
+ вич\nПара: 1 пара\nДополнительно: ЗИ-274\nURALC
+ AMPUS_SYNC_ID:f6386ddf79d1d3d0f08fc06efa093fe6\nURALCAMPUS_SOURCE:preco:t
+ eacher:5fceb09c-4e04-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe36a3d6f351bea42762d9e3821681b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
+DTEND;TZID=Asia/Yekaterinburg:20261117T114000
+SUMMARY:Выполнение полевых и камеральных ра
+ бот по созданию геодезических сетей спе
+ циального назначения (Аудиторные занят
+ ия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Торговкин Валерий Николае
+ вич\nПара: 2 пара\nДополнительно: ЗИ-274\nURALC
+ AMPUS_SYNC_ID:2fe36a3d6f351bea42762d9e3821681b\nURALCAMPUS_SOURCE:preco:t
+ eacher:5fceb09c-4e04-11ee-ad78-04421acb877d
+END:VEVENT
 END:VCALENDAR
