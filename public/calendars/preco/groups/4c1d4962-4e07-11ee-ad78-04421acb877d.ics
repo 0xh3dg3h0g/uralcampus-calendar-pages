@@ -18,47 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ba477428832039e3111e9d21cc61efce@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T083000
-DTEND;TZID=Asia/Yekaterinburg:20261116T100000
-SUMMARY:Финансы\, денежное обращение и креди
- т (Аудиторные занятия)
-LOCATION:ауд. 2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-264\, Б-264А\nПара: 1 пара\nДополнитель
- но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:ba477428832039e3111e9d2
- 1cc61efce\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1087be390538bdd003b7f59296d30840@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T101000
-DTEND;TZID=Asia/Yekaterinburg:20261116T114000
-SUMMARY:Финансы организации (Аудиторные зан
- ятия)
-LOCATION:ауд. 2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-264\, Б-264А\nПара: 2 пара\nДополнитель
- но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:1087be390538bdd003b7f59
- 296d30840\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb
- 877d
-END:VEVENT
-BEGIN:VEVENT
-UID:68dfbaf7d83d391abc929cde7501352f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T120000
-DTEND;TZID=Asia/Yekaterinburg:20261116T133000
-SUMMARY:Менеджмент (Аудиторные занятия)
-LOCATION:ауд. 2а\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Б-264\, Б-264А\nПара: 3 пара\nДополнитель
- но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:68dfbaf7d83d391abc929cde7
- 501352f\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb87
- 7d
-END:VEVENT
-BEGIN:VEVENT
 UID:cdda44dcab5b0ffbc902b6ee1a0241d0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
@@ -112,5 +71,74 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:3d3073f7f52c25b44b295d5
  03d2227cc\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb
  877d
+END:VEVENT
+BEGIN:VEVENT
+UID:430397e1e38557c090164e16d1da3d56@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
+DTEND;TZID=Asia/Yekaterinburg:20261119T100000
+SUMMARY:Менеджмент (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 1 пара\nДополнитель
+ но: Койшина Е.А.\nURALCAMPUS_SYNC_ID:430397e1e38557c090164e16d
+ 1da3d56\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:5f57b0f6b3b31c1bcf5f58072e8e85d9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
+DTEND;TZID=Asia/Yekaterinburg:20261119T114000
+SUMMARY:Финансы организации (Аудиторные зан
+ ятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 2 пара\nДополнитель
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:5f57b0f6b3b31c1bcf5f580
+ 72e8e85d9\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ad2f2ebba993929befe9648531be41be@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T120000
+DTEND;TZID=Asia/Yekaterinburg:20261119T133000
+SUMMARY:Финансы\, денежное обращение и креди
+ т (Аудиторные занятия)
+LOCATION:ауд. 2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 3 пара\nДополнитель
+ но: Копытцев С.М.\nURALCAMPUS_SYNC_ID:ad2f2ebba993929befe9648
+ 531be41be\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3e560390e89fa5b20dfb68836c75c4ab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T135000
+DTEND;TZID=Asia/Yekaterinburg:20261119T152000
+SUMMARY:Русский язык и культура речи (Аудито
+ рные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 4 пара\nДополнитель
+ но: Индирбаева Э. А.\nURALCAMPUS_SYNC_ID:3e560390e89fa5b20d
+ fb68836c75c4ab\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-044
+ 21acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ae00e2849d082fccb6ef6d929ce81ba4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T153000
+DTEND;TZID=Asia/Yekaterinburg:20261119T170000
+SUMMARY:Русский язык и культура речи (Аудито
+ рные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Б-264\, Б-264А\nПара: 5 пара\nДополнитель
+ но: Индирбаева Э. А.\nURALCAMPUS_SYNC_ID:ae00e2849d082fccb6
+ ef6d929ce81ba4\nURALCAMPUS_SOURCE:preco:group:4c1d4962-4e07-11ee-ad78-044
+ 21acb877d
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЛЗу-401/09
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:01ecb287ada6041603db1df172af84db@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T183000
+DTEND;TZID=Asia/Yekaterinburg:20261116T194000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-401/09\nПара: 7 пара\nДополни
+ тельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:01ecb287ada6041
+ 603db1df172af84db\nURALCAMPUS_SOURCE:inueco:group:7015fcac-6e2c-11f1-ad9c
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd9cb60c5700d4eca03f9df4083dc35@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T195000
+DTEND;TZID=Asia/Yekaterinburg:20261116T205000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-401/09\nПара: 8 пара\nДополни
+ тельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:7fd9cb60c5700d4
+ eca03f9df4083dc35\nURALCAMPUS_SOURCE:inueco:group:7015fcac-6e2c-11f1-ad9c
+ -04421acb877d
+END:VEVENT
+END:VCALENDAR

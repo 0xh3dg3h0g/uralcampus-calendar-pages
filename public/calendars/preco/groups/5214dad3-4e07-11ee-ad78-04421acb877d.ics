@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5d4ec4fff914df9e00864aac4c3ed59f@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
-DTEND;TZID=Asia/Yekaterinburg:20261116T170000
-SUMMARY:Русский язык и культура речи (Аудито
- рные занятия)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 5 пара\nДополнительно: И
- ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:5d4ec4fff914df9e00864aac4c
- 3ed59f\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
-UID:a460e56cd88dd00bc2f5e6918b20e756@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T171000
-DTEND;TZID=Asia/Yekaterinburg:20261116T182000
-SUMMARY:Русский язык и культура речи (Аудито
- рные занятия)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-276\nПара: 6 пара\nДополнительно: И
- ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:a460e56cd88dd00bc2f5e6918b
- 20e756\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877
- d
-END:VEVENT
-BEGIN:VEVENT
 UID:ada6306ff5d0837d24794f3c70bdd4ab@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
@@ -85,16 +57,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  9\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:9425c0ab871308da230a32a5d905add3@uralcampus-calendar-pages
+UID:429d94c92885e3b47d3a56302c5ab132@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T135000
 DTEND;TZID=Asia/Yekaterinburg:20261118T152000
 SUMMARY:Электротехника и электроника (Аудит
  орные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
+LOCATION:ауд. 1\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ГС-276\nПара: 4 пара\nДополнительно: Б
- обнев С.В.\nURALCAMPUS_SYNC_ID:9425c0ab871308da230a32a5d905add3\nU
+ обнев С.В.\nURALCAMPUS_SYNC_ID:429d94c92885e3b47d3a56302c5ab132\nU
  RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -123,5 +95,31 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ГС-276\nПара: 6 пара\nДополнительно: С
  мирнова Н.В.\nURALCAMPUS_SYNC_ID:b42ce5f96f00878396b72cebf2e7784
  5\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:20ecfff691ba83d7db17f314867ee52f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T135000
+DTEND;TZID=Asia/Yekaterinburg:20261119T152000
+SUMMARY:Иностранный язык в профессионально
+ й деятельности (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 4 пара\nДополнительно: М
+ аксютова З.Г.\nURALCAMPUS_SYNC_ID:20ecfff691ba83d7db17f314867ee
+ 52f\nURALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:82ea5bf31a930dcdf889c8fb4dd69c72@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T153000
+DTEND;TZID=Asia/Yekaterinburg:20261119T170000
+SUMMARY:Электротехника и электроника (Аудит
+ орные занятия)
+LOCATION:ауд. 1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-276\nПара: 5 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:82ea5bf31a930dcdf889c8fb4dd69c72\nU
+ RALCAMPUS_SOURCE:preco:group:5214dad3-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

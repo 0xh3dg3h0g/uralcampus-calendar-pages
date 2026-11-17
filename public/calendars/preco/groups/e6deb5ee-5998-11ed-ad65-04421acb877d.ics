@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0466382fa8c83a19111da100787ac3a2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
-DTEND;TZID=Asia/Yekaterinburg:20261116T152000
-SUMMARY:Ботаника (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф/оз-202А\nПара: 4 пара\nДополнительно
- : Кожевникова Е.Б.\nURALCAMPUS_SYNC_ID:0466382fa8c83a19111da
- 100787ac3a2\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:86b7c8d52bbda1840ce34a408f1ea2a3@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
-DTEND;TZID=Asia/Yekaterinburg:20261116T170000
-SUMMARY:Ботаника (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф/оз-202А\nПара: 5 пара\nДополнительно
- : Кожевникова Е.Б.\nURALCAMPUS_SYNC_ID:86b7c8d52bbda1840ce34
- a408f1ea2a3\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421a
- cb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:cc9b14fc084402d20db524e40680a454@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
@@ -74,20 +46,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  cb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:cf4cdd63efa12870abf3e920476ebcc0@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T171000
-DTEND;TZID=Asia/Yekaterinburg:20261117T182000
-SUMMARY:Общая и неорганическая химия (Аудит
- орные занятия)
-LOCATION:ауд. Лаб.к. 107\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф/оз-202А\nПара: 6 пара\nДополнительно
- : Рогозина К.Е.\nURALCAMPUS_SYNC_ID:cf4cdd63efa12870abf3e920476
- ebcc0\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:8a87bf0da39f7ac59977c62170831ee0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T135000
@@ -114,17 +72,32 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  cb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:511084047a13ca7717f33766c494c15d@uralcampus-calendar-pages
+UID:4a2d326fdf3175a4359fb7e2742a1f74@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T171000
 DTEND;TZID=Asia/Yekaterinburg:20261118T182000
 SUMMARY:Общая и неорганическая химия (Аудит
  орные занятия)
-LOCATION:ауд. 410\, Комсомольский проспект 113А
+LOCATION:ауд. 310\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ф/оз-202А\nПара: 6 пара\nДополнительно
- : Рогозина К.Е.\nURALCAMPUS_SYNC_ID:511084047a13ca7717f33766c49
- 4c15d\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+ : Батовская Е.К.\nURALCAMPUS_SYNC_ID:4a2d326fdf3175a4359fb7e27
+ 42a1f74\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:725aa104dea408252e4ca48afcdb8d94@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T183000
+DTEND;TZID=Asia/Yekaterinburg:20261118T194000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 7 пара\nДополнительно
+ : Батовская Е.К.\nURALCAMPUS_SYNC_ID:725aa104dea408252e4ca48af
+ cdb8d94\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb87
+ 7d
 END:VEVENT
 BEGIN:VEVENT
 UID:9017bc5f3e52d748d91f43b73be9b441@uralcampus-calendar-pages
@@ -141,45 +114,72 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  441\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:c8e785adc27c17bd5bea6a0719e77cab@uralcampus-calendar-pages
+UID:7919ddf7f8bf9b16bcd36b263fed11a2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T153000
 DTEND;TZID=Asia/Yekaterinburg:20261119T170000
 SUMMARY:История (Аудиторные занятия)
-LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
- кт 113А
+LOCATION:ауд. 313\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ф/оз-202А\nПара: 5 пара\nДополнительно
- : Жигулев В.И.\nURALCAMPUS_SYNC_ID:c8e785adc27c17bd5bea6a0719e77
- cab\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+ : Жигулев В.И.\nURALCAMPUS_SYNC_ID:7919ddf7f8bf9b16bcd36b263fed1
+ 1a2\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:acbaa79147f0671a00c93bfb56cd30db@uralcampus-calendar-pages
+UID:07a4d7f0d082be877e20b7a90919bee8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T171000
-DTEND;TZID=Asia/Yekaterinburg:20261119T182000
-SUMMARY:Общая и неорганическая химия (Аудит
- орные занятия)
-LOCATION:ауд. Лаб.к. 106\, Комсомольский проспе
- кт 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф/оз-202А\nПара: 6 пара\nДополнительно
- : Рогозина К.Е.\nURALCAMPUS_SYNC_ID:acbaa79147f0671a00c93bfb56c
- d30db\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:0998ba497d21c585ec38df2bd48669e2@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T171000
-DTEND;TZID=Asia/Yekaterinburg:20261120T182000
+DTSTART;TZID=Asia/Yekaterinburg:20261120T135000
+DTEND;TZID=Asia/Yekaterinburg:20261120T152000
 SUMMARY:Физическая культура (Аудиторные зан
  ятия)
 LOCATION:ауд. Спортзал\, Комсомольский просп
  ект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Ф/оз-202А\nПара: 6 пара\nДополнительно
- : Тютин А.А.\nURALCAMPUS_SYNC_ID:0998ba497d21c585ec38df2bd48669e2\
+ уппа: Ф/оз-202А\nПара: 4 пара\nДополнительно
+ : Тютин А.А.\nURALCAMPUS_SYNC_ID:07a4d7f0d082be877e20b7a90919bee8\
  nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:42cc78586f0f0a160832e59d1f937aa6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T153000
+DTEND;TZID=Asia/Yekaterinburg:20261120T170000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 5 пара\nДополнительно
+ : Батовская Е.К.\nURALCAMPUS_SYNC_ID:42cc78586f0f0a160832e59d1
+ f937aa6\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:172c56cfd8ed66b7abfa7882f97440f6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T171000
+DTEND;TZID=Asia/Yekaterinburg:20261120T182000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 6 пара\nДополнительно
+ : Батовская Е.К.\nURALCAMPUS_SYNC_ID:172c56cfd8ed66b7abfa7882f
+ 97440f6\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:d4dab10fe98dcc43daa095791dcfaceb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T183000
+DTEND;TZID=Asia/Yekaterinburg:20261120T194000
+SUMMARY:Общая и неорганическая химия (Аудит
+ орные занятия)
+LOCATION:ауд. 310\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 7 пара\nДополнительно
+ : Батовская Е.К.\nURALCAMPUS_SYNC_ID:d4dab10fe98dcc43daa095791
+ dcfaceb\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb87
+ 7d
 END:VEVENT
 BEGIN:VEVENT
 UID:03eb43bd5730fc555718cb1dce5527f4@uralcampus-calendar-pages
@@ -235,6 +235,90 @@ LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Ф/оз-202А\nПара: 4 пара\nДополнительно
  : Юдина Н.Н.\nURALCAMPUS_SYNC_ID:37c5979a4790eb9f288150d0a81eba92\
+ nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d581ea0778306d3a37ee2f8284c5b6a6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T135000
+DTEND;TZID=Asia/Yekaterinburg:20261123T152000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 4 пара\nДополнительно
+ : Чераева О.А.\nURALCAMPUS_SYNC_ID:d581ea0778306d3a37ee2f8284c5b
+ 6a6\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:bcdada01c786885086774180f3f200bb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T153000
+DTEND;TZID=Asia/Yekaterinburg:20261123T170000
+SUMMARY:Информационные технологии в профес
+ сиональной деятельности (Аудиторные за
+ нятия)
+LOCATION:ауд. 217\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 5 пара\nДополнительно
+ : Чераева О.А.\nURALCAMPUS_SYNC_ID:bcdada01c786885086774180f3f20
+ 0bb\nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ed0cfc9303943a87d2fb8c2a0cb6d215@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T083000
+DTEND;TZID=Asia/Yekaterinburg:20261128T100000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 1 пара\nДополнительно
+ : Юдина Н.Н.\nURALCAMPUS_SYNC_ID:ed0cfc9303943a87d2fb8c2a0cb6d215\
+ nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:7d15e723ed1db32981a8da1135b1235a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T101000
+DTEND;TZID=Asia/Yekaterinburg:20261128T114000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 2 пара\nДополнительно
+ : Юдина Н.Н.\nURALCAMPUS_SYNC_ID:7d15e723ed1db32981a8da1135b1235a\
+ nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b5bcd001837691d2ba55575fe35849e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T120000
+DTEND;TZID=Asia/Yekaterinburg:20261128T133000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 3 пара\nДополнительно
+ : Юдина Н.Н.\nURALCAMPUS_SYNC_ID:b5bcd001837691d2ba55575fe35849e8\
+ nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0dfea9c31730ded18496b01bb46316e5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T134000
+DTEND;TZID=Asia/Yekaterinburg:20261128T151000
+SUMMARY:Лекарствоведение с основами фармак
+ огнозии (Аудиторные занятия)
+LOCATION:ауд. Лаб.к. 207\, Комсомольский проспе
+ кт 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Ф/оз-202А\nПара: 4 пара\nДополнительно
+ : Юдина Н.Н.\nURALCAMPUS_SYNC_ID:0dfea9c31730ded18496b01bb46316e5\
  nURALCAMPUS_SOURCE:preco:group:e6deb5ee-5998-11ed-ad65-04421acb877d
 END:VEVENT
 END:VCALENDAR

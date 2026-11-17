@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЛЗ-401/04
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1a933262a914b6c158ab78b68a7fbb6a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
+DTEND;TZID=Asia/Yekaterinburg:20261116T152000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 4 пара\nДополнит
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:1a933262a914b6c158ab78b
+ 68a7fbb6a\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:2695af33a1689dfac39a291c27a58a1c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T120000
+DTEND;TZID=Asia/Yekaterinburg:20261116T133000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 3 пара\nДополнит
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:2695af33a1689dfac39a291
+ c27a58a1c\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6e15741a5767c7577eea92c1e6d8db63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
+DTEND;TZID=Asia/Yekaterinburg:20261116T170000
+SUMMARY:Электрические станции и подстанции 
+ (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 5 пара\nДополнит
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:6e15741a5767c7577eea92c
+ 1e6d8db63\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+END:VCALENDAR

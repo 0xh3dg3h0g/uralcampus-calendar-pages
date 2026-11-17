@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3f31d9ddfd3a10337e283a3b704de89a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T101000
-DTEND;TZID=Asia/Yekaterinburg:20261116T114000
-SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 410\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 136к\nПара: 2 пара\nДополнительно: Тим
- охин Е.А.\nURALCAMPUS_SYNC_ID:3f31d9ddfd3a10337e283a3b704de89a\nURA
- LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
-UID:9a0576275a8643f2d366cd98fe50eab9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T120000
-DTEND;TZID=Asia/Yekaterinburg:20261116T133000
-SUMMARY:География (Аудиторные занятия)
-LOCATION:ауд. 312\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: 136к\nПара: 3 пара\nДополнительно: Пат
- раков Н.И.\nURALCAMPUS_SYNC_ID:9a0576275a8643f2d366cd98fe50eab9\nU
- RALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:2492b6bae9daf14fafec5d1fadc87743@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
@@ -155,6 +131,18 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
+UID:2405f7f8dd59ec355747feb8e730a69f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T135000
+DTEND;TZID=Asia/Yekaterinburg:20261120T152000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 136к\nПара: 4 пара\nДополнительно: Тим
+ охин Е.А.\nURALCAMPUS_SYNC_ID:2405f7f8dd59ec355747feb8e730a69f\nURA
+ LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:633b59bb498873804ee071c1cb0d50d5@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T153000
@@ -167,15 +155,27 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  5\nURALCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:cce173397bfb542c198628f8043bea38@uralcampus-calendar-pages
+UID:951770dd5d99acabc01451f9d87f2101@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T171000
+DTEND;TZID=Asia/Yekaterinburg:20261120T182000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 422\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: 136к\nПара: 6 пара\nДополнительно: Тим
+ охин Е.А.\nURALCAMPUS_SYNC_ID:951770dd5d99acabc01451f9d87f2101\nURA
+ LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a2d8f64709c32abaec052e4d16ddce61@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T101000
 DTEND;TZID=Asia/Yekaterinburg:20261123T114000
 SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 410\, Комсомольский проспект 113А
+LOCATION:ауд. 312\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 136к\nПара: 2 пара\nДополнительно: Тим
- охин Е.А.\nURALCAMPUS_SYNC_ID:cce173397bfb542c198628f8043bea38\nURA
+ охин Е.А.\nURALCAMPUS_SYNC_ID:a2d8f64709c32abaec052e4d16ddce61\nURA
  LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
@@ -352,15 +352,15 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:bff7df6fffd0fb1445991aca1d224460@uralcampus-calendar-pages
+UID:cd3ad20d648ecf24bf13427cc6d6358b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261130T101000
 DTEND;TZID=Asia/Yekaterinburg:20261130T114000
 SUMMARY:Обществознание (Аудиторные занятия)
-LOCATION:ауд. 410\, Комсомольский проспект 113А
+LOCATION:ауд. 312\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: 136к\nПара: 2 пара\nДополнительно: Тим
- охин Е.А.\nURALCAMPUS_SYNC_ID:bff7df6fffd0fb1445991aca1d224460\nURA
+ охин Е.А.\nURALCAMPUS_SYNC_ID:cd3ad20d648ecf24bf13427cc6d6358b\nURA
  LCAMPUS_SOURCE:preco:group:4bd44cc0-0301-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT

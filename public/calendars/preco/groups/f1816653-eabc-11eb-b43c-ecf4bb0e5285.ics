@@ -18,30 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cd75fa7568f1b95933d6faae1ba75fbe@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
-DTEND;TZID=Asia/Yekaterinburg:20261116T152000
-SUMMARY:Пропедевтика (Аудиторные занятия)
-LOCATION:ауд. 408\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Д-242\nПара: 4 пара\nДополнительно: Шк
- рабов Н.И.\nURALCAMPUS_SYNC_ID:cd75fa7568f1b95933d6faae1ba75fbe\nU
- RALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:f1e304703946574ce1dd93ea28dd8581@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
-DTEND;TZID=Asia/Yekaterinburg:20261116T170000
-SUMMARY:Пропедевтика (Аудиторные занятия)
-LOCATION:ауд. 408\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Д-242\nПара: 5 пара\nДополнительно: Шк
- рабов Н.И.\nURALCAMPUS_SYNC_ID:f1e304703946574ce1dd93ea28dd8581\nU
- RALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:ebe4b01ee564a7e423deab4edf704db0@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
@@ -202,6 +178,32 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  LCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT
+UID:15dc9c3bea9ffb8e39ef352b1e713b48@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T083000
+DTEND;TZID=Asia/Yekaterinburg:20261120T100000
+SUMMARY:Экономика организации (Аудиторные з
+ анятия)
+LOCATION:ауд. 408\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-242\nПара: 1 пара\nДополнительно: Цв
+ етникова Я.В.\nURALCAMPUS_SYNC_ID:15dc9c3bea9ffb8e39ef352b1e713
+ b48\nURALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed408b2656b3469bf4182e2ae783c56@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T101000
+DTEND;TZID=Asia/Yekaterinburg:20261120T114000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: Д-242\nПара: 2 пара\nДополнительно: Ме
+ дведева Д.С.\nURALCAMPUS_SYNC_ID:2ed408b2656b3469bf4182e2ae783c5
+ 6\nURALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
 UID:cb3da97685d3c31536c281955ca092f3@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
@@ -226,31 +228,5 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: Д-242\nПара: 4 пара\nДополнительно: Ло
  пяткина И.Б.\nURALCAMPUS_SYNC_ID:6c075d2c659d853da0d7b1c75e6606e
  c\nURALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:76e95def36c8408f7f4c773c25c56f9a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T153000
-DTEND;TZID=Asia/Yekaterinburg:20261120T170000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Д-242\nПара: 5 пара\nДополнительно: Ме
- дведева Д.С.\nURALCAMPUS_SYNC_ID:76e95def36c8408f7f4c773c25c56f9
- a\nURALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:0146a025c1576e4117c075a172438ef1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T171000
-DTEND;TZID=Asia/Yekaterinburg:20261120T182000
-SUMMARY:Экономика организации (Аудиторные з
- анятия)
-LOCATION:ауд. 310\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: Д-242\nПара: 6 пара\nДополнительно: Цв
- етникова Я.В.\nURALCAMPUS_SYNC_ID:0146a025c1576e4117c075a172438
- ef1\nURALCAMPUS_SOURCE:preco:group:f1816653-eabc-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 END:VCALENDAR

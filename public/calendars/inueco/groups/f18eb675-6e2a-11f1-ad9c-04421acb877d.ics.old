@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЗЗ-401/08
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3d5d3c450b4dfa2d6b18a391369a6c0f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T195000
+DTEND;TZID=Asia/Yekaterinburg:20261116T205000
+SUMMARY:Региональное землеустройство (Лекц
+ ия)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-401/08\nПара: 8 пара\nДополните
+ льно: Крайнева С. В.\nURALCAMPUS_SYNC_ID:3d5d3c450b4dfa2d6b
+ 18a391369a6c0f\nURALCAMPUS_SOURCE:inueco:group:f18eb675-6e2a-11f1-ad9c-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3e2fd10bbe039dbc984160c1722fdc0c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T171000
+DTEND;TZID=Asia/Yekaterinburg:20261116T182000
+SUMMARY:Планирование использования земель (
+ Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-401/08\nПара: 6 пара\nДополните
+ льно: Крайнева С. В.\nURALCAMPUS_SYNC_ID:3e2fd10bbe039dbc98
+ 4160c1722fdc0c\nURALCAMPUS_SOURCE:inueco:group:f18eb675-6e2a-11f1-ad9c-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e703f492e7696418260f22a57f860454@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T153000
+DTEND;TZID=Asia/Yekaterinburg:20261116T170000
+SUMMARY:Планирование использования земель (
+ Лекция)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-401/08\nПара: 5 пара\nДополните
+ льно: Крайнева С. В.\nURALCAMPUS_SYNC_ID:e703f492e769641826
+ 0f22a57f860454\nURALCAMPUS_SOURCE:inueco:group:f18eb675-6e2a-11f1-ad9c-04
+ 421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fa38fb13e0a6cb7b72c2c4d1027cfdb1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T183000
+DTEND;TZID=Asia/Yekaterinburg:20261116T194000
+SUMMARY:Региональное землеустройство (Лекц
+ ия)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЗЗ-401/08\nПара: 7 пара\nДополните
+ льно: Крайнева С. В.\nURALCAMPUS_SYNC_ID:fa38fb13e0a6cb7b72
+ c2c4d1027cfdb1\nURALCAMPUS_SOURCE:inueco:group:f18eb675-6e2a-11f1-ad9c-04
+ 421acb877d
+END:VEVENT
+END:VCALENDAR

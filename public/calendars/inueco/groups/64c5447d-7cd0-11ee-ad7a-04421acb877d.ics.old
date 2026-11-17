@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ТТПЗ-401/12
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4b5aff2e09db31e4ab32177c6115ac71@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T101000
+DTEND;TZID=Asia/Yekaterinburg:20261116T114000
+SUMMARY:Моделирование транспортных процесс
+ ов (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-401/12\nПара: 2 пара\nДополни
+ тельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:4b5aff2e09db31
+ e4ab32177c6115ac71\nURALCAMPUS_SOURCE:inueco:group:64c5447d-7cd0-11ee-ad7
+ a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:607a5d7c879390b65885d72d142998fe@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T083000
+DTEND;TZID=Asia/Yekaterinburg:20261116T100000
+SUMMARY:Моделирование транспортных процесс
+ ов (Лекция)
+LOCATION:ауд. 209-1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-401/12\nПара: 1 пара\nДополни
+ тельно: Завьялов О. Г.\nURALCAMPUS_SYNC_ID:607a5d7c879390
+ b65885d72d142998fe\nURALCAMPUS_SOURCE:inueco:group:64c5447d-7cd0-11ee-ad7
+ a-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb47f000742ccaa3e29cab879f0026e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T120000
+DTEND;TZID=Asia/Yekaterinburg:20261116T133000
+SUMMARY:Грузовые перевозки (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-401/12\nПара: 3 пара\nДополни
+ тельно: Огнев И.И.\nURALCAMPUS_SYNC_ID:6fb47f000742ccaa3e29c
+ ab879f0026e\nURALCAMPUS_SOURCE:inueco:group:64c5447d-7cd0-11ee-ad7a-04421
+ acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0da1d8e99f365db2b339d441798458@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261116T135000
+DTEND;TZID=Asia/Yekaterinburg:20261116T152000
+SUMMARY:Грузовые перевозки (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ТТПЗ-401/12\nПара: 4 пара\nДополни
+ тельно: Огнев И.И.\nURALCAMPUS_SYNC_ID:dc0da1d8e99f365db2b33
+ 9d441798458\nURALCAMPUS_SOURCE:inueco:group:64c5447d-7cd0-11ee-ad7a-04421
+ acb877d
+END:VEVENT
+END:VCALENDAR

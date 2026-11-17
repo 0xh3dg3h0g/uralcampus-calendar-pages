@@ -19,20 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:51caf27b958c0b0cbb7ee8eab3a78d83@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261116T120000
-DTEND;TZID=Asia/Yekaterinburg:20261116T133000
-SUMMARY:Безопасность жизнедеятельности (Ау
- диторные занятия)
-LOCATION:ауд. 5\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Тукуева Елена Васильевна\n
- Пара: 3 пара\nДополнительно: П-370\, П-370А\nURAL
- CAMPUS_SYNC_ID:51caf27b958c0b0cbb7ee8eab3a78d83\nURALCAMPUS_SOURCE:preco:
- teacher:fb8ca2bc-4e05-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:46fd9dd09cb0f37866b5b06766c80daf@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
@@ -73,6 +59,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  teacher:fb8ca2bc-4e05-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:048d2c3bb87c4f9093fe38f2877516b6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T083000
+DTEND;TZID=Asia/Yekaterinburg:20261118T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тукуева Елена Васильевна\n
+ Пара: 1 пара\nДополнительно: Ю-168\nURALCAMPUS_SYNC
+ _ID:048d2c3bb87c4f9093fe38f2877516b6\nURALCAMPUS_SOURCE:preco:teacher:fb8
+ ca2bc-4e05-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:33bcf0c4e942745af7cc97fb175df4df@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T101000
@@ -83,6 +82,58 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Тукуева Елена Васильевна\n
  Пара: 2 пара\nДополнительно: Б-164\nURALCAMPUS_SYNC
  _ID:33bcf0c4e942745af7cc97fb175df4df\nURALCAMPUS_SOURCE:preco:teacher:fb8
+ ca2bc-4e05-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:25e267fbd9941f51c7d4ff0d79184018@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T120000
+DTEND;TZID=Asia/Yekaterinburg:20261118T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 6\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тукуева Елена Васильевна\n
+ Пара: 3 пара\nДополнительно: Ф-162\nURALCAMPUS_SYNC
+ _ID:25e267fbd9941f51c7d4ff0d79184018\nURALCAMPUS_SOURCE:preco:teacher:fb8
+ ca2bc-4e05-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:db92390c2b3a6f11574e1bc242562ddc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
+DTEND;TZID=Asia/Yekaterinburg:20261119T100000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тукуева Елена Васильевна\n
+ Пара: 1 пара\nДополнительно: Ю-168\nURALCAMPUS_SYNC
+ _ID:db92390c2b3a6f11574e1bc242562ddc\nURALCAMPUS_SOURCE:preco:teacher:fb8
+ ca2bc-4e05-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8ef7b0cd58c80a07eb21e7544f6e4c08@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
+DTEND;TZID=Asia/Yekaterinburg:20261119T114000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тукуева Елена Васильевна\n
+ Пара: 2 пара\nДополнительно: Ф-162\nURALCAMPUS_SYNC
+ _ID:8ef7b0cd58c80a07eb21e7544f6e4c08\nURALCAMPUS_SOURCE:preco:teacher:fb8
+ ca2bc-4e05-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5406d6776cc3f9cb83c17d80d3e80b28@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T120000
+DTEND;TZID=Asia/Yekaterinburg:20261119T133000
+SUMMARY:История (Аудиторные занятия)
+LOCATION:ауд. 3.1\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Тукуева Елена Васильевна\n
+ Пара: 3 пара\nДополнительно: П-170\nURALCAMPUS_SYNC
+ _ID:5406d6776cc3f9cb83c17d80d3e80b28\nURALCAMPUS_SOURCE:preco:teacher:fb8
  ca2bc-4e05-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR
