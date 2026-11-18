@@ -89,18 +89,32 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  cher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:428ca61249918372d299443d79714481@uralcampus-calendar-pages
+UID:73c322770e8871b419561b06fb9075e8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T083000
-DTEND;TZID=Asia/Yekaterinburg:20261120T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
+DTEND;TZID=Asia/Yekaterinburg:20261120T133000
 SUMMARY:Основы управления в правоохранител
  ьных органах (Экзамен)
-LOCATION:ауд. 104\, Комсомольский проспект 115
+LOCATION:ауд. 404\, Комсомольский проспект 115
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Золотова Екатерина Петров
- на\nПара: 1 пара\nДополнительно: ПД-448к\nURALC
- AMPUS_SYNC_ID:428ca61249918372d299443d79714481\nURALCAMPUS_SOURCE:preco:t
+ на\nПара: 3 пара\nДополнительно: ПД-448к\nURALC
+ AMPUS_SYNC_ID:73c322770e8871b419561b06fb9075e8\nURALCAMPUS_SOURCE:preco:t
  eacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:0ecfc59eec073979a0b2babc186f2b9d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T083000
+DTEND;TZID=Asia/Yekaterinburg:20261123T100000
+SUMMARY:Основы управления в правоохранител
+ ьных органах (Экзамен)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 1 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:0ecfc59eec073979a0b2babc186f2b9d\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:2cf9abad87072ce6885c20eb99e8f38a@uralcampus-calendar-pages
@@ -327,20 +341,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  o:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:9f8355538a10aa12b63987ab5ca70c07@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T120000
-DTEND;TZID=Asia/Yekaterinburg:20261123T133000
-SUMMARY:Уголовный процесс (Аудиторные занят
- ия)
-LOCATION:ауд. 1\, Сатка
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Золотова Екатерина Петров
- на\nПара: 3 пара\nДополнительно: Юз-301А/13\nUR
- ALCAMPUS_SYNC_ID:9f8355538a10aa12b63987ab5ca70c07\nURALCAMPUS_SOURCE:prec
- o:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:c056ea7aab75893777549506dba9ae1a@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T120000
@@ -353,6 +353,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 3 пара\nДополнительно: Юз-301/13\nURAL
  CAMPUS_SYNC_ID:c056ea7aab75893777549506dba9ae1a\nURALCAMPUS_SOURCE:preco:
  teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:9f8355538a10aa12b63987ab5ca70c07@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T120000
+DTEND;TZID=Asia/Yekaterinburg:20261123T133000
+SUMMARY:Уголовный процесс (Аудиторные занят
+ ия)
+LOCATION:ауд. 1\, Сатка
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 3 пара\nДополнительно: Юз-301А/13\nUR
+ ALCAMPUS_SYNC_ID:9f8355538a10aa12b63987ab5ca70c07\nURALCAMPUS_SOURCE:prec
+ o:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:54c52b386b67303b1dbf1233a90442d8@uralcampus-calendar-pages
@@ -579,20 +593,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  o:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
-UID:19847c3b9224b751e5d24a801a31a960@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261123T135000
-DTEND;TZID=Asia/Yekaterinburg:20261123T152000
-SUMMARY:Уголовный процесс (Аудиторные занят
- ия)
-LOCATION:ауд. 1\, Сатка
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Золотова Екатерина Петров
- на\nПара: 4 пара\nДополнительно: Юз-301/13\nURAL
- CAMPUS_SYNC_ID:19847c3b9224b751e5d24a801a31a960\nURALCAMPUS_SOURCE:preco:
- teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
-END:VEVENT
-BEGIN:VEVENT
 UID:207917ed292b6fb0b405e0ae516d1515@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T135000
@@ -605,6 +605,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 4 пара\nДополнительно: Юз-301А/13\nUR
  ALCAMPUS_SYNC_ID:207917ed292b6fb0b405e0ae516d1515\nURALCAMPUS_SOURCE:prec
  o:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:19847c3b9224b751e5d24a801a31a960@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T135000
+DTEND;TZID=Asia/Yekaterinburg:20261123T152000
+SUMMARY:Уголовный процесс (Аудиторные занят
+ ия)
+LOCATION:ауд. 1\, Сатка
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 4 пара\nДополнительно: Юз-301/13\nURAL
+ CAMPUS_SYNC_ID:19847c3b9224b751e5d24a801a31a960\nURALCAMPUS_SOURCE:preco:
+ teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:4930e2e4568ba63910a7e09c8a5bed88@uralcampus-calendar-pages
@@ -661,6 +675,118 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 4 пара\nДополнительно: ПД-448к\nURALC
  AMPUS_SYNC_ID:fcf708b8498ff550fe3f22ebe0cc83df\nURALCAMPUS_SOURCE:preco:t
  eacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:9750b26be77783f9d259aa864742b442@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T083000
+DTEND;TZID=Asia/Yekaterinburg:20261125T100000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 1 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:9750b26be77783f9d259aa864742b442\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e6a6f876387501107f3938a877ba8f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T101000
+DTEND;TZID=Asia/Yekaterinburg:20261125T114000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 2 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:c3e6a6f876387501107f3938a877ba8f\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:a201a992eda281f1ff5cee26cd1a378c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T120000
+DTEND;TZID=Asia/Yekaterinburg:20261125T133000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 3 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:a201a992eda281f1ff5cee26cd1a378c\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:976d403c79b2e5c5613eaea703b87ff3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T135000
+DTEND;TZID=Asia/Yekaterinburg:20261125T152000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 4 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:976d403c79b2e5c5613eaea703b87ff3\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c619c805e8d1e74746855ab92461a5eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T083000
+DTEND;TZID=Asia/Yekaterinburg:20261126T100000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 1 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:c619c805e8d1e74746855ab92461a5eb\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:b7cccfca24260c6059923f8018a807bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T101000
+DTEND;TZID=Asia/Yekaterinburg:20261126T114000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 2 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:b7cccfca24260c6059923f8018a807bf\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:3328dd616de2c7facb72eb8ae0e08dd6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T120000
+DTEND;TZID=Asia/Yekaterinburg:20261126T133000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 3 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:3328dd616de2c7facb72eb8ae0e08dd6\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e0c38552c31d818b4ec1f9fd0e6b23@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T135000
+DTEND;TZID=Asia/Yekaterinburg:20261126T152000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 4 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:b5e0c38552c31d818b4ec1f9fd0e6b23\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:be5fac78bb8b475ba703570582eb601f@uralcampus-calendar-pages
@@ -775,6 +901,62 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  eacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
+UID:f058e58f6b7472edb10d394ef9e8c415@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T083000
+DTEND;TZID=Asia/Yekaterinburg:20261130T100000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 1 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:f058e58f6b7472edb10d394ef9e8c415\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:1c01dba94d3cc6eab5107de99e23e5bf@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T101000
+DTEND;TZID=Asia/Yekaterinburg:20261130T114000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 2 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:1c01dba94d3cc6eab5107de99e23e5bf\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:7f8034744dbba20e5d20354954d3aee2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T120000
+DTEND;TZID=Asia/Yekaterinburg:20261130T133000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 3 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:7f8034744dbba20e5d20354954d3aee2\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d6177cb28472da947756ba5a5b62b2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T135000
+DTEND;TZID=Asia/Yekaterinburg:20261130T152000
+SUMMARY:Учебная практика ПМ.02 (Аудиторные за
+ нятия)
+LOCATION:ауд. 403\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 4 пара\nДополнительно: ПД-448\, ПД-4
+ 48А\nURALCAMPUS_SYNC_ID:c4d6177cb28472da947756ba5a5b62b2\nURALCAMPUS_SOU
+ RCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:4b9b6fbbdbffe756ef642f3c8e483842@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261201T083000
@@ -873,6 +1055,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  _SOURCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
+UID:36103b1ef797237f9973036680d51431@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T135000
+DTEND;TZID=Asia/Yekaterinburg:20261202T152000
+SUMMARY:Введение в специальность (Аудиторны
+ е занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 4 пара\nДополнительно: 130\nURALCAMPUS_S
+ YNC_ID:36103b1ef797237f9973036680d51431\nURALCAMPUS_SOURCE:preco:teacher:
+ 4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:b8656c19c501a38c5083dbd42136256d@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261202T135000
@@ -885,6 +1081,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 4 пара\nДополнительно: ПДЗ-418\,ПД
  З-418а\nURALCAMPUS_SYNC_ID:b8656c19c501a38c5083dbd42136256d\nURALCAMPUS
  _SOURCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:922ae2698d8adfeb7f447275a822e5c5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T083000
+DTEND;TZID=Asia/Yekaterinburg:20261203T100000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 1 пара\nДополнительно: ПД-349\nURALCAM
+ PUS_SYNC_ID:922ae2698d8adfeb7f447275a822e5c5\nURALCAMPUS_SOURCE:preco:tea
+ cher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:f68328bf69d25d15d7129696a1e27b1b@uralcampus-calendar-pages
@@ -901,6 +1111,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  _SOURCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
+UID:232d4c450dc1e78042331c480825a27c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T101000
+DTEND;TZID=Asia/Yekaterinburg:20261203T114000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 2 пара\nДополнительно: ПД-349\nURALCAM
+ PUS_SYNC_ID:232d4c450dc1e78042331c480825a27c\nURALCAMPUS_SOURCE:preco:tea
+ cher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:658a69fc9f0fd871fe6ef7c70d5b0b31@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T101000
@@ -915,6 +1139,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  _SOURCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
+UID:f2f32b5c1c197d01d540380722544d13@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T120000
+DTEND;TZID=Asia/Yekaterinburg:20261203T133000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 3 пара\nДополнительно: ПД-349\nURALCAM
+ PUS_SYNC_ID:f2f32b5c1c197d01d540380722544d13\nURALCAMPUS_SOURCE:preco:tea
+ cher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
 UID:e8876982fffaa715728ecd427b111ab7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261203T120000
@@ -927,6 +1165,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  на\nПара: 3 пара\nДополнительно: ПДЗ-418\,ПД
  З-418а\nURALCAMPUS_SYNC_ID:e8876982fffaa715728ecd427b111ab7\nURALCAMPUS
  _SOURCE:preco:teacher:4bc5ae64-0308-11ec-8be0-00259061e18b
+END:VEVENT
+BEGIN:VEVENT
+UID:4768a9334b4901f6af6211a3e42b9cee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T135000
+DTEND;TZID=Asia/Yekaterinburg:20261203T152000
+SUMMARY:Криминология и предупреждение прес
+ туплений (Аудиторные занятия)
+LOCATION:ауд. 302\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Золотова Екатерина Петров
+ на\nПара: 4 пара\nДополнительно: ПД-349\nURALCAM
+ PUS_SYNC_ID:4768a9334b4901f6af6211a3e42b9cee\nURALCAMPUS_SOURCE:preco:tea
+ cher:4bc5ae64-0308-11ec-8be0-00259061e18b
 END:VEVENT
 BEGIN:VEVENT
 UID:6f6ef5c2b73098935eeca4951532c8a8@uralcampus-calendar-pages

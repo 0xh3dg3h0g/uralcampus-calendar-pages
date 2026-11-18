@@ -18,36 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0c808e87e5d4a5e1352952519eb396f9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
-DTEND;TZID=Asia/Yekaterinburg:20261117T100000
-SUMMARY:Выполнение полевых и камеральных ра
- бот по созданию геодезических сетей спе
- циального назначения (Аудиторные занят
- ия)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ЗИ-274\nПара: 1 пара\nДополнительно: Т
- орговкин В.Н.\nURALCAMPUS_SYNC_ID:0c808e87e5d4a5e1352952519eb39
- 6f9\nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:3a5237d4aed206018193dad46de8ebc8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
-DTEND;TZID=Asia/Yekaterinburg:20261117T114000
-SUMMARY:Выполнение полевых и камеральных ра
- бот по созданию геодезических сетей спе
- циального назначения (Аудиторные занят
- ия)
-LOCATION:ауд. 6\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ЗИ-274\nПара: 2 пара\nДополнительно: Т
- орговкин В.Н.\nURALCAMPUS_SYNC_ID:3a5237d4aed206018193dad46de8e
- bc8\nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:3d04d7fa00779cadda89c3b28d42222c@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T083000
@@ -119,5 +89,31 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ЗИ-274\nПара: 3 пара\nДополнительно: С
  еидов М.М.\nURALCAMPUS_SYNC_ID:4c20474294edf0b6add40f34c27c6e12\nU
  RALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c14be5bcd4845cba12f4d42501367ca3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T101000
+DTEND;TZID=Asia/Yekaterinburg:20261120T114000
+SUMMARY:Черчение(подгруппа:ЗИ-274 (2)) (Аудитор
+ ные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-274\nПара: 2 пара\nДополнительно: Б
+ ойцова Л.П.\nURALCAMPUS_SYNC_ID:c14be5bcd4845cba12f4d42501367ca3\
+ nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:beae078bdb0dcd494c5ccc6f89c1ece7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
+DTEND;TZID=Asia/Yekaterinburg:20261120T133000
+SUMMARY:Черчение(подгруппа:ЗИ-274 (2)) (Аудитор
+ ные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЗИ-274\nПара: 3 пара\nДополнительно: Б
+ ойцова Л.П.\nURALCAMPUS_SYNC_ID:beae078bdb0dcd494c5ccc6f89c1ece7\
+ nURALCAMPUS_SOURCE:preco:group:719796fa-5725-11f0-ad93-04421acb877d
 END:VEVENT
 END:VCALENDAR

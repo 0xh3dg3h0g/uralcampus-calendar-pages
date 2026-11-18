@@ -18,42 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3d5c8580005db1e59d376397947edf3c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
-DTEND;TZID=Asia/Yekaterinburg:20261117T100000
-SUMMARY:Информатика (Аудиторные занятия)
-LOCATION:ауд. 9\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 1 пара\nДополнительно: М
- алышева С.И.\nURALCAMPUS_SYNC_ID:3d5c8580005db1e59d376397947edf3
- c\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:220c12c69db1be30d6847cc97723cf21@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
-DTEND;TZID=Asia/Yekaterinburg:20261117T114000
-SUMMARY:Математика (Аудиторные занятия)
-LOCATION:ауд. 3.2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 2 пара\nДополнительно: С
- итников П.В.\nURALCAMPUS_SYNC_ID:220c12c69db1be30d6847cc97723cf2
- 1\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:1d5282ee660c8caab08d4b6f286819c1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
-DTEND;TZID=Asia/Yekaterinburg:20261117T133000
-SUMMARY:Химия (Аудиторные занятия)
-LOCATION:ауд. 3.2\, Новый Уренгой
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 3 пара\nДополнительно: К
- иреева Ф.З.\nURALCAMPUS_SYNC_ID:1d5282ee660c8caab08d4b6f286819c1\
- nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:5818c442d0c2ba6ea92106af83deb5de@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T083000
@@ -91,16 +55,16 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  RALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:e94c724af0e2c810b55689b6041ef6bb@uralcampus-calendar-pages
+UID:6a0e9372e03ce50457e5f16b5b706a69@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
 DTEND;TZID=Asia/Yekaterinburg:20261119T100000
-SUMMARY:Русский язык (Аудиторные занятия)
+SUMMARY:Физика (Аудиторные занятия)
 LOCATION:ауд. 2а\, Новый Уренгой
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: ГС-176\nПара: 1 пара\nДополнительно: Т
- рясцина О.А.\nURALCAMPUS_SYNC_ID:e94c724af0e2c810b55689b6041ef6b
- b\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+ уппа: ГС-176\nПара: 1 пара\nДополнительно: Б
+ обнев С.В.\nURALCAMPUS_SYNC_ID:6a0e9372e03ce50457e5f16b5b706a69\nU
+ RALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
 UID:5d7750c0082247558df010e7622789d3@uralcampus-calendar-pages
@@ -126,5 +90,31 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: ГС-176\nПара: 3 пара\nДополнительно: Б
  обнев С.В.\nURALCAMPUS_SYNC_ID:edebdba27338c60b2f7c38ba52263b0d\nU
  RALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f2165ffdcf478ed589187634fc5f9c9c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T120000
+DTEND;TZID=Asia/Yekaterinburg:20261120T133000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. Спортзал\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 3 пара\nДополнительно: А
+ бдухаликов З.Х.\nURALCAMPUS_SYNC_ID:f2165ffdcf478ed589187634f
+ c5f9c9c\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb87
+ 7d
+END:VEVENT
+BEGIN:VEVENT
+UID:425feca00c3a6542d2490b9c21f78d9b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261120T135000
+DTEND;TZID=Asia/Yekaterinburg:20261120T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 3.2\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ГС-176\nПара: 4 пара\nДополнительно: С
+ итников П.В.\nURALCAMPUS_SYNC_ID:425feca00c3a6542d2490b9c21f78d9
+ b\nURALCAMPUS_SOURCE:preco:group:2b4b3144-4e07-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

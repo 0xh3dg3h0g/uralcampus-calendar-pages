@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ЭЛЗу-401
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:16540ab6d6bde245acc0cb7fd7d81aab@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
+DTEND;TZID=Asia/Yekaterinburg:20261117T152000
+SUMMARY:Бизнес-планирование в  электроэнерг
+ етике (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-401\nПара: 4 пара\nДополните
+ льно: Босе У.\nURALCAMPUS_SYNC_ID:16540ab6d6bde245acc0cb7fd7d81a
+ ab\nURALCAMPUS_SOURCE:inueco:group:ac923359-282f-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6bbcbad79e87c5d48c0610d83037ba@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
+DTEND;TZID=Asia/Yekaterinburg:20261117T133000
+SUMMARY:Оперативно-диспетчерское управлени
+ е в электроэнергетике (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-401\nПара: 3 пара\nДополните
+ льно: Белов А.В.\nURALCAMPUS_SYNC_ID:5c6bbcbad79e87c5d48c0610d
+ 83037ba\nURALCAMPUS_SOURCE:inueco:group:ac923359-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:81d1519a4a8cb7b9d93926d66e7a5449@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
+DTEND;TZID=Asia/Yekaterinburg:20261117T114000
+SUMMARY:Оперативно-диспетчерское управлени
+ е в электроэнергетике (Лекция)
+LOCATION:ауд. 322\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-401\nПара: 2 пара\nДополните
+ льно: Белов А.В.\nURALCAMPUS_SYNC_ID:81d1519a4a8cb7b9d93926d66
+ e7a5449\nURALCAMPUS_SOURCE:inueco:group:ac923359-282f-11ed-ad61-04421acb8
+ 77d
+END:VEVENT
+BEGIN:VEVENT
+UID:a1faba14464081c4720fc3a469143438@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261117T153000
+DTEND;TZID=Asia/Yekaterinburg:20261117T170000
+SUMMARY:Бизнес-планирование в  электроэнерг
+ етике (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗу-401\nПара: 5 пара\nДополните
+ льно: Босе У.\nURALCAMPUS_SYNC_ID:a1faba14464081c4720fc3a4691434
+ 38\nURALCAMPUS_SOURCE:inueco:group:ac923359-282f-11ed-ad61-04421acb877d
+END:VEVENT
+END:VCALENDAR

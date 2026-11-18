@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Преподаватель: Иманкулова Гульна
+ ра Фаисханова
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cb367a613ba964b4382f538cd1dd7bae@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T135000
+DTEND;TZID=Asia/Yekaterinburg:20261123T152000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иманкулова Гульнара Фаисх
+ анова\nПара: 4 пара\nДополнительно: СД/оз-1
+ 02/02\nURALCAMPUS_SYNC_ID:cb367a613ba964b4382f538cd1dd7bae\nURALCAMPUS_SO
+ URCE:preco:teacher:4078f85d-e27b-11f1-ada0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b305f0a3e29255ddaf5dfad7021b8200@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T153000
+DTEND;TZID=Asia/Yekaterinburg:20261123T170000
+SUMMARY:Физика (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иманкулова Гульнара Фаисх
+ анова\nПара: 5 пара\nДополнительно: СД/оз-1
+ 02/02\nURALCAMPUS_SYNC_ID:b305f0a3e29255ddaf5dfad7021b8200\nURALCAMPUS_SO
+ URCE:preco:teacher:4078f85d-e27b-11f1-ada0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5d5e352dc6f7b50d8876a6b2b19acbe1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T135000
+DTEND;TZID=Asia/Yekaterinburg:20261127T152000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иманкулова Гульнара Фаисх
+ анова\nПара: 4 пара\nДополнительно: СД/оз-1
+ 02/02\nURALCAMPUS_SYNC_ID:5d5e352dc6f7b50d8876a6b2b19acbe1\nURALCAMPUS_SO
+ URCE:preco:teacher:4078f85d-e27b-11f1-ada0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:697cb0fffdb61447437766a0d183e500@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T153000
+DTEND;TZID=Asia/Yekaterinburg:20261127T170000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иманкулова Гульнара Фаисх
+ анова\nПара: 5 пара\nДополнительно: СД/оз-1
+ 02/02\nURALCAMPUS_SYNC_ID:697cb0fffdb61447437766a0d183e500\nURALCAMPUS_SO
+ URCE:preco:teacher:4078f85d-e27b-11f1-ada0-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:83884a4bac671597ef3f55afeaf9a4fd@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T120000
+DTEND;TZID=Asia/Yekaterinburg:20261128T133000
+SUMMARY:Математика (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Иманкулова Гульнара Фаисх
+ анова\nПара: 3 пара\nДополнительно: СД/оз-1
+ 02/02\nURALCAMPUS_SYNC_ID:83884a4bac671597ef3f55afeaf9a4fd\nURALCAMPUS_SO
+ URCE:preco:teacher:4078f85d-e27b-11f1-ada0-04421acb877d
+END:VEVENT
+END:VCALENDAR

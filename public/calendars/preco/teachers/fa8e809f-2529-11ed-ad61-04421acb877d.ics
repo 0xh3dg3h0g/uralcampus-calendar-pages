@@ -19,20 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ca683718f4e6e8af56bc67b4d69e0521@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
-DTEND;TZID=Asia/Yekaterinburg:20261117T114000
-SUMMARY:Санитария и гигиена в сфере услуг (А
- удиторные занятия)
-LOCATION:ауд. 301\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Максимова Алёна Борисовна\
- nПара: 2 пара\nДополнительно: ТИК-224\nURALCAMPUS
- _SYNC_ID:ca683718f4e6e8af56bc67b4d69e0521\nURALCAMPUS_SOURCE:preco:teache
- r:fa8e809f-2529-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:1d64e8a85c20b33faf1592fe1890e8a9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T171000
@@ -218,5 +204,50 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  nПара: 2 пара\nДополнительно: ТИК-224\nURALCAMPUS
  _SYNC_ID:848bd0017e9d54686dd65d9a0616bdb4\nURALCAMPUS_SOURCE:preco:teache
  r:fa8e809f-2529-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6477cbf9a17792c18118fc446395a6c2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T083000
+DTEND;TZID=Asia/Yekaterinburg:20261205T100000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Максимова Алёна Борисовна\
+ nПара: 1 пара\nДополнительно: СД/оз-202\, СД/
+ оз-202А\nURALCAMPUS_SYNC_ID:6477cbf9a17792c18118fc446395a6c2\nURALCAMP
+ US_SOURCE:preco:teacher:fa8e809f-2529-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:84e7f8926e3f385a4f3975e25140444f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T101000
+DTEND;TZID=Asia/Yekaterinburg:20261205T114000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Максимова Алёна Борисовна\
+ nПара: 2 пара\nДополнительно: СД/оз-202\, СД/
+ оз-202А\nURALCAMPUS_SYNC_ID:84e7f8926e3f385a4f3975e25140444f\nURALCAMP
+ US_SOURCE:preco:teacher:fa8e809f-2529-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:417ede0afc4b4e10106bc920d3902179@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261205T120000
+DTEND;TZID=Asia/Yekaterinburg:20261205T133000
+SUMMARY:Здоровый образ жизни и профилактика
+  заболеваний в разные возрастные период
+ ы (Аудиторные занятия)
+LOCATION:ауд. 203\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Максимова Алёна Борисовна\
+ nПара: 3 пара\nДополнительно: СД/оз-202\, СД/
+ оз-202А\nURALCAMPUS_SYNC_ID:417ede0afc4b4e10106bc920d3902179\nURALCAMP
+ US_SOURCE:preco:teacher:fa8e809f-2529-11ed-ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

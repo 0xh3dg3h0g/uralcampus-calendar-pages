@@ -19,48 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fb9d383f267a5ea6fa22d9fb8edbfb64@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
-DTEND;TZID=Asia/Yekaterinburg:20261117T114000
-SUMMARY:История изобразительного искусства
-  (Аудиторные занятия)
-LOCATION:ауд. 314\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Бахарева Светлана Василье
- вна\nПара: 2 пара\nДополнительно: Д-242\nURALCAM
- PUS_SYNC_ID:fb9d383f267a5ea6fa22d9fb8edbfb64\nURALCAMPUS_SOURCE:preco:tea
- cher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7c9c35c710be7353cf07abc0d62bb360@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
-DTEND;TZID=Asia/Yekaterinburg:20261117T133000
-SUMMARY:История изобразительного искусства
-  (Аудиторные занятия)
-LOCATION:ауд. 314\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Бахарева Светлана Василье
- вна\nПара: 3 пара\nДополнительно: Д-242\nURALCAM
- PUS_SYNC_ID:7c9c35c710be7353cf07abc0d62bb360\nURALCAMPUS_SOURCE:preco:tea
- cher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:d8eecf25979177b839f161a37899d2b9@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
-DTEND;TZID=Asia/Yekaterinburg:20261119T100000
-SUMMARY:История изобразительного искусства
-  (Аудиторные занятия)
-LOCATION:ауд. 307\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Бахарева Светлана Василье
- вна\nПара: 1 пара\nДополнительно: Д-212А (2)\nU
- RALCAMPUS_SYNC_ID:d8eecf25979177b839f161a37899d2b9\nURALCAMPUS_SOURCE:pre
- co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:322a7e5957abbb61661bfa5d1412ce7e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
@@ -89,6 +47,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:d8eecf25979177b839f161a37899d2b9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
+DTEND;TZID=Asia/Yekaterinburg:20261119T100000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 1 пара\nДополнительно: Д-212А (2)\nU
+ RALCAMPUS_SYNC_ID:d8eecf25979177b839f161a37899d2b9\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:cb04761633d24cc28cf9b12ff8fc2f26@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
@@ -100,6 +72,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Бахарева Светлана Василье
  вна\nПара: 2 пара\nДополнительно: Д-212А (1)\nU
  RALCAMPUS_SYNC_ID:cb04761633d24cc28cf9b12ff8fc2f26\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f3f950d8a6327bc6161e9f27e3f90193@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
+DTEND;TZID=Asia/Yekaterinburg:20261119T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 2 пара\nДополнительно: Д-212А (2)\nU
+ RALCAMPUS_SYNC_ID:f3f950d8a6327bc6161e9f27e3f90193\nURALCAMPUS_SOURCE:pre
  co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
@@ -117,17 +103,227 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  E:preco:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:f3f950d8a6327bc6161e9f27e3f90193@uralcampus-calendar-pages
+UID:21a09d1ce89d10f0fc15b654011fbff9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
-DTEND;TZID=Asia/Yekaterinburg:20261119T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261124T101000
+DTEND;TZID=Asia/Yekaterinburg:20261124T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 2 пара\nДополнительно: Д-242\nURALCAM
+ PUS_SYNC_ID:21a09d1ce89d10f0fc15b654011fbff9\nURALCAMPUS_SOURCE:preco:tea
+ cher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a6b06e1ada152bf88c4cc007f92da4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T120000
+DTEND;TZID=Asia/Yekaterinburg:20261124T133000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 3 пара\nДополнительно: Д-242\nURALCAM
+ PUS_SYNC_ID:d1a6b06e1ada152bf88c4cc007f92da4\nURALCAMPUS_SOURCE:preco:tea
+ cher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e0bfeaaab03456c6f18cd31dc5da3009@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T083000
+DTEND;TZID=Asia/Yekaterinburg:20261126T100000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 1 пара\nДополнительно: Д-212\, Д-212
+ А\nURALCAMPUS_SYNC_ID:e0bfeaaab03456c6f18cd31dc5da3009\nURALCAMPUS_SOURC
+ E:preco:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:9fda9a8486fab5c88bd673ee2fecfa96@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T083000
+DTEND;TZID=Asia/Yekaterinburg:20261126T100000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 1 пара\nДополнительно: Д-212А (1)\nU
+ RALCAMPUS_SYNC_ID:9fda9a8486fab5c88bd673ee2fecfa96\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a80781091c59e4f2e195a9f24887a2b6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T083000
+DTEND;TZID=Asia/Yekaterinburg:20261126T100000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 1 пара\nДополнительно: Д-212А (2)\nU
+ RALCAMPUS_SYNC_ID:a80781091c59e4f2e195a9f24887a2b6\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:589347a196e547f157d6438a68b19e8b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T101000
+DTEND;TZID=Asia/Yekaterinburg:20261126T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 2 пара\nДополнительно: Д-212А (1)\nU
+ RALCAMPUS_SYNC_ID:589347a196e547f157d6438a68b19e8b\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:eb86cd18d2fee837d0b733c349d3b6c4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T101000
+DTEND;TZID=Asia/Yekaterinburg:20261126T114000
 SUMMARY:История изобразительного искусства
   (Аудиторные занятия)
 LOCATION:ауд. 307\, Кожзаводская 1
 DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Бахарева Светлана Василье
  вна\nПара: 2 пара\nДополнительно: Д-212А (2)\nU
- RALCAMPUS_SYNC_ID:f3f950d8a6327bc6161e9f27e3f90193\nURALCAMPUS_SOURCE:pre
+ RALCAMPUS_SYNC_ID:eb86cd18d2fee837d0b733c349d3b6c4\nURALCAMPUS_SOURCE:pre
  co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:702f1d23608b39799bd44737cafe070d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T101000
+DTEND;TZID=Asia/Yekaterinburg:20261126T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 2 пара\nДополнительно: Д-212\, Д-212
+ А\nURALCAMPUS_SYNC_ID:702f1d23608b39799bd44737cafe070d\nURALCAMPUS_SOURC
+ E:preco:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3b6330b7daf4b778973866a2bd0edfb3@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T101000
+DTEND;TZID=Asia/Yekaterinburg:20261201T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 2 пара\nДополнительно: Д-242\nURALCAM
+ PUS_SYNC_ID:3b6330b7daf4b778973866a2bd0edfb3\nURALCAMPUS_SOURCE:preco:tea
+ cher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:37bfa58c5c2133519cf9ad7a13722294@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T120000
+DTEND;TZID=Asia/Yekaterinburg:20261201T133000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 314\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 3 пара\nДополнительно: Д-242\nURALCAM
+ PUS_SYNC_ID:37bfa58c5c2133519cf9ad7a13722294\nURALCAMPUS_SOURCE:preco:tea
+ cher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:28e28762b42b5f04606e6739a4694ccb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T083000
+DTEND;TZID=Asia/Yekaterinburg:20261203T100000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 1 пара\nДополнительно: Д-212\, Д-212
+ А\nURALCAMPUS_SYNC_ID:28e28762b42b5f04606e6739a4694ccb\nURALCAMPUS_SOURC
+ E:preco:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:5a259a0a728449e31f02c5fa747b3750@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T083000
+DTEND;TZID=Asia/Yekaterinburg:20261203T100000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 1 пара\nДополнительно: Д-212А (1)\nU
+ RALCAMPUS_SYNC_ID:5a259a0a728449e31f02c5fa747b3750\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c59bbc9b425f45cd740a106c244a6e28@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T083000
+DTEND;TZID=Asia/Yekaterinburg:20261203T100000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 1 пара\nДополнительно: Д-212А (2)\nU
+ RALCAMPUS_SYNC_ID:c59bbc9b425f45cd740a106c244a6e28\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:36b76f118ca97c31297aee9c15b94a63@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T101000
+DTEND;TZID=Asia/Yekaterinburg:20261203T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 2 пара\nДополнительно: Д-212А (1)\nU
+ RALCAMPUS_SYNC_ID:36b76f118ca97c31297aee9c15b94a63\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e94efac489ba36acfcb9cb0dcc8cb9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T101000
+DTEND;TZID=Asia/Yekaterinburg:20261203T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 2 пара\nДополнительно: Д-212А (2)\nU
+ RALCAMPUS_SYNC_ID:b7e94efac489ba36acfcb9cb0dcc8cb9\nURALCAMPUS_SOURCE:pre
+ co:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10d9f966c961df340e8072faee398e82@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T101000
+DTEND;TZID=Asia/Yekaterinburg:20261203T114000
+SUMMARY:История изобразительного искусства
+  (Аудиторные занятия)
+LOCATION:ауд. 307\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Бахарева Светлана Василье
+ вна\nПара: 2 пара\nДополнительно: Д-212\, Д-212
+ А\nURALCAMPUS_SYNC_ID:10d9f966c961df340e8072faee398e82\nURALCAMPUS_SOURC
+ E:preco:teacher:dd0fcc12-3ff0-11ee-ad78-04421acb877d
 END:VEVENT
 END:VCALENDAR

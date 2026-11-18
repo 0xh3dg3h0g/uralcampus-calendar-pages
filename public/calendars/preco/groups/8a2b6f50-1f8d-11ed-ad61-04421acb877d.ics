@@ -18,32 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:73a93412b72534806fa4f9d3579a0ea8@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T153000
-DTEND;TZID=Asia/Yekaterinburg:20261117T170000
-SUMMARY:Основы финансовой грамотности (Ауди
- торные занятия)
-LOCATION:ауд. 508\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-322\nПара: 5 пара\nДополнительно: Ц
- ветникова Я.В.\nURALCAMPUS_SYNC_ID:73a93412b72534806fa4f9d3579
- a0ea8\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:7e8085ab6e005af6a6fdeacefbec6278@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T171000
-DTEND;TZID=Asia/Yekaterinburg:20261117T182000
-SUMMARY:Физическая культура (Аудиторные зан
- ятия)
-LOCATION:ауд. Спортзал\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
- уппа: СД-322\nПара: 6 пара\nДополнительно: Ж
- усупов А.Д.\nURALCAMPUS_SYNC_ID:7e8085ab6e005af6a6fdeacefbec6278\
- nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:6295e4eda7f9749143ab6d0cb8d04e6f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T083000
@@ -149,5 +123,43 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
  уппа: СД-322\nПара: 2 пара\nДополнительно: Б
  агинская Е.О.\nURALCAMPUS_SYNC_ID:8753620bc12637a3142317d46bc83
  e25\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1ede82ef9e5ebdb3f1629f29a8982aa5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T083000
+DTEND;TZID=Asia/Yekaterinburg:20261125T100000
+SUMMARY:Фармакология (Экзамен)
+LOCATION:ауд. 403\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-322\nПара: 1 пара\nДополнительно: Е
+ жова В.С.\nURALCAMPUS_SYNC_ID:1ede82ef9e5ebdb3f1629f29a8982aa5\nURA
+ LCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0d9f28e0bc78eae5d981f178ca4efbda@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T101000
+DTEND;TZID=Asia/Yekaterinburg:20261127T114000
+SUMMARY:Сестринский уход и реабилитация пац
+ иентов терапевтического профиля разных
+  возрастных групп (Экзамен)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-322\nПара: 2 пара\nДополнительно: Б
+ агинская Е.О.\nURALCAMPUS_SYNC_ID:0d9f28e0bc78eae5d981f178ca4ef
+ bda\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fe319aec32f9aff64af2de067785e927@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T120000
+DTEND;TZID=Asia/Yekaterinburg:20261130T133000
+SUMMARY:Общий уход за пациентами (Экзамен)
+LOCATION:ауд. 111\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: СД-322\nПара: 3 пара\nДополнительно: Б
+ олдырева Н.С.\nURALCAMPUS_SYNC_ID:fe319aec32f9aff64af2de067785e
+ 927\nURALCAMPUS_SOURCE:preco:group:8a2b6f50-1f8d-11ed-ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

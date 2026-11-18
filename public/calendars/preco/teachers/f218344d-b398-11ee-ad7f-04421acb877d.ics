@@ -19,21 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5294507c5cbe5db2e391dff2245c8bc1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
-DTEND;TZID=Asia/Yekaterinburg:20261117T152000
-SUMMARY:Информационные технологии в профес
- сиональной деятельности (Аудиторные за
- нятия)
-LOCATION:ауд. 17\, Карталы
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Свириденко Алексей Никола
- евич\nПара: 4 пара\nДополнительно: СД/оз-202
- А/02\nURALCAMPUS_SYNC_ID:5294507c5cbe5db2e391dff2245c8bc1\nURALCAMPUS_SO
- URCE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:34d583dc3432220beba1d6ef4c66029e@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261123T083000
@@ -86,6 +71,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
+UID:df0acd95397a57c24e35915074803130@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T083000
+DTEND;TZID=Asia/Yekaterinburg:20261125T100000
+SUMMARY:Информатика (Аудиторные занятия)
+LOCATION:ауд. 17\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 1 пара\nДополнительно: СД/оз-102
+ /02\nURALCAMPUS_SYNC_ID:df0acd95397a57c24e35915074803130\nURALCAMPUS_SOUR
+ CE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
 UID:bf62d218130320d1262655cf3e52887f@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261125T101000
@@ -125,5 +123,61 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  евич\nПара: 3 пара\nДополнительно: СД/оз-202
  А/02\nURALCAMPUS_SYNC_ID:7ace3ef519cf45956293f7a25ac1dfe9\nURALCAMPUS_SO
  URCE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:c8ca8a2a4dc1d6acabd4cf22972f076d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T101000
+DTEND;TZID=Asia/Yekaterinburg:20261130T114000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 2 пара\nДополнительно: СД/оз-102
+ /02\nURALCAMPUS_SYNC_ID:c8ca8a2a4dc1d6acabd4cf22972f076d\nURALCAMPUS_SOUR
+ CE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d35d1e23e9a044cd2eacb563ca24aac2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T120000
+DTEND;TZID=Asia/Yekaterinburg:20261130T133000
+SUMMARY:Основы безопасности и защиты Родины
+  (Аудиторные занятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 3 пара\nДополнительно: СД/оз-102
+ /02\nURALCAMPUS_SYNC_ID:d35d1e23e9a044cd2eacb563ca24aac2\nURALCAMPUS_SOUR
+ CE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6d04c9751b53de821fd8e61acab0754e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T135000
+DTEND;TZID=Asia/Yekaterinburg:20261130T152000
+SUMMARY:Физическая культура (Аудиторные зан
+ ятия)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 4 пара\nДополнительно: СД/оз-102
+ /02\nURALCAMPUS_SYNC_ID:6d04c9751b53de821fd8e61acab0754e\nURALCAMPUS_SOUR
+ CE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0673929d47e2a77b4c6708af54acbb1d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T083000
+DTEND;TZID=Asia/Yekaterinburg:20261204T100000
+SUMMARY:Физическая культура (Дифференциров
+ анный зачет)
+LOCATION:ауд. 10\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Свириденко Алексей Никола
+ евич\nПара: 1 пара\nДополнительно: СД/оз-102
+ /02\nURALCAMPUS_SYNC_ID:0673929d47e2a77b4c6708af54acbb1d\nURALCAMPUS_SOUR
+ CE:preco:teacher:f218344d-b398-11ee-ad7f-04421acb877d
 END:VEVENT
 END:VCALENDAR

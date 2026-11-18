@@ -18,4 +18,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:6cc4276e4232823cb3c9975515a52aee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T153000
+DTEND;TZID=Asia/Yekaterinburg:20261202T170000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 19\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шулигина Светлана Юрьевна\
+ nПара: 5 пара\nДополнительно: СД/оз-102/02\nURAL
+ CAMPUS_SYNC_ID:6cc4276e4232823cb3c9975515a52aee\nURALCAMPUS_SOURCE:preco:
+ teacher:f516572c-a7ea-11ef-ad92-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:10619c3689945c41df908f871759c9eb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T153000
+DTEND;TZID=Asia/Yekaterinburg:20261203T170000
+SUMMARY:Иностранный язык (Аудиторные заняти
+ я)
+LOCATION:ауд. 19\, Карталы
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Шулигина Светлана Юрьевна\
+ nПара: 5 пара\nДополнительно: СД/оз-102/02\nURAL
+ CAMPUS_SYNC_ID:10619c3689945c41df908f871759c9eb\nURALCAMPUS_SOURCE:preco:
+ teacher:f516572c-a7ea-11ef-ad92-04421acb877d
+END:VEVENT
 END:VCALENDAR

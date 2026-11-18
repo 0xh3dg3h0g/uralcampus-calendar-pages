@@ -19,72 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b1be612fc717e81200ac7354e8c53f8c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T083000
-DTEND;TZID=Asia/Yekaterinburg:20261117T100000
-SUMMARY:Русский язык и культура речи (Аудито
- рные занятия)
-LOCATION:ауд. 301\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Степанова Светлана Леонид
- овна\nПара: 1 пара\nДополнительно: ТИК-224\nU
- RALCAMPUS_SYNC_ID:b1be612fc717e81200ac7354e8c53f8c\nURALCAMPUS_SOURCE:pre
- co:teacher:f91a65b1-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:8e5bf3b72c366f25071f3093824a6683@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
-DTEND;TZID=Asia/Yekaterinburg:20261117T114000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 403\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Степанова Светлана Леонид
- овна\nПара: 2 пара\nДополнительно: 108\nURALCAMP
- US_SYNC_ID:8e5bf3b72c366f25071f3093824a6683\nURALCAMPUS_SOURCE:preco:teac
- her:f91a65b1-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:840574f2873f2e46378fe294e94fcfa1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
-DTEND;TZID=Asia/Yekaterinburg:20261117T133000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 408\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Степанова Светлана Леонид
- овна\nПара: 3 пара\nДополнительно: 109\nURALCAMP
- US_SYNC_ID:840574f2873f2e46378fe294e94fcfa1\nURALCAMPUS_SOURCE:preco:teac
- her:f91a65b1-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:1d3328ba1d062a0476506854bccd3892@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
-DTEND;TZID=Asia/Yekaterinburg:20261117T152000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 308\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Степанова Светлана Леонид
- овна\nПара: 4 пара\nДополнительно: 110\nURALCAMP
- US_SYNC_ID:1d3328ba1d062a0476506854bccd3892\nURALCAMPUS_SOURCE:preco:teac
- her:f91a65b1-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
-UID:7ea469ba0ef1ee695e58db4d5141ab1d@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T153000
-DTEND;TZID=Asia/Yekaterinburg:20261117T170000
-SUMMARY:Русский язык (Аудиторные занятия)
-LOCATION:ауд. 503\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Степанова Светлана Леонид
- овна\nПара: 5 пара\nДополнительно: 100\nURALCAMP
- US_SYNC_ID:7ea469ba0ef1ee695e58db4d5141ab1d\nURALCAMPUS_SOURCE:preco:teac
- her:f91a65b1-efad-11eb-b43c-ecf4bb0e5285
-END:VEVENT
-BEGIN:VEVENT
 UID:aa7370e1fcdf349b81f34c21934ffa29@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T083000
@@ -147,6 +81,19 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Степанова Светлана Леонид
  овна\nПара: 5 пара\nДополнительно: 108\nURALCAMP
  US_SYNC_ID:e3c433ad26c1904cb6d14c6f81cbc188\nURALCAMPUS_SOURCE:preco:teac
+ her:f91a65b1-efad-11eb-b43c-ecf4bb0e5285
+END:VEVENT
+BEGIN:VEVENT
+UID:3fff65d052b940b1b6b0753b6d450cee@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261118T171000
+DTEND;TZID=Asia/Yekaterinburg:20261118T182000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 308\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Степанова Светлана Леонид
+ овна\nПара: 6 пара\nДополнительно: 101\nURALCAMP
+ US_SYNC_ID:3fff65d052b940b1b6b0753b6d450cee\nURALCAMPUS_SOURCE:preco:teac
  her:f91a65b1-efad-11eb-b43c-ecf4bb0e5285
 END:VEVENT
 BEGIN:VEVENT

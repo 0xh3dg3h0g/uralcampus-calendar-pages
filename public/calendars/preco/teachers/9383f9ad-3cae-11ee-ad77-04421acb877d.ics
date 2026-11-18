@@ -19,62 +19,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d8c346ef50d4c1106248aa8d0d884d89@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T101000
-DTEND;TZID=Asia/Yekaterinburg:20261117T114000
-SUMMARY:Теория государства и права (Аудитор
- ные занятия)
-LOCATION:ауд. 503\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Егорова Юлия Фаритовна\nПа
- ра: 2 пара\nДополнительно: ПД-219\, ПД-219А\nURAL
- CAMPUS_SYNC_ID:d8c346ef50d4c1106248aa8d0d884d89\nURALCAMPUS_SOURCE:preco:
- teacher:9383f9ad-3cae-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:2cbef85640389650841ab523d162bfef@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T120000
-DTEND;TZID=Asia/Yekaterinburg:20261117T133000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 504\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Егорова Юлия Фаритовна\nПа
- ра: 3 пара\nДополнительно: ПД-218\, ПД-218А\nURAL
- CAMPUS_SYNC_ID:2cbef85640389650841ab523d162bfef\nURALCAMPUS_SOURCE:preco:
- teacher:9383f9ad-3cae-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:ae57f5d56470d76d77f482651b5045bd@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T135000
-DTEND;TZID=Asia/Yekaterinburg:20261117T152000
-SUMMARY:Теория государства и права (Аудитор
- ные занятия)
-LOCATION:ауд. 408\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Егорова Юлия Фаритовна\nПа
- ра: 4 пара\nДополнительно: ПД-218\, ПД-218А\nURAL
- CAMPUS_SYNC_ID:ae57f5d56470d76d77f482651b5045bd\nURALCAMPUS_SOURCE:preco:
- teacher:9383f9ad-3cae-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:8ef38da182df96039d419bb875339748@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261117T153000
-DTEND;TZID=Asia/Yekaterinburg:20261117T170000
-SUMMARY:Теория государства и права (Аудитор
- ные занятия)
-LOCATION:ауд. 408\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Егорова Юлия Фаритовна\nПа
- ра: 5 пара\nДополнительно: ПД-218\, ПД-218А\nURAL
- CAMPUS_SYNC_ID:8ef38da182df96039d419bb875339748\nURALCAMPUS_SOURCE:preco:
- teacher:9383f9ad-3cae-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:51d10b256072b8c9fe3e3abfa99d06d4@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261118T101000
@@ -131,20 +75,6 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  teacher:9383f9ad-3cae-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:acf7fc23163e0a990274ca5ec5fcd567@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
-DTEND;TZID=Asia/Yekaterinburg:20261119T114000
-SUMMARY:Конституционное право России (Аудит
- орные занятия)
-LOCATION:ауд. 301\, Комаровского 9А
-DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
- еподаватель: Егорова Юлия Фаритовна\nПа
- ра: 2 пара\nДополнительно: Ю-208\, Ю-208А\nURALCAMP
- US_SYNC_ID:acf7fc23163e0a990274ca5ec5fcd567\nURALCAMPUS_SOURCE:preco:teac
- her:9383f9ad-3cae-11ee-ad77-04421acb877d
-END:VEVENT
-BEGIN:VEVENT
 UID:3cb047f3895620efb9067ab69fdae563@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261119T120000
@@ -170,6 +100,20 @@ DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
  еподаватель: Егорова Юлия Фаритовна\nПа
  ра: 4 пара\nДополнительно: Ю-208\, Ю-208А\nURALCAMP
  US_SYNC_ID:7b45c089eb3e450345b2dac0cbf54a3d\nURALCAMPUS_SOURCE:preco:teac
+ her:9383f9ad-3cae-11ee-ad77-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4c14e091c481a2a8abefb8a6b72be43a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261119T153000
+DTEND;TZID=Asia/Yekaterinburg:20261119T170000
+SUMMARY:Конституционное право России (Аудит
+ орные занятия)
+LOCATION:ауд. 401\, Комаровского 9А
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Егорова Юлия Фаритовна\nПа
+ ра: 5 пара\nДополнительно: Ю-208\, Ю-208А\nURALCAMP
+ US_SYNC_ID:4c14e091c481a2a8abefb8a6b72be43a\nURALCAMPUS_SOURCE:preco:teac
  her:9383f9ad-3cae-11ee-ad77-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
