@@ -17,4 +17,42 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:0cd5bc08f3b3aaf6b70cf49373479589@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T153000
+DTEND;TZID=Asia/Yekaterinburg:20261123T170000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЮЗ-168\nПара: 5 пара\nДополнительно: И
+ ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:0cd5bc08f3b3aaf6b70cf49373
+ 479589\nURALCAMPUS_SOURCE:preco:group:7aa08f3c-8e9c-11ee-ad7d-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:146d450009c2a41a15e193a771ac09cb@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T171000
+DTEND;TZID=Asia/Yekaterinburg:20261123T182000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЮЗ-168\nПара: 6 пара\nДополнительно: И
+ ндирбаева Э. А.\nURALCAMPUS_SYNC_ID:146d450009c2a41a15e193a771
+ ac09cb\nURALCAMPUS_SOURCE:preco:group:7aa08f3c-8e9c-11ee-ad7d-04421acb877
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1c48f564b7b016f1cba45060b90977@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T183000
+DTEND;TZID=Asia/Yekaterinburg:20261123T194000
+SUMMARY:Обществознание (Аудиторные занятия)
+LOCATION:ауд. 3.3\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ЮЗ-168\nПара: 7 пара\nДополнительно: К
+ ойшина Е.А.\nURALCAMPUS_SYNC_ID:2f1c48f564b7b016f1cba45060b90977\
+ nURALCAMPUS_SOURCE:preco:group:7aa08f3c-8e9c-11ee-ad7d-04421acb877d
+END:VEVENT
 END:VCALENDAR
