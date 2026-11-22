@@ -18,133 +18,272 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c1abef74442962964db85bb1839d8884@uralcampus-calendar-pages
+UID:cf4c6e1065afca60e1b0179935719a28@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T101000
-DTEND;TZID=Asia/Yekaterinburg:20261118T114000
-SUMMARY:Электрические станции и подстанции 
- (Практика)
-LOCATION:ауд. 322\, Комсомольский проспект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20261123T083000
+DTEND;TZID=Asia/Yekaterinburg:20261123T100000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 1 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:cf4c6e1065afca60e
+ 1b0179935719a28\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:e194c48293786c97946fa6df4768931c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T101000
+DTEND;TZID=Asia/Yekaterinburg:20261123T114000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Лекция)
+LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЭЛЗ-401/04\nПара: 2 пара\nДополнит
- ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:c1abef74442962964db85bb
- 1839d8884\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:e194c48293786c979
+ 46fa6df4768931c\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:afb0f7c253ff83e75f0437e646f42d6b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T120000
+DTEND;TZID=Asia/Yekaterinburg:20261123T133000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 3 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:afb0f7c253ff83e75
+ f0437e646f42d6b\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:57c7e1dd961eefce35e39c9352d68d2b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T083000
+DTEND;TZID=Asia/Yekaterinburg:20261124T100000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 1 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:57c7e1dd961eefce3
+ 5e39c9352d68d2b\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:971dd99cd3683de849aecf583658f86f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T101000
+DTEND;TZID=Asia/Yekaterinburg:20261124T114000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 2 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:971dd99cd3683de84
+ 9aecf583658f86f\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ec0dc1e85b371596dd500d1cbb101016@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T120000
+DTEND;TZID=Asia/Yekaterinburg:20261124T133000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 3 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:ec0dc1e85b371596d
+ d500d1cbb101016\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:1e6ef9f42c8d237992d643704f136db6@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T135000
+DTEND;TZID=Asia/Yekaterinburg:20261124T152000
+SUMMARY:Электроэнергетические системы и се
+ ти (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 4 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:1e6ef9f42c8d23799
+ 2d643704f136db6\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a799c6bbea1778a5f9182290e1d66573@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T153000
+DTEND;TZID=Asia/Yekaterinburg:20261124T170000
+SUMMARY:Релейная защита и автоматизация эле
+ ктроэнергетических систем (Зачет)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 5 пара\nДополнит
+ ельно: Коробков Д.С.\nURALCAMPUS_SYNC_ID:a799c6bbea1778a5f
+ 9182290e1d66573\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-0
+ 4421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:275a46c5f53266aa5baed14b36b388f2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T101000
+DTEND;TZID=Asia/Yekaterinburg:20261125T114000
+SUMMARY:Электрические станции и подстанции 
+ (Практика)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 2 пара\nДополнит
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:275a46c5f53266aa5baed14
+ b36b388f2\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
  b877d
 END:VEVENT
 BEGIN:VEVENT
-UID:e261ae311e9dab05258cee39155b028e@uralcampus-calendar-pages
+UID:b5202c57165949b974f046fc106f2ff5@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T120000
-DTEND;TZID=Asia/Yekaterinburg:20261118T133000
-SUMMARY:Электрические станции и подстанции 
- (Практика)
-LOCATION:ауд. 322\, Комсомольский проспект 113А
+DTSTART;TZID=Asia/Yekaterinburg:20261125T120000
+DTEND;TZID=Asia/Yekaterinburg:20261125T133000
+SUMMARY:Электроснабжение (Лекция)
+LOCATION:ауд. 320\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЭЛЗ-401/04\nПара: 3 пара\nДополнит
- ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:e261ae311e9dab05258cee3
- 9155b028e\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:b5202c57165949b974f046f
+ c106f2ff5\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
  b877d
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a9d9a59e1d40551f21fea4b97e886c@uralcampus-calendar-pages
+UID:e1305874e4f0989b07f3283c0bd86f35@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
-DTEND;TZID=Asia/Yekaterinburg:20261119T114000
-SUMMARY:Организация и управление энергетич
- еским хозяйством (Практика)
-LOCATION:ауд. 214/2
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-401/04\nПара: 2 пара\nДополнит
- ельно: Селунский В.В.\nURALCAMPUS_SYNC_ID:a4a9d9a59e1d405
- 51f21fea4b97e886c\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61
- -04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:4b75ae687f188d6b3e1afbc3979d1c19@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T120000
-DTEND;TZID=Asia/Yekaterinburg:20261119T133000
-SUMMARY:Организация и управление энергетич
- еским хозяйством (Практика)
-LOCATION:ауд. 214/2
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-401/04\nПара: 3 пара\nДополнит
- ельно: Селунский В.В.\nURALCAMPUS_SYNC_ID:4b75ae687f188d6
- b3e1afbc3979d1c19\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61
- -04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:49bade96f2cca2fd21804759a34dc47a@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261120T101000
-DTEND;TZID=Asia/Yekaterinburg:20261120T114000
-SUMMARY:Организация и управление энергетич
- еским хозяйством (Экзамен)
-LOCATION:ауд. 203
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-401/04\nПара: 2 пара\nДополнит
- ельно: Селунский В.В.\nURALCAMPUS_SYNC_ID:49bade96f2cca2f
- d21804759a34dc47a\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61
- -04421acb877d
-END:VEVENT
-BEGIN:VEVENT
-UID:461d6451c751f0cd68f8dc544404d913@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T152000
-DTEND;TZID=Asia/Yekaterinburg:20261121T165000
+DTSTART;TZID=Asia/Yekaterinburg:20261125T135000
+DTEND;TZID=Asia/Yekaterinburg:20261125T152000
 SUMMARY:Системы автоматизированного управл
  ения технологическими процессами (Лекц
  ия)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 4 пара\nДополнит
+ ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:e1305874e4
+ f0989b07f3283c0bd86f35\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed
+ -ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d15b24c654663ccb5298415fabc73137@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T153000
+DTEND;TZID=Asia/Yekaterinburg:20261125T170000
+SUMMARY:Системы автоматизированного управл
+ ения технологическими процессами (Прак
+ тика)
 LOCATION:ауд. 214/2
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ЭЛЗ-401/04\nПара: 5 пара\nДополнит
- ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:461d6451c7
- 51f0cd68f8dc544404d913\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed
+ ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:d15b24c654
+ 663ccb5298415fabc73137\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed
  -ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:61817f2c4eb4877cb299171d4c8cdbba@uralcampus-calendar-pages
+UID:39e5a15d5c7c558fdf48ed12687fa0f2@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T170000
-DTEND;TZID=Asia/Yekaterinburg:20261121T181000
+DTSTART;TZID=Asia/Yekaterinburg:20261126T135000
+DTEND;TZID=Asia/Yekaterinburg:20261126T152000
 SUMMARY:Системы автоматизированного управл
- ения технологическими процессами (Лекц
- ия)
+ ения технологическими процессами (Прак
+ тика)
 LOCATION:ауд. 214/2
 DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-401/04\nПара: 6 пара\nДополнит
- ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:61817f2c4e
- b4877cb299171d4c8cdbba\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 4 пара\nДополнит
+ ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:39e5a15d5c
+ 7c558fdf48ed12687fa0f2\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed
  -ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:73f0c5f0bad0f2324711b629026a6c7e@uralcampus-calendar-pages
+UID:c4998d864974bf3d249faf28833e0a45@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T182000
-DTEND;TZID=Asia/Yekaterinburg:20261121T193000
-SUMMARY:Экономический анализ\, учет и аудит 
- на предприятиях электроэнергетики (Лек
- ция)
-LOCATION:ауд. 0
+DTSTART;TZID=Asia/Yekaterinburg:20261126T153000
+DTEND;TZID=Asia/Yekaterinburg:20261126T170000
+SUMMARY:Системы автоматизированного управл
+ ения технологическими процессами (Прак
+ тика)
+LOCATION:ауд. 214/2
 DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-401/04\nПара: 7 пара\nДополнит
- ельно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:73f0c5f0bad0
- f2324711b629026a6c7e\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-a
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 5 пара\nДополнит
+ ельно: Захахатнов В\, Г\,\nURALCAMPUS_SYNC_ID:c4998d8649
+ 74bf3d249faf28833e0a45\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed
+ -ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b841455b4daf3ae70b1bd317bbffbb24@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T101000
+DTEND;TZID=Asia/Yekaterinburg:20261127T114000
+SUMMARY:Электроснабжение (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 2 пара\nДополнит
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:b841455b4daf3ae70b1bd31
+ 7bbffbb24\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:4feae5e0485db65d23dd41c45f48a48d@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T120000
+DTEND;TZID=Asia/Yekaterinburg:20261127T133000
+SUMMARY:Электроснабжение (Лекция)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 3 пара\nДополнит
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:4feae5e0485db65d23dd41c
+ 45f48a48d\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:cf2b9dd128800bf1bbc3f3d147b1e370@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T135000
+DTEND;TZID=Asia/Yekaterinburg:20261127T152000
+SUMMARY:Электрические станции и подстанции 
+ (Экзамен)
+LOCATION:ауд. 317\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 4 пара\nДополнит
+ ельно: Белов А.В.\nURALCAMPUS_SYNC_ID:cf2b9dd128800bf1bbc3f3d
+ 147b1e370\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:0e2124316a95bae341bb4671ca0a8eca@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T152000
+DTEND;TZID=Asia/Yekaterinburg:20261128T165000
+SUMMARY:Экономический анализ\, учет и аудит 
+ на предприятиях электроэнергетики (Пра
+ ктика)
+LOCATION:ауд. 214/2
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 5 пара\nДополнит
+ ельно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:0e2124316a95
+ bae341bb4671ca0a8eca\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-a
  d61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:6ebcc67f5ab6e03c549447e42b5459db@uralcampus-calendar-pages
+UID:1bba14aecc16f19464012f673b692d14@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T194000
-DTEND;TZID=Asia/Yekaterinburg:20261121T205000
+DTSTART;TZID=Asia/Yekaterinburg:20261128T170000
+DTEND;TZID=Asia/Yekaterinburg:20261128T181000
 SUMMARY:Экономический анализ\, учет и аудит 
- на предприятиях электроэнергетики (Лек
- ция)
-LOCATION:ауд. 0
+ на предприятиях электроэнергетики (Пра
+ ктика)
+LOCATION:ауд. 214/2
 DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: ЭЛЗ-401/04\nПара: 8 пара\nДополнит
- ельно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:6ebcc67f5ab6
- e03c549447e42b5459db\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-a
+ т)\nГруппа: ЭЛЗ-401/04\nПара: 6 пара\nДополнит
+ ельно: Прокопьева Ю. В.\nURALCAMPUS_SYNC_ID:1bba14aecc16
+ f19464012f673b692d14\nURALCAMPUS_SOURCE:inueco:group:a69534bf-282f-11ed-a
  d61-04421acb877d
 END:VEVENT
 END:VCALENDAR

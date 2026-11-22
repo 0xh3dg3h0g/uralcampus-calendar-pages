@@ -18,29 +18,55 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:962e38c811944e33f2dddb60ed4870fb@uralcampus-calendar-pages
+UID:54ae787995f48ce85a5fb3a99117cf14@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T170000
-DTEND;TZID=Asia/Yekaterinburg:20261121T181000
+DTSTART;TZID=Asia/Yekaterinburg:20261123T171000
+DTEND;TZID=Asia/Yekaterinburg:20261123T182000
+SUMMARY:Философия (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-101/12\nПара: 6 пара\nДополни
+ тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:54ae78799
+ 5f48ce85a5fb3a99117cf14\nURALCAMPUS_SOURCE:inueco:group:9ae7f8dc-282f-11e
+ d-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6264d5ad438116cee6b32cfea1473c05@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T183000
+DTEND;TZID=Asia/Yekaterinburg:20261123T194000
+SUMMARY:Философия (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ГМУЗ-101/12\nПара: 7 пара\nДополни
+ тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:6264d5ad4
+ 38116cee6b32cfea1473c05\nURALCAMPUS_SOURCE:inueco:group:9ae7f8dc-282f-11e
+ d-ad61-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:d73a6be4df731195e0c220892c89b855@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T170000
+DTEND;TZID=Asia/Yekaterinburg:20261128T181000
 SUMMARY:История России (Лекция)
 LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ГМУЗ-101/12\nПара: 6 пара\nДополни
- тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:962e38c81
- 1944e33f2dddb60ed4870fb\nURALCAMPUS_SOURCE:inueco:group:9ae7f8dc-282f-11e
+ тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:d73a6be4d
+ f731195e0c220892c89b855\nURALCAMPUS_SOURCE:inueco:group:9ae7f8dc-282f-11e
  d-ad61-04421acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:931dcb2756c2556bfada2143e924307e@uralcampus-calendar-pages
+UID:ea70b6737dc9f06156c153f1b6441dbe@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261121T182000
-DTEND;TZID=Asia/Yekaterinburg:20261121T193000
+DTSTART;TZID=Asia/Yekaterinburg:20261128T182000
+DTEND;TZID=Asia/Yekaterinburg:20261128T193000
 SUMMARY:История России (Лекция)
 LOCATION:ауд. 0
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: ГМУЗ-101/12\nПара: 7 пара\nДополни
- тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:931dcb275
- 6c2556bfada2143e924307e\nURALCAMPUS_SOURCE:inueco:group:9ae7f8dc-282f-11e
+ тельно: Тейтельбаум Е.Г.\nURALCAMPUS_SYNC_ID:ea70b6737
+ dc9f06156c153f1b6441dbe\nURALCAMPUS_SOURCE:inueco:group:9ae7f8dc-282f-11e
  d-ad61-04421acb877d
 END:VEVENT
 END:VCALENDAR

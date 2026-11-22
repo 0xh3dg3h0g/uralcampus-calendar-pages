@@ -18,4 +18,56 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:dc98ccd72ec5265f2016786472b602ad@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T120000
+DTEND;TZID=Asia/Yekaterinburg:20261123T133000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 8\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 3 пара\nДополнительно: П-17
+ 0\nURALCAMPUS_SYNC_ID:dc98ccd72ec5265f2016786472b602ad\nURALCAMPUS_SOURCE
+ :preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:97c1edf69b35c730bcc13af7b15ac400@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T135000
+DTEND;TZID=Asia/Yekaterinburg:20261123T152000
+SUMMARY:Литература (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 4 пара\nДополнительно: Б-16
+ 4\nURALCAMPUS_SYNC_ID:97c1edf69b35c730bcc13af7b15ac400\nURALCAMPUS_SOURCE
+ :preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:a485f9da1eb9781d9baa67b2d066ffd5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T153000
+DTEND;TZID=Asia/Yekaterinburg:20261123T170000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 5 пара\nДополнительно: ЮЗ-
+ 168\nURALCAMPUS_SYNC_ID:a485f9da1eb9781d9baa67b2d066ffd5\nURALCAMPUS_SOUR
+ CE:preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:ee808844f48ce0b7e55fe43b5b479201@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T171000
+DTEND;TZID=Asia/Yekaterinburg:20261123T182000
+SUMMARY:Русский язык (Аудиторные занятия)
+LOCATION:ауд. 2а\, Новый Уренгой
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nПр
+ еподаватель: Индирбаева Эльвира Абдулх
+ алимовна\nПара: 6 пара\nДополнительно: ЮЗ-
+ 168\nURALCAMPUS_SYNC_ID:ee808844f48ce0b7e55fe43b5b479201\nURALCAMPUS_SOUR
+ CE:preco:teacher:77766764-5604-11ee-ad79-04421acb877d
+END:VEVENT
 END:VCALENDAR
