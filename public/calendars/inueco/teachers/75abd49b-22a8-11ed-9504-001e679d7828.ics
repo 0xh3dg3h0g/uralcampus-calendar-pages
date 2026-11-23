@@ -19,29 +19,55 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b111013486630b395e28a89dc24d8ca4@uralcampus-calendar-pages
+UID:a3646b6b688658f27677cd6110cf42f1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
-DTEND;TZID=Asia/Yekaterinburg:20261119T100000
+DTSTART;TZID=Asia/Yekaterinburg:20261125T171000
+DTEND;TZID=Asia/Yekaterinburg:20261125T182000
 SUMMARY:Уголовный процесс (Практика)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Янин Михаил Геннадьев
+ ич\nПара: 6 пара\nДополнительно: ЮЗ-301\nURALCAM
+ PUS_SYNC_ID:a3646b6b688658f27677cd6110cf42f1\nURALCAMPUS_SOURCE:inueco:te
+ acher:75abd49b-22a8-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fba0a6a96f8944ca271edb0d5327d783@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261125T183000
+DTEND;TZID=Asia/Yekaterinburg:20261125T194000
+SUMMARY:Уголовный процесс (Практика)
+LOCATION:ауд. 418\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Янин Михаил Геннадьев
+ ич\nПара: 7 пара\nДополнительно: ЮЗ-301\nURALCAM
+ PUS_SYNC_ID:fba0a6a96f8944ca271edb0d5327d783\nURALCAMPUS_SOURCE:inueco:te
+ acher:75abd49b-22a8-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:bc399f09604498aa6bf7fbe8f492dc8c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T083000
+DTEND;TZID=Asia/Yekaterinburg:20261126T100000
+SUMMARY:Уголовный процесс (Лекция)
 LOCATION:ауд. 320\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Янин Михаил Геннадьев
  ич\nПара: 1 пара\nДополнительно: Ю-301\nURALCAMPU
- S_SYNC_ID:b111013486630b395e28a89dc24d8ca4\nURALCAMPUS_SOURCE:inueco:teac
+ S_SYNC_ID:bc399f09604498aa6bf7fbe8f492dc8c\nURALCAMPUS_SOURCE:inueco:teac
  her:75abd49b-22a8-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:62b5176782db1121415e0e931eab2c12@uralcampus-calendar-pages
+UID:638492bd1151a337cba112682ebd63e9@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261119T101000
-DTEND;TZID=Asia/Yekaterinburg:20261119T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261126T101000
+DTEND;TZID=Asia/Yekaterinburg:20261126T114000
 SUMMARY:Уголовный процесс (Практика)
 LOCATION:ауд. 320\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Янин Михаил Геннадьев
  ич\nПара: 2 пара\nДополнительно: Ю-301\nURALCAMPU
- S_SYNC_ID:62b5176782db1121415e0e931eab2c12\nURALCAMPUS_SOURCE:inueco:teac
+ S_SYNC_ID:638492bd1151a337cba112682ebd63e9\nURALCAMPUS_SOURCE:inueco:teac
  her:75abd49b-22a8-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

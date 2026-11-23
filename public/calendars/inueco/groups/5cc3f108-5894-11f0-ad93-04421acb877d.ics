@@ -17,4 +17,32 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:a7ec238a31bebda23f630f81da29041c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T171000
+DTEND;TZID=Asia/Yekaterinburg:20261124T182000
+SUMMARY:Социально-психологические основы у
+ правления (Практика)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/07б\nПара: 6 пара\nДополнит
+ ельно: Горяйнова Н.М.\nURALCAMPUS_SYNC_ID:a7ec238a31bebda
+ 23f630f81da29041c\nURALCAMPUS_SOURCE:inueco:group:5cc3f108-5894-11f0-ad93
+ -04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:aba635a2a3825cb4aeb96d08d3903508@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261124T183000
+DTEND;TZID=Asia/Yekaterinburg:20261124T194000
+SUMMARY:Социально-психологические основы у
+ правления (Практика)
+LOCATION:ауд. 202
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/07б\nПара: 7 пара\nДополнит
+ ельно: Горяйнова Н.М.\nURALCAMPUS_SYNC_ID:aba635a2a3825cb
+ 4aeb96d08d3903508\nURALCAMPUS_SOURCE:inueco:group:5cc3f108-5894-11f0-ad93
+ -04421acb877d
+END:VEVENT
 END:VCALENDAR
