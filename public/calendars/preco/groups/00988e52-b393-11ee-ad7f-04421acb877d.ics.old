@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ОЛз-202А/13
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:057d7d2f3c7b39c5b8520955352cb55a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T171000
+DTEND;TZID=Asia/Yekaterinburg:20261123T182000
+SUMMARY:Документационное обеспечение управ
+ ления (Аудиторные занятия)
+LOCATION:ауд. 15\, Сатка
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-202А/13\nПара: 6 пара\nДополнительн
+ о: Варлакова Н.И.\nURALCAMPUS_SYNC_ID:057d7d2f3c7b39c5b852095
+ 5352cb55a\nURALCAMPUS_SOURCE:preco:group:00988e52-b393-11ee-ad7f-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:87266ce3c684ce7181b9b25335f5dd9a@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T153000
+DTEND;TZID=Asia/Yekaterinburg:20261123T170000
+SUMMARY:Информационное обеспечение логисти
+ ческих процессов (Аудиторные занятия)
+LOCATION:ауд. 5\, Сатка
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-202А/13\nПара: 5 пара\nДополнительн
+ о: Свирина И.А.\nURALCAMPUS_SYNC_ID:87266ce3c684ce7181b9b25335f
+ 5dd9a\nURALCAMPUS_SOURCE:preco:group:00988e52-b393-11ee-ad7f-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b188db447938ae58a8b37e019a2feaf5@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T183000
+DTEND;TZID=Asia/Yekaterinburg:20261123T194000
+SUMMARY:Документационное обеспечение управ
+ ления (Аудиторные занятия)
+LOCATION:ауд. 15\, Сатка
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-202А/13\nПара: 7 пара\nДополнительн
+ о: Варлакова Н.И.\nURALCAMPUS_SYNC_ID:b188db447938ae58a8b37e0
+ 19a2feaf5\nURALCAMPUS_SOURCE:preco:group:00988e52-b393-11ee-ad7f-04421acb
+ 877d
+END:VEVENT
+BEGIN:VEVENT
+UID:fde1393d47db4dc3f998b7825adfa14c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T195000
+DTEND;TZID=Asia/Yekaterinburg:20261123T205000
+SUMMARY:Документационное обеспечение управ
+ ления (Аудиторные занятия)
+LOCATION:ауд. 15\, Сатка
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ОЛз-202А/13\nПара: 8 пара\nДополнительн
+ о: Варлакова Н.И.\nURALCAMPUS_SYNC_ID:fde1393d47db4dc3f998b78
+ 25adfa14c\nURALCAMPUS_SOURCE:preco:group:00988e52-b393-11ee-ad7f-04421acb
+ 877d
+END:VEVENT
+END:VCALENDAR

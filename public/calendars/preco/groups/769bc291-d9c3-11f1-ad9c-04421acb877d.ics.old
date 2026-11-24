@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uralcampus-calendar-pages//Schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Архив: Группа: ПДз-203/13
+X-WR-TIMEZONE:Asia/Yekaterinburg
+BEGIN:VTIMEZONE
+TZID:Asia/Yekaterinburg
+X-LIC-LOCATION:Asia/Yekaterinburg
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:48b5c664b94363733e9e9e69b0f93e0b@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T183000
+DTEND;TZID=Asia/Yekaterinburg:20261123T194000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 1\, Сатка
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДз-203/13\nПара: 7 пара\nДополнительно
+ : Францева С.В.\nURALCAMPUS_SYNC_ID:48b5c664b94363733e9e9e69b0f
+ 93e0b\nURALCAMPUS_SOURCE:preco:group:769bc291-d9c3-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:71866b4733ab1140de7210881403794c@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T195000
+DTEND;TZID=Asia/Yekaterinburg:20261123T205000
+SUMMARY:Основы финансовой грамотности (Ауди
+ торные занятия)
+LOCATION:ауд. 1\, Сатка
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДз-203/13\nПара: 8 пара\nДополнительно
+ : Францева С.В.\nURALCAMPUS_SYNC_ID:71866b4733ab1140de721088140
+ 3794c\nURALCAMPUS_SOURCE:preco:group:769bc291-d9c3-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:b63e42df1fde7f14ff0e0b3c31b03df7@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T153000
+DTEND;TZID=Asia/Yekaterinburg:20261123T170000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 2\, Кыштым
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДз-203/13\nПара: 5 пара\nДополнительно
+ : Целищева В.Р.\nURALCAMPUS_SYNC_ID:b63e42df1fde7f14ff0e0b3c31b
+ 03df7\nURALCAMPUS_SOURCE:preco:group:769bc291-d9c3-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:f923cf56000eeea31af03969809e9862@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261123T171000
+DTEND;TZID=Asia/Yekaterinburg:20261123T182000
+SUMMARY:Административное право (Аудиторные 
+ занятия)
+LOCATION:ауд. 2\, Кыштым
+DESCRIPTION:Источник: Урал Кампус (Колледж)\nГр
+ уппа: ПДз-203/13\nПара: 6 пара\nДополнительно
+ : Целищева В.Р.\nURALCAMPUS_SYNC_ID:f923cf56000eeea31af03969809
+ e9862\nURALCAMPUS_SOURCE:preco:group:769bc291-d9c3-11f1-ad9c-04421acb877d
+END:VEVENT
+END:VCALENDAR

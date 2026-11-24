@@ -18,4 +18,46 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:e5d4bf87bb30a0f8098291ab3ed111a2@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T171000
+DTEND;TZID=Asia/Yekaterinburg:20261127T182000
+SUMMARY:Налоговая система (федеральный и ре
+ гиональный уровни) (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шамгунов Дамир Закиро
+ вич\nПара: 6 пара\nДополнительно: ГМУЗ-401\nU
+ RALCAMPUS_SYNC_ID:e5d4bf87bb30a0f8098291ab3ed111a2\nURALCAMPUS_SOURCE:inu
+ eco:teacher:74320610-be21-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee40c482a4cbbb9a89c14466ed8e540@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T183000
+DTEND;TZID=Asia/Yekaterinburg:20261127T194000
+SUMMARY:Налоговая система (федеральный и ре
+ гиональный уровни) (Лекция)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шамгунов Дамир Закиро
+ вич\nПара: 7 пара\nДополнительно: ГМУЗ-401\nU
+ RALCAMPUS_SYNC_ID:8ee40c482a4cbbb9a89c14466ed8e540\nURALCAMPUS_SOURCE:inu
+ eco:teacher:74320610-be21-11f1-ad9c-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:21c0503bac2c112640ecc4cde07480ce@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261127T195000
+DTEND;TZID=Asia/Yekaterinburg:20261127T205000
+SUMMARY:Налоговая система (федеральный и ре
+ гиональный уровни) (Практика)
+LOCATION:ауд. 311\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Шамгунов Дамир Закиро
+ вич\nПара: 8 пара\nДополнительно: ГМУЗ-401\nU
+ RALCAMPUS_SYNC_ID:21c0503bac2c112640ecc4cde07480ce\nURALCAMPUS_SOURCE:inu
+ eco:teacher:74320610-be21-11f1-ad9c-04421acb877d
+END:VEVENT
 END:VCALENDAR
