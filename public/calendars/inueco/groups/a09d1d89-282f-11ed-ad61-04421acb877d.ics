@@ -17,4 +17,46 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:94ec58e9551b8e49adb67e04d1bb35b8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T171000
+DTEND;TZID=Asia/Yekaterinburg:20261126T182000
+SUMMARY:Инженерные системы зданий и сооруже
+ ний (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/06\nПара: 6 пара\nДополните
+ льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:94ec58e9551b8e49adb67e0
+ 4d1bb35b8\nURALCAMPUS_SOURCE:inueco:group:a09d1d89-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:784cca76eed5be738ef714e1e7fb06c9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T183000
+DTEND;TZID=Asia/Yekaterinburg:20261126T194000
+SUMMARY:Инженерные системы зданий и сооруже
+ ний (Лекция)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/06\nПара: 7 пара\nДополните
+ льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:784cca76eed5be738ef714e
+ 1e7fb06c9\nURALCAMPUS_SOURCE:inueco:group:a09d1d89-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:76fba92bd6fa1b80c3727af984d9ea25@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261126T195000
+DTEND;TZID=Asia/Yekaterinburg:20261126T205000
+SUMMARY:Инженерные системы зданий и сооруже
+ ний (Практика)
+LOCATION:ауд. 0
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: СЗ-301/06\nПара: 8 пара\nДополните
+ льно: Ездина А.А.\nURALCAMPUS_SYNC_ID:76fba92bd6fa1b80c3727af
+ 984d9ea25\nURALCAMPUS_SOURCE:inueco:group:a09d1d89-282f-11ed-ad61-04421ac
+ b877d
+END:VEVENT
 END:VCALENDAR

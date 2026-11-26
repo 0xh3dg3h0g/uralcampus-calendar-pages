@@ -18,34 +18,6 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:42b79174b49c62aaa31935b0a00c0a68@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T183000
-DTEND;TZID=Asia/Yekaterinburg:20261125T194000
-SUMMARY:Архитектурное проектирование (базо
- вое) (Практика)
-LOCATION:ауд. 201\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: АЗ-301\nПара: 7 пара\nДополнитель
- но: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:42b79174b49c62aaa31935b0a
- 00c0a68\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
-UID:756763e24a468ce2032838e434d2eca1@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261125T195000
-DTEND;TZID=Asia/Yekaterinburg:20261125T205000
-SUMMARY:Архитектурное проектирование (базо
- вое) (Практика)
-LOCATION:ауд. 201\, Кожзаводская 1
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nГруппа: АЗ-301\nПара: 8 пара\nДополнитель
- но: Ушакова Е.А.\nURALCAMPUS_SYNC_ID:756763e24a468ce2032838e43
- 4d2eca1\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421acb8
- 77d
-END:VEVENT
-BEGIN:VEVENT
 UID:3e0bfb69721ab6d6c7fdbce1c578cc19@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
 DTSTART;TZID=Asia/Yekaterinburg:20261127T183000
@@ -72,17 +44,56 @@ DESCRIPTION:Источник: Урал Кампус (Университе
  1acb877d
 END:VEVENT
 BEGIN:VEVENT
-UID:1b24828205366e8974393285c788482c@uralcampus-calendar-pages
+UID:cd0a78255afe63554addc217bbd9e08b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261202T183000
-DTEND;TZID=Asia/Yekaterinburg:20261202T194000
+DTSTART;TZID=Asia/Yekaterinburg:20261202T195000
+DTEND;TZID=Asia/Yekaterinburg:20261202T205000
 SUMMARY:Оздоровительная рекреационная двиг
  ательная активность (Практика)
 LOCATION:ауд. 504\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-301\nПара: 8 пара\nДополнитель
+ но: Васильев С. А.\nURALCAMPUS_SYNC_ID:cd0a78255afe63554addc2
+ 17bbd9e08b\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:884f67073f2e5d0f0aa7966599d93c53@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T171000
+DTEND;TZID=Asia/Yekaterinburg:20261204T182000
+SUMMARY:Архитектурные конструкции (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-301\nПара: 6 пара\nДополнитель
+ но: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:884f67073f2e5d0f0aa796
+ 6599d93c53\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:3890e163ad39582744a4d05cf14bce1e@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T183000
+DTEND;TZID=Asia/Yekaterinburg:20261204T194000
+SUMMARY:Архитектурные конструкции (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nГруппа: АЗ-301\nПара: 7 пара\nДополнитель
- но: Васильев С. А.\nURALCAMPUS_SYNC_ID:1b24828205366e89743932
- 85c788482c\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421a
+ но: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:3890e163ad39582744a4d0
+ 5cf14bce1e\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421a
+ cb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:040dd95940f23ce2292604c20ed59c03@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261204T195000
+DTEND;TZID=Asia/Yekaterinburg:20261204T205000
+SUMMARY:Архитектурные конструкции (Лекция)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: АЗ-301\nПара: 8 пара\nДополнитель
+ но: Алабугин А. Н.\nURALCAMPUS_SYNC_ID:040dd95940f23ce2292604
+ c20ed59c03\nURALCAMPUS_SOURCE:inueco:group:f18eb636-6e2a-11f1-ad9c-04421a
  cb877d
 END:VEVENT
 END:VCALENDAR
