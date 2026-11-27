@@ -17,4 +17,34 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:399e89ff94bcfe920ec3ca753e9defb1@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T183000
+DTEND;TZID=Asia/Yekaterinburg:20261201T194000
+SUMMARY:Статистика (теория статистики\, соци
+ ально-экономическая статистика) (Практи
+ ка)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/12а\nПара: 7 пара\nДополнит
+ ельно: Сергеичева И. А.\nURALCAMPUS_SYNC_ID:399e89ff94bc
+ fe920ec3ca753e9defb1\nURALCAMPUS_SOURCE:inueco:group:a699918e-1878-11f1-a
+ d98-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:25ebf05515e635ec6baaa49961523c32@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T195000
+DTEND;TZID=Asia/Yekaterinburg:20261201T205000
+SUMMARY:Статистика (теория статистики\, соци
+ ально-экономическая статистика) (Практи
+ ка)
+LOCATION:ауд. 110
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: МЗ-301/12а\nПара: 8 пара\nДополнит
+ ельно: Сергеичева И. А.\nURALCAMPUS_SYNC_ID:25ebf05515e6
+ 35ec6baaa49961523c32\nURALCAMPUS_SOURCE:inueco:group:a699918e-1878-11f1-a
+ d98-04421acb877d
+END:VEVENT
 END:VCALENDAR

@@ -17,4 +17,30 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:708595020438a3b93361fba548c63860@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T171000
+DTEND;TZID=Asia/Yekaterinburg:20261203T182000
+SUMMARY:Прокурорский надзор (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-301\nПара: 6 пара\nДополнител
+ ьно: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:708595020438a3b93361fba
+ 548c63860\nURALCAMPUS_SOURCE:inueco:group:4d7826a6-60fb-11ef-ad90-04421ac
+ b877d
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae6b090fbeb4e7a802167f5b7cde6a9@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261203T183000
+DTEND;TZID=Asia/Yekaterinburg:20261203T194000
+SUMMARY:Прокурорский надзор (Практика)
+LOCATION:ауд. 208\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗД-301\nПара: 7 пара\nДополнител
+ ьно: Горюнов В.Е.\nURALCAMPUS_SYNC_ID:6ae6b090fbeb4e7a802167f
+ 5b7cde6a9\nURALCAMPUS_SOURCE:inueco:group:4d7826a6-60fb-11ef-ad90-04421ac
+ b877d
+END:VEVENT
 END:VCALENDAR
