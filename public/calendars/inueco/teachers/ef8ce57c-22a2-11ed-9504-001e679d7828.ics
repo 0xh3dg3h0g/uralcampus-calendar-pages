@@ -19,85 +19,165 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f164d6b01d098b936842b0824de4b841@uralcampus-calendar-pages
+UID:61c7adf5ec48eadcfdf76e21d673dfc7@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T083000
-DTEND;TZID=Asia/Yekaterinburg:20261118T100000
-SUMMARY:Лексикология (Лекция)
+DTSTART;TZID=Asia/Yekaterinburg:20261130T101000
+DTEND;TZID=Asia/Yekaterinburg:20261130T114000
+SUMMARY:Практикум по культуре речевого обще
+ ния второго иностранного языка (Практик
+ а)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 2 пара\nДополнительно: ЛЗ-
+ 401\nURALCAMPUS_SYNC_ID:61c7adf5ec48eadcfdf76e21d673dfc7\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:fdf6f2f55ca48f55027419954894d7cc@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T120000
+DTEND;TZID=Asia/Yekaterinburg:20261130T133000
+SUMMARY:Практикум по культуре речевого обще
+ ния второго иностранного языка (Практик
+ а)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 3 пара\nДополнительно: ЛЗ-
+ 401\nURALCAMPUS_SYNC_ID:fdf6f2f55ca48f55027419954894d7cc\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d00d0910954cfe6109ba74df65d91b75@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T135000
+DTEND;TZID=Asia/Yekaterinburg:20261130T152000
+SUMMARY:Практикум по культуре речевого обще
+ ния второго иностранного языка (Экзамен
+ )
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 4 пара\nДополнительно: ЛЗ-
+ 401\nURALCAMPUS_SYNC_ID:d00d0910954cfe6109ba74df65d91b75\nURALCAMPUS_SOUR
+ CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:a85728210515984348ecc5d8a6dd8754@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261130T153000
+DTEND;TZID=Asia/Yekaterinburg:20261130T170000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 319\, Комсомольский проспект 113А
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 5 пара\nДополнительно: А-11
+ 0\nURALCAMPUS_SYNC_ID:a85728210515984348ecc5d8a6dd8754\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:10e913fcbb6ea5ccb0593944be42cd66@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T083000
+DTEND;TZID=Asia/Yekaterinburg:20261201T100000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 1 пара\nДополнительно: А-11
+ 0\nURALCAMPUS_SYNC_ID:10e913fcbb6ea5ccb0593944be42cd66\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ced9b32d122540f701789b7f65c067@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T101000
+DTEND;TZID=Asia/Yekaterinburg:20261201T114000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 2 пара\nДополнительно: С-11
+ 6\nURALCAMPUS_SYNC_ID:b5ced9b32d122540f701789b7f65c067\nURALCAMPUS_SOURCE
+ :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:9161b692a72517e975c8681035234d3f@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T120000
+DTEND;TZID=Asia/Yekaterinburg:20261201T133000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 3 пара\nДополнительно: Д-10
+ 5\, З-113\nURALCAMPUS_SYNC_ID:9161b692a72517e975c8681035234d3f\nURALCAMP
+ US_SOURCE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:f7a40291d5dff661296364798368ca14@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261201T135000
+DTEND;TZID=Asia/Yekaterinburg:20261201T152000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:ауд. 108\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nПреподаватель: Ещеркина Людмила Влад
+ имировна\nПара: 4 пара\nДополнительно: Д-10
+ 5\, З-113\nURALCAMPUS_SYNC_ID:f7a40291d5dff661296364798368ca14\nURALCAMP
+ US_SOURCE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
+END:VEVENT
+BEGIN:VEVENT
+UID:d8f7f09bca330204f983fe13048053e8@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261202T083000
+DTEND;TZID=Asia/Yekaterinburg:20261202T100000
+SUMMARY:Лексикология (Практика)
 LOCATION:ауд. 418\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ещеркина Людмила Влад
  имировна\nПара: 1 пара\nДополнительно: Л-31
- 1\nURALCAMPUS_SYNC_ID:f164d6b01d098b936842b0824de4b841\nURALCAMPUS_SOURCE
+ 1\nURALCAMPUS_SYNC_ID:d8f7f09bca330204f983fe13048053e8\nURALCAMPUS_SOURCE
  :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:5ba2e5370d03e030f1b92b05795fc477@uralcampus-calendar-pages
+UID:705d0b34d389f6100c2bdd149db4bbc8@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T101000
-DTEND;TZID=Asia/Yekaterinburg:20261118T114000
+DTSTART;TZID=Asia/Yekaterinburg:20261202T101000
+DTEND;TZID=Asia/Yekaterinburg:20261202T114000
 SUMMARY:Лексикология (Практика)
 LOCATION:ауд. 418\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ещеркина Людмила Влад
  имировна\nПара: 2 пара\nДополнительно: Л-31
- 1\nURALCAMPUS_SYNC_ID:5ba2e5370d03e030f1b92b05795fc477\nURALCAMPUS_SOURCE
+ 1\nURALCAMPUS_SYNC_ID:705d0b34d389f6100c2bdd149db4bbc8\nURALCAMPUS_SOURCE
  :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:af6bfdbfe52679eb29def8f0ddd17f21@uralcampus-calendar-pages
+UID:89bbf3898b4f37cb872f05d3ddf2f0c1@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T120000
-DTEND;TZID=Asia/Yekaterinburg:20261118T133000
+DTSTART;TZID=Asia/Yekaterinburg:20261202T120000
+DTEND;TZID=Asia/Yekaterinburg:20261202T133000
 SUMMARY:Основы языкознания (Практика)
 LOCATION:ауд. 418\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ещеркина Людмила Влад
  имировна\nПара: 3 пара\nДополнительно: Л-31
- 1\nURALCAMPUS_SYNC_ID:af6bfdbfe52679eb29def8f0ddd17f21\nURALCAMPUS_SOURCE
+ 1\nURALCAMPUS_SYNC_ID:89bbf3898b4f37cb872f05d3ddf2f0c1\nURALCAMPUS_SOURCE
  :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
 END:VEVENT
 BEGIN:VEVENT
-UID:6a9531993c9b6da5a6c9ef606ccf28a2@uralcampus-calendar-pages
+UID:4672870d866dda45287025f22fc31b5b@uralcampus-calendar-pages
 DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T135000
-DTEND;TZID=Asia/Yekaterinburg:20261118T152000
+DTSTART;TZID=Asia/Yekaterinburg:20261202T135000
+DTEND;TZID=Asia/Yekaterinburg:20261202T152000
 SUMMARY:Основы языкознания (Практика)
 LOCATION:ауд. 418\, Комсомольский проспект 113А
 DESCRIPTION:Источник: Урал Кампус (Университе
  т)\nПреподаватель: Ещеркина Людмила Влад
  имировна\nПара: 4 пара\nДополнительно: Л-31
- 1\nURALCAMPUS_SYNC_ID:6a9531993c9b6da5a6c9ef606ccf28a2\nURALCAMPUS_SOURCE
+ 1\nURALCAMPUS_SYNC_ID:4672870d866dda45287025f22fc31b5b\nURALCAMPUS_SOURCE
  :inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:400e11a6f0075b2644ed24dccfbcea5c@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T153000
-DTEND;TZID=Asia/Yekaterinburg:20261118T170000
-SUMMARY:Практикум по культуре речевого обще
- ния второго иностранного языка (Практик
- а)
-LOCATION:ауд. 418\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Ещеркина Людмила Влад
- имировна\nПара: 5 пара\nДополнительно: ЛЗ-
- 401\nURALCAMPUS_SYNC_ID:400e11a6f0075b2644ed24dccfbcea5c\nURALCAMPUS_SOUR
- CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
-END:VEVENT
-BEGIN:VEVENT
-UID:a100b8c968d8dd35d2e0aea9c8154e5e@uralcampus-calendar-pages
-DTSTAMP:19700101T000000Z
-DTSTART;TZID=Asia/Yekaterinburg:20261118T171000
-DTEND;TZID=Asia/Yekaterinburg:20261118T182000
-SUMMARY:Практикум по культуре речевого обще
- ния второго иностранного языка (Практик
- а)
-LOCATION:ауд. 418\, Комсомольский проспект 113А
-DESCRIPTION:Источник: Урал Кампус (Университе
- т)\nПреподаватель: Ещеркина Людмила Влад
- имировна\nПара: 6 пара\nДополнительно: ЛЗ-
- 401\nURALCAMPUS_SYNC_ID:a100b8c968d8dd35d2e0aea9c8154e5e\nURALCAMPUS_SOUR
- CE:inueco:teacher:ef8ce57c-22a2-11ed-9504-001e679d7828
 END:VEVENT
 END:VCALENDAR

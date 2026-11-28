@@ -17,4 +17,31 @@ TZNAME:+05
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:b37e650c876fababd5bcdfb03fab7e78@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T182000
+DTEND;TZID=Asia/Yekaterinburg:20261128T193000
+SUMMARY:Предпринимательское право (Экзамен)
+LOCATION:ауд. 107\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-401/08\nПара: 7 пара\nДополнит
+ ельно: Новокшонов К. А.\nURALCAMPUS_SYNC_ID:b37e650c876f
+ ababd5bcdfb03fab7e78\nURALCAMPUS_SOURCE:inueco:group:dd173863-58a4-11f0-a
+ d93-04421acb877d
+END:VEVENT
+BEGIN:VEVENT
+UID:41787a0a65bb986fee14e990b4884cc4@uralcampus-calendar-pages
+DTSTAMP:19700101T000000Z
+DTSTART;TZID=Asia/Yekaterinburg:20261128T194000
+DTEND;TZID=Asia/Yekaterinburg:20261128T205000
+SUMMARY:Правовые основы несостоятельности (
+ банкротства) (Зачет)
+LOCATION:ауд. 213\, Кожзаводская 1
+DESCRIPTION:Источник: Урал Кампус (Университе
+ т)\nГруппа: ЮЗу-401/08\nПара: 8 пара\nДополнит
+ ельно: Ткаченко Н. Б.\nURALCAMPUS_SYNC_ID:41787a0a65bb986f
+ ee14e990b4884cc4\nURALCAMPUS_SOURCE:inueco:group:dd173863-58a4-11f0-ad93-
+ 04421acb877d
+END:VEVENT
 END:VCALENDAR
